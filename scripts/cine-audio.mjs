@@ -371,8 +371,9 @@ const Dmaj = [50, 54, 57, 62], Amaj = [45, 52, 57, 61], Bm = [47, 54, 59, 62], G
 const Cm = [48, 51, 55, 60], Ab = [44, 51, 56, 60], Fm = [41, 48, 53, 56], Gmaj = [43, 50, 55, 59], Eb = [43, 51, 55, 58];
 
 // Acto I · la noche del juicio
-sine(M, 0, A(2) + 2, hz(26), 0.22, 2.5, 2);
-sine(M, 0, A(2) + 2, hz(38), 0.12, 3, 2);
+sine(M, 0, A(2) + 2, hz(26), 0.07, 2.5, 2);
+sine(M, 0, A(2) + 2, hz(38), 0.06, 3, 2);
+chord(M, 0.3, A(2) + 0.5, [50, 57], 0.06, {tb: CELLO, att: 2.5, lp: 0.1});
 voice(M, 0.5, A(2) + 1, hz(81), 0.025, {att: 3, rel: 2, det: [0], vib: 0.002});
 piano(M, S(1) - 0.12, 69, 0.22, 0.2, 7);
 piano(M, S(1) - 0.12, 38, 0.18, -0.2, 7);
@@ -396,7 +397,8 @@ piano(M, S(1) - 0.12, 38, 0.18, -0.2, 7);
 {
   // ventana de mamá: piano tierno que se corta en seco
   const a = A(4) + 0.4, cut = S(6) - 0.02;
-  arps(a, cut + 1.6, [F, Bb, [45, 48, 53, 57], C], 0.38, 0.12, [0, 2, 3, 1, 2, 3], cut);
+  arps(a, cut + 1.6, [F, Bb, [45, 48, 53, 57], C], 0.38, 0.16, [0, 2, 3, 1, 2, 3], cut);
+  chord(M, a, cut - a, [41, 53], 0.06, {tb: CELLO, att: 1, rel: 0.05, lp: 0.12});
   piano(M, a + 1.1, 72, 0.12, 0.2, 4, cut);
   piano(M, a + 2.6, 74, 0.12, 0.2, 4, cut);
   piano(M, a + 4.2, 77, 0.12, 0.2, 4, cut);
@@ -444,7 +446,7 @@ piano(M, S(1) - 0.12, 38, 0.18, -0.2, 7);
   const tSnap = W(18, 'cima');
   riser(M, a - 1.2, 1.3, 0.12);
   chord(M, a, 3, [41, 53, 60, 65, 69], 0.12, {tb: CHOIR, att: 0.2, rel: 2});
-  pads(a + 0.3, tB, [F, [40, 48, 52, 55], Dm, Bb, F, [40, 48, 52, 55]], 0.1);
+  pads(a + 0.3, tB, [F, [40, 48, 52, 55], Dm, Bb, F, [40, 48, 52, 55]], 0.13);
   arps(a + 0.3, tB, [F, [40, 48, 52, 55], Dm, Bb, F, [40, 48, 52, 55]], 0.32, 0.09, [0, 1, 2, 3, 2, 3]);
   chord(M, S(16) - 0.3, tB - S(16) + 0.6, [65, 69, 72, 77], 0.06, {tb: CHOIR, att: 1.5});
   pads(tB, tSnap, [Dm, Gm], 0.08, {lp: 0.12});
@@ -509,8 +511,8 @@ piano(M, S(1) - 0.12, 38, 0.18, -0.2, 7);
   const pr = [[46, 53, 58, 62], [45, 53, 57, 60], [43, 50, 55, 58], [51, 55, 58, 63]];
   const step = (b - tSnip - 0.5) / 4;
   pr.forEach((ch, k) => {
-    chord(M, tSnip + 0.5 + k * step, step + 0.4, ch, 0.08 + k * 0.025, {tb: CHOIR, att: 1, lp: 0.2});
-    chord(M, tSnip + 0.5 + k * step, step + 0.4, ch.map((n) => n - 12), 0.06 + k * 0.02, {att: 1, lp: 0.15});
+    chord(M, tSnip + 0.5 + k * step, step + 0.4, ch, 0.12 + k * 0.035, {tb: CHOIR, att: 1, lp: 0.2});
+    chord(M, tSnip + 0.5 + k * step, step + 0.4, ch.map((n) => n - 12), 0.1 + k * 0.03, {att: 1, lp: 0.15});
   });
 }
 {
