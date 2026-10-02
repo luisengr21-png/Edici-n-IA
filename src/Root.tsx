@@ -4,6 +4,7 @@ import tl from './timeline.json';
 import {Video} from './Video';
 import {Estatus} from './estatus/Main';
 import {DURATION, FPS} from './estatus/timing';
+import {VoxVideo} from './vox/Main';
 
 export const Root: React.FC = () => (
   <>
@@ -18,6 +19,14 @@ export const Root: React.FC = () => (
     <Composition
       id="AnsiedadPorElEstatus"
       component={Estatus}
+      durationInFrames={Math.round(DURATION * FPS)}
+      fps={FPS}
+      width={1920}
+      height={1080}
+    />
+    <Composition
+      id="AnsiedadVox"
+      component={VoxVideo}
       durationInFrames={Math.round(DURATION * FPS)}
       fps={FPS}
       width={1920}
