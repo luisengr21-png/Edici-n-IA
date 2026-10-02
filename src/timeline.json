@@ -1,0 +1,28 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 1800,
+  "overlap": 20,
+  "scenes": [
+    { "id": 1, "name": "El tercio invisible", "start": 0, "end": 180, "fadeIn": false },
+    { "id": 2, "name": "La ciudad que se apaga", "start": 180, "end": 390, "fadeIn": true },
+    { "id": 3, "name": "El reloj se rinde", "start": 390, "end": 600, "fadeIn": true },
+    { "id": 4, "name": "El descenso", "start": 600, "end": 840, "fadeIn": true },
+    { "id": 5, "name": "El jardín de la memoria", "start": 840, "end": 1080, "fadeIn": true },
+    { "id": 6, "name": "REM, la fábrica de mundos", "start": 1080, "end": 1290, "fadeIn": true },
+    { "id": 7, "name": "La noche robada", "start": 1290, "end": 1500, "fadeIn": false },
+    { "id": 8, "name": "Volver entero", "start": 1500, "end": 1680, "fadeIn": false },
+    { "id": 9, "name": "Créditos", "start": 1680, "end": 1800, "fadeIn": true }
+  ],
+  "events": {
+    "heartbeat": { "first": 0.5, "period": 1.0, "until": 6.5 },
+    "clockTicks": [15, 30, 47, 66, 88, 113],
+    "celesta": [40, 58, 74, 92, 104, 121, 138, 150, 168, 184, 200, 214, 228],
+    "notifications": [58, 72, 84, 95, 104, 112, 119, 126, 140, 152, 163, 172],
+    "glitches": [50, 51, 88, 89, 90, 124, 125, 159, 160, 161, 178, 186, 187],
+    "cuts": [[50, 1.0], [88, 1.12], [124, 1.05], [159, 1.22]],
+    "crtOff": 190,
+    "titleChime": 20
+  }
+}

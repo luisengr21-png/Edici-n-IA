@@ -1,0 +1,24 @@
+{
+  "name": "lo-que-la-noche-sabe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ensayo visual de 60 s sobre el sueño, producido con Remotion + audio generativo + FFmpeg",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "audio": "node scripts/synth-audio.mjs",
+    "render:video": "remotion render src/index.ts LoQueLaNocheSabe out/video-mudo.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell --concurrency=4",
+    "mux": "bash scripts/mux.sh",
+    "build": "npm run audio && npm run render:video && npm run mux"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
