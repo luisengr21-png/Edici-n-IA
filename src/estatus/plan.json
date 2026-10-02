@@ -1,0 +1,150 @@
+{
+ "fps": 24,
+ "duration": 360.42,
+ "scenes": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 5.57,
+   "in": "cut"
+  },
+  {
+   "id": 2,
+   "start": 5.57,
+   "end": 13.43,
+   "in": "slide"
+  },
+  {
+   "id": 3,
+   "start": 13.43,
+   "end": 27.25,
+   "in": "slide"
+  },
+  {
+   "id": 4,
+   "start": 27.25,
+   "end": 37.6,
+   "in": "iris"
+  },
+  {
+   "id": 5,
+   "start": 37.6,
+   "end": 50.3,
+   "in": "slide"
+  },
+  {
+   "id": 6,
+   "start": 50.3,
+   "end": 65.2,
+   "in": "fade"
+  },
+  {
+   "id": 7,
+   "start": 65.2,
+   "end": 86.6,
+   "in": "slide"
+  },
+  {
+   "id": 8,
+   "start": 86.6,
+   "end": 106.45,
+   "in": "slideUp"
+  },
+  {
+   "id": 9,
+   "start": 106.45,
+   "end": 133.2,
+   "in": "slide"
+  },
+  {
+   "id": 10,
+   "start": 133.2,
+   "end": 150.9,
+   "in": "slide"
+  },
+  {
+   "id": 11,
+   "start": 150.9,
+   "end": 162.9,
+   "in": "fade"
+  },
+  {
+   "id": 12,
+   "start": 162.9,
+   "end": 189.45,
+   "in": "slide"
+  },
+  {
+   "id": 13,
+   "start": 189.45,
+   "end": 202.25,
+   "in": "slideUp"
+  },
+  {
+   "id": 14,
+   "start": 202.25,
+   "end": 225.8,
+   "in": "slide"
+  },
+  {
+   "id": 15,
+   "start": 225.8,
+   "end": 248.9,
+   "in": "iris"
+  },
+  {
+   "id": 16,
+   "start": 248.9,
+   "end": 260.2,
+   "in": "slide"
+  },
+  {
+   "id": 17,
+   "start": 260.2,
+   "end": 281.4,
+   "in": "fade"
+  },
+  {
+   "id": 18,
+   "start": 281.4,
+   "end": 285.45,
+   "in": "fade"
+  },
+  {
+   "id": 19,
+   "start": 285.45,
+   "end": 301.95,
+   "in": "slide"
+  },
+  {
+   "id": 20,
+   "start": 301.95,
+   "end": 323.7,
+   "in": "slide"
+  },
+  {
+   "id": 21,
+   "start": 323.7,
+   "end": 336.8,
+   "in": "iris"
+  },
+  {
+   "id": 22,
+   "start": 336.8,
+   "end": 343.55,
+   "in": "slide"
+  },
+  {
+   "id": 23,
+   "start": 343.55,
+   "end": 352.45,
+   "in": "slide"
+  },
+  {
+   "id": 24,
+   "start": 352.45,
+   "end": 360.42,
+   "in": "fade"
+  }
+ ]
+}

@@ -5,3 +5,8 @@ out/stills/
 out/render.log
 estatus/work/transcribe.err
 estatus/work/transcript.txt
+out/estatus-stills/
+out/estatus-mudo.mp4
+out/estatus-music.wav
+out/estatus-sfx.wav
+out/estatus-render.log
