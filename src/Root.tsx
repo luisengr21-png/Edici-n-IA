@@ -6,6 +6,7 @@ import {Estatus} from './estatus/Main';
 import {DURATION, FPS} from './estatus/timing';
 import {VoxVideo} from './vox/Main';
 import {MotionVideo} from './motion/Main';
+import {CineVideo} from './cine/Main';
 
 export const Root: React.FC = () => (
   <>
@@ -38,6 +39,14 @@ export const Root: React.FC = () => (
       component={MotionVideo}
       durationInFrames={Math.round(DURATION * 30)}
       fps={30}
+      width={1920}
+      height={1080}
+    />
+    <Composition
+      id="AnsiedadCine"
+      component={CineVideo}
+      durationInFrames={Math.round(DURATION * 24)}
+      fps={24}
       width={1920}
       height={1080}
     />

@@ -20,3 +20,9 @@ out/motion-mudo.mp4
 out/motion-music.wav
 out/motion-sfx.wav
 out/motion-render.log
+out/cine-stills/
+out/cine-mudo.mp4
+out/cine-music.wav
+out/cine-sfx.wav
+out/cine-render.log
+out/cine-audio.log
