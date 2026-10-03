@@ -1,3 +1,21 @@
+# Ser real
+
+Ensayo animado sobre autenticidad, validación y conexión, en el estilo de *How Money Works*: lienzo oscuro infinito, figuras planas sin rostro, gráficas que se dibujan solas y casi nada de texto.
+
+**Video final:** [`out/ser-real.mp4`](out/ser-real.mp4) · 1920×1080 · 30 FPS · 3:37 · H.264 + AAC (-14 LUFS) · vista previa: [`out/ser-real-720p.mp4`](out/ser-real-720p.mp4)
+
+- Guion: [`autenticidad/guion.txt`](autenticidad/guion.txt) · Storyboard (ES/EN): [`autenticidad/storyboard.md`](autenticidad/storyboard.md)
+- **Voz:** Piper `es_AR-daniela-high` (sherpa-onnx, sin conexión), generada frase por frase con pausas medidas (`autenticidad/work/voz.py`), que también escribe `src/serreal/cues.json` y `plan.json`; la animación se sincroniza a esos tiempos.
+- **Imagen:** Remotion (`src/serreal/`), 18 escenas en `scenes/A–D.tsx` sobre un kit común (`kit.tsx`).
+- **Música y efectos:** `scripts/serreal-audio.mjs` (síntesis propia, sin samples). **Mezcla:** `scripts/serreal-mux.sh`.
+
+```bash
+npm run serreal:voz -- <dir-del-modelo-vits-piper-es_AR-daniela-high>   # solo si cambia el guion
+npm run serreal      # audio + video + mezcla
+```
+
+---
+
 # Lo que la noche sabe
 
 Ensayo visual de 60 segundos sobre la importancia del sueño, producido íntegramente con código.

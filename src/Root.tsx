@@ -7,6 +7,8 @@ import {DURATION, FPS} from './estatus/timing';
 import {VoxVideo} from './vox/Main';
 import {MotionVideo} from './motion/Main';
 import {CineVideo} from './cine/Main';
+import {SerReal} from './serreal/Main';
+import serPlan from './serreal/plan.json';
 
 export const Root: React.FC = () => (
   <>
@@ -47,6 +49,14 @@ export const Root: React.FC = () => (
       component={CineVideo}
       durationInFrames={Math.round(DURATION * 24)}
       fps={24}
+      width={1920}
+      height={1080}
+    />
+    <Composition
+      id="SerReal"
+      component={SerReal}
+      durationInFrames={Math.round(serPlan.duration * serPlan.fps)}
+      fps={serPlan.fps}
       width={1920}
       height={1080}
     />
