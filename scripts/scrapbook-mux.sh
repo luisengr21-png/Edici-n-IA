@@ -13,7 +13,7 @@ aformat=channel_layouts=stereo,asplit=2[voz][llave];\
 [1]aresample=48000,volume=-3dB[mus];\
 [mus][llave]sidechaincompress=threshold=0.03:ratio=3:attack=60:release=700:makeup=1[musd];\
 [2]aresample=48000,volume=-2dB[fx];\
-[voz][musd][fx]amix=inputs=3:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11[a]" \
+[voz][musd][fx]amix=inputs=3:normalize=0:duration=first,loudnorm=I=-14:TP=-2:LRA=11[a]" \
   -map "[a]" -ar 48000 $P/mezcla.wav
 enc() { # $1 = escala, $2 = bitrate de video, $3 = bitrate de audio, $4 = salida
   ffmpeg -hide_banner -loglevel error -y -i out/scrapbook-mudo.mp4 -vf "scale=$1" -c:v libx264 -preset slow -b:v $2 -maxrate $((${2%k} * 2))k -bufsize $((${2%k} * 3))k -pix_fmt yuv420p -pass 1 -passlogfile $P/p -an -f mp4 /dev/null
