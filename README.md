@@ -16,6 +16,22 @@ npm run serreal      # audio + video + mezcla
 
 ---
 
+## «Ser real» — versión scrapbook
+
+La misma locución y los mismos tiempos, contados como un álbum de recortes: papel kraft y cuadriculado, figuras de cartulina con borde de tijera, cinta washi, polaroids, letras recortadas de revistas, máquina de escribir y etiquetas Dymo, animado en stop-motion «a dos» (24 FPS, 12 poses/s).
+
+**Video:** [`out/ser-real-scrapbook.mp4`](out/ser-real-scrapbook.mp4) · 1920×1080 · 24 FPS · 3:37 · vista previa: [`out/ser-real-scrapbook-720p.mp4`](out/ser-real-scrapbook-720p.mp4)
+
+- Storyboard (ES/EN): [`autenticidad/storyboard-scrapbook.md`](autenticidad/storyboard-scrapbook.md)
+- Imagen: `src/scrapbook/` (kit de papelería en `kit.tsx`, escenas en `scenes/A–D.tsx`); reutiliza `src/serreal/cues.json` y `plan.json`.
+- Música acústica lo-fi y efectos de papelería: `scripts/scrapbook-audio.mjs` · Mezcla: `scripts/scrapbook-mux.sh`
+
+```bash
+npm run scrapbook    # audio + video + mezcla
+```
+
+---
+
 # Lo que la noche sabe
 
 Ensayo visual de 60 segundos sobre la importancia del sueño, producido íntegramente con código.

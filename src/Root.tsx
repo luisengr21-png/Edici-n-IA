@@ -9,6 +9,7 @@ import {MotionVideo} from './motion/Main';
 import {CineVideo} from './cine/Main';
 import {SerReal} from './serreal/Main';
 import serPlan from './serreal/plan.json';
+import {SerRealScrapbook} from './scrapbook/Main';
 
 export const Root: React.FC = () => (
   <>
@@ -57,6 +58,14 @@ export const Root: React.FC = () => (
       component={SerReal}
       durationInFrames={Math.round(serPlan.duration * serPlan.fps)}
       fps={serPlan.fps}
+      width={1920}
+      height={1080}
+    />
+    <Composition
+      id="SerRealScrapbook"
+      component={SerRealScrapbook}
+      durationInFrames={Math.round(serPlan.duration * 24)}
+      fps={24}
       width={1920}
       height={1080}
     />
