@@ -8,7 +8,13 @@
     "audio": "node scripts/synth-audio.mjs",
     "render:video": "remotion render src/index.ts LoQueLaNocheSabe out/video-mudo.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell --concurrency=4",
     "mux": "bash scripts/mux.sh",
-    "build": "npm run audio && npm run render:video && npm run mux"
+    "build": "npm run audio && npm run render:video && npm run mux",
+    "lujo:plan": "python3 scripts/lujo/viz.py && python3 scripts/lujo/viz_shorts.py",
+    "lujo:audio": "node scripts/lujo-audio.mjs && node scripts/lujo-shorts-audio.mjs",
+    "lujo:render": "remotion render src/index.ts PobrezaDeLujo out/lujo-mudo.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell --concurrency=4",
+    "lujo:render:shorts": "for n in 1 2 3; do remotion render src/index.ts PobrezaDeLujoShort$n out/lujo-short$n-mudo.mp4 --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell; done",
+    "lujo:mux": "bash scripts/lujo-mux.sh",
+    "lujo:build": "npm run lujo:plan && npm run lujo:audio && npm run lujo:render && npm run lujo:render:shorts && npm run lujo:mux"
   },
   "dependencies": {
     "@remotion/cli": "4.0.532",

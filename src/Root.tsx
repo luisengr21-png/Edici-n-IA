@@ -7,6 +7,10 @@ import {DURATION, FPS} from './estatus/timing';
 import {VoxVideo} from './vox/Main';
 import {MotionVideo} from './motion/Main';
 import {CineVideo} from './cine/Main';
+import {LujoVideo} from './lujo/Main';
+import lujoPlan from './lujo/plan.json';
+import {ShortVideo} from './lujo/Shorts';
+import lujoShorts from './lujo/shorts.json';
 
 export const Root: React.FC = () => (
   <>
@@ -50,5 +54,16 @@ export const Root: React.FC = () => (
       width={1920}
       height={1080}
     />
+    <Composition
+      id="PobrezaDeLujo"
+      component={LujoVideo}
+      durationInFrames={Math.round(lujoPlan.duration * 30)}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+    {lujoShorts.map((s) => (
+      <Composition key={s.id} id={`PobrezaDeLujo${s.id}`} component={ShortVideo} defaultProps={{id: s.id}} durationInFrames={Math.round(s.duration * 30)} fps={30} width={1080} height={1920} />
+    ))}
   </>
 );

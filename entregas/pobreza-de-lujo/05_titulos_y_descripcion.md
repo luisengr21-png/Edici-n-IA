@@ -21,4 +21,15 @@ Un abrigo para la Antártida que terminó en la ciudad, una gráfica que lo expl
 
 #PobrezaDeLujo #FinanzasPersonales #GeneracionZ #Consumismo #EducacionFinanciera
 
-[CAPÍTULOS – se agregan en la Fase 2]
+**Capítulos**
+0:00 La vendedora que te miró de arriba abajo
+1:22 Pieza 1: un abrigo para la Antártida
+5:05 Pieza 2: la gráfica que lo explica todo
+8:04 Pieza 3: si todo es lujo, nada es lujo
+9:29 Pieza 4: la anestesia de las cuotas
+11:24 El efecto Pretty Woman
+12:16 La respuesta: el pago inicial
+13:34 La salida: 90 días
+14:55 Cierre
+
+> Música y efectos de sonido sintetizados para este video. Narración generada con IA (ElevenLabs).
