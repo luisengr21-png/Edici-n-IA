@@ -68,6 +68,16 @@ def at_phrase(words, phrase):
     raise SystemExit(f'frase no encontrada: {phrase}')
 
 X = 540
+
+def stock(name):
+    # copia la imagen de recursos/stock a public/lujo/stock y devuelve su ruta para staticFile
+    import shutil
+    f = os.path.join(ROOT, 'recursos', 'stock', name)
+    if not os.path.exists(f):
+        return None
+    d_ = os.path.join(ROOT, 'public', 'lujo', 'stock'); os.makedirs(d_, exist_ok=True)
+    shutil.copy(f, os.path.join(d_, name))
+    return f'lujo/stock/{name}'
 SHORTS = {
     1: ('short_01_si-te-tratan-mal.mp3', [
         ('Si una vendedora', 'shop', [SEL('look', x=X, y=900, s=1.9, anim='zoom'), T('TE TRATAN MAL → *GASTAS MÁS*', x=X, y=300, size=78, w=980)], {}),
@@ -95,9 +105,9 @@ SHORTS = {
         ('Y lo más cruel', 'black', [LIGHT(x=X), BAG(x=X, y=820, s=1.5, anim='zoom')], {}),
     ], True),
     3: ('short_03_parka-antartida.mp3', [
-        ('Esta parka se hizo', 'black', [d('live', kw='STOCK: antarctica blizzard person parka back view', ch='🥶', tint='linear-gradient(180deg,#c9dbe6,#7d95a6)'), T('HECHA PARA LA *ANTÁRTIDA*', x=X, y=330, size=76, w=1000)], {}),
-        ('Hoy se usa en ciudades', 'black', [d('live', kw='STOCK: sunny city street people walking back view', ch='🏙️', tint='radial-gradient(circle at 50% 30%, #fff1b8, #8fb7d6 75%)'), T('…¿Y AQUÍ? 🙃', x=X, y=330, size=90, w=1000)], {}),
-        ('Canada Goose empezó', 'black', [d('live', kw='STOCK: vintage sewing machine hands close up', ch='🧵'), T('TORONTO · *1957*', x=X, y=330, size=90, w=1000, font='serif')], {'sepia': True}),
+        ('Esta parka se hizo', 'black', [d('live', kw='STOCK: antarctica blizzard person parka back view', src=stock('short3_01.jpg'), fit='blurfill', ch='🥶', tint='linear-gradient(180deg,#c9dbe6,#7d95a6)'), T('HECHA PARA LA *ANTÁRTIDA*', x=X, y=330, size=76, w=1000)], {}),
+        ('Hoy se usa en ciudades', 'black', [d('live', kw='STOCK: sunny city street people walking back view', src=stock('short3_02.jpg'), fit='blurfill', ch='🏙️', tint='radial-gradient(circle at 50% 30%, #fff1b8, #8fb7d6 75%)'), T('…¿Y AQUÍ? 🙃', x=X, y=330, size=90, w=1000)], {}),
+        ('Canada Goose empezó', 'black', [d('live', kw='STOCK: vintage sewing machine hands close up', src=stock('short3_03.jpg'), fit='blurfill', ch='🧵'), T('TORONTO · *1957*', x=X, y=330, size=90, w=1000, font='serif')], {'sepia': True}),
         ('Tan poco glamoroso', 'dark', [F('ticket', x=X, y=820, w=600, h=380), ST('L.L. BEAN', x=440, y=770, size=56, at=0.3, color='gold'), ST('EDDIE BAUER', x=640, y=900, size=56, at=0.8, rot=6, color='gold'), T('FABRICABA *PARA OTROS*', x=X, y=300, size=76, w=1000)], {}),
         ('Hoy sus parkas pasan', 'dark', [E('🧥', x=X, y=860, size=420), TAG('+$1,000', x=640, y=600, size=86, at=0.3)], {'flash': True}),
         ('Qué cambió', 'dark', [E('🧥', x=300, y=780, size=260), E('🧥', x=780, y=780, size=260), d('card', text='ABRIGA = IGUAL', ch='🔥', x=X, y=1010, w=760, h=170, size=40), T('¿QUÉ CAMBIÓ? *EL MENSAJE*', x=X, y=300, size=72, w=1000)], {}),

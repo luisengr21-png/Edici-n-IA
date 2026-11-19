@@ -4,7 +4,7 @@ Lee plan_base.json (tiempos reales alineados con la narración) y escribe src/lu
 Cada escena: S(n, fondo, [elementos], **opciones). Coordenadas en un lienzo de 1920×1080.
 Uso: python3 scripts/lujo/viz.py
 """
-import json, os, re
+import json, os, re, shutil
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
@@ -57,9 +57,12 @@ def LIVE(n, ch, label=None, tint=None, **kw):
         if os.path.exists(f):
             os.makedirs(os.path.join(ROOT, 'public', 'lujo', 'stock'), exist_ok=True)
             dst = os.path.join(ROOT, 'public', 'lujo', 'stock', os.path.basename(f))
-            if not os.path.exists(dst):
-                os.symlink(f, dst)
+            if os.path.islink(dst) or not os.path.exists(dst) or os.path.getmtime(dst) < os.path.getmtime(f):
+                if os.path.lexists(dst):
+                    os.remove(dst)
+                shutil.copy(f, dst)
             els[0]['src'] = f'lujo/stock/{os.path.basename(f)}'
+            els[0]['pan'] = 1 if n % 2 else -1
             break
     if lab and lab != '—':
         els.append(T(lab, y=900, size=84))

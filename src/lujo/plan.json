@@ -891,7 +891,9 @@
     {
      "kw": "STOCK: vintage sewing machine hands close up · old garment workshop",
      "ch": "🧵",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_027.jpg",
+     "pan": 1
     },
     {
      "text": "METRO SPORTSWEAR",
@@ -915,7 +917,9 @@
     {
      "kw": "STOCK: fabric rolls workshop · workwear jacket stitching close up",
      "ch": "🧶",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_028.jpg",
+     "pan": -1
     }
    ],
    "sepia": true
@@ -934,7 +938,9 @@
      "kw": "STOCK: arctic blizzard person parka back view · snowstorm worker back view",
      "ch": "🥶",
      "tint": "linear-gradient(180deg,#c9dbe6,#7d95a6)",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_029.jpg",
+     "pan": 1
     },
     {
      "text": "FRÍO EXTREMO",
@@ -958,7 +964,9 @@
      "kw": "STOCK: antarctica research station · scientist snow expedition back view",
      "ch": "🐧",
      "tint": "linear-gradient(180deg,#dfeaf1,#9fb6c5)",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_030.jpg",
+     "pan": -1
     },
     {
      "text": "ANTÁRTIDA",
@@ -1185,7 +1193,9 @@
     {
      "kw": "STOCK: luxury shopping street night bokeh · people walking winter coats city back view",
      "ch": "🌃",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_037.jpg",
+     "pan": 1
     }
    ]
   },
@@ -2245,7 +2255,9 @@
     {
      "kw": "STOCK: scuba diver underwater vintage · luxury wristwatch macro close up",
      "ch": "⌚",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_064.jpg",
+     "pan": -1
     },
     {
      "text": "DE HERRAMIENTA… A SÍMBOLO",
@@ -2268,7 +2280,9 @@
     {
      "kw": "STOCK: vintage airplane aluminum fuselage rivets · aluminum suitcase airport",
      "ch": "🧳",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_065.jpg",
+     "pan": 1
     },
     {
      "text": "ALUMINIO DE AVIÓN",
@@ -2291,7 +2305,9 @@
     {
      "kw": "STOCK: luxury gym interior empty · dumbbells rack close up",
      "ch": "🏋️",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_066.jpg",
+     "pan": -1
     },
     {
      "text": "$$$ AL MES",
@@ -3069,7 +3085,9 @@
     {
      "kw": "STOCK: latin american city aerial apartment buildings · mexico city aerial · bogota buildings aerial · lima skyline",
      "ch": "🏙️",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_085.jpg",
+     "pan": 1
     }
    ]
   },
@@ -3176,7 +3194,9 @@
     {
      "kw": "STOCK: hands counting money close up · empty wallet hands",
      "ch": "👛",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_089.jpg",
+     "pan": 1
     },
     {
      "text": "VIVIR AL DÍA",
@@ -3199,7 +3219,9 @@
     {
      "kw": "STOCK: latte art barista hands close up",
      "ch": "☕",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_090.jpg",
+     "pan": -1
     },
     {
      "text": "$6 ✓",
@@ -3222,7 +3244,9 @@
     {
      "kw": "STOCK: manicure hands close up · concert crowd lights · contactless phone payment",
      "ch": "💅",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_091.jpg",
+     "pan": 1
     },
     {
      "text": "✓ ✓ ✓",
@@ -3586,7 +3610,9 @@
     {
      "kw": "STOCK: hammock beach feet relaxing · airplane window view clouds",
      "ch": "🏖️",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_101.jpg",
+     "pan": 1
     },
     {
      "text": "MICRO-RETIRO",
@@ -5564,7 +5590,9 @@
     {
      "kw": "STOCK: credit card payment terminal close up · tap to pay card hands",
      "ch": "💳",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_145.jpg",
+     "pan": 1
     }
    ]
   },
@@ -5728,7 +5756,9 @@
     {
      "kw": "STOCK: businessman walking city back view · office worker laptop hands",
      "ch": "💼",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_151.jpg",
+     "pan": 1
     },
     {
      "text": "GANA BIEN",
@@ -7057,7 +7087,9 @@
      "kw": "STOCK: person walking out office building back view sunlight",
      "ch": "🚪",
      "tint": "radial-gradient(circle at 60% 30%, #f6e7b0, #2f7f74 75%)",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_189.jpg",
+     "pan": 1
     },
     {
      "text": "DECIR QUE NO",
@@ -7081,7 +7113,9 @@
      "kw": "STOCK: backpacker hiking mountain back view",
      "ch": "🏔️",
      "tint": "radial-gradient(circle at 60% 30%, #cfe7ff, #3b5f7a 75%)",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_190.jpg",
+     "pan": -1
     },
     {
      "text": "TOMARTE UN TIEMPO",
@@ -7105,7 +7139,9 @@
      "kw": "STOCK: holding elderly hands close up · family dinner table hands",
      "ch": "🤝",
      "tint": "radial-gradient(circle at 50% 40%, #f3d9b4, #6b4b2e 75%)",
-     "k": "live"
+     "k": "live",
+     "src": "lujo/stock/escena_191.jpg",
+     "pan": 1
     },
     {
      "text": "AYUDAR A LOS TUYOS",

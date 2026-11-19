@@ -11,6 +11,7 @@ import {LujoVideo} from './lujo/Main';
 import lujoPlan from './lujo/plan.json';
 import {ShortVideo} from './lujo/Shorts';
 import lujoShorts from './lujo/shorts.json';
+import {Thumb} from './lujo/Thumbs';
 
 export const Root: React.FC = () => (
   <>
@@ -64,6 +65,9 @@ export const Root: React.FC = () => (
     />
     {lujoShorts.map((s) => (
       <Composition key={s.id} id={`PobrezaDeLujo${s.id}`} component={ShortVideo} defaultProps={{id: s.id}} durationInFrames={Math.round(s.duration * 30)} fps={30} width={1080} height={1920} />
+    ))}
+    {[1, 2, 3, 4, 5].map((n) => (
+      <Composition key={n} id={`PobrezaDeLujoMiniatura${n}`} component={Thumb} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
     ))}
   </>
 );

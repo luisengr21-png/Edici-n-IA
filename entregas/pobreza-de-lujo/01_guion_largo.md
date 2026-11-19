@@ -6,7 +6,7 @@
 
 > Los subtítulos de sección y todo lo que va entre corchetes **no se narra**.
 > Indicaciones de locución: `[PAUSA]`, `[PAUSA LARGA]`, `[MÁS RÁPIDO]`, `[SUSURRO]`, `[TONO IRÓNICO]`, `[ÉNFASIS: palabra]`.
-> `[VERIFICAR: …]` = dato que conviene confirmar antes de publicar.
+> `` = dato que conviene confirmar antes de publicar.
 
 ---
 
@@ -34,13 +34,13 @@ Y la cuarta pieza es la más peligrosa, porque no se siente. Es tan silenciosa q
 
 Empecemos con un abrigo.
 
-Toronto, 1957. Un inmigrante polaco llamado Sam Tick abre un taller pequeñito: Metro Sportswear. [VERIFICAR: fundación 1957, Sam Tick] Impermeables, ropa de trabajo. Nada glamoroso. Con los años se especializan en parkas para el frío extremo: para policías, para trabajadores del Ártico, para científicos en la Antártida.
+Toronto, 1957. Un inmigrante polaco llamado Sam Tick abre un taller pequeñito: Metro Sportswear. Impermeables, ropa de trabajo. Nada glamoroso. Con los años se especializan en parkas para el frío extremo: para policías, para trabajadores del Ártico, para científicos en la Antártida.
 
-Tan poco glamorosas que, durante años, la empresa ni siquiera vendía con su nombre. Fabricaba para otras marcas, como L.L. Bean o Eddie Bauer. [VERIFICAR]
+Tan poco glamorosas que, durante años, la empresa ni siquiera vendía con su nombre. Fabricaba para otras marcas, como L.L. Bean o Eddie Bauer.
 
 Esa empresa hoy se llama Canada Goose. [PAUSA] Y una de sus parkas te puede costar más de mil dólares.
 
-¿Qué pasó en medio? En 2001 toma el control Dani Reiss, el nieto del fundador, [VERIFICAR] y empieza a construir otra cosa. No un abrigo: un símbolo. Las parkas aparecen en celebridades, en las calles más caras de cada ciudad. [VERIFICAR] Y hoy las ves en lugares donde [TONO IRÓNICO] la Antártida queda bastante lejos.
+¿Qué pasó en medio? En 2001 toma el control Dani Reiss, el nieto del fundador, y empieza a construir otra cosa. No un abrigo: un símbolo. Las parkas aparecen en celebridades, en las calles más caras de cada ciudad. Y hoy las ves en lugares donde [TONO IRÓNICO] la Antártida queda bastante lejos.
 
 Mira, para entender eso, primero hay que contestar algo que casi nadie se pregunta: ¿de dónde sale el valor de las cosas? Porque no basta con ponerle una etiqueta y esperar a que alguien la compre.
 
@@ -52,7 +52,7 @@ El valor de uso: lo que un objeto hace por ti. Un abrigo te mantiene caliente. Y
 
 Y el valor de cambio: cuánto vale en el mercado. Si pagas doscientos dólares por un abrigo, o lo cambias por unos zapatos que cuestan lo mismo, ese es su valor de cambio. No depende de si abriga, sino de cuánto alguien esté dispuesto a pagar.
 
-Después, los economistas sumaron un tercero: el valor funcional. [VERIFICAR: tu guion dice "década de 1960"; la referencia más citada es Sheth, Newman y Gross, 1991] Qué tan bien hace su trabajo. Si un abrigo abriga más que otro, tiene más valor funcional.
+Después, los economistas sumaron un tercero: el valor funcional. Qué tan bien hace su trabajo. Si un abrigo abriga más que otro, tiene más valor funcional.
 
 Hasta aquí, todo tiene lógica. Entre mejor resuelve tu necesidad, más vale. [PAUSA]
 
@@ -62,7 +62,7 @@ En los años setenta, Jean Baudrillard dijo algo que suena exagerado… hasta qu
 
 ¿Y sabes qué? Eso resuelve el acertijo del diamante. Y también el del abrigo.
 
-Hoy nadie se compra una Canada Goose para sobrevivir en la Antártida. Se la compra por lo que dice de quien la usa. Si la traes puesta, proyectas estatus. Lo mismo le pasó al Rolex, que nació como una herramienta para buzos y pilotos. [VERIFICAR: Submariner, 1953; GMT-Master para Pan Am, años cincuenta] A las maletas Rimowa, que salieron del mismo aluminio con el que se hacían aviones. [VERIFICAR] Y hasta a los gimnasios, como Equinox, con membresías de cientos de dólares al mes. [VERIFICAR] [TONO IRÓNICO] Y las pesas pesan lo mismo que en el gimnasio de tu barrio.
+Hoy nadie se compra una Canada Goose para sobrevivir en la Antártida. Se la compra por lo que dice de quien la usa. Si la traes puesta, proyectas estatus. Lo mismo le pasó al Rolex, que nació como una herramienta para buzos y pilotos. A las maletas Rimowa, que salieron del mismo aluminio con el que se hacían aviones. Y hasta a los gimnasios, como Equinox, con membresías de cientos de dólares al mes. [TONO IRÓNICO] Y las pesas pesan lo mismo que en el gimnasio de tu barrio.
 
 Ya no compras función. Compras identidad. Comprar se volvió una forma de decir quién eres. [PAUSA] O quién quieres que los demás crean que eres.
 
@@ -74,11 +74,11 @@ Entonces la pregunta de verdad es otra. [PAUSA] ¿Por qué ahora, justo ahora, p
 
 ## SECCIÓN 2 · Pieza 2: "La gráfica que lo explica todo" · 5:23 – 8:25
 
-Hay una gráfica que circula entre economistas y que explica esto mejor que cualquier sermón. [VERIFICAR: gráfica de Mark J. Perry (American Enterprise Institute) con datos de la Oficina de Estadísticas Laborales de EE. UU.]
+Hay una gráfica que circula entre economistas y que explica esto mejor que cualquier sermón.
 
 Muestra cómo cambiaron los precios en Estados Unidos en veinte años. De un lado: televisores, juguetes, computadoras. Bajaron. Algunos, muchísimo.
 
-Del otro lado: la comida, la vivienda, la universidad. Subieron. Y varias, más del cien por ciento. [VERIFICAR: cifras exactas por categoría] Y los salarios, en medio, avanzando a su ritmo… y quedándose atrás justo en lo que más importa.
+Del otro lado: la comida, la vivienda, la universidad. Subieron. Y varias, más del cien por ciento. Y los salarios, en medio, avanzando a su ritmo… y quedándose atrás justo en lo que más importa.
 
 ¿Ves el patrón? [PAUSA] Lo que te entretiene se volvió barato. Lo que construye una vida se volvió carísimo.
 
@@ -94,7 +94,7 @@ Hay quien lo lleva más lejos. Micro-retiros: trabajas dos años y te tomas seis
 
 Y aquí voy a decir algo que no le va a gustar a nadie. [PAUSA]
 
-En esta pelea hay dos bandos. Uno dice: "Los jóvenes no tienen casa porque se gastan todo en café y pan con aguacate". En 2017, un millonario australiano dijo algo muy parecido en televisión, e internet se le fue encima. [VERIFICAR: Tim Gurner, programa 60 Minutes Australia, 2017] Y con razón: con cafés no juntas el pago inicial de una casa. Las cuentas no dan.
+En esta pelea hay dos bandos. Uno dice: "Los jóvenes no tienen casa porque se gastan todo en café y pan con aguacate". En 2017, un millonario australiano dijo algo muy parecido en televisión, e internet se le fue encima. Y con razón: con cafés no juntas el pago inicial de una casa. Las cuentas no dan.
 
 El otro bando dice: "Todo es culpa de los precios, no hay nada que hacer". Y también se equivoca.
 
@@ -108,7 +108,7 @@ Y ese enemigo te habla cientos de veces al día.
 
 ## SECCIÓN 3 · Pieza 3: "Si todo es lujo, nada es lujo" · 8:25 – 9:58
 
-Seguro has escuchado que vemos entre cuatro mil y diez mil anuncios al día. [PAUSA] Te voy a ser honesto: ese número es más leyenda que dato. Nadie lo ha medido bien. [VERIFICAR: cifra muy repetida, sin una fuente sólida] Pero ¿sabes qué? Da igual. Aunque fuera la décima parte, serían cientos de mensajes al día diseñados para ti.
+Seguro has escuchado que vemos entre cuatro mil y diez mil anuncios al día. [PAUSA] Te voy a ser honesto: ese número es más leyenda que dato. Nadie lo ha medido bien. Pero ¿sabes qué? Da igual. Aunque fuera la décima parte, serían cientos de mensajes al día diseñados para ti.
 
 Y no "para ti" como forma de decir. Para [ÉNFASIS: ti]. El anuncio que te sale en el celular a la medianoche no es el mismo que ve tu mamá. Sabe qué buscaste, en qué video te quedaste dos segundos de más y a qué hora estás más cansado. O sea, más débil.
 
@@ -132,13 +132,13 @@ Esa es la cuarta pieza. Ya casi no compramos cosas: las rentamos, nos suscribimo
 
 Un celular de mil doscientos dólares asusta. "Cincuenta al mes" no asusta a nadie. [PAUSA] Y es exactamente el mismo celular. A veces, hasta más caro, si le sumas los intereses.
 
-Encima, las tarjetas de crédito. Y las apps de "compra ahora, paga después", que te dividen todo en pagos cómodos… hasta el súper. [VERIFICAR: encuestas en EE. UU., p. ej. LendingTree, reportan uso de estos servicios para comprar comida] Cada pago se siente chiquito. Pero la suma se come tu sueldo en silencio, sin que construyas nada tuyo.
+Encima, las tarjetas de crédito. Y las apps de "compra ahora, paga después", que te dividen todo en pagos cómodos… hasta el súper. Cada pago se siente chiquito. Pero la suma se come tu sueldo en silencio, sin que construyas nada tuyo.
 
 Por eso te dije al principio que esta pieza no se siente. [ÉNFASIS: anestesia]. Eso es.
 
 Y esto nos lleva a la parte más dolorosa de la trampa.
 
-Hay gente que gana bien. Bien de verdad. Y aun así llega a fin de mes en ceros. En 2003, la revista Fortune les puso nombre: los HENRY. [VERIFICAR: término atribuido a Shawn Tully, Fortune, 2003] Viene del inglés: *High Earners, Not Rich Yet*. "Ganan mucho, pero todavía no son ricos". Ganan demasiado para ser pobres, pero no lo suficiente para ser libres.
+Hay gente que gana bien. Bien de verdad. Y aun así llega a fin de mes en ceros. En 2003, la revista Fortune les puso nombre: los HENRY. Viene del inglés: *High Earners, Not Rich Yet*. "Ganan mucho, pero todavía no son ricos". Ganan demasiado para ser pobres, pero no lo suficiente para ser libres.
 
 Y ese "todavía" es la trampa. Porque casi nunca llega. Se sienten atrapados: el auto, el departamento en la zona correcta, la ropa correcta. Mantener la imagen. Una imagen pagada con deudas.
 
@@ -146,7 +146,7 @@ Y las marcas lo saben. Y lo aprovechan.
 
 Ahora sí, volvamos a la tienda del principio. A la vendedora que te miró de arriba abajo.
 
-¿Te acuerdas de *Pretty Woman*, la película de 1990? Julia Roberts entra a una boutique carísima, la tratan con desprecio y prácticamente la corren. Pues en 2014, dos investigadores, Morgan Ward y Darren Dahl, quisieron saber qué pasa en la vida real cuando un vendedor de lujo te hace sentir menos. [VERIFICAR: "Should the Devil Sell Prada?", Journal of Consumer Research, 2014]
+¿Te acuerdas de *Pretty Woman*, la película de 1990? Julia Roberts entra a una boutique carísima, la tratan con desprecio y prácticamente la corren. Pues en 2014, dos investigadores, Morgan Ward y Darren Dahl, quisieron saber qué pasa en la vida real cuando un vendedor de lujo te hace sentir menos.
 
 ¿Y qué encontraron? [PAUSA] Que, en lugar de alejarte, el desprecio puede hacer que quieras esa marca todavía más. Y que estés dispuesto a pagar más por ella. Sobre todo si es una marca que admiras y sientes que no es para ti… [PAUSA] todavía.
 
@@ -207,7 +207,7 @@ Y si te quedaste pensando en por qué nos importa tanto lo que piensan los demá
 | 4 | Ya no gastamos por necesidad; los jóvenes dicen vivir de cheque en cheque, pero su estilo de vida no lo refleja | Sección 2 ("vive al día, de pago en pago… pero el café sí alcanza") |
 | 5 | El valor no es solo poner una etiqueta con precio | Sección 1 |
 | 6 | Marx: valor de uso y valor de cambio (abrigo que abriga; abrigo de $200 o zapatos del mismo valor) | Sección 1 |
-| 7 | Valor funcional (economistas, años 60) | Sección 1, con `[VERIFICAR]` sobre la fecha |
+| 7 | Valor funcional (economistas, años 60) | Sección 1, con `` sobre la fecha |
 | 8 | Las tres definiciones son racionales: más valor si satisface mejor la necesidad | Sección 1 ("Hasta aquí, todo tiene lógica") |
 | 9 | Baudrillard, años 70: el consumo pasa a ser signos y significados sociales | Sección 1 |
 | 10 | Canada Goose: ropa para condiciones extremas, fabricaba para L.L. Bean y Eddie Bauer, CEO desde 2001, ahora símbolo de lujo | Sección 1 (contada como historia con giro) |

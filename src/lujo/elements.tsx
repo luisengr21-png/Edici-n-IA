@@ -485,8 +485,25 @@ const Live: React.FC<{e: El; t: number}> = ({e, t}) => {
   const z = 1 + t * 0.012;
   if (e.src) {
     const isImg = /\.(jpe?g|png|webp)$/i.test(e.src);
-    const st: React.CSSProperties = {position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${z})`};
-    return <div style={{position: 'absolute', inset: 0, overflow: 'hidden'}}>{isImg ? <Img src={staticFile(e.src)} style={st} /> : <OffthreadVideo src={staticFile(e.src)} muted style={st} />}</div>;
+    // Ken Burns: zoom lento + paneo suave en la dirección que indique la escena
+    const kz = 1.04 + t * 0.022;
+    const pan = (e.pan ?? 1) * t * 6;
+    const st: React.CSSProperties = {position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${kz}) translateX(${pan}px)`};
+    const media = (style: React.CSSProperties) => (isImg ? <Img src={staticFile(e.src)} style={style} /> : <OffthreadVideo src={staticFile(e.src)} muted style={style} />);
+    return (
+      <div style={{position: 'absolute', inset: 0, overflow: 'hidden', background: '#000'}}>
+        {e.fit === 'blurfill' ? (
+          <>
+            {media({...st, filter: 'blur(28px) brightness(0.55)', transform: `scale(1.25)`})}
+            {media({position: 'absolute', left: 0, width: '100%', top: '50%', height: 'auto', transform: `translateY(-50%) scale(${1 + t * 0.03})`, boxShadow: '0 30px 80px rgba(0,0,0,0.6)'})}
+          </>
+        ) : (
+          media(st)
+        )}
+        {e.sepia && <div style={{position: 'absolute', inset: 0, background: 'rgba(90,60,20,0.18)', mixBlendMode: 'multiply'}} />}
+        <div style={{position: 'absolute', inset: 0, background: 'linear-gradient(180deg, rgba(0,0,0,0.25) 0%, transparent 30%, transparent 55%, rgba(0,0,0,0.7) 100%)'}} />
+      </div>
+    );
   }
   return (
     <div style={{position: 'absolute', inset: 0, overflow: 'hidden'}}>

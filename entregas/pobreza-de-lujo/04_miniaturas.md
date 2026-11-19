@@ -132,3 +132,19 @@ A faceless stylized silhouette character in a mustard hoodie sitting and hugging
 **Usaría primero la Miniatura 1 ("La casa llavero") con el Título 1.** Resume la paradoja del video en una sola imagen, sin necesidad de leer nada: lujo grande, casa diminuta y rota. Tiene un solo elemento principal, se reconoce en tamaño celular y la pregunta "¿Y LA CASA?" completa el título en lugar de repetirlo.
 
 Si después de 48–72 h el CTR está bajo, prueba la **Miniatura 3** (la vendedora): es la más emocional y la más distinta de lo que suele haber en el nicho de finanzas.
+
+
+---
+
+## Archivos generados (Fase 2)
+Las cinco miniaturas ya están en `miniaturas/` (1280×720, JPG). El fondo lo generé con IA (ElevenLabs, 4 variantes por diseño; elegí la que mejor deja espacio para el texto). El texto y los símbolos los agregué con las tipografías del canal (Montserrat Black y Playfair Display), para que salgan nítidos y sin errores de letras.
+
+| Archivo | Diseño | Título con el que combina |
+|---|---|---|
+| `miniatura_1_la-casa-llavero.jpg` | ¿Y LA CASA? + círculo rojo en la casita | Título 1 |
+| `miniatura_2_la-casa-en-la-vitrina.jpg` | SOLO PARA VER | Título 2 |
+| `miniatura_3_la-mirada-de-la-vendedora.jpg` | ¿TE HA PASADO? | Título 4 |
+| `miniatura_4_el-ticket-infinito.jpg` | SOLO $50 AL MES… | Título 3 |
+| `miniatura_5_atrapado-con-estilo.jpg` | ATRAPADO CON ESTILO | Título 5 |
+
+Los fondos sin texto están en `miniaturas/fondos/`, por si quieres editarlos en Canva o Photoshop. Para regenerarlas con otro texto, edita `src/lujo/Thumbs.tsx` y ejecuta `node scripts/lujo/miniaturas.mjs`.

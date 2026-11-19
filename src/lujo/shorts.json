@@ -1541,6 +1541,8 @@
     "els": [
      {
       "kw": "STOCK: antarctica blizzard person parka back view",
+      "src": "lujo/stock/short3_01.jpg",
+      "fit": "blurfill",
       "ch": "🥶",
       "tint": "linear-gradient(180deg,#c9dbe6,#7d95a6)",
       "k": "live"
@@ -1565,6 +1567,8 @@
     "els": [
      {
       "kw": "STOCK: sunny city street people walking back view",
+      "src": "lujo/stock/short3_02.jpg",
+      "fit": "blurfill",
       "ch": "🏙️",
       "tint": "radial-gradient(circle at 50% 30%, #fff1b8, #8fb7d6 75%)",
       "k": "live"
@@ -1589,6 +1593,8 @@
     "els": [
      {
       "kw": "STOCK: vintage sewing machine hands close up",
+      "src": "lujo/stock/short3_03.jpg",
+      "fit": "blurfill",
       "ch": "🧵",
       "k": "live"
      },

@@ -1,0 +1,29 @@
+{
+  "_nota": "Prompts de las imágenes generadas con IA (ElevenLabs · gpt-image-2.5-sunburst) que reemplazan los clips de stock. Canal sin cara: nunca se ven rostros. Se guardan en recursos/stock/escena_NNN.jpg y recursos/stock/short3_NN.jpg.",
+  "estilo": "Cinematic photograph, 16:9 landscape, natural film color grade, shallow depth of field. No faces visible, no logos, no brand names, no text.",
+  "escenas": {
+    "027": "Close-up of two weathered hands guiding fabric through a vintage cast-iron sewing machine in a 1950s garment workshop, warm tungsten light, sepia-toned film look.",
+    "028": "Rolls of heavy canvas fabric stacked on wooden shelves in an old workwear factory, a half-sewn work jacket on a cutting table, dusty window light, sepia tones.",
+    "029": "A lone figure in a heavy red expedition parka seen from behind, walking into an arctic blizzard, snow streaks across the frame, pale blue light.",
+    "030": "A small polar research station in Antarctica with colorful flags whipping in the wind, ice plain, a scientist in a parka seen from behind in the distance, overcast sky.",
+    "037": "A luxury shopping street at night with glowing boutique windows and bokeh lights, shoppers in winter coats seen from behind or out of focus.",
+    "064": "Macro shot of a classic steel diver wristwatch on a wet wrist, water droplets, deep blue underwater light rays in the background. Unbranded dial.",
+    "065": "Close-up of the riveted polished aluminum fuselage of a vintage propeller airplane, and the corner of a ribbed aluminum suitcase in soft hangar light.",
+    "066": "An empty high-end gym at dawn, warm wood and black steel, rows of chrome dumbbells on a rack in the foreground, large windows, nobody inside.",
+    "085": "Aerial view at golden hour of a dense Latin American city with apartment towers and rooftop water tanks, hazy mountains in the background.",
+    "089": "Close-up of hands counting a few crumpled banknotes and coins over an almost empty worn wallet on a kitchen table, moody evening light.",
+    "090": "Close-up of a barista's hands pouring latte art into a ceramic cup on a café counter, warm morning light.",
+    "091": "Close-up of a hand holding a smartphone over a contactless payment terminal, freshly manicured red nails, concert lights bokeh in the background.",
+    "101": "Bare feet resting in a hammock between palm trees facing a turquoise sea, bright tropical light, seen from behind the person.",
+    "145": "Close-up of a hand tapping a credit card on a card payment terminal at a store counter, shallow depth of field.",
+    "151": "A man in a dark suit walking away down a busy downtown sidewalk, seen from behind, briefcase in hand, office towers, cool morning light.",
+    "189": "A person seen from behind walking out of a glass office building into bright warm sunlight, long shadow, sense of relief.",
+    "190": "A backpacker seen from behind standing on a mountain trail ridge looking at a wide valley at sunrise.",
+    "191": "Close-up of young hands gently holding the wrinkled hands of an elderly person on a family dinner table, warm lamp light."
+  },
+  "short3": {
+    "01": "Vertical 9:16 cinematic photograph. A lone figure in a heavy red expedition parka seen from behind, walking into an Antarctic blizzard, snow streaks, pale blue light. No faces, no logos, no text.",
+    "02": "Vertical 9:16 cinematic photograph. A sunny warm city street with palm trees and people in light clothes seen from behind, one person wearing a bulky puffer parka, bright midday sun. No faces, no logos, no text.",
+    "03": "Vertical 9:16 cinematic photograph. Close-up of weathered hands guiding fabric through a vintage cast-iron sewing machine in a 1950s workshop, warm tungsten light, sepia film look. No faces, no logos, no text."
+  }
+}
