@@ -318,6 +318,42 @@ S(215, 'dark', [P('wave', x=600, y=620, s=1.1), F('mag', x=1300, y=560, w=520, h
 S(216, 'dark', [P('wave', x=600, y=620, s=1.1, anim='none'), F('mag', x=1300, y=560, w=520, h=150, text='SUSCRÍBETE', size=64, anim='none'), TAG('$0 / MES', x=1420, y=700, size=56, at=0.6)], hud=False, cam='still')
 
 # ───────────────────────── salida ─────────────────────────
+# ── regla del canal: el mismo texto o número no puede aparecer dos veces en la misma escena ──
+def textos(el):
+    for key in ('text', 'll', 'rl', 'sub', 'label', 'big', 'txt'):
+        v_ = el.get(key)
+        if isinstance(v_, str) and v_.strip():
+            yield v_
+    for it in el.get('items', []) or []:
+        if isinstance(it, dict) and it.get('label'):
+            yield it['label']
+        elif isinstance(it, str):
+            yield it
+def clave(s_):
+    s_ = re.sub(r'[*"«»“”¿?¡!.,:;…·]', ' ', s_.lower())
+    return ' '.join(s_.split())
+def repetidos(n_, sp):
+    vistos, rep = {}, []
+    for el in sp['els']:
+        if el.get('out') is not None:
+            continue  # sale antes de que entre lo siguiente: no coinciden en pantalla
+        claves = set()
+        for tx in textos(el):
+            k = clave(tx)
+            if k:
+                claves.add(k)
+            # los números (precios, años, porcentajes) cuentan aunque estén dentro de frases distintas
+            for num in re.findall(r'[$+]?\d[\d,.]*\s?%?', tx):
+                claves.add('#' + num.strip().strip('.,'))
+        for k in claves:
+            if k in vistos:
+                rep.append(k.lstrip('#'))
+            vistos[k] = True
+    return rep
+REPETIDOS = {n_: r for n_, sp in SPEC.items() if (r := repetidos(n_, sp))}
+if REPETIDOS and os.environ.get('PERMITIR_REPETIDOS') != '1':
+    raise SystemExit('Texto repetido en la misma escena (regla del canal): ' + '; '.join(f'escena {k}: {v_}' for k, v_ in sorted(REPETIDOS.items())))
+
 missing = [n for n in scenes if n not in SPEC]
 assert not missing, f'faltan escenas: {missing}'
 SECS = {}

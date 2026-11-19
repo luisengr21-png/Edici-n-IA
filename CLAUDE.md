@@ -17,3 +17,9 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 
 ## Cierre de los videos
 - No hacer referencia a otros videos del canal salvo que el creador lo pida en ese video.
+
+## Texto en pantalla
+- **Nunca repetir el mismo texto o número dos veces en la misma escena al mismo tiempo** (por ejemplo, una etiqueta "$0.01" y debajo otra vez "$0.01", o un título que repite lo que dice una tarjeta). Cada dato aparece una sola vez por escena; si hace falta reforzarlo, se usa un ícono, un color o una animación, no el mismo texto.
+- `scripts/lujo/viz.py` revisa esto automáticamente al generar el plan y se detiene si encuentra textos repetidos en una escena.
+- La revisión compara textos completos y también números sueltos (precios, años, porcentajes) entre todos los elementos de una escena.
+- El primer video («La trampa de la pobreza de lujo») se hizo antes de esta regla y tiene repeticiones en las escenas 45, 50, 123, 140, 200 y 213; para regenerarlo tal cual, ejecutar `PERMITIR_REPETIDOS=1 python3 scripts/lujo/viz.py`. En los videos nuevos, la regla es obligatoria.
