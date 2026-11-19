@@ -29,3 +29,7 @@ out/cine-audio.log
 out/lujo-*
 out/lujo-stills/
 public/lujo/stock/
+
+# Clips con licencia de Envato: no se suben al repositorio
+recursos/stock/*.mp4
+recursos/stock/*.mov

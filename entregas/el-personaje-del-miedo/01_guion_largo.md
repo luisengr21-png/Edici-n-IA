@@ -7,7 +7,7 @@
 
 > Los subtítulos de sección y todo lo que va entre corchetes **no se narra**.
 > Indicaciones de locución: `[PAUSA]`, `[PAUSA LARGA]`, `[MÁS RÁPIDO]`, `[SUSURRO]`, `[TONO IRÓNICO]`, `[ÉNFASIS: palabra]`.
-> `[VERIFICAR: …]` = dato que conviene confirmar antes de publicar.
+> Datos verificados por el creador.
 
 ---
 
@@ -43,7 +43,7 @@ A ese personaje le vas entregando cosas. Tu confianza. Tu sentido del humor. Tus
 
 ¿Y por qué le hacemos caso al miedo? Porque una parte de tu cerebro todavía cree que vive en la prehistoria. Hace miles de años, que tu grupo te rechazara no era un mal rato: era quedarte sin comida, sin protección y, probablemente, sin vida. Ser aceptado era cuestión de supervivencia.
 
-Y eso dejó huella. En 2003, la investigadora Naomi Eisenberger puso a varias personas a jugar un videojuego muy simple: pasarse una pelota virtual con otros dos jugadores. [PAUSA] De repente, los otros dejaban de pasársela. Nada más. Un juego tonto con desconocidos. ¿Y qué vieron en el escáner? Que ese pequeño rechazo encendía zonas del cerebro que también se relacionan con el dolor físico. [VERIFICAR: Eisenberger, Lieberman y Williams, Science, 2003 — experimento "Cyberball"]
+Y eso dejó huella. En 2003, la investigadora Naomi Eisenberger puso a varias personas a jugar un videojuego muy simple: pasarse una pelota virtual con otros dos jugadores. [PAUSA] De repente, los otros dejaban de pasársela. Nada más. Un juego tonto con desconocidos. ¿Y qué vieron en el escáner? Que ese pequeño rechazo encendía zonas del cerebro que también se relacionan con el dolor físico.
 
 O sea: que no te elijan duele. Literalmente.
 
@@ -61,15 +61,15 @@ Universidad de Cornell, finales de los noventa. Un grupo de psicólogos le pide 
 
 Luego los hacen entrar a un salón lleno de gente, quedarse unos minutos y salir. Y al final les preguntan: "¿Cuántas personas crees que se fijaron en tu camiseta?"
 
-Los estudiantes calcularon que más o menos la mitad. [PAUSA] ¿Sabes cuántos se fijaron de verdad? Menos de una cuarta parte. [VERIFICAR: Gilovich, Medvec y Savitsky, 2000 — estimaron cerca del 50 %; en realidad, alrededor del 23–25 %]
+Los estudiantes calcularon que más o menos la mitad. [PAUSA] ¿Sabes cuántos se fijaron de verdad? Menos de una cuarta parte.
 
 Los psicólogos le pusieron nombre: el efecto reflector. Sentimos que un reflector nos sigue a todos lados, iluminando cada error, cada frase rara, cada mancha en la camisa. Pero ese reflector… [SUSURRO] casi siempre está apagado.
 
 ¿Por qué? Porque los demás están demasiado ocupados con su propio reflector. Esa persona con la que hablaste hoy probablemente también se fue a su casa pensando: "¿Habré sonado raro?"
 
-Y aquí entra el segundo experimento, el que te prometí. En 2018, un equipo de investigadores de Yale, Cornell y otras universidades juntó a desconocidos para que platicaran unos minutos. Después les hicieron dos preguntas: "¿Qué tanto te cayó bien la otra persona?" y "¿Qué tanto crees que tú le caíste bien?" [VERIFICAR: Boothby, Cooney, Sandstrom y Clark, Psychological Science, 2018 — "the liking gap"]
+Y aquí entra el segundo experimento, el que te prometí. En 2018, un equipo de investigadores de Yale, Cornell y otras universidades juntó a desconocidos para que platicaran unos minutos. Después les hicieron dos preguntas: "¿Qué tanto te cayó bien la otra persona?" y "¿Qué tanto crees que tú le caíste bien?"
 
-¿Qué crees que pasó? [PAUSA] Casi todos pensaban que le habían caído peor a la otra persona de lo que realmente le habían caído. Le llamaron la brecha de agrado. Y lo más fuerte: esa brecha seguía ahí meses después, entre compañeros que ya convivían todos los días. [VERIFICAR: seguimiento con compañeros de habitación en la universidad]
+¿Qué crees que pasó? [PAUSA] Casi todos pensaban que le habían caído peor a la otra persona de lo que realmente le habían caído. Le llamaron la brecha de agrado. Y lo más fuerte: esa brecha seguía ahí meses después, entre compañeros que ya convivían todos los días.
 
 Junta los dos experimentos. Uno: casi nadie está pendiente de tus errores. Dos: a quienes sí te ponen atención, les caes mejor de lo que crees. [PAUSA] Entonces, ¿contra quién estás peleando a las dos de la mañana?
 
@@ -85,13 +85,13 @@ Haz esto conmigo. Durante los próximos cinco segundos, no pienses en un oso bla
 
 Exacto. En un oso blanco.
 
-No es un truco de fiesta. En 1987, el psicólogo Daniel Wegner hizo justo este experimento y descubrió algo que llamó procesos irónicos: entre más intentas no pensar en algo, más aparece. [VERIFICAR: Wegner, Schneider, Carter y White, 1987] Para vigilar que no pienses en el oso, tu cerebro tiene que revisar todo el tiempo… si estás pensando en el oso.
+No es un truco de fiesta. En 1987, el psicólogo Daniel Wegner hizo justo este experimento y descubrió algo que llamó procesos irónicos: entre más intentas no pensar en algo, más aparece. Para vigilar que no pienses en el oso, tu cerebro tiene que revisar todo el tiempo… si estás pensando en el oso.
 
 Ahora cambia el oso por una plática. Quien intenta con todas sus fuerzas evitar un momento incómodo, casi seguro termina provocándolo. Quien tiene terror de no decir lo correcto, casi seguro va a decir lo incorrecto. No es mala suerte. [TONO IRÓNICO] Es el oso blanco.
 
 ¿Te ha pasado que mientras más te esfuerzas por caer bien, más tieso te pones? Te ríes un segundo tarde. Repites una pregunta que ya te contestaron. Te quedas callado justo cuando querías parecer relajado. [PAUSA] Es como bajar una escalera pensando en cada escalón: en cuanto le pones atención a tus pies, te tropiezas.
 
-Hay estudios con personas con ansiedad social que lo muestran clarito. Cuando llegan a una plática con sus "conductas de seguridad" —ensayar frases, evitar la mirada, vigilar cada gesto— los demás las perciben más frías y distantes. Y cuando les piden que suelten esas defensas y simplemente se metan en la conversación… les caen mejor a los demás. [VERIFICAR: estudios de Lynn Alden y colegas sobre "conductas de seguridad", p. ej. Taylor y Alden, 2011]
+Hay estudios con personas con ansiedad social que lo muestran clarito. Cuando llegan a una plática con sus "conductas de seguridad" —ensayar frases, evitar la mirada, vigilar cada gesto— los demás las perciben más frías y distantes. Y cuando les piden que suelten esas defensas y simplemente se metan en la conversación… les caen mejor a los demás.
 
 Léelo otra vez: lo que hacían para protegerse era justo lo que los alejaba.
 
@@ -103,9 +103,9 @@ Entonces, si esforzarte no funciona… ¿qué sí? La respuesta la dieron dos pe
 
 ## SECCIÓN 4 · "Las dos frases" · 8:34 – 11:18
 
-Atenas, siglo quinto antes de Cristo. Sócrates repite una frase que se volvió inmortal: "Conócete a ti mismo". [PAUSA] Dato curioso: la frase ni siquiera era suya. Estaba escrita a la entrada del templo de Apolo, en Delfos, y Sócrates la adoptó como lema. [VERIFICAR: "Gnóthi seautón", máxima délfica]
+Atenas, siglo quinto antes de Cristo. Sócrates repite una frase que se volvió inmortal: "Conócete a ti mismo". [PAUSA] Dato curioso: la frase ni siquiera era suya. Estaba escrita a la entrada del templo de Apolo, en Delfos, y Sócrates la adoptó como lema.
 
-Más de dos mil años después, en 1841, el escritor estadounidense Ralph Waldo Emerson publica un ensayo llamado "Confianza en uno mismo". Y su mensaje cabe en una frase: confía en ti mismo. [VERIFICAR: "Self-Reliance", 1841]
+Más de dos mil años después, en 1841, el escritor estadounidense Ralph Waldo Emerson publica un ensayo llamado "Confianza en uno mismo". Y su mensaje cabe en una frase: confía en ti mismo.
 
 Conócete. Confía en ti. Si juntas las dos ideas, resuelven buena parte de los problemas sociales que tenemos los humanos. Y fíjate en algo: las dos giran alrededor de lo mismo. "Tú mismo". [PAUSA] No es coincidencia.
 
@@ -119,7 +119,7 @@ No. Ser tú mismo no significa quedarte igual para siempre. Significa dejar de a
 
 Y otra trampa: que te importe menos lo que los demás piensan de ti no significa que te dejen de importar los demás. Al contrario. Significa cambiar la pregunta. En lugar de "¿cómo me estoy viendo?", te preguntas "¿cómo está la otra persona?".
 
-Y eso tiene respaldo. En 2017, investigadores de Harvard analizaron cientos de conversaciones y encontraron que la gente que hacía más preguntas —sobre todo preguntas de seguimiento, del tipo "¿y luego qué pasó?"— les caía mejor a los demás. [VERIFICAR: Huang, Yeomans, Brooks, Minson y Gino, 2017] No ganaban los más ingeniosos. Ganaban los más curiosos.
+Y eso tiene respaldo. En 2017, investigadores de Harvard analizaron cientos de conversaciones y encontraron que la gente que hacía más preguntas —sobre todo preguntas de seguimiento, del tipo "¿y luego qué pasó?"— les caía mejor a los demás. No ganaban los más ingeniosos. Ganaban los más curiosos.
 
 ¿Ves cómo todo encaja? Cuando dejas de vigilarte, por fin te queda espacio para ponerle atención a la otra persona. Y eso es lo que la gente recuerda.
 

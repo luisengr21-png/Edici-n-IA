@@ -29,7 +29,7 @@ Una camiseta vergonzosa que casi nadie vio, desconocidos a los que les caíste m
 ---
 
 ### Fuentes (para el comentario fijado o el final de la descripción)
-Se completan en la Fase 2, cuando confirmes los datos marcados con `[VERIFICAR]` en el guion:
+Datos verificados por el creador:
 - Eisenberger, Lieberman y Williams (2003), *Science*: el rechazo social y el dolor (Cyberball).
 - Gilovich, Medvec y Savitsky (2000), *Journal of Personality and Social Psychology*: el efecto reflector.
 - Boothby, Cooney, Sandstrom y Clark (2018), *Psychological Science*: la brecha de agrado.

@@ -106,5 +106,5 @@
 ---
 
 ### Notas
-- Los datos de los tres shorts son los mismos que tienen la marca `[VERIFICAR]` en el guion largo (Wegner 1987, Gilovich y colegas 2000, Boothby y colegas 2018). Si cambias algo al verificarlos, lo cambio también aquí.
+- Los datos de los tres shorts son los del guion largo (Wegner 1987, Gilovich y colegas 2000, Boothby y colegas 2018), ya verificados.
 - Los shorts usan 3 de los clips de Envato del largo (`escena_099`, `escena_065` y `escena_082`). No hay que descargar nada más.
