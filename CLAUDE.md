@@ -8,9 +8,13 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 - Las imágenes o clips realistas de personas (stock o IA) van sin rostros visibles: manos, siluetas, personas de espaldas, objetos y lugares.
 
 ## Automatizar todo
-- El creador **no tiene clips de stock propios**. Para las escenas `LIVE`, generar imágenes fotográficas con IA (ElevenLabs, `gpt-image-2.5-sunburst`, una variante por escena), guardarlas en `recursos/stock/escena_NNN.jpg` y animarlas con Ken Burns. En verticales, usar una imagen centrada sobre una versión desenfocada de la misma (`fit: 'blurfill'`).
+- Respaldo para escenas `LIVE` sin clip de Envato: imagen fotográfica generada con IA (ElevenLabs, `gpt-image-2.5-sunburst`, una variante por escena) en `recursos/stock/escena_NNN.jpg`, animada con Ken Burns. En verticales, imagen centrada sobre una versión desenfocada de la misma (`fit: 'blurfill'`).
 - **Audio (música y efectos de sonido): usar el conector de Epidemic Sound** para todo lo relacionado con audio: buscar, descargar y, si hace falta, ajustar la duración de las pistas (EditRecording). Guardar lo descargado en `recursos/musica/` y `recursos/sfx/`. La síntesis por código queda solo como respaldo si Epidemic Sound no está disponible.
-- **Visuales: el creador tiene conector con Envato** para que los videos no se vean genéricos. El conector actual solo permite *buscar* (no descargar ni licenciar), así que la forma de usarlo se define con el creador (ver el primer video nuevo).
+- **Visuales (escenas `LIVE`): Envato Elements, opción A elegida por el creador.** El conector solo busca, así que:
+  1. Al terminar la Fase 1, busco en Envato (`search_stock_video`, y `search_photos` si conviene) el mejor clip para cada escena `LIVE` (sin rostros visibles, sin logos) y entrego `entregas/<video>/06_clips_envato.md`: escena, tiempo, enlace del clip y **nombre exacto del archivo** (`escena_NNN.mp4`).
+  2. El creador descarga los clips (licencia registrada a su proyecto) y los deja en `recursos/stock/` con ese nombre.
+  3. En la Fase 2 el pipeline los toma solos. Si falta algún clip, se usa una imagen generada con IA para esa escena y se avisa en la lista de pendientes.
+- **Epidemic Sound ya está vinculado al canal de YouTube** (sin reclamos de Content ID).
 - Miniaturas: fondo generado con IA (4 variantes, elegir la mejor) + texto añadido con código usando las tipografías del canal.
 
 ## Narración
