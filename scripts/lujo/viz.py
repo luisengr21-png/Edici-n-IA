@@ -143,7 +143,7 @@ S(70, 'dark', [P(x=620, y=600, s=1.1, anim='none'), F('glass', x=1260, y=540, w=
 S(71, 'sepia', [CNT(2026, 1899, size=240, color='goldL', dur=1.2, sep=False), E('⏪', y=220, size=120)])
 S(72, 'sepia', [F('paper', x=700, y=520, w=480, h=640, ch='🎩', chSize=200, text='T. VEBLEN', font='serif', size=50), T('1899', x=1340, y=520, size=160, font='serif', color='goldL', at=0.4)])
 S(73, 'sepia', [E('🎩', x=560, y=470, size=220), E('💍', x=960, y=500, size=170, at=0.3), E('🐎', x=1360, y=480, size=230, at=0.6), T('"CONSUMO CONSPICUO"', y=860, size=90, font='serif', italic=True)])
-S(74, 'black', [], hud=False, cam='still')
+S(74, 'black', [T('LA PREGUNTA DE VERDAD…', size=70, color='#8a8590', at=0.4)], hud=False, cam='push')
 S(75, 'black', [T('¿POR QUÉ *AHORA*?', size=150, color='red', acc='white')], cam='push')
 
 # ───────────────────────── SECCIÓN 2 · Pieza 2 ─────────────────────────
@@ -237,7 +237,7 @@ S(146, 'dark', [E('🛒', x=960, y=440, size=320), T('¼  ¼  ¼  ¼', y=760, si
 S(147, 'dark', [RAIN('💧', n=26, speed=520, size=50), E('🪣', x=960, y=790, size=260)])
 S(148, 'dark', [BARS([{'label': 'SUELDO', 'from': 1.0, 'to': 0.12, 'color': 'green'}], dur=3.2, bw=260), RAIN('💧', n=10, speed=400, size=40)])
 S(149, 'dark', [PH(x=600, y=520, s=0.9, notif='Cargo automático · $9.99', faint=True, anim='none'), T('*ANESTESIA*', x=1300, y=520, size=130, font='serif', glow=True, w=900, at=0.3)])
-S(150, 'black', [], cam='still', hud=False)
+S(150, 'black', [T('LA PARTE MÁS *DOLOROSA*', size=70, color='#8a8590', acc='red', at=0.4)], cam='push', hud=False)
 LIVE(151, '💼')
 S(152, 'dark', [PH(x=960, y=520, big='$0.00', bigSize=110, color='red', sub='SALDO DISPONIBLE')])
 S(153, 'dark', [F('mag', x=960, y=520, w=520, h=700, text='FORTUNE', font='serif', size=96, sub='2003')])
@@ -269,7 +269,7 @@ S(174, 'dark', [PZ(y=460, size=200, done=4, icons=ICONS), T('4 / 4', y=780, size
 S(175, 'cream', [BAG(x=760, y=520, s=0.9), H(x=1440, y=560, s=0.55, op=0.6), M('check', x=760, y=860, size=150, at=0.6), M('x', x=1440, y=860, size=150, at=1.0)])
 S(176, 'dark', [PZ(y=500, size=230, icons=ICONS, labels=LABS, light=[0.2, 2.3, 99, 99])], hud=False)
 S(177, 'dark', [PZ(y=500, size=230, icons=ICONS, labels=LABS, light=[-1, -1, 0.2, 1.6])], hud=False)
-S(178, 'black', [], hud=False, cam='still')
+S(178, 'black', [T('…MÁS INCÓMODA', size=64, color='#6f6a75', at=0.2), LIGHT(at=2.6, c='rgba(255,230,160,0.18)')], hud=False, cam='push')
 S(179, 'black', [LIGHT(), BAG(x=960, y=560, s=1.1)], hud=False)
 S(180, 'black', [LIGHT(at=-1), BAG(x=960, y=560, s=1.1, anim='none'), TAG('PAGO INICIAL', x=1080, y=360, size=72, at=0.1)], hud=False)
 S(181, 'black', [LIGHT(at=-1), BAG(x=960, y=520, s=1.1, anim='none', house=True), T('…DE UNA VIDA *QUE NO LLEGA*', y=930, size=74, at=0.6)], hud=False)

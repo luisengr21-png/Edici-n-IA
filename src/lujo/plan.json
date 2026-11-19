@@ -2559,9 +2559,18 @@
    "sfx": "Riser → corte seco",
    "mus": "Silencio total",
    "bg": "black",
-   "els": [],
+   "els": [
+    {
+     "text": "LA PREGUNTA DE VERDAD…",
+     "y": 540,
+     "size": 70,
+     "color": "#8a8590",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
    "hud": false,
-   "cam": "still"
+   "cam": "push"
   },
   {
    "n": 75,
@@ -5692,8 +5701,18 @@
    "sfx": "Whoosh grave",
    "mus": "Baja a piano melancólico",
    "bg": "black",
-   "els": [],
-   "cam": "still",
+   "els": [
+    {
+     "text": "LA PARTE MÁS *DOLOROSA*",
+     "y": 540,
+     "size": 70,
+     "color": "#8a8590",
+     "acc": "red",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
    "hud": false
   },
   {
@@ -6675,9 +6694,24 @@
    "sfx": "—",
    "mus": "**Silencio total**",
    "bg": "black",
-   "els": [],
+   "els": [
+    {
+     "text": "…MÁS INCÓMODA",
+     "y": 540,
+     "size": 64,
+     "color": "#6f6a75",
+     "at": 0.2,
+     "k": "txt"
+    },
+    {
+     "x": 960,
+     "at": 2.6,
+     "c": "rgba(255,230,160,0.18)",
+     "k": "light"
+    }
+   ],
    "hud": false,
-   "cam": "still"
+   "cam": "push"
   },
   {
    "n": 179,
