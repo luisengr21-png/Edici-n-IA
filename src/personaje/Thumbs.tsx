@@ -11,6 +11,7 @@ const Shade: React.FC<{side: string}> = ({side}) => {
     top: 'linear-gradient(180deg, rgba(8,11,24,0.8) 0%, rgba(8,11,24,0.35) 32%, transparent 52%)',
     'top-left': 'radial-gradient(ellipse at 0% 0%, rgba(8,11,24,0.85) 0%, rgba(8,11,24,0.35) 40%, transparent 65%)',
     'top-right': 'radial-gradient(ellipse at 100% 0%, rgba(8,11,24,0.85) 0%, rgba(8,11,24,0.35) 40%, transparent 65%)',
+    'top-right-soft': 'radial-gradient(ellipse at 100% 0%, rgba(8,11,24,0.55) 0%, rgba(8,11,24,0.2) 38%, transparent 60%)',
     'top-left-light': 'radial-gradient(ellipse at 0% 0%, rgba(245,239,230,0.9) 0%, rgba(245,239,230,0.4) 40%, transparent 65%)',
   };
   return <AbsoluteFill style={{background: g[side]}} />;
@@ -35,7 +36,7 @@ const T2 = () => (
 );
 const T3 = () => (
   <>
-    <Shade side="top-right" />
+    <Shade side="top-right-soft" />
     <div style={big({right: 50, top: 50, width: 640, textAlign: 'right', fontSize: 104})}>
       ¿POR QUÉ DIJE <span style={{color: L.red}}>ESO</span>?
     </div>
