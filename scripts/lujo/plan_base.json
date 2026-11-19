@@ -1,6 +1,6 @@
 {
-"audioEnd": 911.0,
-"duration": 923.0,
+"audioEnd": 907.6,
+"duration": 919.6,
 "scenes": [
 {
 "n": 1,
@@ -2756,59 +2756,59 @@
 "mus": "—",
 "mark": "",
 "frag": "Enorme.",
-"end": 895.38
+"end": 895.18
 },
 {
 "n": 213,
 "section": "SECCIÓN 6 · Cierre y llamado",
-"start": 895.38,
+"start": 895.18,
 "tipo": "MOTION",
-"desc": "Siluetas mirándose entre sí con signos de interrogación (puente temático hacia el otro video).",
-"txt": "¿POR QUÉ NOS IMPORTA TANTO?",
-"sfx": "Whoosh",
+"desc": "Callback de la revelación: el bolso dorado con su etiqueta \"PAGO INICIAL\" y, alrededor, prendas del clóset con la misma etiqueta.",
+"txt": "¿CUÁNTOS \"PAGOS INICIALES\" HAY EN TU CLÓSET?",
+"sfx": "Whoosh + sparkle",
 "mus": "Outro con el beat del video",
 "mark": "",
-"frag": "Y si te quedaste pensando en por qué nos importa tanto lo que piensan los demás,",
-"end": 899.92
+"frag": "Y ahora dime tú: ¿cuántos \"pagos iniciales\" hay en tu clóset?",
+"end": 899.84
 },
 {
 "n": 214,
 "section": "SECCIÓN 6 · Cierre y llamado",
-"start": 899.92,
+"start": 899.84,
 "tipo": "MOTION",
-"desc": "La tarjeta de la pantalla final se agranda con un borde dorado brillante.",
-"txt": "MIRA ESTE 👉",
-"sfx": "Shimmer",
+"desc": "Globo de comentario grande que se escribe solo; el personaje \"Tú\" sonríe a un lado.",
+"txt": "💬 TE LEO EN LOS COMENTARIOS",
+"sfx": "Pop",
 "mus": "↳",
 "mark": "",
-"frag": "tengo un video sobre la ansiedad por el estatus que encaja perfecto con …",
-"end": 905.56
+"frag": "Te leo en los comentarios.",
+"end": 901.62
 },
 {
 "n": 215,
 "section": "SECCIÓN 6 · Cierre y llamado",
-"start": 905.56,
+"start": 901.62,
 "tipo": "MOTION",
-"desc": "Botón de suscribirse animado.",
+"desc": "Pantalla final limpia: el personaje \"Tú\" saluda y aparece el botón de suscribirse (espacio libre para los elementos de pantalla final de YouTube).",
 "txt": "SUSCRÍBETE",
 "sfx": "Click",
 "mus": "↳",
 "mark": "",
-"frag": "Y si este te sirvió, suscríbete. Es gratis.",
-"end": 908.88
+"frag": "Y si este video te sirvió, suscríbete. Es gratis.",
+"end": 905.12
 },
 {
 "n": 216,
 "section": "SECCIÓN 6 · Cierre y llamado",
-"start": 908.88,
+"start": 905.12,
 "tipo": "MOTION",
-"desc": "Al botón le cae una etiqueta: \"$0 / mes\"; mantener la pantalla final 10–15 s más con la música.",
+"desc": "Al botón le cae una etiqueta: \"$0 / mes\"; mantener la pantalla final 12 s más con la música.",
 "txt": "$0 / MES",
 "sfx": "Pop + ka-ching que se cancela",
 "mus": "Fade out al final de la pantalla final",
 "mark": "",
 "frag": "Y no te voy a cobrar en cuotas.",
-"end": 923.0
+"end": 919.6
 }
 ]
 }

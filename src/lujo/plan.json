@@ -1,6 +1,6 @@
 {
- "duration": 923.0,
- "audioEnd": 911.0,
+ "duration": 919.6,
+ "audioEnd": 907.6,
  "hudFrom": 62.82,
  "sections": {
   "0": 0.0,
@@ -9,7 +9,7 @@
   "3": 484.18,
   "4": 569.18,
   "5": 736.5,
-  "6": 895.38
+  "6": 895.18
  },
  "scenes": [
   {
@@ -7848,7 +7848,7 @@
   {
    "n": 212,
    "start": 894.32,
-   "end": 895.38,
+   "end": 895.18,
    "sec": 5,
    "mark": "",
    "sfx": "Impacto",
@@ -7869,85 +7869,113 @@
   },
   {
    "n": 213,
-   "start": 895.38,
-   "end": 899.92,
+   "start": 895.18,
+   "end": 899.84,
    "sec": 6,
    "mark": "",
-   "sfx": "Whoosh",
+   "sfx": "Whoosh + sparkle",
    "mus": "Outro con el beat del video",
    "bg": "dark",
    "els": [
     {
-     "pose": "stand",
-     "x": 620,
-     "y": 620,
-     "s": 0.85,
-     "k": "person"
-    },
-    {
-     "pose": "stand",
-     "x": 1300,
-     "y": 620,
-     "s": 0.85,
-     "flip": true,
-     "hood": "greenL",
-     "k": "person"
-    },
-    {
-     "ch": "❓",
      "x": 960,
-     "y": 330,
-     "size": 170,
+     "y": 460,
+     "s": 0.85,
+     "anim": "pop",
+     "k": "bag"
+    },
+    {
+     "text": "PAGO INICIAL",
+     "x": 1060,
+     "y": 270,
+     "size": 50,
+     "anim": "pop",
      "at": 0.3,
+     "k": "tag"
+    },
+    {
+     "ch": "👗",
+     "x": 470,
+     "y": 520,
+     "size": 160,
+     "anim": "pop",
+     "at": 0.5,
      "k": "emo"
     },
     {
-     "text": "¿POR QUÉ NOS IMPORTA TANTO?",
-     "y": 930,
-     "size": 72,
+     "text": "PAGO INICIAL",
+     "x": 520,
+     "y": 370,
+     "size": 32,
+     "anim": "pop",
+     "at": 0.6,
+     "k": "tag"
+    },
+    {
+     "ch": "👟",
+     "x": 1450,
+     "y": 560,
+     "size": 160,
+     "anim": "pop",
+     "at": 0.8,
+     "k": "emo"
+    },
+    {
+     "text": "PAGO INICIAL",
+     "x": 1500,
+     "y": 420,
+     "size": 32,
+     "anim": "pop",
+     "at": 0.9,
+     "k": "tag"
+    },
+    {
+     "text": "¿CUÁNTOS *\"PAGOS INICIALES\"* HAY EN TU CLÓSET?",
+     "y": 900,
+     "size": 64,
+     "w": 1800,
+     "at": 0.4,
      "k": "txt"
     }
    ]
   },
   {
    "n": 214,
-   "start": 899.92,
-   "end": 905.56,
+   "start": 899.84,
+   "end": 901.62,
    "sec": 6,
    "mark": "",
-   "sfx": "Shimmer",
+   "sfx": "Pop",
    "mus": "↳",
    "bg": "dark",
    "els": [
     {
-     "kind": "dark",
-     "x": 620,
-     "y": 540,
-     "w": 900,
-     "h": 510,
-     "text": "ANSIEDAD POR EL ESTATUS",
-     "font": "serif",
-     "size": 60,
-     "sub": "▶ MIRA ESTE VIDEO",
-     "anim": "pop",
+     "kind": "post",
+     "x": 820,
+     "y": 470,
+     "w": 980,
+     "h": 320,
+     "ch": "💬",
+     "chSize": 110,
+     "text": "TE LEO EN LOS COMENTARIOS",
+     "size": 56,
      "k": "frame"
     },
     {
-     "text": "MIRA ESTE 👉",
-     "y": 380,
-     "size": 72,
-     "x": 1460,
-     "w": 700,
+     "pose": "stand",
+     "x": 1520,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
      "at": 0.3,
-     "k": "txt"
+     "k": "person"
     }
-   ],
-   "hud": false
+   ]
   },
   {
    "n": 215,
-   "start": 905.56,
-   "end": 908.88,
+   "start": 901.62,
+   "end": 905.12,
    "sec": 6,
    "mark": "",
    "sfx": "Click",
@@ -7955,35 +7983,20 @@
    "bg": "dark",
    "els": [
     {
-     "kind": "dark",
-     "x": 620,
-     "y": 540,
-     "w": 900,
-     "h": 510,
-     "text": "ANSIEDAD POR EL ESTATUS",
-     "font": "serif",
-     "size": 60,
-     "sub": "▶ MIRA ESTE VIDEO",
-     "anim": "none",
-     "k": "frame"
-    },
-    {
-     "text": "MIRA ESTE 👉",
-     "y": 380,
-     "size": 72,
-     "x": 1460,
-     "w": 700,
-     "anim": "none",
-     "k": "txt"
+     "pose": "wave",
+     "x": 600,
+     "y": 620,
+     "s": 1.1,
+     "k": "person"
     },
     {
      "kind": "mag",
-     "x": 1460,
-     "y": 700,
-     "w": 480,
-     "h": 140,
+     "x": 1300,
+     "y": 560,
+     "w": 520,
+     "h": 150,
      "text": "SUSCRÍBETE",
-     "size": 60,
+     "size": 64,
      "at": 0.1,
      "k": "frame"
     }
@@ -7992,8 +8005,8 @@
   },
   {
    "n": 216,
-   "start": 908.88,
-   "end": 923.0,
+   "start": 905.12,
+   "end": 919.6,
    "sec": 6,
    "mark": "",
    "sfx": "Pop + ka-ching que se cancela",
@@ -8001,44 +8014,30 @@
    "bg": "dark",
    "els": [
     {
-     "kind": "dark",
-     "x": 620,
-     "y": 540,
-     "w": 900,
-     "h": 510,
-     "text": "ANSIEDAD POR EL ESTATUS",
-     "font": "serif",
-     "size": 60,
-     "sub": "▶ MIRA ESTE VIDEO",
+     "pose": "wave",
+     "x": 600,
+     "y": 620,
+     "s": 1.1,
      "anim": "none",
-     "k": "frame"
-    },
-    {
-     "text": "MIRA ESTE 👉",
-     "y": 380,
-     "size": 72,
-     "x": 1460,
-     "w": 700,
-     "anim": "none",
-     "k": "txt"
+     "k": "person"
     },
     {
      "kind": "mag",
-     "x": 1460,
-     "y": 700,
-     "w": 480,
-     "h": 140,
+     "x": 1300,
+     "y": 560,
+     "w": 520,
+     "h": 150,
      "text": "SUSCRÍBETE",
-     "size": 60,
+     "size": 64,
      "anim": "none",
      "k": "frame"
     },
     {
      "text": "$0 / MES",
-     "x": 1580,
-     "y": 820,
+     "x": 1420,
+     "y": 700,
      "size": 56,
-     "at": 0.8,
+     "at": 0.6,
      "k": "tag"
     }
    ],

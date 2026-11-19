@@ -5,7 +5,7 @@ Las indicaciones de locución del guion se pasaron a etiquetas de audio: `[PAUSA
 
 | Archivo | Duración | Nota |
 |---|---|---|
-| `largo_narracion_completa.mp3` | 15:11 | Las 6 partes unidas con 0.8 s de aire entre secciones, normalizado a −16 LUFS |
+| `largo_narracion_completa.mp3` | 15:08 | Las 6 partes unidas con 0.8 s de aire entre secciones, normalizado a −16 LUFS. El cierre se reemplazó (desde 14:55) por `partes/largo_07_cierre_nuevo.mp3`, sin referencia a otro video |
 | `short_01_si-te-tratan-mal.mp3` | 0:31 | −16 LUFS |
 | `short_02_bolso-pago-inicial.mp3` | 0:28 | −16 LUFS |
 | `short_03_parka-antartida.mp3` | 0:32 | −16 LUFS |

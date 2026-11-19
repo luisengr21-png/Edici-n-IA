@@ -3,7 +3,7 @@
 ## Entregado
 | Archivo | Formato | Duración |
 |---|---|---|
-| `la-trampa-de-la-pobreza-de-lujo.mp4` | 1920×1080 · 30 fps · H.264 + AAC · −14 LUFS | 15:23 |
+| `la-trampa-de-la-pobreza-de-lujo.mp4` | 1920×1080 · 30 fps · H.264 + AAC · −14 LUFS | 15:20 |
 | `short_01_si-te-tratan-mal.mp4` | 1080×1920 · 30 fps · subtítulos quemados | 0:31 |
 | `short_02_bolso-pago-inicial.mp4` | 1080×1920 · 30 fps · subtítulos quemados | 0:28 |
 | `short_03_parka-antartida.mp4` | 1080×1920 · 30 fps · subtítulos quemados | 0:33 |
@@ -42,7 +42,7 @@ Funcionan bien con ilustración propia y emojis; estas son ideas para subirlas d
 - **Escena 161 (Pretty Woman, 1990):** es una boutique genérica con palmeras. **No uses fotogramas de la película** (tienen derechos).
 - **Escena 18 (la mano de titiritero):** quedaría mejor con hilos dibujados hasta la silueta.
 - **Escena 205 (la jaula se abre):** la jaula se levanta en lugar de abrir la puerta. Si quieres, animo la puerta.
-- **Pantalla final (escenas 214–216):** el espacio de la tarjeta «Ansiedad por el estatus» y el botón «Suscríbete» es para colocar ahí los **elementos de pantalla final de YouTube**, que duran 12 s.
+- **Pantalla final (escenas 215–216):** el botón «Suscríbete» y el espacio libre a la derecha son para colocar los **elementos de pantalla final de YouTube** (12 s). El cierre ya no menciona ningún otro video.
 
 ## 5. Datos
 Confirmaste los datos; ya quité las marcas `[VERIFICAR]` del guion.

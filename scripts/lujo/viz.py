@@ -311,11 +311,11 @@ S(211, 'shop', [SEL('shock', x=960, y=620, s=1.35)], shake=0.05)
 S(212, 'dark', [ST('ENORME.', size=210, color='goldL', at=0.1)], shake=0.25)
 
 # ───────────────────────── SECCIÓN 6 · Cierre ─────────────────────────
-ENDCARD = F('dark', x=620, y=540, w=900, h=510, text='ANSIEDAD POR EL ESTATUS', font='serif', size=60, sub='▶ MIRA ESTE VIDEO', anim='none')
-S(213, 'dark', [P(x=620, y=620, s=0.85), P(x=1300, y=620, s=0.85, flip=True, hood='greenL'), E('❓', x=960, y=330, size=170, at=0.3), T('¿POR QUÉ NOS IMPORTA TANTO?', y=930, size=72)])
-S(214, 'dark', [dict(ENDCARD, anim='pop'), T('MIRA ESTE 👉', x=1460, y=380, size=72, w=700, at=0.3)], hud=False)
-S(215, 'dark', [ENDCARD, T('MIRA ESTE 👉', x=1460, y=380, size=72, w=700, anim='none'), F('mag', x=1460, y=700, w=480, h=140, text='SUSCRÍBETE', size=60, at=0.1)], hud=False)
-S(216, 'dark', [ENDCARD, T('MIRA ESTE 👉', x=1460, y=380, size=72, w=700, anim='none'), F('mag', x=1460, y=700, w=480, h=140, text='SUSCRÍBETE', size=60, anim='none'), TAG('$0 / MES', x=1580, y=820, size=56, at=0.8)], hud=False, cam='still')
+CLOSET = lambda an: [BAG(x=960, y=460, s=0.85, anim=an), TAG('PAGO INICIAL', x=1060, y=270, size=50, anim=an, at=0.3), E('👗', x=470, y=520, size=160, anim=an, at=0.5), TAG('PAGO INICIAL', x=520, y=370, size=32, anim=an, at=0.6), E('👟', x=1450, y=560, size=160, anim=an, at=0.8), TAG('PAGO INICIAL', x=1500, y=420, size=32, anim=an, at=0.9)]
+S(213, 'dark', CLOSET('pop') + [T('¿CUÁNTOS *"PAGOS INICIALES"* HAY EN TU CLÓSET?', y=900, size=64, w=1800, at=0.4)])
+S(214, 'dark', [F('post', x=820, y=470, w=980, h=320, ch='💬', chSize=110, text='TE LEO EN LOS COMENTARIOS', size=56), P(x=1520, y=640, s=1.0, mood='happy', at=0.3)])
+S(215, 'dark', [P('wave', x=600, y=620, s=1.1), F('mag', x=1300, y=560, w=520, h=150, text='SUSCRÍBETE', size=64, at=0.1)], hud=False)
+S(216, 'dark', [P('wave', x=600, y=620, s=1.1, anim='none'), F('mag', x=1300, y=560, w=520, h=150, text='SUSCRÍBETE', size=64, anim='none'), TAG('$0 / MES', x=1420, y=700, size=56, at=0.6)], hud=False, cam='still')
 
 # ───────────────────────── salida ─────────────────────────
 missing = [n for n in scenes if n not in SPEC]

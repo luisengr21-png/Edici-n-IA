@@ -223,7 +223,7 @@ R('Gran error Para ella', '2D', 'La vendedora con la boca abierta (estilizado).'
 R('Enorme', 'MOTION', 'Sello gigante.', 'ENORME.', 'Impacto', '—')
 
 S('SECCIÓN 6 · Cierre y llamado')
-R('Y si te quedaste pensando', 'MOTION', 'Siluetas mirándose entre sí con signos de interrogación (puente temático hacia el otro video).', '¿POR QUÉ NOS IMPORTA TANTO?', 'Whoosh', 'Outro con el beat del video')
-R('tengo un video sobre la ansiedad', 'MOTION', 'La tarjeta de la pantalla final se agranda con un borde dorado brillante.', 'MIRA ESTE 👉', 'Shimmer', '↳')
-R('Y si este te sirvió suscríbete', 'MOTION', 'Botón de suscribirse animado.', 'SUSCRÍBETE', 'Click', '↳')
-R('Y no te voy a cobrar en cuotas', 'MOTION', 'Al botón le cae una etiqueta: "$0 / mes"; mantener la pantalla final 10–15 s más con la música.', '$0 / MES', 'Pop + ka-ching que se cancela', 'Fade out al final de la pantalla final')
+R('Y ahora dime tú', 'MOTION', 'Callback de la revelación: el bolso dorado con su etiqueta "PAGO INICIAL" y, alrededor, prendas del clóset con la misma etiqueta.', '¿CUÁNTOS "PAGOS INICIALES" HAY EN TU CLÓSET?', 'Whoosh + sparkle', 'Outro con el beat del video')
+R('Te leo en los comentarios', 'MOTION', 'Globo de comentario grande que se escribe solo; el personaje "Tú" sonríe a un lado.', '💬 TE LEO EN LOS COMENTARIOS', 'Pop', '↳')
+R('Y si este video te sirvió', 'MOTION', 'Pantalla final limpia: el personaje "Tú" saluda y aparece el botón de suscribirse (espacio libre para los elementos de pantalla final de YouTube).', 'SUSCRÍBETE', 'Click', '↳')
+R('Y no te voy a cobrar en cuotas', 'MOTION', 'Al botón le cae una etiqueta: "$0 / mes"; mantener la pantalla final 12 s más con la música.', '$0 / MES', 'Pop + ka-ching que se cancela', 'Fade out al final de la pantalla final')

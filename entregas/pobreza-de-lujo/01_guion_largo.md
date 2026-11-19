@@ -182,18 +182,16 @@ No te voy a mentir: no te vas a volver millonario en tres meses. Pero vas a hace
 
 ---
 
-## SECCIÓN 6 · Cierre y llamado · 15:52 – 16:13
+## SECCIÓN 6 · Cierre y llamado · 14:55 – 15:08 (tiempo real)
 
-Y si te quedaste pensando en por qué nos importa tanto lo que piensan los demás, tengo un video sobre la ansiedad por el estatus que encaja perfecto con este. Te lo dejo aquí. [PAUSA] Y si este te sirvió, suscríbete. Es gratis. [TONO IRÓNICO] Y no te voy a cobrar en cuotas.
-
-> Nota: si el video de la ansiedad por el estatus no está publicado todavía, cambia esa frase por "Y si este te sirvió, suscríbete…".
+Y ahora dime tú: ¿cuántos "pagos iniciales" hay en tu clóset? [PAUSA] Te leo en los comentarios. [PAUSA] Y si este video te sirvió, suscríbete. Es gratis. [TONO IRÓNICO] Y no te voy a cobrar en cuotas.
 
 ---
 
 ## Conteo
 
-- **Palabras narradas:** **2,374** (sin subtítulos, notas ni indicaciones entre corchetes)
-- **Duración estimada:** **≈ 16 minutos** (15:50 de narración a 150 palabras por minuto + unos 20 s de pausas marcadas). Según tu ritmo real puede quedar entre 14 y 17 minutos; en la Fase 2 manda el audio
+- **Palabras narradas:** **2,357** (sin subtítulos, notas ni indicaciones entre corchetes)
+- **Duración real de la narración:** **15:08** (video completo: 15:20 con la pantalla final)
 
 ---
 
@@ -255,4 +253,4 @@ Y si te quedaste pensando en por qué nos importa tanto lo que piensan los demá
 - **Los autores del estudio Pretty Woman (Ward y Dahl, 2014) y su matiz:** el efecto es más fuerte con marcas a las que uno aspira.
 - **La revelación "el bolso es el pago inicial de una vida que no llega":** es la recompensa final que responde a la pregunta del gancho.
 - **El plan de 90 días con pasos concretos:** cancelar, recortar e invertir en habilidades y proyectos propios.
-- **El cierre con la vendedora y el llamado conectado a tu video de la ansiedad por el estatus:** el chiste de "no te voy a cobrar en cuotas" amarra el tema.
+- **El cierre con la vendedora y una pregunta para los comentarios** ("¿cuántos 'pagos iniciales' hay en tu clóset?"), que retoma la revelación del video sin mandar a otro video. El chiste de "no te voy a cobrar en cuotas" amarra el tema.

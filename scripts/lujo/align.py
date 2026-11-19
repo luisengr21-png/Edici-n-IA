@@ -22,7 +22,7 @@ for i in range(len(tmap)):
         elif nxt is None: tmap[i]=tmap[prev]+0.4*(i-prev)
         else: tmap[i]=tmap[prev]+(tmap[nxt]-tmap[prev])*(i-prev)/(nxt-prev)
 cov=len(known)/len(words)
-AUDIO_END=911.0
+AUDIO_END=907.6
 sec=None; out=[]; n=0
 for r in located:
     if 'section' in r: sec=r['section']; continue

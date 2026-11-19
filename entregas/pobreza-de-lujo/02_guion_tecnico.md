@@ -1,7 +1,7 @@
 # La trampa de la pobreza de lujo — Guion técnico de edición
 
-**Formato:** 1920×1080 · 16:9 · 30 fps · **216 escenas** · narración **15:11** + 12 s de pantalla final
-**Tiempos reales (Fase 2):** alineados palabra por palabra con la narración generada (`audio/pobreza-de-lujo/largo_narracion_completa.mp3`, 15:11). Duración total del video: 15:23 con la pantalla final.
+**Formato:** 1920×1080 · 16:9 · 30 fps · **216 escenas** · narración **15:08** + 12 s de pantalla final
+**Tiempos reales (Fase 2):** alineados palabra por palabra con la narración generada (`audio/pobreza-de-lujo/largo_narracion_completa.mp3`, 15:08). Duración total del video: 15:20 con la pantalla final.
 
 ## Leyenda
 - **Tipo de visual:** `2D` = ilustración o animación con personajes · `MOTION` = motion graphics (texto, íconos, gráficas, mapas) · `LIVE` = clip de stock sin rostros (las palabras clave en inglés para buscarlo van en la descripción).
@@ -274,13 +274,13 @@
 | 209 | 14:45.1–14:47.3 | «La próxima vez, sonríele.» | `2D` | La silueta saluda con la mano, tranquila. | 🙂 | Pop | ↳ |
 | 210 | 14:47.3–14:51.2 | «Y sal de esa tienda con las manos vacías y la cuenta llena.» | `2D` | Sale con las manos vacías; la app del banco en verde sube. | MANOS VACÍAS · CUENTA LLENA | Campanita de puerta + ding positivo | ↳ |
 | 211 ⚡ | 14:51.2–14:54.3 | «Gran error. Para ella.» | `2D` | La vendedora con la boca abierta (estilizado). | — | Record scratch | Stop |
-| 212 | 14:54.3–14:55.4 | «Enorme.» | `MOTION` | Sello gigante. | ENORME. | Impacto | — |
+| 212 | 14:54.3–14:55.2 | «Enorme.» | `MOTION` | Sello gigante. | ENORME. | Impacto | — |
 
 ### SECCIÓN 6 · Cierre y llamado
 
 | # | Tiempo aprox. | Narración (fragmento) | Tipo de visual | Descripción del visual | Texto en pantalla | Efectos de sonido | Música |
 |---|---|---|---|---|---|---|---|
-| 213 | 14:55.4–14:59.9 | «Y si te quedaste pensando en por qué nos importa tanto lo que piensan los demás,» | `MOTION` | Siluetas mirándose entre sí con signos de interrogación (puente temático hacia el otro video). | ¿POR QUÉ NOS IMPORTA TANTO? | Whoosh | Outro con el beat del video |
-| 214 | 14:59.9–15:05.6 | «tengo un video sobre la ansiedad por el estatus que encaja perfecto con …» | `MOTION` | La tarjeta de la pantalla final se agranda con un borde dorado brillante. | MIRA ESTE 👉 | Shimmer | ↳ |
-| 215 | 15:05.6–15:08.9 | «Y si este te sirvió, suscríbete. Es gratis.» | `MOTION` | Botón de suscribirse animado. | SUSCRÍBETE | Click | ↳ |
-| 216 | 15:08.9–15:23.0 | «Y no te voy a cobrar en cuotas.» | `MOTION` | Al botón le cae una etiqueta: "$0 / mes"; mantener la pantalla final 10–15 s más con la música. | $0 / MES | Pop + ka-ching que se cancela | Fade out al final de la pantalla final |
+| 213 | 14:55.2–14:59.8 | «Y ahora dime tú: ¿cuántos "pagos iniciales" hay en tu clóset?» | `MOTION` | Callback de la revelación: el bolso dorado con su etiqueta "PAGO INICIAL" y, alrededor, prendas del clóset con la misma etiqueta. | ¿CUÁNTOS "PAGOS INICIALES" HAY EN TU CLÓSET? | Whoosh + sparkle | Outro con el beat del video |
+| 214 | 14:59.8–15:01.6 | «Te leo en los comentarios.» | `MOTION` | Globo de comentario grande; el personaje "Tú" sonríe a un lado. | 💬 TE LEO EN LOS COMENTARIOS | Pop | ↳ |
+| 215 | 15:01.6–15:05.1 | «Y si este video te sirvió, suscríbete. Es gratis.» | `MOTION` | Pantalla final limpia: el personaje "Tú" saluda y aparece el botón de suscribirse (espacio libre para los elementos de pantalla final de YouTube). | SUSCRÍBETE | Click | ↳ |
+| 216 | 15:05.1–15:19.6 | «Y no te voy a cobrar en cuotas.» | `MOTION` | Al botón le cae una etiqueta "$0 / mes"; la pantalla final se mantiene 12 s con la música. | $0 / MES | Pop + ka-ching que se cancela | Fade out al final de la pantalla final |
