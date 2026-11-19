@@ -17,6 +17,11 @@ import personajePlan from './personaje/plan.json';
 import {ShortVideo as PersonajeShort} from './personaje/Shorts';
 import personajeShorts from './personaje/shorts.json';
 import {Thumb as PersonajeThumb} from './personaje/Thumbs';
+import {BurnoutVideo} from './burnout/Main';
+import burnoutPlan from './burnout/plan.json';
+import {ShortVideo as BurnoutShort} from './burnout/Shorts';
+import burnoutShorts from './burnout/shorts.json';
+import {Thumb as BurnoutThumb} from './burnout/Thumbs';
 
 export const Root: React.FC = () => (
   <>
@@ -87,6 +92,13 @@ export const Root: React.FC = () => (
     ))}
     {[1, 2, 3, 4, 5].map((n) => (
       <Composition key={`pm${n}`} id={`PersonajeMiedoMiniatura${n}`} component={PersonajeThumb} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
+    ))}
+    <Composition id="NoEsPereza" component={BurnoutVideo} durationInFrames={Math.round(burnoutPlan.duration * 30)} fps={30} width={1920} height={1080} />
+    {(burnoutShorts as any[]).map((s) => (
+      <Composition key={`b${s.id}`} id={`NoEsPereza${s.id}`} component={BurnoutShort} defaultProps={{id: s.id}} durationInFrames={Math.round(s.duration * 30)} fps={30} width={1080} height={1920} />
+    ))}
+    {[1, 2, 3, 4, 5].map((n) => (
+      <Composition key={`bm${n}`} id={`NoEsPerezaMiniatura${n}`} component={BurnoutThumb} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
     ))}
   </>
 );

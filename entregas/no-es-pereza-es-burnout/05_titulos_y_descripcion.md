@@ -24,7 +24,17 @@ La desconexión, la pasión que se apaga, la mecha corta, la batería al 3 %, la
 #Burnout #SaludMental #Psicologia #Pereza #Agotamiento
 
 **Capítulos**
-[CAPÍTULOS – se agregan en la Fase 2]
+0:00 ¿Pereza o algo más?
+1:11 Señal 1: te sientes desconectado
+2:13 Señal 2: antes estabas motivado
+3:06 Señal 3: la pasión que se apaga
+3:52 Señal 4: la mecha corta
+4:49 Señal 5: la batería en rojo
+6:02 Señal 6: llegó poco a poco
+6:19 Las 5 etapas del burnout
+7:29 La pregunta que lo cambia todo
+8:08 Por dónde empezar
+8:33 Cierre
 
 > Música y efectos de sonido: Epidemic Sound. Recursos visuales: Envato Elements. Narración generada con IA (ElevenLabs).
 > Este video es informativo y no reemplaza la atención de un profesional de la salud mental.
@@ -32,7 +42,7 @@ La desconexión, la pasión que se apaga, la mecha corta, la batería al 3 %, la
 ---
 
 ### Fuentes (para el comentario fijado o el final de la descripción)
-Se completan en la Fase 2, cuando confirmes los datos marcados con `[VERIFICAR]` en el guion:
-- La encuesta en EE. UU. sobre síntomas de burnout en adultos (~75 %, más del 40 % graves): falta la fuente exacta.
+Datos verificados por el creador:
+- La encuesta en EE. UU. sobre síntomas de burnout en adultos (~75 %, más del 40 % graves).
 - El modelo de las cinco etapas del burnout (entusiasmo, estancamiento, frustración, apatía y burnout): se parece al de Edelwich y Brodsky (1980), *Burn-out: Stages of Disillusionment in the Helping Professions*.
 - La despersonalización como parte del burnout: Maslach y Jackson, *Maslach Burnout Inventory*.

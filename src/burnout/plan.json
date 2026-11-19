@@ -1,0 +1,4864 @@
+{
+ "duration": 539.88,
+ "audioEnd": 527.88,
+ "sections": {
+  "0": 0.0,
+  "1": 71.18,
+  "2": 186.72,
+  "3": 289.76,
+  "4": 362.2,
+  "5": 449.68,
+  "6": 513.46
+ },
+ "scenes": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 3.26,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Reloj de pared + ambiente de tarde",
+   "mus": "Pad cálido y lento",
+   "bg": "afternoon",
+   "els": [
+    {
+     "mood": "tired",
+     "x": 820,
+     "y": 780,
+     "s": 1.1,
+     "blanket": "#3b5bdb",
+     "k": "bed"
+    },
+    {
+     "ch": "🕓",
+     "x": 380,
+     "y": 240,
+     "size": 150,
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 2,
+   "start": 3.26,
+   "end": 9.72,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Notificaciones ×3",
+   "mus": "↳",
+   "bg": "afternoon",
+   "els": [
+    {
+     "mood": "tired",
+     "x": 820,
+     "y": 780,
+     "s": 1.1,
+     "blanket": "#3b5bdb",
+     "anim": "none",
+     "k": "bed"
+    },
+    {
+     "texts": [
+      "3 correos nuevos",
+      "Mensaje sin leer",
+      "Recordatorio: pagar la luz",
+      "¿Ya lo hiciste?",
+      "Llamada perdida",
+      "La tarea vence hoy",
+      "Te estamos esperando",
+      "¿Sigues ahí?"
+     ],
+     "n": 8,
+     "at": 0.2,
+     "dur": 4.5,
+     "k": "notifs"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 9.72,
+   "end": 12.12,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Suspiro suave",
+   "mus": "↳",
+   "bg": "afternoon",
+   "els": [
+    {
+     "mood": "tired",
+     "x": 1240,
+     "y": 930,
+     "s": 2.0,
+     "blanket": "#3b5bdb",
+     "anim": "none",
+     "slowBlink": true,
+     "k": "bed"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 4,
+   "start": 12.12,
+   "end": 17.14,
+   "sec": 0,
+   "mark": "⚡",
+   "sfx": "Golpe + sello",
+   "mus": "Corte seco",
+   "bg": "afternoon",
+   "els": [
+    {
+     "mood": "tired",
+     "x": 820,
+     "y": 780,
+     "s": 1.1,
+     "blanket": "#3b5bdb",
+     "anim": "none",
+     "k": "bed"
+    },
+    {
+     "text": "FLOJO",
+     "x": 820,
+     "y": 770,
+     "size": 96,
+     "at": 0.5,
+     "k": "label"
+    }
+   ],
+   "shake": 0.75
+  },
+  {
+   "n": 5,
+   "start": 17.14,
+   "end": 20.24,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Papel despegándose",
+   "mus": "Entra pulso de intriga",
+   "bg": "afternoon",
+   "els": [
+    {
+     "mood": "worried",
+     "x": 820,
+     "y": 780,
+     "s": 1.1,
+     "blanket": "#3b5bdb",
+     "anim": "none",
+     "k": "bed"
+    },
+    {
+     "text": "FLOJO",
+     "x": 820,
+     "y": 770,
+     "size": 96,
+     "anim": "none",
+     "peel": 0.5,
+     "wobble": 0.2,
+     "k": "label"
+    },
+    {
+     "text": "¿EQUIVOCADA?",
+     "y": 170,
+     "size": 120,
+     "font": "title",
+     "color": "goldL",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 20.24,
+   "end": 27.1,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "size": 1.8,
+     "lock": false,
+     "float": 8,
+     "k": "envelope"
+    },
+    {
+     "text": "UNA PREGUNTA",
+     "y": 860,
+     "size": 120,
+     "font": "title",
+     "color": "cream",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 27.1,
+   "end": 32.78,
+   "sec": 0,
+   "mark": "🪝",
+   "sfx": "Candado",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "size": 1.8,
+     "mx": 780,
+     "my": -400,
+     "mAt": 3.8,
+     "mDur": 0.9,
+     "out": 4.4,
+     "k": "envelope"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 8,
+   "start": 32.78,
+   "end": 36.02,
+   "sec": 0,
+   "mark": "⚡",
+   "sfx": "Cerillo encendiéndose + impacto",
+   "mus": "Golpe musical",
+   "bg": "black",
+   "els": [
+    {
+     "src": "burnout/graficos/overlay_brasas.webm",
+     "len": 20,
+     "op": 0.6,
+     "k": "overlay"
+    },
+    {
+     "src": "burnout/3d/3d_cerillo.png",
+     "x": 960,
+     "y": 600,
+     "w": 900,
+     "flames": [
+      [
+       0.53,
+       0.37,
+       0.75
+      ],
+      [
+       0.5850000000000001,
+       0.39,
+       0.75
+      ],
+      [
+       0.64,
+       0.41,
+       0.75
+      ],
+      [
+       0.6950000000000001,
+       0.43,
+       0.75
+      ],
+      [
+       0.75,
+       0.45,
+       0.75
+      ],
+      [
+       0.805,
+       0.47,
+       0.75
+      ],
+      [
+       0.8600000000000001,
+       0.49,
+       0.75
+      ]
+     ],
+     "fireAt": 0.25,
+     "fireOut": 2.4,
+     "char": 2.3,
+     "k": "img"
+    },
+    {
+     "text": "BURNOUT",
+     "y": 170,
+     "size": 190,
+     "font": "title",
+     "color": "gold",
+     "glow": true,
+     "at": 0.3,
+     "k": "txt"
+    }
+   ],
+   "flash": true,
+   "env": true
+  },
+  {
+   "n": 9,
+   "start": 36.02,
+   "end": 38.56,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Brasas crepitando",
+   "mus": "↳",
+   "bg": "ember",
+   "els": [
+    {
+     "src": "burnout/graficos/overlay_brasas.webm",
+     "len": 20,
+     "op": 0.85,
+     "k": "overlay"
+    },
+    {
+     "k": "embers"
+    },
+    {
+     "text": "SÍNDROME DE\n*ESTAR QUEMADO*",
+     "y": 540,
+     "size": 130,
+     "font": "title",
+     "acc": "gold",
+     "k": "txt"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 10,
+   "start": 38.56,
+   "end": 41.54,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Bip descendente ×3",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "to": 0.08,
+     "x": 480,
+     "y": 470,
+     "w": 420,
+     "dur": 2.0,
+     "k": "battery",
+     "from": 0.85
+    },
+    {
+     "to": 0.08,
+     "x": 960,
+     "y": 470,
+     "w": 420,
+     "lAt": 0.5,
+     "dur": 2.0,
+     "k": "battery",
+     "from": 0.85
+    },
+    {
+     "to": 0.08,
+     "x": 1440,
+     "y": 470,
+     "w": 420,
+     "lAt": 0.7,
+     "dur": 2.0,
+     "k": "battery",
+     "from": 0.85
+    },
+    {
+     "text": "EMOCIONAL",
+     "y": 720,
+     "size": 64,
+     "x": 480,
+     "k": "txt"
+    },
+    {
+     "text": "FÍSICO",
+     "y": 720,
+     "size": 64,
+     "x": 960,
+     "at": 0.3,
+     "k": "txt"
+    },
+    {
+     "text": "MENTAL",
+     "y": 720,
+     "size": 64,
+     "x": 1440,
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 11,
+   "start": 41.54,
+   "end": 46.62,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Silbido de presión",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "src": "burnout/3d/3d_manometro.png",
+     "x": 960,
+     "y": 500,
+     "w": 760,
+     "shake": 3,
+     "glow": "red",
+     "pulse": 4,
+     "k": "img"
+    },
+    {
+     "text": "ESTRÉS",
+     "y": 950,
+     "size": 120,
+     "font": "title",
+     "color": "red",
+     "at": 0.8,
+     "k": "txt"
+    }
+   ],
+   "env": true,
+   "shake": 2.5
+  },
+  {
+   "n": 12,
+   "start": 46.62,
+   "end": 47.74,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Whoosh suave",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "n": 7,
+     "y": 360,
+     "gap": 30,
+     "k": "row"
+    },
+    {
+     "ch": "🔍",
+     "x": 260,
+     "y": 430,
+     "size": 220,
+     "mx": 1400,
+     "mAt": 0.0,
+     "mDur": 1.0,
+     "anim": "none",
+     "k": "emo"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 13,
+   "start": 47.74,
+   "end": 49.92,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "src": "burnout/graficos/mapa.jpg",
+     "x": 960,
+     "y": 600,
+     "w": 1800,
+     "h": 760,
+     "pos": "center 75%",
+     "op": 0.22,
+     "anim": "fade",
+     "k": "img"
+    },
+    {
+     "text": "ENCUESTA · EE. UU.",
+     "x": 960,
+     "y": 540,
+     "w": 900,
+     "size": 70,
+     "ch": "📋",
+     "k": "study"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 14,
+   "start": 49.92,
+   "end": 53.76,
+   "sec": 0,
+   "mark": "⚡",
+   "sfx": "Pop ×3",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "n": 4,
+     "y": 230,
+     "tint": 3,
+     "at": 0.3,
+     "step": 0.45,
+     "k": "row"
+    },
+    {
+     "text": "*3* DE CADA *4*",
+     "y": 880,
+     "size": 130,
+     "acc": "gold",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 15,
+   "start": 53.76,
+   "end": 57.66,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Riser corto + golpe",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "text": "+40 % *GRAVES*",
+     "y": 380,
+     "size": 130,
+     "acc": "red",
+     "k": "txt"
+    },
+    {
+     "to": 0.42,
+     "redAt": 0.4,
+     "x": 960,
+     "y": 640,
+     "w": 1300,
+     "vAt": 0.4,
+     "k": "pct"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 16,
+   "start": 57.66,
+   "end": 62.54,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Whoosh partido",
+   "mus": "Baja",
+   "bg": "room",
+   "els": [
+    {
+     "kind": "sofa",
+     "x": 480,
+     "y": 760,
+     "s": 0.7,
+     "k": "prop"
+    },
+    {
+     "pose": "sit",
+     "x": 460,
+     "y": 600,
+     "s": 0.8,
+     "mood": "tired",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "kind": "sofa",
+     "x": 1440,
+     "y": 760,
+     "s": 0.7,
+     "k": "prop"
+    },
+    {
+     "pose": "sit",
+     "x": 1420,
+     "y": 600,
+     "s": 0.8,
+     "mood": "tired",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "x": 960,
+     "k": "vline"
+    },
+    {
+     "text": "¿PEREZA?",
+     "y": 170,
+     "size": 90,
+     "x": 480,
+     "color": "ash",
+     "k": "txt"
+    },
+    {
+     "text": "¿BURNOUT?",
+     "y": 170,
+     "size": 90,
+     "x": 1440,
+     "color": "gold",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "env": true
+  },
+  {
+   "n": 17,
+   "start": 62.54,
+   "end": 65.54,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Ambiente de cuarto",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "",
+     "k": "live",
+     "src": "burnout/stock/escena_017.mp4",
+     "pan": 1
+    }
+   ],
+   "paper": 0.15,
+   "env": true
+  },
+  {
+   "n": 18,
+   "start": 65.54,
+   "end": 71.18,
+   "sec": 0,
+   "mark": "🪝",
+   "sfx": "Impacto grande",
+   "mus": "Golpe y entra el tema principal",
+   "bg": "ember",
+   "els": [
+    {
+     "src": "burnout/graficos/overlay_brasas.webm",
+     "len": 20,
+     "op": 0.7,
+     "k": "overlay"
+    },
+    {
+     "text": "NO ES *PEREZA*,\nES *BURNOUT*",
+     "y": 540,
+     "size": 170,
+     "font": "title",
+     "acc": "gold",
+     "glow": true,
+     "stagger": 0.05,
+     "k": "txt"
+    }
+   ],
+   "flash": true,
+   "shake": 0.05,
+   "hud": 0,
+   "env": true
+  },
+  {
+   "n": 19,
+   "start": 71.18,
+   "end": 72.5,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Golpe de señal (firma del video)",
+   "mus": "Lo-fi melancólico",
+   "bg": "ember",
+   "els": [
+    {
+     "n": 30,
+     "k": "embers"
+    },
+    {
+     "text": "SEÑAL *1*",
+     "y": 520,
+     "size": 230,
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 20,
+   "start": 72.5,
+   "end": 75.22,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Enchufe desconectándose",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 620,
+     "s": 1.1,
+     "mood": "blank",
+     "gray": 0.6,
+     "k": "person"
+    },
+    {
+     "x": 790,
+     "y": 560,
+     "x2": 1160,
+     "y2": 930,
+     "offAt": 0.7,
+     "k": "plug"
+    },
+    {
+     "text": "DESCONECTADO",
+     "y": 150,
+     "size": 110,
+     "font": "title",
+     "color": "ash",
+     "at": 0.8,
+     "k": "txt"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 21,
+   "start": 75.22,
+   "end": 78.46,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Clic + ding de cabina",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "src": "burnout/3d/3d_cabina.png",
+     "x": 960,
+     "y": 580,
+     "w": 950,
+     "tilt3d": true,
+     "glow": "blue",
+     "pulse": 2,
+     "k": "img"
+    },
+    {
+     "text": "PILOTO *AUTOMÁTICO*",
+     "y": 140,
+     "size": 110,
+     "font": "title",
+     "acc": "blue",
+     "k": "txt"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 22,
+   "start": 78.46,
+   "end": 81.42,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Tic-tac acelerado",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "chs": [
+      "⏰",
+      "💼",
+      "🛏️"
+     ],
+     "r": 280,
+     "size": 160,
+     "speed": 70,
+     "k": "orbit"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 23,
+   "start": 81.42,
+   "end": 86.32,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Viento suave",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 540,
+     "blur": 7,
+     "k": "calendar"
+    }
+   ],
+   "cam": "push",
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 24,
+   "start": 86.32,
+   "end": 89.74,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Motor + ambiente de calle",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "",
+     "k": "live",
+     "src": "burnout/stock/escena_024.mp4",
+     "pan": -1
+    }
+   ],
+   "paper": 0.15,
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 25,
+   "start": 89.74,
+   "end": 94.54,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Fotocopiadora",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "n": 14,
+     "gap": 0.28,
+     "k": "stack"
+    },
+    {
+     "text": "TODOS LOS *DÍAS*",
+     "y": 150,
+     "size": 120,
+     "font": "title",
+     "acc": "gold",
+     "at": 0.2,
+     "k": "txt"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 26,
+   "start": 94.54,
+   "end": 97.74,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Golpe grave + ceniza",
+   "mus": "Silencio de 1 s",
+   "bg": "black",
+   "els": [
+    {
+     "text": "DESPERSONALIZACIÓN",
+     "size": 140,
+     "ashAt": 1.5,
+     "k": "ash"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 27,
+   "start": 97.74,
+   "end": 102.56,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Respiración",
+   "mus": "Vuelve suave",
+   "bg": "black",
+   "els": [
+    {
+     "src": "burnout/fotos/foto_027.jpg",
+     "pan": 1,
+     "tintc": "rgba(120,140,170,0.5)",
+     "k": "live"
+    },
+    {
+     "text": "ENTUMECIMIENTO",
+     "y": 930,
+     "size": 110,
+     "font": "title",
+     "color": "cream",
+     "at": 0.8,
+     "k": "txt"
+    },
+    {
+     "op": 0.35,
+     "k": "fog"
+    }
+   ],
+   "paper": 0.15,
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 28,
+   "start": 102.56,
+   "end": 103.72,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Eco",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 620,
+     "s": 1.35,
+     "ghost": true,
+     "mood": "blank",
+     "k": "person"
+    }
+   ],
+   "cam": "still",
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 29,
+   "start": 103.72,
+   "end": 106.36,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Proyector de cine",
+   "mus": "↳",
+   "bg": "cinema",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 420,
+     "s": 0.85,
+     "mood": "blank",
+     "anim": "fade",
+     "k": "person"
+    },
+    {
+     "kind": "seats",
+     "x": 960,
+     "y": 980,
+     "k": "prop"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 900,
+     "s": 0.55,
+     "back": true,
+     "anim": "none",
+     "k": "person"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 30,
+   "start": 106.36,
+   "end": 109.28,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Papel rompiéndose",
+   "mus": "↳",
+   "bg": "cinema",
+   "els": [
+    {
+     "kind": "ticket",
+     "x": 960,
+     "y": 520,
+     "w": 760,
+     "h": 380,
+     "ch": "🎟️",
+     "chSize": 170,
+     "crack": true,
+     "k": "frame"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 31,
+   "start": 109.28,
+   "end": 111.4,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Cristal",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "kind": "glass",
+     "x": 1260,
+     "y": 500,
+     "w": 480,
+     "h": 680,
+     "k": "frame"
+    },
+    {
+     "pose": "stand",
+     "x": 1260,
+     "y": 610,
+     "s": 0.95,
+     "flip": true,
+     "gray": 1,
+     "blur": 6,
+     "op": 0.7,
+     "anim": "fade",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 600,
+     "y": 640,
+     "s": 1.05,
+     "mood": "worried",
+     "k": "person"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 32,
+   "start": 111.4,
+   "end": 113.86,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Clic vacío",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "items": [
+      "",
+      "",
+      "",
+      ""
+     ],
+     "pre": -1,
+     "gap": 99,
+     "x": 820,
+     "k": "check"
+    },
+    {
+     "ch": "🤷",
+     "x": 1400,
+     "y": 540,
+     "size": 220,
+     "at": 0.8,
+     "k": "emo"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 33,
+   "start": 113.86,
+   "end": 117.28,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Cadena + peso",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "bags",
+     "x": 960,
+     "y": 660,
+     "s": 1.15,
+     "mood": "tired",
+     "k": "person"
+    },
+    {
+     "ch": "⚓",
+     "x": 1130,
+     "y": 470,
+     "size": 240,
+     "at": 0.3,
+     "anim": "fall",
+     "k": "emo"
+    },
+    {
+     "text": "IMPOTENCIA",
+     "y": 140,
+     "size": 120,
+     "font": "title",
+     "color": "ash",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ],
+   "shake": 0.55,
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 34,
+   "start": 117.28,
+   "end": 122.14,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Whoosh giratorio",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 520,
+     "spinAt": 0.6,
+     "k": "wheel"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 35,
+   "start": 122.14,
+   "end": 123.88,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Sello",
+   "mus": "Sube un poco",
+   "bg": "red",
+   "els": [
+    {
+     "text": "NO ES FLOJERA",
+     "x": 960,
+     "y": 540,
+     "size": 150,
+     "k": "stamp"
+    }
+   ],
+   "shake": 0.12,
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 36,
+   "start": 123.88,
+   "end": 127.26,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Crujido de palomitas + risita",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "kind": "sofa",
+     "x": 960,
+     "y": 780,
+     "s": 1.0,
+     "c": "#2A9D8F",
+     "k": "prop"
+    },
+    {
+     "pose": "sit",
+     "x": 940,
+     "y": 600,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "mood": "happy",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "ch": "🍿",
+     "x": 1180,
+     "y": 560,
+     "size": 130,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 37,
+   "start": 127.26,
+   "end": 133.26,
+   "sec": 1,
+   "mark": "🪝",
+   "sfx": "Reloj rebobinando",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "flip": true,
+     "flipAt": 0.5,
+     "k": "hourglass"
+    },
+    {
+     "text": "TU *PASADO*",
+     "y": 930,
+     "size": 120,
+     "font": "title",
+     "acc": "gold",
+     "at": 0.8,
+     "k": "txt"
+    }
+   ],
+   "hud": 1,
+   "env": true
+  },
+  {
+   "n": 38,
+   "start": 133.26,
+   "end": 134.6,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Golpe de señal",
+   "mus": "↳",
+   "bg": "ember",
+   "els": [
+    {
+     "n": 30,
+     "k": "embers"
+    },
+    {
+     "text": "SEÑAL *2*",
+     "y": 520,
+     "size": 230,
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 39,
+   "start": 134.6,
+   "end": 137.02,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Obturador",
+   "mus": "Cálido",
+   "bg": "warm",
+   "els": [
+    {
+     "kind": "polaroid",
+     "x": 960,
+     "y": 500,
+     "w": 640,
+     "h": 560,
+     "rot": -3,
+     "k": "frame"
+    },
+    {
+     "pose": "handup",
+     "x": 960,
+     "y": 480,
+     "s": 0.8,
+     "mood": "happy",
+     "anim": "pop",
+     "k": "person"
+    },
+    {
+     "ch": "🏁",
+     "x": 1150,
+     "y": 330,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "text": "ANTES",
+     "y": 950,
+     "size": 110,
+     "font": "title",
+     "color": "goldL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 40,
+   "start": 137.02,
+   "end": 140.6,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Marcador",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 560,
+     "w": 1300,
+     "h": 90,
+     "at": 0.6,
+     "k": "hl"
+    },
+    {
+     "text": "LA DIFERENCIA *CLAVE*",
+     "y": 540,
+     "size": 110,
+     "acc": "gold",
+     "k": "txt"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 41,
+   "start": 140.6,
+   "end": 145.92,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Línea dibujándose",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pts": [
+      [
+       0,
+       0.22
+      ],
+      [
+       1,
+       0.22
+      ]
+     ],
+     "color": "ash",
+     "dur": 2.2,
+     "k": "line"
+    },
+    {
+     "text": "“PEREZA” = *SIEMPRE IGUAL*",
+     "y": 160,
+     "size": 88,
+     "acc": "ash",
+     "upper": false,
+     "k": "txt"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 42,
+   "start": 145.92,
+   "end": 151.58,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Tic-tac lento",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pts": [
+      [
+       0,
+       0.22
+      ],
+      [
+       1,
+       0.22
+      ]
+     ],
+     "color": "ash",
+     "at": 0,
+     "dur": 0.01,
+     "ticks": [
+      0.1,
+      0.3,
+      0.5,
+      0.7,
+      0.9
+     ],
+     "k": "line"
+    },
+    {
+     "ch": "😐",
+     "x": 1660,
+     "y": 560,
+     "size": 120,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 43,
+   "start": 151.58,
+   "end": 155.28,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Fanfarria corta",
+   "mus": "Sube",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "handup",
+     "x": 760,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "🏅",
+     "x": 760,
+     "y": 560,
+     "size": 90,
+     "at": 0.3,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "ch": "🏆",
+     "x": 1260,
+     "y": 520,
+     "size": 260,
+     "at": 0.5,
+     "glow": "gold",
+     "k": "emo"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 44,
+   "start": 155.28,
+   "end": 156.56,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Flecha + impacto",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "🎯",
+     "x": 960,
+     "y": 470,
+     "size": 320,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "kind": "arrow",
+     "x": 240,
+     "y": 470,
+     "x2": 860,
+     "y2": 470,
+     "color": "gold",
+     "at": 0.2,
+     "k": "mark"
+    },
+    {
+     "text": "METAS",
+     "y": 880,
+     "size": 110,
+     "color": "gold",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 45,
+   "start": 156.56,
+   "end": 161.46,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Bajada en picada",
+   "mus": "Baja de golpe",
+   "bg": "slate",
+   "els": [
+    {
+     "pts": [
+      [
+       0,
+       0.78
+      ],
+      [
+       0.3,
+       0.82
+      ],
+      [
+       0.55,
+       0.8
+      ],
+      [
+       0.62,
+       0.84
+      ],
+      [
+       0.72,
+       0.2
+      ],
+      [
+       1,
+       0.12
+      ]
+     ],
+     "color": "gold",
+     "at": 0.1,
+     "dur": 2.6,
+     "k": "line"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 46,
+   "start": 161.46,
+   "end": 166.78,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Tachón",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.1,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "text": "FLOJO",
+     "x": 760,
+     "y": 610,
+     "size": 62,
+     "anim": "none",
+     "cross": 1.0,
+     "k": "label"
+    },
+    {
+     "ch": "🤔",
+     "x": 1300,
+     "y": 420,
+     "size": 150,
+     "at": 1.6,
+     "k": "emo"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 47,
+   "start": 166.78,
+   "end": 168.6,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Cerillo apagándose + humo",
+   "mus": "Silencio de 1 s",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "",
+     "k": "live",
+     "src": "burnout/stock/escena_047.mp4",
+     "pan": 1
+    },
+    {
+     "text": "TE QUEMASTE",
+     "y": 920,
+     "size": 96,
+     "font": "title",
+     "color": "cream",
+     "k": "txt"
+    }
+   ],
+   "paper": 0.15,
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 48,
+   "start": 168.6,
+   "end": 174.24,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Golpe cálido",
+   "mus": "Vuelve el pulso",
+   "bg": "ember",
+   "els": [
+    {
+     "src": "burnout/graficos/overlay_brasas.webm",
+     "len": 20,
+     "op": 0.9,
+     "k": "overlay"
+    },
+    {
+     "n": 24,
+     "k": "embers"
+    },
+    {
+     "text": "Nadie se quema sin haber\nestado *encendido*",
+     "y": 540,
+     "size": 104,
+     "font": "serif",
+     "upper": false,
+     "acc": "gold",
+     "glow": true,
+     "stagger": 0.06,
+     "k": "txt"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 49,
+   "start": 174.24,
+   "end": 179.7,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Foco fundiéndose",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 680,
+     "s": 1.1,
+     "mood": "tired",
+     "k": "person"
+    },
+    {
+     "x": 960,
+     "y": 260,
+     "size": 170,
+     "offAt": 3.2,
+     "k": "bulb"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 50,
+   "start": 179.7,
+   "end": 186.72,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Alerta de tablero",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 620,
+     "y": 560,
+     "to": 0.0,
+     "dur": 1.4,
+     "k": "gauge",
+     "from": 0.5
+    },
+    {
+     "text": "CARÁCTER",
+     "ch": "🧱",
+     "x": 1300,
+     "y": 500,
+     "w": 420,
+     "h": 460,
+     "color": "ash",
+     "mark": "x",
+     "markAt": 2.0,
+     "k": "card"
+    },
+    {
+     "text": "SIN *COMBUSTIBLE*",
+     "y": 950,
+     "size": 96,
+     "acc": "red",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ],
+   "hud": 2,
+   "env": true
+  },
+  {
+   "n": 51,
+   "start": 186.72,
+   "end": 188.22,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Golpe de señal",
+   "mus": "Melancólico-cálido",
+   "bg": "ember",
+   "els": [
+    {
+     "n": 30,
+     "k": "embers"
+    },
+    {
+     "text": "SEÑAL *3*",
+     "y": 520,
+     "size": 230,
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 52,
+   "start": 188.22,
+   "end": 191.32,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Chispa",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 660,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "✨",
+     "x": 960,
+     "y": 600,
+     "size": 120,
+     "glow": "gold",
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "PASIÓN",
+     "y": 150,
+     "size": 130,
+     "font": "title",
+     "color": "gold",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 53,
+   "start": 191.32,
+   "end": 199.82,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Pop ×4",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "name": "play_volley",
+     "x": 360,
+     "y": 510,
+     "w": 170,
+     "at": 0.3,
+     "idle": true,
+     "k": "icon"
+    },
+    {
+     "name": "listening_to_music_1",
+     "x": 600,
+     "y": 570,
+     "w": 170,
+     "at": 0.8999999999999999,
+     "idle": true,
+     "k": "icon"
+    },
+    {
+     "name": "read",
+     "x": 840,
+     "y": 510,
+     "w": 170,
+     "at": 1.5,
+     "idle": true,
+     "k": "icon"
+    },
+    {
+     "name": "paint",
+     "x": 1080,
+     "y": 570,
+     "w": 170,
+     "at": 2.0999999999999996,
+     "idle": true,
+     "k": "icon"
+    },
+    {
+     "name": "cycling",
+     "x": 1320,
+     "y": 510,
+     "w": 170,
+     "at": 2.6999999999999997,
+     "idle": true,
+     "k": "icon"
+    },
+    {
+     "name": "photo",
+     "x": 1560,
+     "y": 570,
+     "w": 170,
+     "at": 3.3,
+     "idle": true,
+     "k": "icon"
+    }
+   ],
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 54,
+   "start": 199.82,
+   "end": 204.38,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Bajada de tono ×4",
+   "mus": "Baja",
+   "bg": "slate",
+   "els": [
+    {
+     "name": "play_volley",
+     "x": 360,
+     "y": 510,
+     "w": 170,
+     "anim": "none",
+     "gray": 1,
+     "grayAt": 0.3,
+     "k": "icon"
+    },
+    {
+     "name": "listening_to_music_1",
+     "x": 600,
+     "y": 570,
+     "w": 170,
+     "anim": "none",
+     "gray": 1,
+     "grayAt": 0.8500000000000001,
+     "k": "icon"
+    },
+    {
+     "name": "read",
+     "x": 840,
+     "y": 510,
+     "w": 170,
+     "anim": "none",
+     "gray": 1,
+     "grayAt": 1.4000000000000001,
+     "k": "icon"
+    },
+    {
+     "name": "paint",
+     "x": 1080,
+     "y": 570,
+     "w": 170,
+     "anim": "none",
+     "gray": 1,
+     "grayAt": 1.9500000000000002,
+     "k": "icon"
+    },
+    {
+     "name": "cycling",
+     "x": 1320,
+     "y": 510,
+     "w": 170,
+     "anim": "none",
+     "gray": 1,
+     "grayAt": 2.5,
+     "k": "icon"
+    },
+    {
+     "name": "photo",
+     "x": 1560,
+     "y": 570,
+     "w": 170,
+     "anim": "none",
+     "gray": 1,
+     "grayAt": 3.05,
+     "k": "icon"
+    }
+   ],
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 55,
+   "start": 204.38,
+   "end": 208.28,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Alerta suave",
+   "mus": "↳",
+   "bg": "red",
+   "els": [
+    {
+     "ch": "⚠️",
+     "x": 960,
+     "y": 520,
+     "size": 320,
+     "blink": 9,
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "shake": 0.3,
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 56,
+   "start": 208.28,
+   "end": 214.96,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Grieta",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 700,
+     "y": 650,
+     "s": 1.1,
+     "mood": "angry",
+     "k": "person"
+    },
+    {
+     "ch": "🏆",
+     "x": 1260,
+     "y": 520,
+     "size": 280,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "x": 1260,
+     "y": 500,
+     "size": 300,
+     "at": 1.2,
+     "k": "crack"
+    },
+    {
+     "text": "RESENTIMIENTO",
+     "y": 140,
+     "size": 110,
+     "font": "title",
+     "color": "red",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ],
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 57,
+   "start": 214.96,
+   "end": 220.28,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Cuerda de guitarra desafinada",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "src": "burnout/fotos/foto_057.jpg",
+     "pan": 1,
+     "tintc": "rgba(40,30,20,0.6)",
+     "k": "live"
+    }
+   ],
+   "paper": 0.15,
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 58,
+   "start": 220.28,
+   "end": 224.92,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Hojas",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "",
+     "k": "live",
+     "src": "burnout/stock/escena_058.mp4",
+     "pan": -1
+    }
+   ],
+   "paper": 0.15,
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 59,
+   "start": 224.92,
+   "end": 232.48,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Vela apagándose",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 640,
+     "y": 520,
+     "never": true,
+     "k": "candle"
+    },
+    {
+     "x": 1280,
+     "y": 520,
+     "outAt": 3.6,
+     "k": "candle"
+    },
+    {
+     "text": "NUNCA ENCENDIDA",
+     "y": 880,
+     "size": 58,
+     "x": 640,
+     "color": "ash",
+     "k": "txt"
+    },
+    {
+     "text": "APAGÁNDOSE",
+     "y": 880,
+     "size": 58,
+     "x": 1280,
+     "color": "gold",
+     "at": 0.8,
+     "k": "txt"
+    }
+   ],
+   "hud": 3,
+   "env": true
+  },
+  {
+   "n": 60,
+   "start": 232.48,
+   "end": 234.08,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Golpe de señal",
+   "mus": "Tensión rítmica",
+   "bg": "ember",
+   "els": [
+    {
+     "n": 30,
+     "k": "embers"
+    },
+    {
+     "text": "SEÑAL *4*",
+     "y": 520,
+     "size": 230,
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 61,
+   "start": 234.08,
+   "end": 236.32,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Trueno corto",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 680,
+     "s": 1.1,
+     "mood": "angry",
+     "k": "person"
+    },
+    {
+     "ch": "⛈️",
+     "x": 960,
+     "y": 250,
+     "size": 210,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "IRRITABLE",
+     "y": 960,
+     "size": 110,
+     "font": "title",
+     "color": "red",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 62,
+   "start": 236.32,
+   "end": 238.3,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Notificaciones + boing",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "texts": [
+      "¿Ya llegaste?",
+      "Responde",
+      "Hay junta",
+      "¡Urgente!",
+      "Otra vez tú"
+     ],
+     "n": 5,
+     "at": 0,
+     "dur": 1.4,
+     "k": "notifs"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 680,
+     "s": 1.1,
+     "mood": "angry",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "ch": "😤",
+     "x": 1560,
+     "y": 300,
+     "size": 150,
+     "at": 0.7,
+     "k": "emo"
+    }
+   ],
+   "shake": 0.4,
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 63,
+   "start": 238.3,
+   "end": 241.68,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Tecleo + borrado",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "msgs": [
+      {
+       "text": "¿Ya está lo que te pedí?"
+      },
+      {
+       "text": "¡NO! ¡DÉJAME EN PAZ!",
+       "me": true,
+       "at": 0.8
+      }
+     ],
+     "x": 960,
+     "y": 540,
+     "w": 900,
+     "delAt": 2.2,
+     "shakeMe": true,
+     "del": 1,
+     "k": "chat"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 64,
+   "start": 241.68,
+   "end": 245.18,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Motor acelerando",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "src": "burnout/3d/3d_velocimetro.png",
+     "x": 960,
+     "y": 540,
+     "w": 800,
+     "shake": 5,
+     "glow": "red",
+     "pulse": 7,
+     "k": "img"
+    }
+   ],
+   "shake": 0.6,
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 65,
+   "start": 245.18,
+   "end": 247.7,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Mecha chisporroteando",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 960,
+     "y": 500,
+     "k": "bomb"
+    },
+    {
+     "text": "MECHA *CORTA*",
+     "y": 940,
+     "size": 120,
+     "font": "title",
+     "acc": "red",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 66,
+   "start": 247.7,
+   "end": 252.52,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Pop ×3 + explosión",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "📱",
+     "x": 480,
+     "y": 260,
+     "size": 140,
+     "k": "emo"
+    },
+    {
+     "ch": "🔊",
+     "x": 960,
+     "y": 230,
+     "size": 140,
+     "at": 0.5,
+     "k": "emo"
+    },
+    {
+     "ch": "❓",
+     "x": 1440,
+     "y": 260,
+     "size": 140,
+     "at": 1.0,
+     "k": "emo"
+    },
+    {
+     "x": 960,
+     "y": 640,
+     "boom": 3.0,
+     "k": "bomb"
+    }
+   ],
+   "shake": 3.0,
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 67,
+   "start": 252.52,
+   "end": 259.62,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Ding grave",
+   "mus": "Baja",
+   "bg": "slate",
+   "els": [
+    {
+     "text": "SEÑAL DE AGOTAMIENTO",
+     "ch": "🪫",
+     "x": 960,
+     "y": 540,
+     "w": 700,
+     "h": 600,
+     "size": 54,
+     "k": "card"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 68,
+   "start": 259.62,
+   "end": 262.52,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Sello",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "text": "MAL CARÁCTER",
+     "x": 900,
+     "y": 480,
+     "size": 96,
+     "anim": "pop",
+     "tilt": -4,
+     "k": "label"
+    },
+    {
+     "text": "ERROR",
+     "x": 1200,
+     "y": 680,
+     "size": 120,
+     "at": 1.1,
+     "k": "stamp"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 69,
+   "start": 262.52,
+   "end": 270.22,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Respiración",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 690,
+     "s": 1.1,
+     "mood": "tired",
+     "k": "person"
+    },
+    {
+     "ch": "⛈️",
+     "x": 960,
+     "y": 260,
+     "size": 220,
+     "out": 3.2,
+     "k": "emo"
+    },
+    {
+     "ch": "🌬️",
+     "x": 640,
+     "y": 380,
+     "size": 120,
+     "at": 1.4,
+     "out": 4.2,
+     "k": "emo"
+    },
+    {
+     "ch": "🌤️",
+     "x": 960,
+     "y": 260,
+     "size": 170,
+     "at": 3.6,
+     "k": "emo"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 70,
+   "start": 270.22,
+   "end": 277.98,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Hamaca + pajaritos",
+   "mus": "Más ligero",
+   "bg": "green",
+   "els": [
+    {
+     "kind": "hammock",
+     "x": 960,
+     "y": 640,
+     "k": "prop"
+    },
+    {
+     "pose": "sit",
+     "x": 960,
+     "y": 520,
+     "s": 0.9,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "mood": "happy",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "ch": "😌",
+     "x": 1460,
+     "y": 240,
+     "size": 140,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 71,
+   "start": 277.98,
+   "end": 282.26,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Trueno + pajarito",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "kind": "hammock",
+     "x": 480,
+     "y": 660,
+     "s": 0.55,
+     "k": "prop"
+    },
+    {
+     "pose": "sit",
+     "x": 480,
+     "y": 590,
+     "s": 0.55,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "mood": "happy",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "x": 960,
+     "k": "vline"
+    },
+    {
+     "pose": "stand",
+     "x": 1440,
+     "y": 690,
+     "s": 0.9,
+     "mood": "angry",
+     "k": "person"
+    },
+    {
+     "ch": "⛈️",
+     "x": 1440,
+     "y": 290,
+     "size": 170,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 72,
+   "start": 282.26,
+   "end": 289.76,
+   "sec": 2,
+   "mark": "🪝",
+   "sfx": "Tela",
+   "mus": "Tensión baja",
+   "bg": "dark",
+   "els": [
+    {
+     "to": 0.06,
+     "x": 960,
+     "y": 520,
+     "w": 560,
+     "blink": true,
+     "k": "battery"
+    },
+    {
+     "x": 960,
+     "y": 500,
+     "s": 1.05,
+     "at": 1.0,
+     "anim": "down",
+     "k": "mask"
+    },
+    {
+     "text": "“NO TENGO GANAS”",
+     "y": 900,
+     "size": 90,
+     "color": "cream",
+     "upper": false,
+     "at": 1.6,
+     "k": "txt"
+    }
+   ],
+   "hud": 4,
+   "env": true
+  },
+  {
+   "n": 73,
+   "start": 289.76,
+   "end": 291.08,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Golpe de señal",
+   "mus": "Pad grave",
+   "bg": "ember",
+   "els": [
+    {
+     "n": 30,
+     "k": "embers"
+    },
+    {
+     "text": "SEÑAL *5*",
+     "y": 520,
+     "size": 230,
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 74,
+   "start": 291.08,
+   "end": 293.58,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Hojas secas",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 650,
+     "s": 1.1,
+     "mood": "tired",
+     "dim": 0.85,
+     "k": "person"
+    },
+    {
+     "ch": "🥀",
+     "x": 1280,
+     "y": 660,
+     "size": 220,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "text": "AUTOCUIDADO",
+     "y": 150,
+     "size": 120,
+     "font": "title",
+     "color": "ash",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 75,
+   "start": 293.58,
+   "end": 296.72,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Alerta suave",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "🚨",
+     "x": 960,
+     "y": 520,
+     "size": 320,
+     "glow": "amber",
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "cam": "push",
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 76,
+   "start": 296.72,
+   "end": 299.52,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Reloj desordenado",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "🕰️",
+     "x": 960,
+     "y": 520,
+     "size": 320,
+     "spin": -420,
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 77,
+   "start": 299.52,
+   "end": 302.16,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Bolsa de papel",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "src": "burnout/fotos/foto_077.jpg",
+     "pan": 1,
+     "k": "live"
+    }
+   ],
+   "paper": 0.15,
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 78,
+   "start": 302.16,
+   "end": 304.84,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Tic-tac rápido",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "🕛",
+     "x": 640,
+     "y": 460,
+     "size": 260,
+     "spin": 900,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "ch": "🕒",
+     "x": 1280,
+     "y": 460,
+     "size": 260,
+     "idle": false,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "text": "12 H",
+     "y": 820,
+     "size": 96,
+     "x": 640,
+     "color": "gold",
+     "k": "txt"
+    },
+    {
+     "text": "0 H",
+     "y": 820,
+     "size": 96,
+     "x": 1280,
+     "color": "red",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 79,
+   "start": 304.84,
+   "end": 306.38,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Suspiro",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "kind": "glass",
+     "x": 1260,
+     "y": 500,
+     "w": 480,
+     "h": 680,
+     "k": "frame"
+    },
+    {
+     "pose": "stand",
+     "x": 1260,
+     "y": 610,
+     "s": 0.95,
+     "flip": true,
+     "mood": "tired",
+     "blur": 2,
+     "op": 0.8,
+     "anim": "fade",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 600,
+     "y": 640,
+     "s": 1.05,
+     "mood": "tired",
+     "k": "person"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 80,
+   "start": 306.38,
+   "end": 308.16,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Vibración apagada",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "msgs": [
+      {
+       "text": "¿Vienes el sábado?"
+      },
+      {
+       "text": "¿Sigues vivo? 😅",
+       "at": 0.5
+      },
+      {
+       "text": "Te extrañamos",
+       "at": 0.9
+      }
+     ],
+     "x": 960,
+     "y": 540,
+     "w": 820,
+     "title": "Amigos 🎉",
+     "muted": true,
+     "unread": 47,
+     "unreadFrom": 3,
+     "k": "chat"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 81,
+   "start": 308.16,
+   "end": 311.48,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Ambiente vacío",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "",
+     "k": "live",
+     "src": "burnout/stock/escena_081.mp4",
+     "pan": 1,
+     "zoom": 2.0,
+     "origin": "52% 100%",
+     "filter": "brightness(1.7) contrast(1.05)"
+    }
+   ],
+   "paper": 0.15,
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 82,
+   "start": 311.48,
+   "end": 315.7,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Golpe de pesa ×3",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "items": [
+      "BAÑARSE",
+      "CONTESTAR",
+      "COCINAR"
+     ],
+     "pre": -1,
+     "gap": 99,
+     "x": 820,
+     "size": 70,
+     "k": "check"
+    },
+    {
+     "ch": "🪨",
+     "x": 1360,
+     "y": 404,
+     "size": 110,
+     "at": 0.6,
+     "anim": "fall",
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "ch": "🪨",
+     "x": 1360,
+     "y": 540,
+     "size": 110,
+     "at": 1.0,
+     "anim": "fall",
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "ch": "🪨",
+     "x": 1360,
+     "y": 676,
+     "size": 110,
+     "at": 1.4,
+     "anim": "fall",
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 83,
+   "start": 315.7,
+   "end": 320.3,
+   "sec": 3,
+   "mark": "⚡",
+   "sfx": "Alerta de batería baja",
+   "mus": "Silencio parcial",
+   "bg": "black",
+   "els": [
+    {
+     "src": "burnout/3d/3d_celular.png",
+     "x": 860,
+     "y": 540,
+     "w": 900,
+     "glow": "red",
+     "pulse": 5,
+     "screen": [
+      0.33,
+      0.1,
+      0.3,
+      0.8,
+      0
+     ],
+     "battery": {
+      "to": 0.03,
+      "blink": true
+     },
+     "k": "img"
+    },
+    {
+     "text": "3 %",
+     "y": 540,
+     "size": 220,
+     "x": 1520,
+     "color": "red",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 84,
+   "start": 320.3,
+   "end": 324.18,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Megáfono",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "📢",
+     "x": 520,
+     "y": 520,
+     "size": 280,
+     "rot": -12,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "src": "burnout/3d/3d_celular.png",
+     "x": 1360,
+     "y": 540,
+     "w": 640,
+     "shake": 6,
+     "screen": [
+      0.33,
+      0.1,
+      0.3,
+      0.8,
+      0
+     ],
+     "battery": {
+      "to": 0.03,
+      "blink": true
+     },
+     "at": 0.1,
+     "k": "img"
+    },
+    {
+     "text": "¡ÉCHALE GANAS!",
+     "y": 170,
+     "size": 120,
+     "font": "title",
+     "x": 800,
+     "color": "gold",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ],
+   "shake": 0.4,
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 85,
+   "start": 324.18,
+   "end": 326.24,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Bip de batería baja",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "to": 0.03,
+     "x": 960,
+     "y": 520,
+     "w": 640,
+     "blink": true,
+     "k": "battery"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 86,
+   "start": 326.24,
+   "end": 329.84,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Ding + error",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "text": "VOLUNTAD",
+     "ch": "💪",
+     "x": 640,
+     "y": 540,
+     "w": 460,
+     "h": 500,
+     "color": "green",
+     "mark": "check",
+     "markAt": 0.6,
+     "k": "card"
+    },
+    {
+     "text": "CARGA",
+     "ch": "🪫",
+     "x": 1280,
+     "y": 540,
+     "w": 460,
+     "h": 500,
+     "color": "red",
+     "mark": "x",
+     "markAt": 1.8,
+     "at": 1.2,
+     "k": "card"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 87,
+   "start": 329.84,
+   "end": 331.8,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Tachón",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "☝️",
+     "x": 960,
+     "y": 520,
+     "size": 300,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "kind": "x",
+     "x": 960,
+     "y": 520,
+     "size": 440,
+     "at": 0.6,
+     "k": "mark"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 88,
+   "start": 331.8,
+   "end": 336.68,
+   "sec": 3,
+   "mark": "⚡",
+   "sfx": "Sello + impacto",
+   "mus": "Golpe",
+   "bg": "red",
+   "els": [
+    {
+     "text": "EL PEOR CONSEJO",
+     "x": 960,
+     "y": 540,
+     "size": 140,
+     "k": "stamp"
+    }
+   ],
+   "shake": 0.12,
+   "flash": true,
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 89,
+   "start": 336.68,
+   "end": 339.62,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Goteo vacío",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "🫗",
+     "x": 820,
+     "y": 430,
+     "size": 260,
+     "rot": 20,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "ch": "🫙",
+     "x": 1150,
+     "y": 680,
+     "size": 170,
+     "idle": false,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 90,
+   "start": 339.62,
+   "end": 341.72,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Peso cayendo",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pose": "bags",
+     "x": 880,
+     "y": 660,
+     "s": 1.1,
+     "mood": "tired",
+     "k": "person"
+    },
+    {
+     "ch": "🎒",
+     "x": 1080,
+     "y": 640,
+     "size": 200,
+     "anim": "fall",
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "CULPA",
+     "y": 150,
+     "size": 130,
+     "font": "title",
+     "color": "red",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ],
+   "shake": 0.6,
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 91,
+   "start": 341.72,
+   "end": 345.6,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Cadena",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pose": "bags",
+     "x": 960,
+     "y": 640,
+     "s": 1.15,
+     "mood": "worried",
+     "hold": "🪨",
+     "holdL": "🪨",
+     "holdSize": 120,
+     "k": "person"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 92,
+   "start": 345.6,
+   "end": 350.5,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Conexión + carga ascendente",
+   "mus": "Cálido y esperanzador",
+   "bg": "warm",
+   "els": [
+    {
+     "to": 0.9,
+     "x": 1060,
+     "y": 540,
+     "w": 640,
+     "charge": true,
+     "lAt": 0.8,
+     "dur": 3.4,
+     "k": "battery",
+     "from": 0.03
+    },
+    {
+     "ch": "🔌",
+     "x": 480,
+     "y": 540,
+     "size": 200,
+     "anim": "left",
+     "k": "emo"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 93,
+   "start": 350.5,
+   "end": 355.86,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Ding ×3",
+   "mus": "↳",
+   "bg": "green",
+   "els": [
+    {
+     "text": "DESCANSO",
+     "ch": "🛌",
+     "x": 420,
+     "y": 540,
+     "w": 460,
+     "h": 500,
+     "color": "green",
+     "k": "card"
+    },
+    {
+     "text": "APOYO",
+     "ch": "🤝",
+     "x": 960,
+     "y": 540,
+     "w": 460,
+     "h": 500,
+     "color": "green",
+     "at": 1.0,
+     "k": "card"
+    },
+    {
+     "text": "AYUDA PROFESIONAL",
+     "ch": "🩺",
+     "x": 1500,
+     "y": 540,
+     "w": 460,
+     "h": 500,
+     "color": "green",
+     "at": 2.2,
+     "size": 40,
+     "k": "card"
+    }
+   ],
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 94,
+   "start": 355.86,
+   "end": 362.2,
+   "sec": 3,
+   "mark": "🪝",
+   "sfx": "Golpe suave",
+   "mus": "↳",
+   "bg": "ember",
+   "els": [
+    {
+     "k": "embers"
+    },
+    {
+     "text": "Antes no eras *así*",
+     "y": 540,
+     "size": 140,
+     "font": "serif",
+     "upper": false,
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "hudBlink": true,
+   "hud": 5,
+   "env": true
+  },
+  {
+   "n": 95,
+   "start": 362.2,
+   "end": 363.42,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Golpe de señal",
+   "mus": "Cinematográfico en crescendo",
+   "bg": "ember",
+   "els": [
+    {
+     "n": 30,
+     "k": "embers"
+    },
+    {
+     "text": "SEÑAL *6*",
+     "y": 520,
+     "size": 230,
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 96,
+   "start": 363.42,
+   "end": 366.32,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Arena",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "dur": 3.0,
+     "k": "hourglass"
+    },
+    {
+     "text": "POCO A *POCO*",
+     "y": 930,
+     "size": 120,
+     "font": "title",
+     "acc": "gold",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 97,
+   "start": 366.32,
+   "end": 368.7,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Brillo",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "⭐",
+     "x": 960,
+     "y": 520,
+     "size": 320,
+     "glow": "amber",
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "cam": "push",
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 98,
+   "start": 368.7,
+   "end": 371.7,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Whoosh + tachón",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "🌙",
+     "x": 680,
+     "y": 520,
+     "size": 240,
+     "k": "emo"
+    },
+    {
+     "kind": "arrow",
+     "x": 830,
+     "y": 520,
+     "x2": 1080,
+     "y2": 520,
+     "color": "white",
+     "at": 0.3,
+     "k": "mark"
+    },
+    {
+     "ch": "☀️",
+     "x": 1240,
+     "y": 520,
+     "size": 240,
+     "at": 0.5,
+     "k": "emo"
+    },
+    {
+     "kind": "x",
+     "x": 960,
+     "y": 520,
+     "size": 600,
+     "at": 1.4,
+     "k": "mark"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 99,
+   "start": 371.7,
+   "end": 375.86,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pasos descendentes",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "src": "burnout/3d/3d_escalera.png",
+     "x": 960,
+     "y": 560,
+     "w": 950,
+     "flipX": true,
+     "tilt3d": true,
+     "gray": 0.3,
+     "k": "img"
+    },
+    {
+     "op": 0.45,
+     "k": "fog"
+    }
+   ],
+   "cam": "push",
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 100,
+   "start": 375.86,
+   "end": 379.14,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "text": "MODELO DE 5 ETAPAS",
+     "x": 960,
+     "y": 520,
+     "w": 900,
+     "size": 68,
+     "sub": "Edelwich y Brodsky, 1980",
+     "ch": "📖",
+     "k": "study"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 101,
+   "start": 379.14,
+   "end": 381.54,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Despegue corto",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 230,
+     "y": 250,
+     "sw": 300,
+     "sh": 135,
+     "litAt": [
+      0.3
+     ],
+     "active": 1,
+     "k": "stairs"
+    },
+    {
+     "ch": "🚀",
+     "x": 380.0,
+     "y": 140,
+     "size": 130,
+     "at": 0.5,
+     "k": "emo"
+    },
+    {
+     "text": "1 · ENTUSIASMO",
+     "y": 210,
+     "size": 84,
+     "x": 1320,
+     "color": "green",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 102,
+   "start": 381.54,
+   "end": 386.18,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pop ×5",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "handup",
+     "x": 760,
+     "y": 680,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "📄",
+     "n": 18,
+     "speed": 520,
+     "size": 70,
+     "k": "rain"
+    },
+    {
+     "text": "¡SÍ!",
+     "y": 300,
+     "size": 200,
+     "font": "title",
+     "x": 1400,
+     "color": "green",
+     "at": 0.2,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 103,
+   "start": 386.18,
+   "end": 390.22,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Golpe grave",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 230,
+     "y": 250,
+     "sw": 300,
+     "sh": 135,
+     "lit": [
+      1
+     ],
+     "litAt": [
+      null,
+      0.3
+     ],
+     "active": 2,
+     "k": "stairs"
+    },
+    {
+     "text": "2 · ESTANCAMIENTO",
+     "y": 210,
+     "size": 84,
+     "x": 1320,
+     "color": "yellow",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 104,
+   "start": 390.22,
+   "end": 396.38,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Bajada ×3",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "⬇️",
+     "x": 480,
+     "y": 440,
+     "size": 200,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "ch": "⬇️",
+     "x": 960,
+     "y": 440,
+     "size": 200,
+     "at": 1.6,
+     "k": "emo"
+    },
+    {
+     "ch": "⬇️",
+     "x": 1440,
+     "y": 440,
+     "size": 200,
+     "at": 3.0,
+     "k": "emo"
+    },
+    {
+     "text": "OPTIMISMO",
+     "y": 720,
+     "size": 64,
+     "x": 480,
+     "at": 0.4,
+     "k": "txt"
+    },
+    {
+     "text": "INTERÉS",
+     "y": 720,
+     "size": 64,
+     "x": 960,
+     "at": 1.8,
+     "k": "txt"
+    },
+    {
+     "text": "RENDIMIENTO",
+     "y": 720,
+     "size": 64,
+     "x": 1440,
+     "at": 3.2,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 105,
+   "start": 396.38,
+   "end": 402.93,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Lupa + ding",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 230,
+     "y": 250,
+     "sw": 300,
+     "sh": 135,
+     "lit": [
+      1,
+      2
+     ],
+     "active": 2,
+     "k": "stairs"
+    },
+    {
+     "ch": "🔍",
+     "x": 1380.0,
+     "y": 325,
+     "size": 200,
+     "mx": -700,
+     "mAt": 0.3,
+     "mDur": 1.2,
+     "anim": "none",
+     "k": "emo"
+    },
+    {
+     "text": "AQUÍ YA HAY *SÍNTOMAS*",
+     "y": 900,
+     "size": 80,
+     "x": 1300,
+     "acc": "yellow",
+     "at": 1.4,
+     "k": "txt"
+    }
+   ],
+   "cam": "push",
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 106,
+   "start": 402.93,
+   "end": 405.3,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Golpe grave",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 230,
+     "y": 250,
+     "sw": 300,
+     "sh": 135,
+     "lit": [
+      1,
+      2
+     ],
+     "litAt": [
+      null,
+      null,
+      0.3
+     ],
+     "active": 3,
+     "k": "stairs"
+    },
+    {
+     "text": "3 · FRUSTRACIÓN",
+     "y": 210,
+     "size": 84,
+     "x": 1320,
+     "color": "gold",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 107,
+   "start": 405.3,
+   "end": 410.62,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pedaleo",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "kind": "bike",
+     "x": 960,
+     "y": 720,
+     "k": "prop"
+    },
+    {
+     "pose": "sit",
+     "x": 1000,
+     "y": 560,
+     "s": 0.9,
+     "mood": "worried",
+     "sweat": true,
+     "walk": true,
+     "anim": "none",
+     "k": "person"
+    }
+   ],
+   "shake": 1.0,
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 108,
+   "start": 410.62,
+   "end": 412.78,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Golpe grave",
+   "mus": "Baja",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 230,
+     "y": 250,
+     "sw": 300,
+     "sh": 135,
+     "lit": [
+      1,
+      2,
+      3
+     ],
+     "litAt": [
+      null,
+      null,
+      null,
+      0.3
+     ],
+     "active": 4,
+     "k": "stairs"
+    },
+    {
+     "text": "4 · APATÍA",
+     "y": 210,
+     "size": 84,
+     "x": 1320,
+     "color": "ash",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 109,
+   "start": 412.78,
+   "end": 417.78,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Enchufe",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 360,
+     "y": 300,
+     "x2": 1000,
+     "y2": 640,
+     "offAt": 1.2,
+     "k": "plug"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 110,
+   "start": 417.78,
+   "end": 420.76,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Impacto profundo",
+   "mus": "Silencio de 1 s",
+   "bg": "black",
+   "els": [
+    {
+     "x": 230,
+     "y": 250,
+     "sw": 300,
+     "sh": 135,
+     "lit": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "litAt": [
+      null,
+      null,
+      null,
+      null,
+      0.2
+     ],
+     "active": 5,
+     "k": "stairs"
+    },
+    {
+     "op": 0.55,
+     "at": 0.3,
+     "k": "fog"
+    },
+    {
+     "text": "5 · BURNOUT",
+     "y": 210,
+     "size": 96,
+     "x": 1320,
+     "color": "ash",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ],
+   "shake": 0.25,
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 111,
+   "start": 420.76,
+   "end": 427.22,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Viento grave",
+   "mus": "Pad oscuro",
+   "bg": "ash",
+   "els": [
+    {
+     "mood": "tired",
+     "x": 960,
+     "y": 760,
+     "s": 1.1,
+     "blanket": "#4a4e58",
+     "k": "bed"
+    },
+    {
+     "src": "burnout/graficos/overlay_niebla.webm",
+     "len": 10,
+     "op": 0.85,
+     "k": "overlay"
+    },
+    {
+     "op": 0.5,
+     "k": "fog"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 112,
+   "start": 427.22,
+   "end": 431.72,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Grieta",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "🛡️",
+     "x": 960,
+     "y": 480,
+     "size": 330,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "x": 960,
+     "y": 470,
+     "size": 380,
+     "at": 0.6,
+     "k": "crack"
+    },
+    {
+     "text": "DEPRESIÓN",
+     "y": 880,
+     "size": 80,
+     "x": 520,
+     "color": "ash",
+     "at": 0.8,
+     "k": "txt"
+    },
+    {
+     "text": "ANSIEDAD",
+     "y": 880,
+     "size": 80,
+     "x": 1400,
+     "color": "ash",
+     "at": 1.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 113,
+   "start": 431.72,
+   "end": 438.32,
+   "sec": 4,
+   "mark": "🪝",
+   "sfx": "Riser suave",
+   "mus": "Sube",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 230,
+     "y": 250,
+     "sw": 300,
+     "sh": 135,
+     "lit": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "marker": 3,
+     "markerAt": 0.8,
+     "k": "stairs"
+    },
+    {
+     "text": "¿TÚ?",
+     "y": 240,
+     "size": 180,
+     "font": "title",
+     "x": 1500,
+     "color": "gold",
+     "at": 1.2,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 114,
+   "start": 438.32,
+   "end": 441.88,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Pasos ascendentes + acorde",
+   "mus": "Esperanzador",
+   "bg": "warm",
+   "els": [
+    {
+     "x": 230,
+     "y": 390,
+     "sw": 300,
+     "sh": 135,
+     "lit": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "k": "stairs"
+    },
+    {
+     "pose": "stand",
+     "x": 1280.0,
+     "y": 645,
+     "s": 0.6,
+     "mood": "happy",
+     "walk": true,
+     "mx": -900,
+     "my": -405,
+     "mAt": 0.2,
+     "mDur": 3.0,
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "x": 380.0,
+     "c": "rgba(255,200,130,0.45)",
+     "at": 1.0,
+     "k": "light"
+    },
+    {
+     "text": "SE PUEDE *SALIR*",
+     "y": 180,
+     "size": 110,
+     "font": "title",
+     "x": 1250,
+     "acc": "green",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 115,
+   "start": 441.88,
+   "end": 444.64,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Ping de radar",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "r": 320,
+     "blipAt": 0.8,
+     "k": "radar"
+    },
+    {
+     "text": "A *TIEMPO*",
+     "y": 940,
+     "size": 110,
+     "font": "title",
+     "acc": "green",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 116,
+   "start": 444.64,
+   "end": 449.68,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "pts": [
+      [
+       0,
+       0.9
+      ],
+      [
+       0.5,
+       0.5
+      ],
+      [
+       1,
+       0.08
+      ]
+     ],
+     "color": "green",
+     "dur": 2.0,
+     "xl": "ANTES",
+     "xr": "DESPUÉS",
+     "k": "line"
+    },
+    {
+     "text": "MÁS *FÁCIL*",
+     "y": 150,
+     "size": 104,
+     "acc": "green",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "hud": 6,
+   "env": true
+  },
+  {
+   "n": 117,
+   "start": 449.68,
+   "end": 453.52,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Candado abriéndose",
+   "mus": "Silencio de 1 s",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "size": 2.0,
+     "open": 1.4,
+     "k": "envelope"
+    }
+   ],
+   "env": false
+  },
+  {
+   "n": 118,
+   "start": 453.52,
+   "end": 455.54,
+   "sec": 5,
+   "mark": "⚡",
+   "sfx": "Impacto + reverb",
+   "mus": "Entra piano emotivo",
+   "bg": "ember",
+   "els": [
+    {
+     "src": "burnout/graficos/overlay_brasas.webm",
+     "len": 20,
+     "op": 0.5,
+     "k": "overlay"
+    },
+    {
+     "text": "¿SIEMPRE FUISTE *ASÍ*?",
+     "y": 540,
+     "size": 170,
+     "font": "title",
+     "acc": "gold",
+     "glow": true,
+     "k": "txt"
+    }
+   ],
+   "flash": true
+  },
+  {
+   "n": 119,
+   "start": 455.54,
+   "end": 463.02,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "text": "SÍ",
+     "ch": "✅",
+     "x": 600,
+     "y": 540,
+     "w": 440,
+     "h": 480,
+     "color": "green",
+     "k": "card"
+    },
+    {
+     "kind": "arrow",
+     "x": 860,
+     "y": 540,
+     "x2": 1060,
+     "y2": 540,
+     "color": "white",
+     "at": 0.8,
+     "k": "mark"
+    },
+    {
+     "text": "HÁBITOS",
+     "ch": "📋",
+     "x": 1320,
+     "y": 540,
+     "w": 440,
+     "h": 480,
+     "color": "gold",
+     "at": 1.2,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 120,
+   "start": 463.02,
+   "end": 470.18,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Obturador ×3",
+   "mus": "Sube",
+   "bg": "warm",
+   "els": [
+    {
+     "kind": "polaroid",
+     "x": 420,
+     "y": 500,
+     "w": 440,
+     "h": 440,
+     "rot": -4,
+     "at": 0.2,
+     "k": "frame"
+    },
+    {
+     "kind": "polaroid",
+     "x": 960,
+     "y": 500,
+     "w": 440,
+     "h": 440,
+     "rot": 3,
+     "at": 1.8,
+     "k": "frame"
+    },
+    {
+     "kind": "polaroid",
+     "x": 1500,
+     "y": 500,
+     "w": 440,
+     "h": 440,
+     "rot": -2,
+     "at": 3.4000000000000004,
+     "k": "frame"
+    },
+    {
+     "pose": "stand",
+     "x": 420,
+     "y": 490,
+     "s": 0.6,
+     "mood": "happy",
+     "walk": false,
+     "hold": null,
+     "holdSize": 90,
+     "colorAt": 0.8,
+     "at": 0.3,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 490,
+     "s": 0.6,
+     "mood": "happy",
+     "walk": true,
+     "hold": null,
+     "holdSize": 90,
+     "colorAt": 2.4000000000000004,
+     "at": 1.9000000000000001,
+     "k": "person"
+    },
+    {
+     "pose": "reach",
+     "x": 1500,
+     "y": 490,
+     "s": 0.6,
+     "mood": "happy",
+     "walk": false,
+     "hold": "🎸",
+     "holdSize": 90,
+     "colorAt": 4.0,
+     "at": 3.5,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "start": 470.18,
+   "end": 472.7,
+   "sec": 5,
+   "mark": "⚡",
+   "sfx": "Papel despegándose + whoosh",
+   "mus": "↳",
+   "bg": "afternoon",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 650,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "text": "FLOJO",
+     "x": 760,
+     "y": 610,
+     "size": 62,
+     "anim": "none",
+     "fly": 0.6,
+     "k": "label"
+    },
+    {
+     "ch": "✨",
+     "x": 1240,
+     "y": 420,
+     "size": 130,
+     "at": 0.8,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "start": 472.7,
+   "end": 474.04,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Ding cálido",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "x": 640,
+     "y": 560,
+     "onAt": 0.2,
+     "k": "roadsign"
+    },
+    {
+     "text": "UNA *SEÑAL*",
+     "y": 540,
+     "size": 130,
+     "font": null,
+     "x": 1320,
+     "acc": "amber",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "start": 474.04,
+   "end": 477.62,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Whoosh suave",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "☝️",
+     "x": 960,
+     "y": 520,
+     "size": 300,
+     "out": 1.4,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "ch": "🤲",
+     "x": 960,
+     "y": 520,
+     "size": 300,
+     "at": 1.5,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "start": 477.62,
+   "end": 482.38,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Ambiente cálido",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "src": "burnout/fotos/foto_124.jpg",
+     "pan": -1,
+     "k": "live"
+    },
+    {
+     "text": "HABLA CON UN *PROFESIONAL*",
+     "y": 930,
+     "size": 84,
+     "acc": "gold",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ],
+   "paper": 0.15
+  },
+  {
+   "n": 125,
+   "start": 482.38,
+   "end": 485.18,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Tachón ×2",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "text": "*EXAGERAR*",
+     "y": 400,
+     "size": 130,
+     "acc": "white",
+     "strike": true,
+     "strikeAt": 0.5,
+     "k": "txt"
+    },
+    {
+     "text": "*DÉBIL*",
+     "y": 650,
+     "size": 130,
+     "acc": "white",
+     "strike": true,
+     "strikeAt": 1.4,
+     "at": 0.9,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "start": 485.18,
+   "end": 488.38,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Carga ascendente",
+   "mus": "↳",
+   "bg": "slate",
+   "els": [
+    {
+     "src": "burnout/3d/3d_celular.png",
+     "x": 1100,
+     "y": 540,
+     "w": 760,
+     "screen": [
+      0.33,
+      0.1,
+      0.3,
+      0.8,
+      0
+     ],
+     "battery": {
+      "from": 0.12,
+      "to": 0.95,
+      "charge": true,
+      "at": 0.4,
+      "dur": 2.4
+     },
+     "glow": "green",
+     "k": "img"
+    },
+    {
+     "ch": "🔌",
+     "x": 520,
+     "y": 560,
+     "size": 180,
+     "anim": "left",
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "start": 488.38,
+   "end": 493.36,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Check",
+   "mus": "Cálido",
+   "bg": "warm",
+   "els": [
+    {
+     "items": [
+      "CUÉNTASELO A ALGUIEN",
+      "REVISA QUÉ TE DRENA",
+      "DESCANSA SIN CULPA"
+     ],
+     "gap": 99,
+     "x": 960,
+     "size": 66,
+     "k": "check"
+    }
+   ]
+  },
+  {
+   "n": 128,
+   "start": 493.36,
+   "end": 496.3,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Check",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "items": [
+      "CUÉNTASELO A ALGUIEN",
+      "REVISA QUÉ TE DRENA",
+      "DESCANSA SIN CULPA"
+     ],
+     "pre": 1,
+     "gap": 99,
+     "x": 960,
+     "size": 66,
+     "at": 0,
+     "k": "check"
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "start": 496.3,
+   "end": 499.94,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Lluvia suave",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "",
+     "k": "live",
+     "src": "burnout/stock/escena_129.mp4",
+     "pan": 1
+    },
+    {
+     "text": "DESCANSA SIN CULPA",
+     "y": 920,
+     "size": 96,
+     "font": "title",
+     "color": "cream",
+     "k": "txt"
+    }
+   ],
+   "paper": 0.15
+  },
+  {
+   "n": 130,
+   "start": 499.94,
+   "end": 505.06,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "w": 420,
+     "ch": "❤️",
+     "k": "sticky"
+    },
+    {
+     "text": "PRIMER *PASO*",
+     "y": 900,
+     "size": 120,
+     "font": "title",
+     "acc": "gold",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 131,
+   "start": 505.06,
+   "end": 508.58,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Pasos suaves",
+   "mus": "↳",
+   "bg": "afternoon",
+   "els": [
+    {
+     "mood": "tired",
+     "x": 1180,
+     "y": 780,
+     "s": 1.0,
+     "blanket": "#3b5bdb",
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "k": "bed"
+    },
+    {
+     "text": "FLOJO",
+     "x": 1080,
+     "y": 790,
+     "size": 60,
+     "anim": "none",
+     "k": "label"
+    },
+    {
+     "pose": "stand",
+     "x": 300,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "walk": true,
+     "hold": "☕",
+     "holdSize": 80,
+     "mx": 260,
+     "mAt": 0.2,
+     "mDur": 2.0,
+     "anim": "none",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "start": 508.58,
+   "end": 513.46,
+   "sec": 5,
+   "mark": "⚡",
+   "sfx": "Acorde cálido",
+   "mus": "Clímax emotivo",
+   "bg": "warm",
+   "els": [
+    {
+     "mood": "happy",
+     "x": 1180,
+     "y": 780,
+     "s": 1.0,
+     "blanket": "#3b5bdb",
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "anim": "none",
+     "k": "bed"
+    },
+    {
+     "pose": "stand",
+     "x": 560,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "hold": "☕",
+     "holdSize": 80,
+     "k": "person"
+    },
+    {
+     "x": 760,
+     "y": 240,
+     "w": 820,
+     "h": 230,
+     "text": "“¿Cómo estás de verdad?”",
+     "size": 54,
+     "at": 0.5,
+     "k": "thought"
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "start": 513.46,
+   "end": 519.32,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Pop ×2",
+   "mus": "Outro",
+   "bg": "slate",
+   "els": [
+    {
+     "ch": "👍",
+     "x": 680,
+     "y": 470,
+     "size": 260,
+     "k": "emo"
+    },
+    {
+     "ch": "💬",
+     "x": 1240,
+     "y": 470,
+     "size": 260,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "text": "¿QUÉ SEÑAL TE *PEGÓ MÁS*?",
+     "y": 860,
+     "size": 90,
+     "acc": "gold",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "start": 519.32,
+   "end": 522.52,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "↳",
+   "bg": "ash",
+   "els": [
+    {
+     "op": 0.8,
+     "clear": 0.4,
+     "k": "fog"
+    },
+    {
+     "y": 480,
+     "at": 0.6,
+     "dur": 2.2,
+     "k": "plane"
+    },
+    {
+     "text": "COMPÁRTELO",
+     "y": 900,
+     "size": 120,
+     "font": "title",
+     "color": "cream",
+     "at": 1.0,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "start": 522.52,
+   "end": 525.6,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Firma sonora del canal",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 560,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "x": 1300,
+     "y": 540,
+     "size": 76,
+     "at": 0.3,
+     "k": "subbtn"
+    }
+   ]
+  },
+  {
+   "n": 136,
+   "start": 525.6,
+   "end": 539.88,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "Fade out al final",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 560,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "x": 1300,
+     "y": 540,
+     "size": 76,
+     "anim": "none",
+     "pressAt": 0.6,
+     "text": "SUSCRITO ✓",
+     "done": true,
+     "k": "subbtn"
+    },
+    {
+     "text": "FLOJO",
+     "x": 1300,
+     "y": 780,
+     "size": 56,
+     "anim": "pop",
+     "cross": 0.9,
+     "at": 0.4,
+     "k": "label"
+    },
+    {
+     "ch": "😉",
+     "x": 1640,
+     "y": 780,
+     "size": 110,
+     "at": 1.4,
+     "k": "emo"
+    }
+   ],
+   "cam": "still"
+  }
+ ]
+}

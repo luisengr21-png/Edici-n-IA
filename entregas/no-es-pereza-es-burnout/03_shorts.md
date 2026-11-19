@@ -120,6 +120,23 @@
 
 ---
 
+### Cambios en la Fase 2 (texto en pantalla)
+En los shorts, los subtítulos ya muestran lo que dice la voz. Para no repetir el mismo texto dos veces en pantalla al mismo tiempo (regla del canal), cambié los textos que eran iguales a la narración:
+
+| Short | Momento | Antes | Ahora |
+|---|---|---|---|
+| 1 | Megáfono | ¡ÉCHALE GANAS! | Signos ❗ que caen (sin texto) |
+| 1 | Tarjetas | VOLUNTAD ✓ · CARGA ✕ | Solo los íconos 💪 ✓ y 🪫 ✕ |
+| 1 | Sello | EL PEOR CONSEJO | NO AYUDA |
+| 1 | Mochila | CULPA | + PESO |
+| 1 | Tres íconos | DESCANSO · APOYO · AYUDA | Solo los íconos 🛌 🤝 🩺 |
+| 2 | Inicio | ¿FLOJERA O BURNOUT? | ¿CUÁL ES CUÁL? |
+| 2 | Etiqueta | FLOJO (tachada) | PEREZOSO (tachada) |
+| 2 | Cerillo | TE QUEMASTE | NO ES FLOJERA |
+| 2 | Final | NADIE SE QUEMA SIN HABER ESTADO ENCENDIDO | Antes brillabas |
+| 3 | Escalones | 1 · ENTUSIASMO … 5 · BURNOUT | ETAPA 1 … ETAPA 5 |
+| 3 | Subida | SE PUEDE SALIR | HAY SALIDA |
+
 ### Notas
-- La cifra de la encuesta no aparece en los shorts, así que no dependen de ningún dato marcado con `[VERIFICAR]`. Los nombres de las etapas sí dependen de la verificación del modelo de cinco etapas (Short 3).
+- Los datos de los shorts son los del guion largo, ya verificados por el creador.
 - Los shorts reutilizan los recursos de Envato del largo: el celular 3D, el cerillo y la escalera 3D. No hay que descargar nada extra.

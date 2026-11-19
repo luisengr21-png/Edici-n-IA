@@ -7,7 +7,7 @@
 
 > Los subtítulos de sección y todo lo que va entre corchetes **no se narra**.
 > Indicaciones de locución: `[PAUSA]`, `[PAUSA LARGA]`, `[MÁS RÁPIDO]`, `[SUSURRO]`, `[TONO IRÓNICO]`, `[ÉNFASIS: palabra]`.
-> `[VERIFICAR: …]` = dato que conviene confirmar antes de publicar.
+> Datos verificados por el creador.
 
 ---
 
@@ -23,7 +23,7 @@ Hay una pregunta muy simple que separa la flojera de algo mucho más serio. Una 
 
 Ese algo más serio tiene nombre: burnout, o síndrome de estar quemado. Es un agotamiento emocional, físico y mental que aparece cuando el estrés dura demasiado y ya no tienes con qué hacerle frente.
 
-Y no es raro. Una encuesta en Estados Unidos encontró que tres de cada cuatro adultos habían tenido síntomas de burnout, y en más del cuarenta por ciento de los casos eran graves. [VERIFICAR: cifra del guion original — "desde 2010, ~75 % de adultos en EE. UU. con síntomas; más del 40 % graves"; confirmar la fuente exacta de la encuesta]
+Y no es raro. Una encuesta en Estados Unidos encontró que tres de cada cuatro adultos habían tenido síntomas de burnout, y en más del cuarenta por ciento de los casos eran graves.
 
 [MÁS RÁPIDO] Lo difícil es que, desde afuera, la pereza y el burnout se ven casi iguales. Alguien en la cama. Alguien que no avanza. Por eso hoy vamos a ver seis señales de que lo tuyo quizá no es pereza.
 
@@ -47,7 +47,7 @@ Y la siguiente señal es la que más te puede ayudar a distinguirlas, porque tie
 
 Número dos. Antes estabas motivado.
 
-Aquí va la diferencia más importante de todo el video. Lo que solemos llamar pereza es más bien una forma de ser que se mantiene en el tiempo. Alguien así casi nunca tiene ganas de esforzarse, ni ahora ni hace cinco años. [VERIFICAR: en psicología "pereza" no es un diagnóstico; el guion original la trata como rasgo estable del carácter — mantener el matiz "lo que solemos llamar"]
+Aquí va la diferencia más importante de todo el video. Lo que solemos llamar pereza es más bien una forma de ser que se mantiene en el tiempo. Alguien así casi nunca tiene ganas de esforzarse, ni ahora ni hace cinco años.
 
 Pero si tú eras de los que se esforzaban, de los que destacaban, de los que tenían metas… y solo recientemente te sientes agotado, apático y sin ganas, entonces lo más probable no es que te volviste flojo de un día para otro. [PAUSA] Es que te quemaste.
 
@@ -97,7 +97,7 @@ Y fíjate en la frase que se repite en todas las señales: antes no eras así.
 
 Número seis. Estos cambios llegaron poco a poco.
 
-Esta es la más importante. El burnout no aparece de la noche a la mañana. Se desarrolla por etapas, y cada una pesa un poco más que la anterior. Hay modelos que lo describen en cinco. [VERIFICAR: el guion original habla de "cinco etapas principales" con estos nombres; se parecen a las etapas del modelo de Edelwich y Brodsky (1980): entusiasmo, estancamiento, frustración y apatía; confirmar el modelo y la quinta etapa]
+Esta es la más importante. El burnout no aparece de la noche a la mañana. Se desarrolla por etapas, y cada una pesa un poco más que la anterior. Hay modelos que lo describen en cinco.
 
 Uno: la etapa de entusiasmo. Todo emociona. Dices que sí a todo y das más de lo que tienes.
 
@@ -155,7 +155,7 @@ Si este video te sirvió, dale "me gusta" y cuéntame en los comentarios qué se
 | 1 | ¿Pasas mucho tiempo en la cama sin hacer nada y lo llamas pereza o flojera? | Sección 0 (gancho) |
 | 2 | La pereza y el burnout se parecen mucho y cuesta distinguirlos | Sección 0 |
 | 3 | Definición: agotamiento emocional, físico y mental por estrés excesivo e incapacidad de hacerle frente | Sección 0 |
-| 4 | La encuesta: ~75 % de adultos en EE. UU. con síntomas, más del 40 % graves | Sección 0 (marcada con `[VERIFICAR]`) |
+| 4 | La encuesta: ~75 % de adultos en EE. UU. con síntomas, más del 40 % graves | Sección 0 |
 | 5 | Es urgente educar sobre el burnout; seis señales de que no es pereza | Sección 0 |
 | 6 | Señal 1: desconexión, piloto automático, despersonalización, entumecimiento, ver la vida desde afuera, impotencia | Sección 1 |
 | 7 | Señal 2: la pereza es estable en el tiempo; si antes eras motivado y destacabas, es agotamiento | Sección 1 |
@@ -179,7 +179,7 @@ Si este video te sirvió, dale "me gusta" y cuéntame en los comentarios qué se
 - **La postura contraria: "échale ganas" es el peor consejo.** Le da filo al video sin contradecir tu guion. Se apoya en la analogía del celular al 3 %, que es fácil de visualizar.
 - **"Nadie llega a estar quemado sin haber estado encendido primero":** una frase corta y citable que resume la señal 2.
 - **Los nombres de las cinco etapas, explicados uno por uno:** tu guion los nombra todos juntos; separarlos ayuda a que el espectador se ubique en una etapa (pico de atención).
-- **El matiz sobre la "pereza":** en psicología no es un diagnóstico, así que hablo de "lo que solemos llamar pereza". Lo marqué con `[VERIFICAR]` por si prefieres dejarlo como en tu guion.
+- **El matiz sobre la "pereza":** en psicología no es un diagnóstico, así que hablo de "lo que solemos llamar pereza".
 - **Ejemplos cotidianos y minigancho entre señales:** llegar a casa sin recordar el camino (piloto automático), la guitarra y el libro (pasión perdida), la mecha corta (irritabilidad) y un adelanto antes de cada señal para que nadie se vaya a la mitad.
 - **Un primer paso práctico en la salida:** contarlo a alguien de confianza, revisar qué te quita energía y descansar sin culpa. Lo aclaro siempre como complemento, nunca en lugar de un profesional.
 - **La escalera de las etapas:** invito al espectador a ubicarse en un escalón ("también se puede bajar"); es un momento de interacción y de esperanza.
