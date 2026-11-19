@@ -12,15 +12,6 @@ Juntos se leen como pregunta y respuesta: la miniatura plantea la duda y el tít
 | 3 | Por qué repasas tus pláticas en la noche (y cómo dejar de hacerlo) | Búsqueda con las palabras del público | 66 |
 | 4 | Deja de actuar: por qué caes mejor cuando dejas de intentarlo | Paradoja | 61 |
 
----|---|---|---|
-| 1 | El personaje que fabricas por miedo (y por qué te aleja de todos) | Nombrar el fenómeno y revelar la consecuencia | 65 |
-| 2 | El experimento de la camiseta: nadie te está mirando como crees | Experimento con un dato sorprendente | 63 |
-| 3 | Por qué caes mejor cuando dejas de intentarlo | Paradoja que desafía un supuesto | 45 |
-| 4 | No pienses en un oso blanco (y cómo eso arruina tus pláticas) | Orden imposible que abre un bucle | 61 |
-| 5 | 3 trampas que te alejan de la gente sin que lo notes | Lista negativa | 52 |
-
-**Recomendado para empezar:** el **1** con la Miniatura 1. El **3** es la mejor alternativa para una prueba A/B con la Miniatura 3.
-
 ---
 
 ## Descripción
