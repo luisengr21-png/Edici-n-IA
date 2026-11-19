@@ -212,7 +212,27 @@ const Person: React.FC<{e: El; t: number; i: number}> = ({e, t, i}) => {
           <path d="M-64 -126 Q0 -150 64 -126 L70 44 Q0 58 -70 44 Z" fill={hood} />
           <path d="M-30 -10 L30 -10 L26 20 L-26 20 Z" fill="rgba(0,0,0,0.12)" />
           <path d={B.d} stroke={hood} strokeWidth={34} strokeLinecap="round" strokeLinejoin="round" fill="none" />
-          <circle cx={0} cy={-182} r={50} fill={dark} />
+          {/* cara del personaje principal */}
+          <circle cx={0} cy={-182} r={50} fill={e.ghost ? '#cbbfb3' : e.skin ?? '#D9A27A'} />
+          <path d="M-46 -200 Q-40 -236 0 -238 Q40 -236 46 -200 Q30 -222 0 -222 Q-30 -222 -46 -200 Z" fill="#3a2418" />
+          {(() => {
+            const worried = e.sweat || e.pose === 'scratch' || e.mood === 'worried';
+            const happy = e.pose === 'wave' || e.mood === 'happy';
+            const blink = Math.sin(t * 2.3 + i * 1.7) > 0.985 ? 0.15 : 1;
+            return (
+              <g>
+                <path d={worried ? 'M-30 -204 L-12 -198' : 'M-30 -200 L-12 -203'} stroke="#3a2418" strokeWidth={5} strokeLinecap="round" />
+                <path d={worried ? 'M30 -204 L12 -198' : 'M30 -200 L12 -203'} stroke="#3a2418" strokeWidth={5} strokeLinecap="round" />
+                <ellipse cx={-19} cy={-186} rx={5.5} ry={7 * blink} fill="#1f1612" />
+                <ellipse cx={19} cy={-186} rx={5.5} ry={7 * blink} fill="#1f1612" />
+                <circle cx={-17} cy={-189} r={1.8} fill="#fff" opacity={blink} />
+                <circle cx={21} cy={-189} r={1.8} fill="#fff" opacity={blink} />
+                <ellipse cx={-30} cy={-168} rx={8} ry={4.5} fill="#e98a7a" opacity={0.55} />
+                <ellipse cx={30} cy={-168} rx={8} ry={4.5} fill="#e98a7a" opacity={0.55} />
+                <path d={worried ? 'M-12 -160 Q0 -167 12 -160' : happy ? 'M-15 -166 Q0 -150 15 -166' : 'M-12 -164 Q0 -156 12 -164'} stroke="#5a2a1e" strokeWidth={5} fill={happy ? '#7a2e22' : 'none'} strokeLinecap="round" />
+              </g>
+            );
+          })()}
           <path d="M-52 -176 Q-56 -238 0 -240 Q56 -238 52 -176 Q44 -146 0 -138 Q-44 -146 -52 -176 Z" fill="none" stroke={hood} strokeWidth={10} />
           {e.sweat && <path d="M58 -214 q10 18 0 26 q-10 -8 0 -26 Z" fill="#7FD3FF" />}
         </svg>

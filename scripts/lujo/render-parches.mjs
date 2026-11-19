@@ -11,7 +11,13 @@ const FPS = 30;
 const ranges = nums.map((n) => {
   const s = plan.scenes.find((x) => x.n === n);
   return [n, Math.round(s.start * FPS), Math.round(s.end * FPS) - 1];
-}).sort((a, b) => a[1] - b[1]);
+}).sort((a, b) => a[1] - b[1]).reduce((acc, r) => {
+  // une escenas contiguas en un solo tramo
+  const last = acc[acc.length - 1];
+  if (last && r[1] === last[2] + 1) last[2] = r[2];
+  else acc.push([...r]);
+  return acc;
+}, []);
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
 const browser = await openBrowser('chrome', {browserExecutable: '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell'});
 const composition = await selectComposition({serveUrl, id: 'PobrezaDeLujo', puppeteerInstance: browser});

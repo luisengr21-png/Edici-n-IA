@@ -9,7 +9,7 @@
 - En la columna **Música**, `↳` significa "sigue igual que la escena anterior". Solo se anota cuando cambia algo.
 
 ## Biblia visual (aplica a todo el video)
-- **Personaje "Tú":** silueta 2D sin rostro (cabeza ovalada lisa), sudadera mostaza `#E0A526`. Es el espectador; aparece en todas las secciones.
+- **Personaje "Tú":** personaje 2D con rostro ilustrado (ojos, cejas, mejillas y boca que cambian según la escena: neutral, preocupado o sonriente), capucha y sudadera mostaza `#E0A526`. Es el espectador; aparece en todas las secciones. *(El canal sigue sin mostrar tu rostro real; este es un personaje dibujado.)*
 - **Paleta:** negro carbón `#111014` (fondos), dorado lujo `#C9A227` (todo lo que es "estatus"), crema `#F2EBDD` (fondos claros), rojo deuda `#E5383B` (alertas, deuda, precios que suben) y verde libertad `#2A9D8F` (solo aparece de verdad en la Sección 5: es la "recompensa" de color).
 - **Tipografía:** titulares en serif de lujo de alto contraste (Playfair Display o Bodoni Moda, en negritas); texto en pantalla en sans gruesa (Montserrat ExtraBold o Inter Black), siempre en MAYÚSCULAS.
 - **Elementos recurrentes:**
@@ -40,7 +40,7 @@
 |---|---|---|---|---|---|---|---|
 | 1 | 0:00.0–0:01.4 | «Imagina esto.» | `MOTION` | Negro total. Una línea de luz dorada se abre al centro como una puerta. | — | Riser suave corto | Silencio → room tone de tienda |
 | 2 | 0:01.4–0:09.2 | «Es sábado. Entras a una tienda de esas con piso brillante, música bajita …» | `2D` | POV desde la entrada: puerta de vidrio de boutique, piso de mármol que refleja luces cálidas, guardia en silueta junto a la puerta. | — | Campanita de puerta · pasos sobre mármol | Música lounge diegética, muy bajita (como si sonara en la tienda) |
-| 3 | 0:09.2–0:10.9 | «Vas con tu ropa de siempre.» | `2D` | Personaje "Tú" (silueta sin rostro, sudadera mostaza) de espaldas; plano a sus tenis gastados sobre el mármol brillante. | — | Pasos | ↳ |
+| 3 | 0:09.2–0:10.9 | «Vas con tu ropa de siempre.» | `2D` | Personaje "Tú" (con rostro ilustrado, sudadera mostaza) de espaldas; plano a sus tenis gastados sobre el mármol brillante. | — | Pasos | ↳ |
 | 4 | 0:10.9–0:14.4 | «La vendedora levanta la vista. Te mira.» | `2D` | Vendedora estilizada detrás del mostrador (rasgos mínimos: cejas y labios). Primer plano: levanta los ojos. | — | Vinyl stop: la música lounge se corta en "Te mira" | Corte a silencio |
 | 5 | 0:14.4–0:16.3 | «De los pies a la cabeza.» | `2D` | Tilt de cámara de los tenis a la cabeza del personaje, con una línea de escaneo roja tipo láser. | — | Scan/whoosh ascendente | Silencio |
 | 6 | 0:16.3–0:18.6 | «Y no te saluda.» | `2D` | La vendedora se da la vuelta. El personaje queda solo en un plano amplio y frío. | — | Un "tic" de reloj | Silencio |
