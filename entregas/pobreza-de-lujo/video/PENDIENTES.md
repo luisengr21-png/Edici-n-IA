@@ -10,6 +10,14 @@
 
 Los capítulos con sus tiempos reales ya están en `../05_titulos_y_descripcion.md`.
 
+### Revisión que hice
+- Revisé el fotograma central de las 216 escenas del largo y de todas las de los shorts (hojas de contacto). Corregí lo que encontré: emojis sin color, la gráfica que se salía del cuadro, el calendario que decía «July 17», la balanza HOY/MAÑANA invertida, la jaula descentrada y los subtítulos con palabras pegadas.
+- **Sincronía:** extraje fotogramas en el momento exacto en que la voz dice «Canada Goose», «rendición», «Pretty Woman», «pago inicial» y «enorme», y en todos aparece el visual correcto. Los cortes de escena salen de la transcripción por palabra, con un 97.8 % de las palabras alineadas.
+- **Pantallas negras:** `blackdetect` solo encontró las tres pausas negras intencionales (escenas 74, 150 y 178). Les agregué un texto tenue para que no queden 3.6 s en negro total.
+- **Subtítulos de los shorts:** comprobé que la palabra resaltada coincide con la que se dice, que el texto no se corta y que queda en la franja del 61 % al 68 % de la altura, fuera de los botones y de la descripción de YouTube.
+- **Audio:** largo y shorts a −14 LUFS (±0.7), con la voz siempre por encima de la música (ducking).
+- **Loop:** en los Shorts 1 y 2 el último fotograma repite el encuadre del primero.
+
 ---
 
 ## 1. Clips de stock que faltan (marcador visible «CLIP DE STOCK PENDIENTE»)
