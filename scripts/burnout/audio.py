@@ -162,12 +162,13 @@ def build_sfx(scenes, total, path, short=False):
             lim = min(mx, dur + 0.6) if mx else None
             step = min(0.45, max(0.22, dur / (times + 1)))
             for k in range(times):
-                place(buf, clip, s['start'] + 0.06 + k * step, db(gain), lim)
+                place(buf, clip, s['start'] + s.get('sfxAt', 0) + 0.06 + k * step, db(gain), lim)
         # riser que desemboca en cada pico de dopamina ⚡
         if '⚡' in (s.get('mark') or '') and s['start'] > 3:
+            t_hit = s['start'] + s.get('sfxAt', 0)
             r = load(variant(['riser2', 'riser1']))
             L = min(len(r) / SR, 2.6)
-            place(buf, r[-int(L * SR):], s['start'] - L + 0.05, db(-15), None, fin=0.4)
+            place(buf, r[-int(L * SR):], t_hit - L + 0.05, db(-15), None, fin=0.4)
     if not short:
         # whoosh de transición al empezar cada sección
         secs = {}
@@ -223,7 +224,7 @@ def silences(scenes):
     out = []
     for s in scenes:
         m = s.get('mus', '').lower()
-        a, b = s['start'], s['end']
+        a, b = s['start'] + s.get('silAt', 0), s['end']
         if 'silencio de 1 s' in m:
             out.append((a, min(b, a + 1.2), 0.0))
         elif 'silencio parcial' in m:

@@ -1,5 +1,7 @@
 # Pendientes · El personaje que fabricas por miedo (Fase 2)
 
+> **Actualización (corrección de los clips):** en la primera entrega, los 12 clips de Envato del video largo y el clip de cada short se veían congelados en su último cuadro; solo se movía el zoom lento. La causa era un error del motor: cada escena no tenía su propio `Sequence`, así que el clip se buscaba en el segundo absoluto del video, que ya pasaba su duración. Ya está corregido en `src/personaje/Main.tsx` y `Shorts.tsx`. Volví a renderizar las 12 escenas con clip (10, 32, 65, 82, 99, 113, 126, 129, 131, 156, 169 y 170) y los 3 shorts, y rehíce la mezcla. Ahora los clips se reproducen desde su inicio. Si ya subiste el video a YouTube, conviene reemplazarlo por este archivo.
+
 ## Entregado
 | Archivo | Formato | Duración |
 |---|---|---|

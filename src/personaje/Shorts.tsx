@@ -1,7 +1,7 @@
 import React from 'react';
 import {AbsoluteFill, useCurrentFrame, useVideoConfig} from 'remotion';
 import {L, SANS, spr} from './kit';
-import {SceneView, SceneT} from './Main';
+import {SceneSeq, SceneT} from './Main';
 import shorts from './shorts.json';
 
 type W = {w: string; s: number; e: number};
@@ -57,7 +57,7 @@ export const ShortVideo: React.FC<{id: string}> = ({id}) => {
   for (const s of sh.scenes) if (s.start <= T) sc = s;
   return (
     <AbsoluteFill style={{background: '#000'}}>
-      <SceneView sc={sc} T={T} w={width} h={height} />
+      <SceneSeq key={sc.n} sc={sc} w={width} h={height} />
       <AbsoluteFill style={{background: 'radial-gradient(ellipse at 50% 50%, transparent 55%, rgba(0,0,0,0.5) 100%)'}} />
       <Captions words={sh.words} T={T} />
     </AbsoluteFill>

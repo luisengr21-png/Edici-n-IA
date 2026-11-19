@@ -1,5 +1,5 @@
 import React from 'react';
-import {AbsoluteFill, useCurrentFrame, useVideoConfig} from 'remotion';
+import {AbsoluteFill, Sequence, useCurrentFrame, useVideoConfig} from 'remotion';
 import {L, clamp, eo, hash, lerp, wobble} from './kit';
 import {renderEl, El} from './elements';
 import plan from './plan.json';
@@ -110,6 +110,23 @@ const findScene = (list: SceneT[], T: number) => {
   return list[lo];
 };
 
+// Cada escena va en su propio Sequence: así los clips de Envato empiezan desde su primer cuadro
+// (sin esto, OffthreadVideo pedía el segundo absoluto del video y el clip se quedaba congelado en su último cuadro).
+export const SceneSeq: React.FC<{sc: SceneT; w: number; h: number}> = ({sc, w, h}) => {
+  const {fps} = useVideoConfig();
+  const from = Math.round(sc.start * fps);
+  return (
+    <Sequence from={from} durationInFrames={Math.max(1, Math.round(sc.end * fps) - from)} layout="none">
+      <SceneInner sc={sc} w={w} h={h} from={from} />
+    </Sequence>
+  );
+};
+const SceneInner: React.FC<{sc: SceneT; w: number; h: number; from: number}> = ({sc, w, h, from}) => {
+  const f = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  return <SceneView sc={sc} T={(f + from) / fps} w={w} h={h} />;
+};
+
 export const PersonajeVideo: React.FC = () => {
   const frame = useCurrentFrame();
   const {fps, width, height} = useVideoConfig();
@@ -117,7 +134,7 @@ export const PersonajeVideo: React.FC = () => {
   const sc = findScene(scenes, T);
   return (
     <AbsoluteFill style={{background: '#000'}}>
-      <SceneView sc={sc} T={T} w={width} h={height} />
+      <SceneSeq key={sc.n} sc={sc} w={width} h={height} />
       <AbsoluteFill style={{background: 'radial-gradient(ellipse at 50% 50%, transparent 60%, rgba(0,0,0,0.45) 100%)', pointerEvents: 'none'}} />
     </AbsoluteFill>
   );

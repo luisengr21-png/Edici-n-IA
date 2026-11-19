@@ -124,11 +124,12 @@
      "x": 820,
      "y": 770,
      "size": 96,
-     "at": 0.5,
+     "at": 3.7,
      "k": "label"
     }
    ],
-   "shake": 0.75
+   "shake": 3.95,
+   "sfxAt": 3.75
   },
   {
    "n": 5,
@@ -293,7 +294,7 @@
      "font": "title",
      "color": "gold",
      "glow": true,
-     "at": 0.3,
+     "at": 2.72,
      "k": "txt"
     }
    ],
@@ -874,11 +875,14 @@
     {
      "text": "DESPERSONALIZACIÓN",
      "size": 140,
-     "ashAt": 1.5,
+     "at": 1.4,
+     "ashAt": 2.4,
      "k": "ash"
     }
    ],
    "hud": 1,
+   "sfxAt": 1.45,
+   "silAt": 1.4,
    "env": true
   },
   {
@@ -1154,10 +1158,12 @@
      "x": 960,
      "y": 540,
      "size": 150,
+     "at": 0.8,
      "k": "stamp"
     }
    ],
-   "shake": 0.12,
+   "shake": 0.95,
+   "sfxAt": 0.85,
    "hud": 1,
    "env": true
   },
@@ -2273,7 +2279,7 @@
      "size": 120,
      "font": "title",
      "acc": "red",
-     "at": 0.4,
+     "at": 1.2,
      "k": "txt"
     }
    ],
@@ -3102,11 +3108,12 @@
      "x": 960,
      "y": 540,
      "size": 140,
+     "at": 2.5,
      "k": "stamp"
     }
    ],
-   "shake": 0.12,
-   "flash": true,
+   "shake": 2.65,
+   "sfxAt": 2.55,
    "hud": 5,
    "env": true
   },
@@ -3886,14 +3893,14 @@
       null,
       null,
       null,
-      0.2
+      1.45
      ],
      "active": 5,
      "k": "stairs"
     },
     {
      "op": 0.55,
-     "at": 0.3,
+     "at": 1.5,
      "k": "fog"
     },
     {
@@ -3902,11 +3909,13 @@
      "size": 96,
      "x": 1320,
      "color": "ash",
-     "at": 0.3,
+     "at": 1.45,
      "k": "txt"
     }
    ],
-   "shake": 0.25,
+   "shake": 1.55,
+   "sfxAt": 1.45,
+   "silAt": 1.45,
    "hud": 6,
    "env": true
   },
@@ -4203,6 +4212,7 @@
      "font": "title",
      "acc": "gold",
      "glow": true,
+     "stagger": 0.25,
      "k": "txt"
     }
    ],
