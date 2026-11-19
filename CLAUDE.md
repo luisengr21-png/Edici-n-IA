@@ -9,11 +9,12 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 
 ## Automatizar todo
 - El creador **no tiene clips de stock propios**. Para las escenas `LIVE`, generar imágenes fotográficas con IA (ElevenLabs, `gpt-image-2.5-sunburst`, una variante por escena), guardarlas en `recursos/stock/escena_NNN.jpg` y animarlas con Ken Burns. En verticales, usar una imagen centrada sobre una versión desenfocada de la misma (`fit: 'blurfill'`).
-- Música y efectos: si `recursos/musica` y `recursos/sfx` están vacías, sintetizarlos con código (sin samples ni música con derechos).
+- **Audio (música y efectos de sonido): usar el conector de Epidemic Sound** para todo lo relacionado con audio: buscar, descargar y, si hace falta, ajustar la duración de las pistas (EditRecording). Guardar lo descargado en `recursos/musica/` y `recursos/sfx/`. La síntesis por código queda solo como respaldo si Epidemic Sound no está disponible.
+- **Visuales: el creador tiene conector con Envato** para que los videos no se vean genéricos. El conector actual solo permite *buscar* (no descargar ni licenciar), así que la forma de usarlo se define con el creador (ver el primer video nuevo).
 - Miniaturas: fondo generado con IA (4 variantes, elegir la mejor) + texto añadido con código usando las tipografías del canal.
 
 ## Narración
-- Voz: ElevenLabs, voz "BRIAN CM | Young LatAm Spanish Narrator" (`LY1fdYL8QcEDyEkAT4Qq`), modelo `eleven_v4`, salvo que el creador grabe su propio audio.
+- **Siempre la misma voz en todos los videos:** ElevenLabs, voz "BRIAN CM | Young LatAm Spanish Narrator" (`LY1fdYL8QcEDyEkAT4Qq`), modelo `eleven_v4`. No cambiarla salvo que el creador lo pida o grabe su propio audio.
 
 ## Cierre de los videos
 - No hacer referencia a otros videos del canal salvo que el creador lo pida en ese video.
