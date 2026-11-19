@@ -33,3 +33,9 @@ public/lujo/stock/
 # Clips con licencia de Envato: no se suben al repositorio
 recursos/stock/*.mp4
 recursos/stock/*.mov
+# Música y efectos de Epidemic Sound (licencia del canal): no se suben al repositorio
+recursos/musica/personaje/
+recursos/sfx/personaje/
+audio/el-personaje-del-miedo/tomas/
+out/personaje-*
+public/personaje/stock/

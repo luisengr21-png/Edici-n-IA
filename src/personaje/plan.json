@@ -1,0 +1,7397 @@
+{
+ "duration": 872.7,
+ "audioEnd": 860.7,
+ "sections": {
+  "0": 0.0,
+  "1": 77.76,
+  "2": 232.48,
+  "3": 373.42,
+  "4": 499.14,
+  "5": 664.4,
+  "6": 770.26,
+  "7": 849.32
+ },
+ "scenes": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.42,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Zumbido eléctrico suave",
+   "mus": "Silencio → ambiente nocturno",
+   "bg": "black",
+   "els": [
+    {
+     "x": 960,
+     "y": 540,
+     "s": 1.25,
+     "at": 0.3,
+     "k": "clock"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 2,
+   "start": 2.42,
+   "end": 5.52,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Grillos lejanos · reloj",
+   "mus": "Pad nocturno muy bajo",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "worried",
+     "x": 960,
+     "y": 720,
+     "s": 1.2,
+     "phone": true,
+     "k": "bed"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 3,
+   "start": 5.52,
+   "end": 9.82,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Susurro en loop",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "worried",
+     "x": 960,
+     "y": 820,
+     "s": 0.95,
+     "phone": true,
+     "anim": "none",
+     "k": "bed"
+    },
+    {
+     "x": 820,
+     "y": 330,
+     "w": 640,
+     "h": 280,
+     "scribble": true,
+     "loop": true,
+     "at": 0.3,
+     "k": "thought"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 9.82,
+   "end": 11.08,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "x": 960,
+     "y": 470,
+     "w": 1100,
+     "h": 480,
+     "scribble": true,
+     "s": 1.15,
+     "blur": 6,
+     "blurAt": 0.8,
+     "k": "thought"
+    },
+    {
+     "text": "UNA FRASE",
+     "y": 900,
+     "size": 96,
+     "color": "goldL",
+     "k": "txt"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 5,
+   "start": 11.08,
+   "end": 14.6,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Tic-tac",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "x": 820,
+     "y": 430,
+     "w": 900,
+     "h": 420,
+     "scribble": true,
+     "anim": "none",
+     "at": 0,
+     "k": "thought"
+    },
+    {
+     "ch": "⏱️",
+     "x": 1560,
+     "y": 760,
+     "size": 110,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "2 MINUTOS",
+     "y": 900,
+     "size": 56,
+     "x": 1560,
+     "color": "greenL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 14.6,
+   "end": 20.18,
+   "sec": 0,
+   "mark": "⚡",
+   "sfx": "Pop ×3",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 700,
+     "s": 1.05,
+     "mood": "worried",
+     "sweat": true,
+     "k": "person"
+    },
+    {
+     "x": 420,
+     "y": 250,
+     "w": 560,
+     "h": 200,
+     "text": "¿Por qué dije eso?",
+     "size": 44,
+     "upper": false,
+     "at": 0.2,
+     "k": "thought"
+    },
+    {
+     "x": 1000,
+     "y": 170,
+     "w": 560,
+     "h": 200,
+     "text": "¿Habrá sonado raro?",
+     "size": 44,
+     "at": 1.4,
+     "k": "thought"
+    },
+    {
+     "x": 1500,
+     "y": 330,
+     "w": 620,
+     "h": 220,
+     "text": "Seguro piensa que soy rarísimo",
+     "size": 42,
+     "at": 2.6,
+     "k": "thought"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 20.18,
+   "end": 24.38,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Cinta rebobinando",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "dark",
+     "x": 960,
+     "y": 440,
+     "w": 1200,
+     "h": 300,
+     "ch": "💬",
+     "chSize": 120,
+     "k": "frame"
+    },
+    {
+     "ch": "⏪",
+     "x": 960,
+     "y": 820,
+     "size": 150,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 24.38,
+   "end": 27.14,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Tecleo",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 500,
+     "w": 1100,
+     "h": 360,
+     "nolines": true,
+     "text": "Dije eso ✗ → Quise decir…",
+     "size": 60,
+     "k": "frame"
+    },
+    {
+     "ch": "✏️",
+     "x": 1440,
+     "y": 620,
+     "size": 140,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "text": "EDITAR",
+     "y": 900,
+     "size": 80,
+     "color": "goldL",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 27.14,
+   "end": 29.94,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Vibración",
+   "mus": "Sube un poco",
+   "bg": "night",
+   "els": [
+    {
+     "x": 960,
+     "y": 540,
+     "s": 0.95,
+     "big": "🎉",
+     "bigSize": 170,
+     "sub": "¿Vienes hoy?",
+     "screen": "linear-gradient(180deg,#1d2650,#10152e)",
+     "k": "phone"
+    }
+   ],
+   "shake": 0.4
+  },
+  {
+   "n": 10,
+   "start": 29.94,
+   "end": 31.62,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Tecleo de celular",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · hands typing smartphone dark night close up",
+     "ch": "📱",
+     "k": "live",
+     "src": "personaje/stock/escena_010.mp4",
+     "pan": -1
+    },
+    {
+     "text": "LA EXCUSA",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "start": 31.62,
+   "end": 33.64,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Música de fiesta lejana y apagada",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.05,
+     "flip": true,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "kind": "glass",
+     "x": 1460,
+     "y": 380,
+     "w": 360,
+     "h": 300,
+     "ch": "🏠🎉",
+     "chSize": 110,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "start": 33.64,
+   "end": 36.96,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Latido",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "❤️",
+     "x": 960,
+     "y": 480,
+     "size": 300,
+     "anim": "pop",
+     "k": "emo"
+    },
+    {
+     "ch": "🩹",
+     "x": 1010,
+     "y": 430,
+     "size": 170,
+     "at": 0.8,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "start": 36.96,
+   "end": 37.94,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "text": "¿TE *SUENA*?",
+     "y": 540,
+     "size": 170,
+     "acc": "goldL",
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "start": 37.94,
+   "end": 39.3,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🤨",
+     "x": 960,
+     "y": 420,
+     "size": 230,
+     "k": "emo"
+    },
+    {
+     "text": "LO *IRÓNICO*",
+     "y": 760,
+     "size": 120,
+     "acc": "coral",
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "start": 39.3,
+   "end": 42.66,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Olas",
+   "mus": "Tensión baja",
+   "bg": "night",
+   "els": [
+    {
+     "y": 720,
+     "k": "island"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 600,
+     "s": 0.75,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "text": "MIEDO A ESTAR *SOLO*",
+     "y": 150,
+     "size": 84,
+     "acc": "coral",
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "start": 42.66,
+   "end": 45.6,
+   "sec": 0,
+   "mark": "⚡",
+   "sfx": "Ladrillos + impacto",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "y": 720,
+     "walls": 0.2,
+     "k": "island"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 600,
+     "s": 0.75,
+     "mood": "worried",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "text": "*AISLARSE*",
+     "y": 150,
+     "size": 120,
+     "acc": "coral",
+     "at": 1.2,
+     "k": "txt"
+    }
+   ],
+   "shake": 1.5
+  },
+  {
+   "n": 17,
+   "start": 45.6,
+   "end": 49.42,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Pasos rápidos + portazo",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 900,
+     "y": 640,
+     "s": 0.95,
+     "walk": true,
+     "anim": "left",
+     "flip": true,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "kind": "glass",
+     "x": 1520,
+     "y": 520,
+     "w": 300,
+     "h": 420,
+     "ch": "🚪",
+     "chSize": 150,
+     "k": "frame"
+    },
+    {
+     "text": "*SOLEDAD*",
+     "y": 140,
+     "size": 100,
+     "acc": "greenL",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "start": 49.42,
+   "end": 55.0,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "Entra pulso curioso",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "EXPERIMENTO 1",
+     "ch": "👕",
+     "x": 960,
+     "y": 520,
+     "w": 520,
+     "h": 560,
+     "color": "gold",
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "start": 55.0,
+   "end": 58.38,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "👕",
+     "x": 560,
+     "y": 520,
+     "w": 420,
+     "h": 460,
+     "color": "gold",
+     "anim": "none",
+     "k": "card"
+    },
+    {
+     "text": "EXPERIMENTO 2",
+     "ch": "❤️",
+     "x": 1300,
+     "y": 520,
+     "w": 520,
+     "h": 560,
+     "color": "greenL",
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "start": 58.38,
+   "end": 62.98,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Riser corto",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "value": 0.98,
+     "x": 960,
+     "y": 500,
+     "color": "greenL",
+     "h": 560,
+     "over": true,
+     "at": 0.1,
+     "dur": 1.0,
+     "k": "meter"
+    },
+    {
+     "ch": "⬆️",
+     "x": 1300,
+     "y": 400,
+     "size": 140,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "start": 62.98,
+   "end": 67.02,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Click",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "👕",
+     "x": 760,
+     "y": 540,
+     "w": 380,
+     "h": 440,
+     "color": "gold",
+     "anim": "left",
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "❤️",
+     "x": 1160,
+     "y": 540,
+     "w": 380,
+     "h": 440,
+     "color": "greenL",
+     "anim": "right",
+     "k": "card"
+    },
+    {
+     "ch": "🧩",
+     "x": 960,
+     "y": 860,
+     "size": 110,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "start": 67.02,
+   "end": 72.62,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Cartón",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.25,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "x": 960,
+     "y": 380,
+     "s": 0.62,
+     "at": 0.3,
+     "anim": "up",
+     "k": "mask"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "start": 72.62,
+   "end": 74.0,
+   "sec": 0,
+   "mark": "",
+   "sfx": "Golpe suave",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.25,
+     "mood": "worried",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "x": 960,
+     "y": 380,
+     "s": 0.62,
+     "anim": "none",
+     "tremble": true,
+     "tilt": true,
+     "tiltTo": -14,
+     "tiltAt": 0.3,
+     "k": "mask"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 24,
+   "start": 74.0,
+   "end": 74.82,
+   "sec": 0,
+   "mark": "⚡",
+   "sfx": "Impacto grande",
+   "mus": "Golpe y silencio de 1 s",
+   "bg": "night",
+   "els": [
+    {
+     "x": 960,
+     "y": 330,
+     "s": 0.8,
+     "op": 0.35,
+     "anim": "fade",
+     "k": "mask"
+    },
+    {
+     "text": "EL PERSONAJE QUE\n*FABRICAS POR MIEDO*",
+     "y": 760,
+     "size": 104,
+     "font": "serif",
+     "acc": "goldL",
+     "at": 0.0,
+     "stagger": 0.02,
+     "k": "txt"
+    }
+   ],
+   "flash": true,
+   "shake": 0.05
+  },
+  {
+   "n": 25,
+   "start": 74.82,
+   "end": 77.76,
+   "sec": 0,
+   "mark": "🪝",
+   "sfx": "Tijeras + cinta",
+   "mus": "Pad",
+   "bg": "warm",
+   "els": [
+    {
+     "x": 960,
+     "y": 560,
+     "s": 0.8,
+     "anim": "zoom",
+     "k": "mask"
+    },
+    {
+     "ch": "✂️",
+     "x": 620,
+     "y": 700,
+     "size": 140,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "ch": "🩹",
+     "x": 1320,
+     "y": 430,
+     "size": 120,
+     "at": 0.5,
+     "k": "emo"
+    },
+    {
+     "text": "EL PERSONAJE QUE *FABRICAS POR MIEDO*",
+     "y": 150,
+     "size": 72,
+     "font": "serif",
+     "acc": "goldL",
+     "at": 0,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "start": 77.76,
+   "end": 80.12,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Shimmer",
+   "mus": "Lo-fi contemplativo",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🌍",
+     "x": 1100,
+     "y": 480,
+     "size": 330,
+     "k": "emo"
+    },
+    {
+     "pose": "stand",
+     "x": 620,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "❤️",
+     "x": 1300,
+     "y": 230,
+     "size": 90,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "ch": "❤️",
+     "x": 880,
+     "y": 200,
+     "size": 70,
+     "at": 0.6,
+     "k": "emo"
+    },
+    {
+     "ch": "❤️",
+     "x": 1420,
+     "y": 560,
+     "size": 80,
+     "at": 0.8,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "start": 80.12,
+   "end": 83.34,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Tres pops ascendentes",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 520,
+     "y": 720,
+     "s": 0.6,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 620,
+     "s": 0.8,
+     "at": 0.4,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1400,
+     "y": 520,
+     "s": 1.0,
+     "at": 0.8,
+     "mood": "happy",
+     "hood": "goldL",
+     "k": "person"
+    },
+    {
+     "text": "TU *MEJOR VERSIÓN*",
+     "y": 130,
+     "size": 84,
+     "acc": "goldL",
+     "at": 1.0,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "start": 83.34,
+   "end": 86.94,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "check",
+     "x": 960,
+     "y": 430,
+     "size": 360,
+     "color": "greenL",
+     "at": 0.1,
+     "k": "mark"
+    },
+    {
+     "text": "OBJETIVO *NOBLE*",
+     "y": 800,
+     "size": 104,
+     "acc": "greenL",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "start": 86.94,
+   "end": 90.5,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Gota + nota grave",
+   "mus": "Baja",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "glass",
+     "x": 960,
+     "y": 480,
+     "w": 360,
+     "h": 480,
+     "ch": "💧",
+     "chSize": 150,
+     "k": "frame"
+    },
+    {
+     "ch": "🩸",
+     "x": 960,
+     "y": 250,
+     "size": 110,
+     "anim": "fall",
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "text": "*MIEDO*",
+     "y": 880,
+     "size": 110,
+     "acc": "coral",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "start": 90.5,
+   "end": 92.98,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Murmullos",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 520,
+     "y": 660,
+     "s": 1.0,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1150,
+     "y": 640,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1360,
+     "y": 620,
+     "s": 0.95,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1560,
+     "y": 650,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "start": 92.98,
+   "end": 98.32,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Esfuerzo + roca",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 560,
+     "y": 660,
+     "s": 1.0,
+     "mood": "worried",
+     "sweat": true,
+     "k": "person"
+    },
+    {
+     "kind": "dark",
+     "x": 1240,
+     "y": 560,
+     "w": 620,
+     "h": 440,
+     "ch": "🪨",
+     "chSize": 210,
+     "sub": "NATURALIDAD",
+     "k": "frame"
+    }
+   ],
+   "shake": 0.6
+  },
+  {
+   "n": 32,
+   "start": 98.32,
+   "end": 99.82,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Respiración",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · person breathing silhouette window light",
+     "ch": "🌬️",
+     "k": "live",
+     "src": "personaje/stock/escena_032.mp4",
+     "pan": -1
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "start": 99.82,
+   "end": 104.3,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Metrónomo desfasado",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🫁",
+     "x": 760,
+     "y": 500,
+     "size": 300,
+     "k": "emo"
+    },
+    {
+     "ch": "🎵",
+     "x": 1240,
+     "y": 460,
+     "size": 160,
+     "spin": 40,
+     "k": "emo"
+    },
+    {
+     "text": "INHALA… *¿EXHALA?*",
+     "y": 860,
+     "size": 92,
+     "acc": "coral",
+     "upper": false,
+     "at": 0.4,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "start": 104.3,
+   "end": 109.5,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Martillo pequeño",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 620,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "anim": "up",
+     "at": 0.3,
+     "k": "person"
+    },
+    {
+     "x": 1240,
+     "y": 420,
+     "s": 0.42,
+     "anim": "none",
+     "at": 0.3,
+     "k": "mask"
+    },
+    {
+     "ch": "🔨",
+     "x": 900,
+     "y": 420,
+     "size": 110,
+     "at": 0.5,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "start": 109.5,
+   "end": 113.06,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Risa enlatada",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "k": "person"
+    },
+    {
+     "x": 1240,
+     "y": 420,
+     "s": 0.42,
+     "anim": "none",
+     "k": "mask"
+    },
+    {
+     "pose": "stand",
+     "x": 620,
+     "y": 640,
+     "s": 1.0,
+     "k": "person"
+    },
+    {
+     "ch": "😂",
+     "x": 1240,
+     "y": 170,
+     "size": 120,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "start": 113.06,
+   "end": 117.66,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Boing",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 520,
+     "y": 660,
+     "s": 0.9,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "k": "person"
+    },
+    {
+     "x": 520,
+     "y": 460,
+     "s": 0.38,
+     "anim": "none",
+     "k": "mask"
+    },
+    {
+     "kind": "post",
+     "x": 1200,
+     "y": 440,
+     "w": 860,
+     "h": 260,
+     "text": "¡A MÍ TAMBIÉN ME ENCANTA!",
+     "size": 58,
+     "at": 0.2,
+     "k": "frame"
+    },
+    {
+     "ch": "🤥",
+     "x": 1200,
+     "y": 760,
+     "size": 130,
+     "at": 0.7,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "start": 117.66,
+   "end": 122.66,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Tic-tac de bomba",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "💣",
+     "x": 960,
+     "y": 460,
+     "size": 300,
+     "idle": false,
+     "k": "emo"
+    },
+    {
+     "kind": "arrow",
+     "x": 760,
+     "y": 780,
+     "x2": 900,
+     "y2": 600,
+     "color": "#4d8dff",
+     "at": 0.3,
+     "k": "mark"
+    },
+    {
+     "kind": "arrow",
+     "x": 1160,
+     "y": 780,
+     "x2": 1020,
+     "y2": 600,
+     "color": "coral",
+     "at": 0.5,
+     "k": "mark"
+    },
+    {
+     "text": "¿CORTO EL *AZUL*?",
+     "y": 900,
+     "size": 84,
+     "acc": "#7fb2ff",
+     "at": 0.7,
+     "k": "txt"
+    }
+   ],
+   "shake": 2.0
+  },
+  {
+   "n": 38,
+   "start": 122.66,
+   "end": 130.0,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Caja ×3",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 460,
+     "y": 660,
+     "s": 0.95,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1460,
+     "y": 660,
+     "s": 0.95,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "x": 1460,
+     "y": 460,
+     "s": 0.36,
+     "anim": "none",
+     "k": "mask"
+    },
+    {
+     "text": "CONFIANZA",
+     "ch": "🛡️",
+     "x": 760,
+     "y": 380,
+     "w": 300,
+     "h": 300,
+     "size": 36,
+     "at": 0.2,
+     "k": "card"
+    },
+    {
+     "text": "HUMOR",
+     "ch": "😄",
+     "x": 1080,
+     "y": 300,
+     "w": 300,
+     "h": 300,
+     "size": 36,
+     "at": 1.0,
+     "k": "card"
+    },
+    {
+     "text": "OPINIONES",
+     "ch": "💬",
+     "x": 1000,
+     "y": 620,
+     "w": 300,
+     "h": 300,
+     "size": 36,
+     "at": 1.8,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "start": 130.0,
+   "end": 131.62,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Caída grave",
+   "mus": "Baja",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 1360,
+     "y": 660,
+     "s": 1.0,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "x": 1360,
+     "y": 450,
+     "s": 0.4,
+     "anim": "none",
+     "k": "mask"
+    },
+    {
+     "pose": "stand",
+     "x": 520,
+     "y": 660,
+     "s": 1.0,
+     "ghost": true,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "text": "PERSONALIDAD",
+     "ch": "📦",
+     "x": 960,
+     "y": 420,
+     "w": 460,
+     "h": 420,
+     "size": 44,
+     "color": "coral",
+     "anim": "right",
+     "k": "card"
+    }
+   ],
+   "gray": 0.9
+  },
+  {
+   "n": 40,
+   "start": 131.62,
+   "end": 136.32,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 660,
+     "s": 1.2,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "kind": "paper",
+     "x": 1420,
+     "y": 360,
+     "w": 420,
+     "h": 200,
+     "nolines": true,
+     "text": "INGREDIENTES",
+     "size": 46,
+     "rot": 6,
+     "at": 0.3,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "start": 136.32,
+   "end": 140.72,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Burbujeo + ding",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "glass",
+     "x": 700,
+     "y": 480,
+     "w": 320,
+     "h": 420,
+     "ch": "😨",
+     "chSize": 150,
+     "sub": "MIEDO",
+     "k": "frame"
+    },
+    {
+     "kind": "glass",
+     "x": 1220,
+     "y": 480,
+     "w": 320,
+     "h": 420,
+     "ch": "🫣",
+     "chSize": 150,
+     "sub": "INSEGURIDAD",
+     "at": 0.5,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "start": 140.72,
+   "end": 142.84,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "Pulso curioso",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🧠",
+     "x": 960,
+     "y": 480,
+     "size": 320,
+     "k": "emo"
+    },
+    {
+     "ch": "❓",
+     "x": 1260,
+     "y": 260,
+     "size": 140,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "start": 142.84,
+   "end": 146.86,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Tambor tribal",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "ch": "🧠",
+     "x": 960,
+     "y": 470,
+     "size": 300,
+     "k": "emo"
+    },
+    {
+     "ch": "🦴",
+     "x": 1180,
+     "y": 560,
+     "size": 150,
+     "rot": -30,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "MODO *PREHISTORIA*",
+     "y": 860,
+     "size": 96,
+     "acc": "goldL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "shake": 0.4
+  },
+  {
+   "n": 44,
+   "start": 146.86,
+   "end": 151.14,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Fogata + viento",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "ch": "🔥",
+     "x": 760,
+     "y": 680,
+     "size": 200,
+     "k": "emo"
+    },
+    {
+     "pose": "stand",
+     "x": 600,
+     "y": 640,
+     "s": 0.7,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 900,
+     "y": 640,
+     "s": 0.7,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1000,
+     "y": 640,
+     "s": 0.7,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1600,
+     "y": 700,
+     "s": 0.6,
+     "mood": "worried",
+     "at": 0.6,
+     "k": "person"
+    }
+   ],
+   "cam": "panl"
+  },
+  {
+   "n": 45,
+   "start": 151.14,
+   "end": 156.2,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Tachón ×3",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "text": "",
+     "ch": "🍖",
+     "x": 560,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "mark": "x",
+     "markAt": 0.6,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "🛡️",
+     "x": 960,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "mark": "x",
+     "markAt": 1.0,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "❤️",
+     "x": 1360,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "mark": "x",
+     "markAt": 1.4,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "start": 156.2,
+   "end": 159.2,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Impacto",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "ACEPTACIÓN",
+     "y": 360,
+     "size": 120,
+     "color": "goldL",
+     "k": "txt"
+    },
+    {
+     "text": "=",
+     "y": 520,
+     "size": 120,
+     "k": "txt"
+    },
+    {
+     "text": "SUPERVIVENCIA",
+     "y": 690,
+     "size": 120,
+     "color": "greenL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "start": 159.2,
+   "end": 161.22,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Golpe",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "ch": "👣",
+     "x": 960,
+     "y": 520,
+     "size": 420,
+     "anim": "slam",
+     "k": "emo"
+    }
+   ],
+   "shake": 0.1
+  },
+  {
+   "n": 48,
+   "start": 161.22,
+   "end": 167.36,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 520,
+     "w": 900,
+     "h": 480,
+     "text": "EISENBERGER · 2003",
+     "size": 70,
+     "sub": "Science",
+     "k": "frame"
+    },
+    {
+     "ch": "🔬",
+     "x": 1360,
+     "y": 320,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "start": 167.36,
+   "end": 171.34,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Bip de videojuego",
+   "mus": "Chiptune suave",
+   "bg": "grid",
+   "els": [
+    {
+     "ch": "🙂",
+     "x": 640,
+     "y": 360,
+     "size": 150,
+     "k": "emo"
+    },
+    {
+     "ch": "🙂",
+     "x": 1280,
+     "y": 360,
+     "size": 150,
+     "k": "emo"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 720,
+     "s": 0.75,
+     "k": "person"
+    },
+    {
+     "ch": "⚽",
+     "x": 960,
+     "y": 300,
+     "size": 90,
+     "idle": false,
+     "at": 0.2,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "start": 171.34,
+   "end": 175.76,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Bip ×4 que lo excluye",
+   "mus": "↳",
+   "bg": "grid",
+   "els": [
+    {
+     "ch": "🙂",
+     "x": 640,
+     "y": 360,
+     "size": 150,
+     "k": "emo"
+    },
+    {
+     "ch": "🙂",
+     "x": 1280,
+     "y": 360,
+     "size": 150,
+     "k": "emo"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 720,
+     "s": 0.75,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "kind": "arrow",
+     "x": 760,
+     "y": 330,
+     "x2": 1160,
+     "y2": 330,
+     "color": "goldL",
+     "at": 0.3,
+     "k": "mark"
+    },
+    {
+     "kind": "arrow",
+     "x": 1160,
+     "y": 420,
+     "x2": 760,
+     "y2": 420,
+     "color": "goldL",
+     "at": 1.0,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "start": 175.76,
+   "end": 178.14,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Bip triste",
+   "mus": "↳",
+   "bg": "grid",
+   "els": [
+    {
+     "text": "GAME OVER",
+     "size": 170,
+     "color": "coral",
+     "y": 480,
+     "k": "neon"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 820,
+     "s": 0.6,
+     "mood": "worried",
+     "anim": "none",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "start": 178.14,
+   "end": 179.94,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Escáner",
+   "mus": "Tensión",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🧠",
+     "x": 960,
+     "y": 500,
+     "size": 360,
+     "gray": true,
+     "k": "emo"
+    },
+    {
+     "x": 960,
+     "y1": 760,
+     "y2": 260,
+     "dur": 1.2,
+     "k": "scan"
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "start": 179.94,
+   "end": 186.0,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Impacto + latido",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🧠",
+     "x": 960,
+     "y": 440,
+     "size": 340,
+     "glow": "coral",
+     "k": "emo"
+    },
+    {
+     "text": "RECHAZO",
+     "x": 520,
+     "y": 330,
+     "size": 56,
+     "color": "coral",
+     "at": 0.4,
+     "k": "tag"
+    },
+    {
+     "text": "DOLOR FÍSICO",
+     "x": 1260,
+     "y": 620,
+     "size": 56,
+     "color": "coral",
+     "at": 0.9,
+     "k": "tag"
+    }
+   ],
+   "shake": 0.4
+  },
+  {
+   "n": 54,
+   "start": 186.0,
+   "end": 190.1,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Sello",
+   "mus": "↳",
+   "bg": "coral",
+   "els": [
+    {
+     "text": "DUELE.",
+     "x": 960,
+     "y": 540,
+     "size": 230,
+     "color": "coral",
+     "k": "stamp"
+    }
+   ],
+   "shake": 0.12
+  },
+  {
+   "n": 55,
+   "start": 190.1,
+   "end": 194.14,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Metal",
+   "mus": "Lo-fi",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 960,
+     "y": 640,
+     "s": 1.1,
+     "mood": "worried",
+     "hold": "🛡️",
+     "holdSize": 220,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "start": 194.14,
+   "end": 200.92,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Pasos",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 560,
+     "y": 660,
+     "s": 0.9,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "walk": true,
+     "k": "person"
+    },
+    {
+     "x": 560,
+     "y": 470,
+     "s": 0.34,
+     "anim": "none",
+     "k": "mask"
+    },
+    {
+     "pose": "stand",
+     "x": 1260,
+     "y": 640,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "anim": "right",
+     "at": 0.6,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1460,
+     "y": 630,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "anim": "right",
+     "at": 0.7,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1660,
+     "y": 650,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "anim": "right",
+     "at": 0.8,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "start": 200.92,
+   "end": 207.54,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Whoosh circular",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🔄",
+     "x": 960,
+     "y": 440,
+     "size": 320,
+     "spin": 90,
+     "k": "emo"
+    },
+    {
+     "text": "*INSEGURIDAD Y MIEDO*",
+     "y": 820,
+     "size": 92,
+     "acc": "coral",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "start": 207.54,
+   "end": 211.98,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Tic-tac",
+   "mus": "Pausa",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🔄",
+     "x": 960,
+     "y": 440,
+     "size": 320,
+     "spin": 30,
+     "k": "emo"
+    },
+    {
+     "text": "¿A DÓNDE *REGRESA*?",
+     "y": 820,
+     "size": 92,
+     "acc": "goldL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "start": 211.98,
+   "end": 216.12,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Click",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🔁",
+     "x": 960,
+     "y": 480,
+     "size": 340,
+     "k": "emo"
+    },
+    {
+     "kind": "circle",
+     "x": 960,
+     "y": 480,
+     "size": 620,
+     "color": "coral",
+     "at": 0.1,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "start": 216.12,
+   "end": 219.12,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Murmullos alegres",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 960,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#C9A47A",
+     "dark": "#8B6B45",
+     "k": "person"
+    },
+    {
+     "x": 960,
+     "y": 440,
+     "s": 0.4,
+     "anim": "none",
+     "k": "mask"
+    },
+    {
+     "pose": "stand",
+     "x": 560,
+     "y": 650,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1360,
+     "y": 650,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "start": 219.12,
+   "end": 222.98,
+   "sec": 1,
+   "mark": "⚡",
+   "sfx": "Golpe suave",
+   "mus": "Baja",
+   "bg": "party",
+   "els": [
+    {
+     "x": 960,
+     "y": 360,
+     "s": 0.5,
+     "idle": true,
+     "k": "mask"
+    },
+    {
+     "pose": "stand",
+     "x": 700,
+     "y": 640,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1220,
+     "y": 640,
+     "s": 0.9,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "ch": "🤗",
+     "x": 960,
+     "y": 640,
+     "size": 110,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "pose": "stand",
+     "x": 1650,
+     "y": 700,
+     "s": 0.75,
+     "mood": "worried",
+     "at": 0.6,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "start": 222.98,
+   "end": 224.92,
+   "sec": 1,
+   "mark": "",
+   "sfx": "—",
+   "mus": "Silencio de 1 s",
+   "bg": "night",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.6,
+     "mood": "worried",
+     "anim": "none",
+     "k": "person"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 63,
+   "start": 224.92,
+   "end": 226.5,
+   "sec": 1,
+   "mark": "",
+   "sfx": "Whoosh luminoso",
+   "mus": "Vuelve el pulso",
+   "bg": "warm",
+   "els": [
+    {
+     "x": 960,
+     "k": "light"
+    },
+    {
+     "ch": "💡",
+     "x": 960,
+     "y": 480,
+     "size": 280,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "start": 226.5,
+   "end": 232.48,
+   "sec": 1,
+   "mark": "🪝",
+   "sfx": "Sello",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 500,
+     "w": 900,
+     "h": 420,
+     "nolines": true,
+     "ch": "💭",
+     "chSize": 160,
+     "stamp": "EQUIVOCADA",
+     "k": "frame"
+    },
+    {
+     "text": "UNA IDEA…",
+     "y": 880,
+     "size": 80,
+     "color": "goldL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "start": 232.48,
+   "end": 235.56,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Ambiente de campus",
+   "mus": "Pizzicato curioso",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · university campus autumn students walking back view",
+     "ch": "🏫",
+     "k": "live",
+     "src": "personaje/stock/escena_065.mp4",
+     "pan": 1
+    },
+    {
+     "text": "CORNELL · AÑOS 90",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "start": 235.56,
+   "end": 240.08,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Tela",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "hold": "👕",
+     "holdSize": 120,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1260,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#e8e8ef",
+     "dark": "#333a55",
+     "flip": true,
+     "back": true,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "start": 240.08,
+   "end": 245.46,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Fanfarria cursi",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "post",
+     "x": 960,
+     "y": 500,
+     "w": 520,
+     "h": 600,
+     "ch": "🎤",
+     "chSize": 200,
+     "sub": "✨ 💖 ✨",
+     "k": "frame"
+    },
+    {
+     "text": "*BARRY MANILOW*",
+     "y": 920,
+     "size": 84,
+     "acc": "pink",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "start": 245.46,
+   "end": 250.42,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Bajada cómica",
+   "mus": "↳",
+   "bg": "snow",
+   "els": [
+    {
+     "kind": "dark",
+     "x": 960,
+     "y": 480,
+     "w": 360,
+     "h": 560,
+     "ch": "🌡️",
+     "chSize": 220,
+     "k": "frame"
+    },
+    {
+     "text": "NADA *COOL*",
+     "y": 900,
+     "size": 96,
+     "color": "ink",
+     "acc": "#2a6fd6",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "start": 250.42,
+   "end": 254.72,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Risas",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.25,
+     "mood": "worried",
+     "sweat": true,
+     "k": "person"
+    },
+    {
+     "ch": "👰",
+     "x": 960,
+     "y": 640,
+     "size": 110,
+     "at": 0.1,
+     "k": "emo"
+    },
+    {
+     "ch": "😳",
+     "x": 1340,
+     "y": 300,
+     "size": 140,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "ch": "😂",
+     "n": 8,
+     "size": 50,
+     "op": 0.5,
+     "k": "rain"
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "start": 254.72,
+   "end": 259.98,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Puerta + murmullos",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 480,
+     "y": 660,
+     "s": 0.9,
+     "mood": "worried",
+     "walk": true,
+     "anim": "left",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1000,
+     "y": 700,
+     "s": 0.7,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1250,
+     "y": 700,
+     "s": 0.7,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1500,
+     "y": 700,
+     "s": 0.7,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "start": 259.98,
+   "end": 264.8,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "¿CUÁNTOS *SE FIJARON*?",
+     "y": 540,
+     "size": 120,
+     "acc": "goldL",
+     "k": "txt"
+    },
+    {
+     "ch": "👀",
+     "x": 960,
+     "y": 800,
+     "size": 140,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "start": 264.8,
+   "end": 268.94,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Riser corto",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "items": [
+      {
+       "label": "CREÍAN",
+       "to": 0.5,
+       "color": "coral"
+      }
+     ],
+     "h": 600,
+     "x": 760,
+     "k": "bars"
+    },
+    {
+     "text": "50 %",
+     "y": 540,
+     "size": 170,
+     "x": 1300,
+     "color": "coral",
+     "at": 1.0,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "start": 268.94,
+   "end": 271.36,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Redoble",
+   "mus": "Pausa",
+   "bg": "dark",
+   "els": [
+    {
+     "items": [
+      {
+       "label": "CREÍAN",
+       "from": 0.5,
+       "to": 0.5,
+       "color": "coral"
+      },
+      {
+       "label": "VERDAD",
+       "to": 0.1,
+       "color": "greenL"
+      }
+     ],
+     "h": 600,
+     "dur": 3.0,
+     "k": "bars"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 74,
+   "start": 271.36,
+   "end": 274.08,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Impacto + ding",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "items": [
+      {
+       "label": "CREÍAN",
+       "from": 0.5,
+       "to": 0.5,
+       "color": "coral"
+      },
+      {
+       "label": "VERDAD",
+       "from": 0.1,
+       "to": 0.23,
+       "color": "greenL"
+      }
+     ],
+     "h": 600,
+     "dur": 0.5,
+     "x": 760,
+     "k": "bars"
+    },
+    {
+     "text": "~23 %",
+     "y": 700,
+     "size": 170,
+     "x": 1440,
+     "color": "greenL",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "shake": 0.4
+  },
+  {
+   "n": 75,
+   "start": 274.08,
+   "end": 277.96,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Encendido de reflector",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "x": 960,
+     "y": 900,
+     "at": 0.1,
+     "k": "spot"
+    },
+    {
+     "text": "EFECTO *REFLECTOR*",
+     "y": 200,
+     "size": 110,
+     "acc": "goldL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "start": 277.96,
+   "end": 286.06,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Zumbido de luz",
+   "mus": "↳",
+   "bg": "street",
+   "els": [
+    {
+     "x": 900,
+     "y": 930,
+     "follow": 120,
+     "k": "spot"
+    },
+    {
+     "pose": "stand",
+     "x": 900,
+     "y": 700,
+     "s": 0.95,
+     "walk": true,
+     "mood": "worried",
+     "k": "person"
+    }
+   ],
+   "cam": "panr"
+  },
+  {
+   "n": 77,
+   "start": 286.06,
+   "end": 289.76,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Clic + silencio",
+   "mus": "Corte",
+   "bg": "street",
+   "els": [
+    {
+     "x": 900,
+     "y": 930,
+     "off": 0.6,
+     "k": "spot"
+    },
+    {
+     "pose": "stand",
+     "x": 900,
+     "y": 700,
+     "s": 0.95,
+     "mood": "worried",
+     "anim": "none",
+     "k": "person"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 78,
+   "start": 289.76,
+   "end": 295.08,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Zumbidos",
+   "mus": "Vuelve el pizzicato",
+   "bg": "street",
+   "els": [
+    {
+     "x": 400,
+     "y": 930,
+     "w": 320,
+     "dim": 0.2,
+     "lamp": false,
+     "k": "spot"
+    },
+    {
+     "x": 960,
+     "y": 930,
+     "w": 320,
+     "dim": false,
+     "lamp": false,
+     "at": 0.2,
+     "k": "spot"
+    },
+    {
+     "x": 1520,
+     "y": 930,
+     "w": 320,
+     "dim": false,
+     "lamp": false,
+     "at": 0.4,
+     "k": "spot"
+    },
+    {
+     "pose": "stand",
+     "x": 400,
+     "y": 720,
+     "s": 0.8,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 720,
+     "s": 0.8,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1520,
+     "y": 720,
+     "s": 0.8,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "flip": true,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "start": 295.08,
+   "end": 301.54,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Grillos",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "worried",
+     "x": 960,
+     "y": 760,
+     "s": 0.95,
+     "skin": "#C98E68",
+     "blanket": "#3FB8A4",
+     "k": "bed"
+    },
+    {
+     "x": 1100,
+     "y": 300,
+     "w": 700,
+     "h": 240,
+     "text": "¿Habré sonado raro?",
+     "size": 52,
+     "at": 0.4,
+     "k": "thought"
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "start": 301.54,
+   "end": 304.94,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "👕",
+     "x": 560,
+     "y": 520,
+     "w": 380,
+     "h": 420,
+     "color": "gold",
+     "anim": "none",
+     "op": 0.5,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "❤️",
+     "x": 1260,
+     "y": 520,
+     "w": 520,
+     "h": 560,
+     "color": "greenL",
+     "k": "card"
+    },
+    {
+     "text": "EL *SEGUNDO* EXPERIMENTO",
+     "y": 930,
+     "size": 72,
+     "acc": "greenL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 81,
+   "start": 304.94,
+   "end": 310.06,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 500,
+     "w": 980,
+     "h": 460,
+     "text": "BOOTHBY Y COLEGAS · 2018",
+     "size": 60,
+     "sub": "Psychological Science",
+     "k": "frame"
+    },
+    {
+     "ch": "🎓",
+     "x": 1400,
+     "y": 300,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 82,
+   "start": 310.06,
+   "end": 313.72,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Ambiente de café",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · two people talking coffee shop hands cups close up",
+     "ch": "☕",
+     "k": "live",
+     "src": "personaje/stock/escena_082.mp4",
+     "pan": -1
+    }
+   ]
+  },
+  {
+   "n": 83,
+   "start": 313.72,
+   "end": 322.14,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Pop ×2",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "post",
+     "x": 560,
+     "y": 520,
+     "w": 640,
+     "h": 300,
+     "text": "¿TE CAYÓ BIEN?",
+     "size": 58,
+     "k": "frame"
+    },
+    {
+     "kind": "post",
+     "x": 1360,
+     "y": 520,
+     "w": 640,
+     "h": 300,
+     "text": "¿LE CAÍSTE BIEN?",
+     "size": 58,
+     "at": 1.4,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 84,
+   "start": 322.14,
+   "end": 324.18,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Redoble",
+   "mus": "Pausa",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🥁",
+     "x": 960,
+     "y": 480,
+     "size": 320,
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "shake": 0.2
+  },
+  {
+   "n": 85,
+   "start": 324.18,
+   "end": 330.44,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Riser + ding",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "value": 0.3,
+     "x": 640,
+     "y": 480,
+     "color": "coral",
+     "h": 520,
+     "label": "LO QUE CREÍAS",
+     "labelSize": 46,
+     "k": "meter"
+    },
+    {
+     "value": 0.8,
+     "x": 1280,
+     "y": 480,
+     "color": "greenL",
+     "h": 520,
+     "label": "LO QUE SINTIÓ",
+     "labelSize": 46,
+     "at": 0.8,
+     "k": "meter"
+    }
+   ]
+  },
+  {
+   "n": 86,
+   "start": 330.44,
+   "end": 332.68,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Shimmer",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "value": 0.3,
+     "x": 640,
+     "y": 480,
+     "color": "coral",
+     "h": 520,
+     "anim": "none",
+     "from": 0.3,
+     "k": "meter"
+    },
+    {
+     "value": 0.8,
+     "x": 1280,
+     "y": 480,
+     "color": "greenL",
+     "h": 520,
+     "anim": "none",
+     "from": 0.8,
+     "k": "meter"
+    },
+    {
+     "kind": "arrow",
+     "x": 960,
+     "y": 480,
+     "x2": 960,
+     "y2": 300,
+     "color": "goldL",
+     "at": 0.2,
+     "k": "mark"
+    },
+    {
+     "text": "BRECHA DE *AGRADO*",
+     "y": 930,
+     "size": 96,
+     "acc": "goldL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "start": 332.68,
+   "end": 340.32,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Hojas de calendario",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 740,
+     "y": 660,
+     "s": 0.95,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1180,
+     "y": 660,
+     "s": 0.95,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "kind": "paper",
+     "x": 1560,
+     "y": 330,
+     "w": 300,
+     "h": 260,
+     "nolines": true,
+     "ch": "🗓️",
+     "chSize": 130,
+     "k": "frame"
+    },
+    {
+     "text": "MESES *DESPUÉS*",
+     "y": 130,
+     "size": 76,
+     "acc": "greenL",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "start": 340.32,
+   "end": 342.28,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Click",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "👕",
+     "x": 760,
+     "y": 540,
+     "w": 380,
+     "h": 440,
+     "color": "gold",
+     "anim": "left",
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "❤️",
+     "x": 1160,
+     "y": 540,
+     "w": 380,
+     "h": 440,
+     "color": "greenL",
+     "anim": "right",
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 89,
+   "start": 342.28,
+   "end": 345.8,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "x": 960,
+     "y": 820,
+     "off": 0.4,
+     "dim": 0.3,
+     "k": "spot"
+    },
+    {
+     "ch": "🔦",
+     "x": 960,
+     "y": 480,
+     "size": 200,
+     "gray": true,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "text": "1 · NADIE *TE VIGILA*",
+     "y": 880,
+     "size": 84,
+     "acc": "goldL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 90,
+   "start": 345.8,
+   "end": 351.46,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "❤️",
+     "x": 960,
+     "y": 440,
+     "size": 260,
+     "glow": "coral",
+     "k": "emo"
+    },
+    {
+     "text": "2 · LES CAES *MEJOR*",
+     "y": 820,
+     "size": 84,
+     "acc": "greenL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "start": 351.46,
+   "end": 355.32,
+   "sec": 2,
+   "mark": "⚡",
+   "sfx": "Golpes cómicos",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "worried",
+     "x": 960,
+     "y": 820,
+     "s": 0.9,
+     "k": "bed"
+    },
+    {
+     "ch": "🥊",
+     "x": 700,
+     "y": 280,
+     "size": 130,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "ch": "👻",
+     "x": 1200,
+     "y": 230,
+     "size": 130,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "ch": "👻",
+     "x": 1450,
+     "y": 360,
+     "size": 100,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ],
+   "shake": 0.8
+  },
+  {
+   "n": 92,
+   "start": 355.32,
+   "end": 358.6,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Eco de teatro",
+   "mus": "Baja",
+   "bg": "stage",
+   "els": [
+    {
+     "ch": "🎭",
+     "x": 960,
+     "y": 360,
+     "size": 200,
+     "k": "emo"
+    },
+    {
+     "kind": "dark",
+     "x": 960,
+     "y": 760,
+     "w": 1400,
+     "h": 200,
+     "ch": "🪑🪑🪑🪑🪑🪑",
+     "chSize": 90,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "start": 358.6,
+   "end": 366.84,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Ding grave",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "NO DEJES QUE TU IMAGINACIÓN\n*INVENTE PROBLEMAS*",
+     "y": 540,
+     "size": 96,
+     "font": "serif",
+     "acc": "goldL",
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "start": 366.84,
+   "end": 370.96,
+   "sec": 2,
+   "mark": "🪝",
+   "sfx": "Alerta suave",
+   "mus": "Tensión",
+   "bg": "coral",
+   "els": [
+    {
+     "ch": "⚠️",
+     "x": 960,
+     "y": 480,
+     "size": 330,
+     "k": "emo"
+    }
+   ],
+   "shake": 0.2
+  },
+  {
+   "n": 95,
+   "start": 370.96,
+   "end": 373.42,
+   "sec": 2,
+   "mark": "",
+   "sfx": "Dominó",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🁢",
+     "x": 600,
+     "y": 540,
+     "size": 160,
+     "k": "emo"
+    },
+    {
+     "ch": "🁢",
+     "x": 800,
+     "y": 540,
+     "size": 160,
+     "at": 0.2,
+     "rot": 20,
+     "k": "emo"
+    },
+    {
+     "ch": "🁢",
+     "x": 1000,
+     "y": 540,
+     "size": 160,
+     "at": 0.35,
+     "rot": 45,
+     "k": "emo"
+    },
+    {
+     "ch": "🁢",
+     "x": 1200,
+     "y": 560,
+     "size": 160,
+     "at": 0.5,
+     "rot": 80,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "start": 373.42,
+   "end": 375.14,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "Juguetón",
+   "bg": "cream",
+   "els": [
+    {
+     "ch": "🫵",
+     "x": 960,
+     "y": 440,
+     "size": 280,
+     "k": "emo"
+    },
+    {
+     "text": "HAZ ESTO *CONMIGO*",
+     "y": 820,
+     "size": 96,
+     "color": "ink",
+     "acc": "#c0662a",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "start": 375.14,
+   "end": 382.06,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Tic-tac",
+   "mus": "Silencio",
+   "bg": "cream",
+   "els": [
+    {
+     "x": 960,
+     "y": 440,
+     "s": 0.75,
+     "op": 0.9,
+     "k": "bear"
+    },
+    {
+     "kind": "x",
+     "x": 960,
+     "y": 440,
+     "size": 480,
+     "color": "coral",
+     "at": 0.2,
+     "k": "mark"
+    },
+    {
+     "from": 5,
+     "to": 0,
+     "x": 960,
+     "y": 900,
+     "size": 120,
+     "dur": 4.5,
+     "color": "ink",
+     "at": 0.3,
+     "k": "count"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 98,
+   "start": 382.06,
+   "end": 384.48,
+   "sec": 3,
+   "mark": "",
+   "sfx": "—",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "text": "¿…?",
+     "y": 540,
+     "size": 260,
+     "color": "ink",
+     "k": "txt"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 99,
+   "start": 384.48,
+   "end": 387.16,
+   "sec": 3,
+   "mark": "⚡",
+   "sfx": "Viento + ding cómico",
+   "mus": "Vuelve el beat",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · polar bear walking snow",
+     "ch": "🐻‍❄️",
+     "k": "live",
+     "src": "personaje/stock/escena_099.mp4",
+     "pan": 1
+    },
+    {
+     "text": "OSO BLANCO",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 100,
+   "start": 387.16,
+   "end": 388.96,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Tachón",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🎩",
+     "x": 960,
+     "y": 480,
+     "size": 300,
+     "k": "emo"
+    },
+    {
+     "kind": "x",
+     "x": 960,
+     "y": 480,
+     "size": 380,
+     "at": 0.3,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "start": 388.96,
+   "end": 397.74,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 500,
+     "w": 980,
+     "h": 460,
+     "text": "DANIEL WEGNER · 1987",
+     "size": 64,
+     "sub": "Journal of Personality and Social Psychology",
+     "subSize": 28,
+     "k": "frame"
+    },
+    {
+     "ch": "🧪",
+     "x": 1400,
+     "y": 300,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "start": 397.74,
+   "end": 401.78,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Empuje + \"boing\"",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 560,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "sweat": true,
+     "k": "person"
+    },
+    {
+     "kind": "dark",
+     "x": 1180,
+     "y": 560,
+     "w": 220,
+     "h": 520,
+     "text": "",
+     "ch": "🚪",
+     "chSize": 150,
+     "k": "frame"
+    },
+    {
+     "x": 1460,
+     "y": 520,
+     "s": 0.6,
+     "peek": true,
+     "anim": "right",
+     "at": 0.3,
+     "k": "bear"
+    },
+    {
+     "text": "PROCESOS *IRÓNICOS*",
+     "y": 130,
+     "size": 84,
+     "color": "ink",
+     "acc": "#c0662a",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 103,
+   "start": 401.78,
+   "end": 408.56,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Pasos de guardia",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🧠",
+     "x": 960,
+     "y": 520,
+     "size": 420,
+     "op": 0.5,
+     "k": "emo"
+    },
+    {
+     "ch": "👮",
+     "x": 820,
+     "y": 520,
+     "size": 150,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "ch": "🔦",
+     "x": 1000,
+     "y": 480,
+     "size": 110,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "EL *VIGILANTE*",
+     "y": 920,
+     "size": 84,
+     "acc": "goldL",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 104,
+   "start": 408.56,
+   "end": 411.06,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Whoosh mágico",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "x": 620,
+     "y": 520,
+     "s": 0.6,
+     "k": "bear"
+    },
+    {
+     "kind": "arrow",
+     "x": 860,
+     "y": 520,
+     "x2": 1100,
+     "y2": 520,
+     "color": "#c0662a",
+     "at": 0.3,
+     "k": "mark"
+    },
+    {
+     "ch": "💬",
+     "x": 1320,
+     "y": 520,
+     "size": 260,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 105,
+   "start": 411.06,
+   "end": 417.0,
+   "sec": 3,
+   "mark": "⚡",
+   "sfx": "Cosas cayendo",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "walk": true,
+     "k": "person"
+    },
+    {
+     "ch": "🏺",
+     "x": 640,
+     "y": 800,
+     "size": 110,
+     "rot": 70,
+     "at": 0.6,
+     "k": "emo"
+    },
+    {
+     "ch": "🪴",
+     "x": 1300,
+     "y": 800,
+     "size": 110,
+     "rot": -70,
+     "at": 0.9,
+     "k": "emo"
+    }
+   ],
+   "shake": 0.9
+  },
+  {
+   "n": 106,
+   "start": 417.0,
+   "end": 422.02,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Hojas cayendo",
+   "mus": "↳",
+   "bg": "room",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 960,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "sweat": true,
+     "hold": "📄",
+     "k": "person"
+    },
+    {
+     "ch": "📄",
+     "x": 760,
+     "y": 860,
+     "size": 90,
+     "rot": 30,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "ch": "📄",
+     "x": 1180,
+     "y": 880,
+     "size": 90,
+     "rot": -40,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 107,
+   "start": 422.02,
+   "end": 423.02,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Tachón",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🍀",
+     "x": 960,
+     "y": 480,
+     "size": 300,
+     "k": "emo"
+    },
+    {
+     "kind": "x",
+     "x": 960,
+     "y": 480,
+     "size": 380,
+     "at": 0.3,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 108,
+   "start": 423.02,
+   "end": 425.12,
+   "sec": 3,
+   "mark": "⚡",
+   "sfx": "Ding cómico",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "x": 1220,
+     "y": 560,
+     "s": 0.75,
+     "wave": true,
+     "anim": "right",
+     "at": 0.2,
+     "k": "bear"
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "start": 425.12,
+   "end": 430.08,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Sonido de robot",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "rot": 0,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "ch": "🤖",
+     "x": 760,
+     "y": 250,
+     "size": 130,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 110,
+   "start": 430.08,
+   "end": 431.82,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Risa con retraso",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "ch": "😅",
+     "x": 760,
+     "y": 250,
+     "size": 110,
+     "at": 1.0,
+     "k": "emo"
+    },
+    {
+     "text": "+1 SEG",
+     "y": 140,
+     "size": 80,
+     "color": "coral",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "start": 431.82,
+   "end": 434.4,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Disco rayado",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "kind": "post",
+     "x": 760,
+     "y": 230,
+     "w": 580,
+     "h": 170,
+     "text": "¿Y… de dónde eres? 🔁",
+     "size": 44,
+     "at": 0.2,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 112,
+   "start": 434.4,
+   "end": 439.76,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Grillo",
+   "mus": "Pausa",
+   "bg": "party",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "ch": "🦗",
+     "x": 980,
+     "y": 860,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 113,
+   "start": 439.76,
+   "end": 443.18,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Pasos",
+   "mus": "Vuelve el beat",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · feet walking down stairs close up slow motion",
+     "ch": "👟",
+     "k": "live",
+     "src": "personaje/stock/escena_113.mp4",
+     "pan": 1
+    }
+   ]
+  },
+  {
+   "n": 114,
+   "start": 443.18,
+   "end": 446.68,
+   "sec": 3,
+   "mark": "⚡",
+   "sfx": "Tropiezo + golpe cómico",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 600,
+     "s": 1.0,
+     "mood": "worried",
+     "rot": 0,
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "ch": "🪜",
+     "x": 960,
+     "y": 760,
+     "size": 260,
+     "at": 0,
+     "k": "emo"
+    },
+    {
+     "ch": "💥",
+     "x": 1130,
+     "y": 860,
+     "size": 140,
+     "at": 0.9,
+     "k": "emo"
+    }
+   ],
+   "shake": 1.0
+  },
+  {
+   "n": 115,
+   "start": 446.68,
+   "end": 450.26,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "Serio",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 500,
+     "w": 900,
+     "h": 420,
+     "text": "ANSIEDAD SOCIAL",
+     "size": 70,
+     "sub": "Alden y colegas",
+     "k": "frame"
+    },
+    {
+     "ch": "📊",
+     "x": 1360,
+     "y": 300,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "start": 450.26,
+   "end": 458.24,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Metal ×3",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "ENSAYAR",
+     "ch": "📝",
+     "x": 520,
+     "y": 520,
+     "w": 360,
+     "h": 380,
+     "size": 40,
+     "at": 0.2,
+     "k": "card"
+    },
+    {
+     "text": "EVITAR LA MIRADA",
+     "ch": "🙈",
+     "x": 960,
+     "y": 520,
+     "w": 360,
+     "h": 380,
+     "size": 34,
+     "at": 0.8,
+     "k": "card"
+    },
+    {
+     "text": "VIGILARTE",
+     "ch": "🔍",
+     "x": 1400,
+     "y": 520,
+     "w": 360,
+     "h": 380,
+     "size": 40,
+     "at": 1.4,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 117,
+   "start": 458.24,
+   "end": 461.4,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Viento helado",
+   "mus": "↳",
+   "bg": "snow",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "ch": "🥶",
+     "x": 1000,
+     "y": 230,
+     "size": 130,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "*FRÍO*",
+     "y": 120,
+     "size": 80,
+     "color": "ink",
+     "acc": "#2a6fd6",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 118,
+   "start": 461.4,
+   "end": 466.8,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Metal cayendo",
+   "mus": "Cálido",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "🛡️",
+     "x": 700,
+     "y": 860,
+     "size": 110,
+     "rot": 80,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 119,
+   "start": 466.8,
+   "end": 468.94,
+   "sec": 3,
+   "mark": "⚡",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "value": 0.9,
+     "x": 960,
+     "y": 480,
+     "color": "greenL",
+     "h": 560,
+     "over": true,
+     "k": "meter"
+    },
+    {
+     "ch": "⬆️",
+     "x": 1260,
+     "y": 340,
+     "size": 130,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 120,
+   "start": 468.94,
+   "end": 474.24,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Ding grave",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "PROTEGERTE\n*TE ALEJA*",
+     "y": 540,
+     "size": 130,
+     "font": "serif",
+     "acc": "coral",
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "start": 474.24,
+   "end": 479.32,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Respiro",
+   "mus": "Cálido",
+   "bg": "warm",
+   "els": [
+    {
+     "x": 960,
+     "k": "light"
+    },
+    {
+     "pose": "hips",
+     "x": 960,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "start": 479.32,
+   "end": 484.88,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Pop ×3",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "text": "TRANQUILA",
+     "y": 330,
+     "size": 110,
+     "color": "goldL",
+     "k": "txt"
+    },
+    {
+     "text": "SEGURA",
+     "y": 520,
+     "size": 110,
+     "color": "greenL",
+     "at": 0.6,
+     "k": "txt"
+    },
+    {
+     "text": "CÓMODA",
+     "y": 710,
+     "size": 110,
+     "color": "cream",
+     "at": 1.2,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "start": 484.88,
+   "end": 489.26,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Shimmer",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 520,
+     "y": 660,
+     "s": 0.85,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1400,
+     "y": 660,
+     "s": 0.85,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "kind": "circle",
+     "x": 960,
+     "y": 560,
+     "size": 820,
+     "color": "goldL",
+     "at": 0.3,
+     "k": "mark"
+    },
+    {
+     "ch": "😊",
+     "x": 520,
+     "y": 330,
+     "size": 90,
+     "at": 0.8,
+     "k": "emo"
+    },
+    {
+     "ch": "😊",
+     "x": 1400,
+     "y": 330,
+     "size": 90,
+     "at": 1.0,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "start": 489.26,
+   "end": 493.5,
+   "sec": 3,
+   "mark": "",
+   "sfx": "Riser",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "¿QUÉ *SÍ* FUNCIONA?",
+     "y": 540,
+     "size": 140,
+     "acc": "goldL",
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 125,
+   "start": 493.5,
+   "end": 499.14,
+   "sec": 3,
+   "mark": "🪝",
+   "sfx": "Tick + whoosh",
+   "mus": "Cambia a cuerdas cálidas",
+   "bg": "sepia",
+   "els": [
+    {
+     "ch": "🏛️",
+     "x": 420,
+     "y": 480,
+     "size": 180,
+     "k": "emo"
+    },
+    {
+     "ch": "🖋️",
+     "x": 1500,
+     "y": 480,
+     "size": 180,
+     "at": 0.5,
+     "k": "emo"
+    },
+    {
+     "kind": "arrow",
+     "x": 620,
+     "y": 480,
+     "x2": 1300,
+     "y2": 480,
+     "color": "goldL",
+     "at": 0.3,
+     "k": "mark"
+    },
+    {
+     "text": "SIGLO V a. C. · · · 1841",
+     "y": 800,
+     "size": 72,
+     "color": "goldL",
+     "upper": false,
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "start": 499.14,
+   "end": 502.54,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Viento cálido",
+   "mus": "Cuerdas cálidas",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · acropolis athens parthenon sunset aerial",
+     "ch": "🏛️",
+     "k": "live",
+     "src": "personaje/stock/escena_126.mp4",
+     "pan": -1
+    },
+    {
+     "text": "ATENAS",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "start": 502.54,
+   "end": 508.26,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "ch": "🏛️",
+     "x": 960,
+     "y": 360,
+     "size": 260,
+     "k": "emo"
+    },
+    {
+     "text": "“Conócete a ti mismo”",
+     "y": 760,
+     "size": 110,
+     "font": "serif",
+     "upper": false,
+     "color": "goldL",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 128,
+   "start": 508.26,
+   "end": 512.16,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Sello",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "text": "DATO CURIOSO",
+     "x": 960,
+     "y": 540,
+     "size": 110,
+     "color": "goldL",
+     "k": "stamp"
+    }
+   ],
+   "shake": 0.1
+  },
+  {
+   "n": 129,
+   "start": 512.16,
+   "end": 518.16,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Viento",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · delphi temple of apollo ruins greece",
+     "ch": "🏛️",
+     "k": "live",
+     "src": "personaje/stock/escena_129.mp4",
+     "pan": 1
+    },
+    {
+     "text": "DELFOS",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 130,
+   "start": 518.16,
+   "end": 522.02,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Whoosh largo",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "ch": "⏩",
+     "x": 960,
+     "y": 380,
+     "size": 200,
+     "k": "emo"
+    },
+    {
+     "text": "1841",
+     "y": 720,
+     "size": 200,
+     "color": "goldL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 131,
+   "start": 522.02,
+   "end": 528.54,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pluma escribiendo",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · vintage desk candle quill writing old book",
+     "ch": "🕯️",
+     "k": "live",
+     "src": "personaje/stock/escena_131.mp4",
+     "pan": 1
+    },
+    {
+     "text": "RALPH WALDO EMERSON",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "start": 528.54,
+   "end": 533.34,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "sepia",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 480,
+     "w": 1100,
+     "h": 420,
+     "nolines": true,
+     "text": "“CONFÍA EN TI MISMO”",
+     "size": 80,
+     "font": "serif",
+     "k": "frame"
+    },
+    {
+     "ch": "🖋️",
+     "x": 1420,
+     "y": 720,
+     "size": 120,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "start": 533.34,
+   "end": 536.04,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pop ×2",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "text": "CONÓCETE",
+     "ch": "🔍",
+     "x": 640,
+     "y": 520,
+     "w": 440,
+     "h": 440,
+     "color": "gold",
+     "ink": "#14183a",
+     "bg": "#fff",
+     "k": "card"
+    },
+    {
+     "text": "CONFÍA",
+     "ch": "🤝",
+     "x": 1280,
+     "y": 520,
+     "w": 440,
+     "h": 440,
+     "color": "greenL",
+     "ink": "#14183a",
+     "bg": "#fff",
+     "at": 0.5,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "start": 536.04,
+   "end": 541.62,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Candado que se abre",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "ch": "🔒",
+     "x": 960,
+     "y": 480,
+     "size": 280,
+     "k": "emo"
+    },
+    {
+     "ch": "🔑",
+     "x": 700,
+     "y": 480,
+     "size": 200,
+     "anim": "left",
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "ch": "🔓",
+     "x": 960,
+     "y": 480,
+     "size": 280,
+     "at": 1.2,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "start": 541.62,
+   "end": 547.56,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Whoosh circular",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 600,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "🔍",
+     "x": 600,
+     "y": 360,
+     "size": 130,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "ch": "🤝",
+     "x": 1320,
+     "y": 360,
+     "size": 130,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "text": "*TÚ MISMO*",
+     "y": 900,
+     "size": 110,
+     "font": "serif",
+     "acc": "goldL",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 136,
+   "start": 547.56,
+   "end": 549.26,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Dados",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🎲",
+     "x": 860,
+     "y": 480,
+     "size": 200,
+     "k": "emo"
+    },
+    {
+     "ch": "🎲",
+     "x": 1080,
+     "y": 520,
+     "size": 200,
+     "rot": 30,
+     "k": "emo"
+    },
+    {
+     "kind": "x",
+     "x": 960,
+     "y": 500,
+     "size": 420,
+     "at": 0.4,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "start": 549.26,
+   "end": 555.34,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Bloques",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 880,
+     "s": 0.7,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "text": "",
+     "ch": "💬",
+     "x": 700,
+     "y": 520,
+     "w": 240,
+     "h": 240,
+     "at": 0.2,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "🤝",
+     "x": 960,
+     "y": 460,
+     "w": 240,
+     "h": 240,
+     "at": 0.4,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "🌹",
+     "x": 1220,
+     "y": 520,
+     "w": 240,
+     "h": 240,
+     "at": 0.6,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 138,
+   "start": 555.34,
+   "end": 560.1,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pop ×3",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "ch": "💬",
+     "x": 600,
+     "y": 480,
+     "size": 170,
+     "k": "emo"
+    },
+    {
+     "ch": "🤝",
+     "x": 960,
+     "y": 480,
+     "size": 170,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "ch": "🌹",
+     "x": 1320,
+     "y": 480,
+     "size": 170,
+     "at": 0.6,
+     "k": "emo"
+    },
+    {
+     "kind": "circle",
+     "x": 960,
+     "y": 480,
+     "size": 1100,
+     "color": "#c0662a",
+     "at": 0.9,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 139,
+   "start": 560.1,
+   "end": 564.96,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pop ×3",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.0,
+     "k": "person"
+    },
+    {
+     "ch": "🪞",
+     "x": 560,
+     "y": 420,
+     "size": 150,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "ch": "⚖️",
+     "x": 1360,
+     "y": 380,
+     "size": 150,
+     "at": 0.5,
+     "k": "emo"
+    },
+    {
+     "ch": "🔓",
+     "x": 1360,
+     "y": 720,
+     "size": 130,
+     "at": 0.8,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 140,
+   "start": 564.96,
+   "end": 567.96,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Susurro",
+   "mus": "Baja",
+   "bg": "night",
+   "els": [
+    {
+     "ch": "🤫",
+     "x": 960,
+     "y": 480,
+     "size": 320,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 141,
+   "start": 567.96,
+   "end": 572.98,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Hojas",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.05,
+     "hold": "📚",
+     "holdL": "🎒",
+     "mood": "happy",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 142,
+   "start": 572.98,
+   "end": 575.8,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Shimmer",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.2,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "🕶️",
+     "x": 960,
+     "y": 420,
+     "size": 120,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "TU FORMA *DE VER*",
+     "y": 130,
+     "size": 84,
+     "acc": "goldL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 143,
+   "start": 575.8,
+   "end": 579.52,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pop rítmico",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🎸",
+     "x": 520,
+     "y": 420,
+     "size": 150,
+     "k": "emo"
+    },
+    {
+     "ch": "🌮",
+     "x": 820,
+     "y": 620,
+     "size": 150,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "ch": "🦖",
+     "x": 1100,
+     "y": 400,
+     "size": 150,
+     "at": 0.4,
+     "k": "emo"
+    },
+    {
+     "ch": "📼",
+     "x": 1400,
+     "y": 620,
+     "size": 150,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "start": 579.52,
+   "end": 583.5,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Shimmer",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "☝️",
+     "x": 960,
+     "y": 440,
+     "size": 320,
+     "glow": "goldL",
+     "k": "emo"
+    },
+    {
+     "text": "*ÚNICA*",
+     "y": 820,
+     "size": 140,
+     "acc": "goldL",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "start": 583.5,
+   "end": 590.02,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Caja cerrándose",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "kind": "ticket",
+     "x": 1260,
+     "y": 640,
+     "w": 360,
+     "h": 260,
+     "ch": "📦",
+     "chSize": 150,
+     "k": "frame"
+    },
+    {
+     "x": 1260,
+     "y": 420,
+     "s": 0.35,
+     "anim": "fall",
+     "at": 0.2,
+     "k": "mask"
+    }
+   ]
+  },
+  {
+   "n": 146,
+   "start": 590.02,
+   "end": 598.32,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Coro angelical cómico",
+   "mus": "↳",
+   "bg": "amber",
+   "els": [
+    {
+     "kind": "post",
+     "x": 960,
+     "y": 500,
+     "w": 1100,
+     "h": 520,
+     "ch": "🌅",
+     "chSize": 200,
+     "text": "SÉ TÚ MISMO ✨",
+     "size": 80,
+     "k": "frame"
+    },
+    {
+     "ch": "😇",
+     "x": 1440,
+     "y": 240,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 147,
+   "start": 598.32,
+   "end": 600.86,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Boing",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "shrug",
+     "x": 960,
+     "y": 640,
+     "s": 1.15,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "ch": "🤷",
+     "x": 1300,
+     "y": 280,
+     "size": 130,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 148,
+   "start": 600.86,
+   "end": 606.38,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Sello",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "post",
+     "x": 960,
+     "y": 460,
+     "w": 960,
+     "h": 240,
+     "text": "“ASÍ SOY YO, ACÉPTAME”",
+     "size": 58,
+     "k": "frame"
+    },
+    {
+     "text": "EXCUSA",
+     "x": 1240,
+     "y": 640,
+     "size": 110,
+     "color": "coral",
+     "at": 0.8,
+     "k": "stamp"
+    }
+   ]
+  },
+  {
+   "n": 149,
+   "start": 606.38,
+   "end": 610.54,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Crecimiento",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "kind": "x",
+     "x": 600,
+     "y": 480,
+     "size": 300,
+     "k": "mark"
+    },
+    {
+     "ch": "🌱",
+     "x": 1200,
+     "y": 520,
+     "size": 260,
+     "at": 0.5,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 150,
+   "start": 610.54,
+   "end": 613.02,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Telón",
+   "mus": "↳",
+   "bg": "stage",
+   "els": [
+    {
+     "x": 960,
+     "k": "light"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "x": 1300,
+     "y": 820,
+     "s": 0.4,
+     "rot": -20,
+     "anim": "fall",
+     "at": 0.3,
+     "k": "mask"
+    },
+    {
+     "text": "DEJAR *DE ACTUAR*",
+     "y": 130,
+     "size": 92,
+     "acc": "goldL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 151,
+   "start": 613.02,
+   "end": 618.82,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Pops ascendentes",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 520,
+     "y": 720,
+     "s": 0.65,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 620,
+     "s": 0.85,
+     "at": 0.3,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1400,
+     "y": 520,
+     "s": 1.05,
+     "at": 0.6,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "🧭",
+     "x": 1400,
+     "y": 180,
+     "size": 110,
+     "at": 0.8,
+     "k": "emo"
+    },
+    {
+     "text": "DESDE *TI*",
+     "y": 940,
+     "size": 80,
+     "acc": "goldL",
+     "at": 0.9,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 152,
+   "start": 618.82,
+   "end": 619.76,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Clac",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🪤",
+     "x": 960,
+     "y": 480,
+     "size": 300,
+     "k": "emo"
+    },
+    {
+     "text": "OTRA *TRAMPA*",
+     "y": 840,
+     "size": 100,
+     "acc": "coral",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 153,
+   "start": 619.76,
+   "end": 626.62,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Tachón",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 620,
+     "y": 640,
+     "s": 0.95,
+     "hold": "🎧",
+     "k": "person"
+    },
+    {
+     "kind": "x",
+     "x": 620,
+     "y": 560,
+     "size": 400,
+     "at": 0.5,
+     "k": "mark"
+    },
+    {
+     "pose": "stand",
+     "x": 1280,
+     "y": 640,
+     "s": 0.95,
+     "mood": "happy",
+     "at": 0.8,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1600,
+     "y": 640,
+     "s": 0.85,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "at": 0.9,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 154,
+   "start": 626.62,
+   "end": 634.46,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Volteo de tarjeta",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "post",
+     "x": 520,
+     "y": 520,
+     "w": 640,
+     "h": 260,
+     "text": "¿CÓMO ME VEO?",
+     "size": 54,
+     "k": "frame"
+    },
+    {
+     "kind": "arrow",
+     "x": 880,
+     "y": 520,
+     "x2": 1060,
+     "y2": 520,
+     "color": "goldL",
+     "at": 0.5,
+     "k": "mark"
+    },
+    {
+     "kind": "post",
+     "x": 1420,
+     "y": 520,
+     "w": 640,
+     "h": 260,
+     "text": "¿CÓMO ESTÁ EL OTRO?",
+     "size": 50,
+     "at": 0.7,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 155,
+   "start": 634.46,
+   "end": 638.64,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Papel",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 500,
+     "w": 900,
+     "h": 420,
+     "text": "HARVARD · 2017",
+     "size": 74,
+     "sub": "Huang y colegas",
+     "k": "frame"
+    },
+    {
+     "ch": "🎓",
+     "x": 1360,
+     "y": 300,
+     "size": 110,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 156,
+   "start": 638.64,
+   "end": 643.82,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Ambiente de conversación",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · friends talking table hands drinks close up",
+     "ch": "🍽️",
+     "k": "live",
+     "src": "personaje/stock/escena_156.mp4",
+     "pan": -1
+    }
+   ]
+  },
+  {
+   "n": 157,
+   "start": 643.82,
+   "end": 647.86,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Tecleo",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "post",
+     "x": 960,
+     "y": 500,
+     "w": 1000,
+     "h": 260,
+     "text": "¿Y LUEGO QUÉ PASÓ?",
+     "size": 70,
+     "k": "frame"
+    },
+    {
+     "ch": "👂",
+     "x": 1420,
+     "y": 760,
+     "size": 130,
+     "at": 0.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 158,
+   "start": 647.86,
+   "end": 649.96,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "value": 0.95,
+     "x": 960,
+     "y": 480,
+     "color": "greenL",
+     "h": 560,
+     "over": true,
+     "k": "meter"
+    },
+    {
+     "ch": "⏫",
+     "x": 1260,
+     "y": 340,
+     "size": 130,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 159,
+   "start": 649.96,
+   "end": 654.36,
+   "sec": 4,
+   "mark": "⚡",
+   "sfx": "Ding + tachón",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "INGENIOSOS",
+     "ch": "🃏",
+     "x": 640,
+     "y": 520,
+     "w": 420,
+     "h": 440,
+     "mark": "x",
+     "markAt": 0.6,
+     "color": "coral",
+     "k": "card"
+    },
+    {
+     "text": "CURIOSOS",
+     "ch": "🔍",
+     "x": 1280,
+     "y": 520,
+     "w": 420,
+     "h": 440,
+     "mark": "check",
+     "markAt": 1.2,
+     "color": "greenL",
+     "at": 0.4,
+     "k": "card"
+    },
+    {
+     "ch": "🏆",
+     "x": 1280,
+     "y": 220,
+     "size": 120,
+     "at": 1.4,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 160,
+   "start": 654.36,
+   "end": 656.12,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Click",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "ch": "🧩",
+     "x": 860,
+     "y": 500,
+     "size": 220,
+     "k": "emo"
+    },
+    {
+     "ch": "🧩",
+     "x": 1080,
+     "y": 500,
+     "size": 220,
+     "rot": 90,
+     "anim": "right",
+     "at": 0.3,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 161,
+   "start": 656.12,
+   "end": 661.5,
+   "sec": 4,
+   "mark": "",
+   "sfx": "Encendido suave",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "x": 1240,
+     "y": 900,
+     "dim": 0.35,
+     "k": "spot"
+    },
+    {
+     "pose": "stand",
+     "x": 720,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1240,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "mood": "happy",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 162,
+   "start": 661.5,
+   "end": 664.4,
+   "sec": 4,
+   "mark": "🪝",
+   "sfx": "Obturador",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "kind": "polaroid",
+     "x": 960,
+     "y": 480,
+     "w": 560,
+     "h": 480,
+     "ch": "🧑‍🤝‍🧑",
+     "chSize": 220,
+     "rot": -4,
+     "k": "frame"
+    },
+    {
+     "ch": "📸",
+     "x": 1380,
+     "y": 260,
+     "size": 120,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ],
+   "flash": true
+  },
+  {
+   "n": 163,
+   "start": 664.4,
+   "end": 669.64,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Riser",
+   "mus": "Edificante suave",
+   "bg": "warm",
+   "els": [
+    {
+     "text": "¿PARA QUÉ\n*SOCIALIZAMOS*?",
+     "y": 540,
+     "size": 140,
+     "acc": "goldL",
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 164,
+   "start": 669.64,
+   "end": 673.48,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Tachón",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "kind": "paper",
+     "x": 960,
+     "y": 480,
+     "w": 720,
+     "h": 520,
+     "ch": "📝",
+     "chSize": 140,
+     "text": "7/10",
+     "size": 120,
+     "k": "frame"
+    },
+    {
+     "kind": "x",
+     "x": 1240,
+     "y": 300,
+     "size": 200,
+     "at": 0.6,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 165,
+   "start": 673.48,
+   "end": 682.44,
+   "sec": 5,
+   "mark": "⚡",
+   "sfx": "Pop ×4",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "text": "APRENDER",
+     "ch": "📚",
+     "x": 380,
+     "y": 540,
+     "w": 330,
+     "h": 360,
+     "size": 38,
+     "at": 0.2,
+     "k": "card"
+    },
+    {
+     "text": "ENSEÑAR",
+     "ch": "🧑‍🏫",
+     "x": 760,
+     "y": 540,
+     "w": 330,
+     "h": 360,
+     "size": 38,
+     "at": 0.5,
+     "k": "card"
+    },
+    {
+     "text": "CONECTAR",
+     "ch": "🤝",
+     "x": 1140,
+     "y": 540,
+     "w": 330,
+     "h": 360,
+     "size": 38,
+     "at": 0.8,
+     "k": "card"
+    },
+    {
+     "text": "DIVERTIRTE",
+     "ch": "🎉",
+     "x": 1520,
+     "y": 540,
+     "w": 330,
+     "h": 360,
+     "size": 36,
+     "at": 1.1,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 166,
+   "start": 682.44,
+   "end": 686.32,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "text": "",
+     "ch": "🤝",
+     "x": 960,
+     "y": 440,
+     "w": 420,
+     "h": 420,
+     "color": "greenL",
+     "mark": "check",
+     "markAt": 0.3,
+     "k": "card"
+    },
+    {
+     "text": "*ÉXITO*",
+     "y": 840,
+     "size": 110,
+     "acc": "greenL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 167,
+   "start": 686.32,
+   "end": 688.58,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Risita",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "shrug",
+     "x": 960,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 168,
+   "start": 688.58,
+   "end": 692.08,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Crecimiento",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "ch": "🪴",
+     "x": 760,
+     "y": 480,
+     "size": 240,
+     "k": "emo"
+    },
+    {
+     "ch": "💬",
+     "x": 1160,
+     "y": 480,
+     "size": 240,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "text": "VIDA *PROPIA*",
+     "y": 840,
+     "size": 110,
+     "color": "ink",
+     "acc": "#2e8f7f",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 169,
+   "start": 692.08,
+   "end": 694.9,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Ambiente de banco",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · people waiting in line queue back view",
+     "ch": "🏦",
+     "k": "live",
+     "src": "personaje/stock/escena_169.mp4",
+     "pan": 1
+    },
+    {
+     "text": "5 MINUTOS",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 170,
+   "start": 694.9,
+   "end": 696.96,
+   "sec": 5,
+   "mark": "⚡",
+   "sfx": "Viento suave",
+   "mus": "Sube emoción",
+   "bg": "black",
+   "els": [
+    {
+     "kw": "STOCK: 06_clips_envato.md · elderly couple holding hands walking back view",
+     "ch": "👴👵",
+     "k": "live",
+     "src": "personaje/stock/escena_170.mp4",
+     "pan": -1
+    },
+    {
+     "text": "40 AÑOS",
+     "y": 900,
+     "size": 84,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 171,
+   "start": 696.96,
+   "end": 700.26,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Agua",
+   "mus": "↳",
+   "bg": "mint",
+   "els": [
+    {
+     "ch": "🌊",
+     "x": 700,
+     "y": 520,
+     "size": 240,
+     "k": "emo"
+    },
+    {
+     "ch": "🪨",
+     "x": 1240,
+     "y": 560,
+     "size": 200,
+     "idle": false,
+     "k": "emo"
+    }
+   ],
+   "cam": "panr"
+  },
+  {
+   "n": 172,
+   "start": 700.26,
+   "end": 704.62,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Caída",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 960,
+     "y": 640,
+     "s": 1.05,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "🎮",
+     "x": 1180,
+     "y": 860,
+     "size": 110,
+     "rot": 40,
+     "anim": "fall",
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "kind": "x",
+     "x": 1180,
+     "y": 860,
+     "size": 200,
+     "at": 0.8,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 173,
+   "start": 704.62,
+   "end": 707.82,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Riser grave",
+   "mus": "Baja",
+   "bg": "night",
+   "els": [
+    {
+     "ch": "🌀",
+     "x": 960,
+     "y": 440,
+     "size": 320,
+     "spin": 60,
+     "k": "emo"
+    },
+    {
+     "text": "LA IDEA *MÁS PROFUNDA*",
+     "y": 840,
+     "size": 92,
+     "acc": "goldL",
+     "at": 0.4,
+     "k": "txt"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 174,
+   "start": 707.82,
+   "end": 711.14,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Cristal",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.1,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "ch": "🪞",
+     "x": 960,
+     "y": 400,
+     "size": 140,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "pose": "stand",
+     "x": 520,
+     "y": 660,
+     "s": 0.8,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1400,
+     "y": 660,
+     "s": 0.8,
+     "hood": "#2a3157",
+     "dark": "#1a1f3a",
+     "ghost": false,
+     "sil": true,
+     "flip": true,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 175,
+   "start": 711.14,
+   "end": 714.64,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Trueno suave",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 660,
+     "s": 1.05,
+     "mood": "worried",
+     "k": "person"
+    },
+    {
+     "ch": "🌧️",
+     "x": 960,
+     "y": 260,
+     "size": 200,
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "text": "“SOY UN *DESASTRE*”",
+     "y": 130,
+     "size": 72,
+     "acc": "coral",
+     "upper": false,
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 176,
+   "start": 714.64,
+   "end": 719.2,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Notificación",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "x": 760,
+     "y": 540,
+     "s": 0.85,
+     "big": "✓✓",
+     "bigSize": 120,
+     "color": "#58a6ff",
+     "sub": "Visto",
+     "k": "phone"
+    },
+    {
+     "kind": "post",
+     "x": 1380,
+     "y": 520,
+     "w": 640,
+     "h": 240,
+     "text": "“ALGO ESTÁ MAL CONMIGO”",
+     "size": 46,
+     "at": 0.6,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 177,
+   "start": 719.2,
+   "end": 723.1,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Subidas y bajadas",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "value": 0.5,
+     "x": 960,
+     "y": 480,
+     "color": "goldL",
+     "h": 520,
+     "icon": "⭐",
+     "label": "VALOR",
+     "at": 0.1,
+     "dur": 0.4,
+     "k": "meter"
+    },
+    {
+     "ch": "📉",
+     "x": 1300,
+     "y": 340,
+     "size": 120,
+     "at": 0.5,
+     "k": "emo"
+    },
+    {
+     "ch": "📈",
+     "x": 620,
+     "y": 340,
+     "size": 120,
+     "at": 1.0,
+     "k": "emo"
+    }
+   ],
+   "shake": 0.6
+  },
+  {
+   "n": 178,
+   "start": 723.1,
+   "end": 725.06,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "Sube",
+   "bg": "warm",
+   "els": [
+    {
+     "ch": "🔄",
+     "x": 960,
+     "y": 440,
+     "size": 300,
+     "spin": 180,
+     "k": "emo"
+    },
+    {
+     "text": "AL *REVÉS*",
+     "y": 820,
+     "size": 120,
+     "acc": "goldL",
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 179,
+   "start": 725.06,
+   "end": 732.22,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Sello ×3",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "reach",
+     "x": 480,
+     "y": 660,
+     "s": 0.9,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "kind": "post",
+     "x": 1000,
+     "y": 380,
+     "w": 380,
+     "h": 200,
+     "ch": "💬",
+     "chSize": 110,
+     "stamp": "😊",
+     "at": 0.2,
+     "k": "frame"
+    },
+    {
+     "kind": "post",
+     "x": 1440,
+     "y": 620,
+     "w": 380,
+     "h": 200,
+     "ch": "💬",
+     "chSize": 110,
+     "stamp": "😊",
+     "at": 0.6,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 180,
+   "start": 732.22,
+   "end": 736.22,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Pop ×3",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "ch": "😄",
+     "x": 560,
+     "y": 500,
+     "size": 200,
+     "k": "emo"
+    },
+    {
+     "ch": "🔍",
+     "x": 960,
+     "y": 500,
+     "size": 200,
+     "at": 0.3,
+     "k": "emo"
+    },
+    {
+     "ch": "🤫",
+     "x": 1360,
+     "y": 500,
+     "size": 200,
+     "at": 0.6,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 181,
+   "start": 736.22,
+   "end": 742.68,
+   "sec": 5,
+   "mark": "⚡",
+   "sfx": "Confeti",
+   "mus": "↳",
+   "bg": "party",
+   "els": [
+    {
+     "ch": "🎊",
+     "n": 26,
+     "size": 60,
+     "k": "rain"
+    },
+    {
+     "text": "*VIBRANTE*",
+     "y": 540,
+     "size": 170,
+     "acc": "goldL",
+     "glow": true,
+     "at": 0.3,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 182,
+   "start": 742.68,
+   "end": 747.56,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Respiro",
+   "mus": "Calma",
+   "bg": "warm",
+   "els": [
+    {
+     "x": 960,
+     "k": "light"
+    },
+    {
+     "pose": "sit",
+     "x": 960,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "text": "ES.",
+     "y": 150,
+     "size": 110,
+     "font": "serif",
+     "color": "goldL",
+     "at": 0.6,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 183,
+   "start": 747.56,
+   "end": 752.56,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Risas",
+   "mus": "Edificante",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 760,
+     "y": 640,
+     "s": 1.0,
+     "k": "person"
+    },
+    {
+     "pose": "wave",
+     "x": 1160,
+     "y": 640,
+     "s": 1.0,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1500,
+     "y": 660,
+     "s": 0.9,
+     "hood": "#FF8FB1",
+     "skin": "#E8B79A",
+     "mood": "happy",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 184,
+   "start": 752.56,
+   "end": 755.22,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Shimmer",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "x": 960,
+     "c": "rgba(255,208,138,0.45)",
+     "k": "light"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.2,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "kind": "circle",
+     "x": 960,
+     "y": 560,
+     "size": 700,
+     "color": "goldL",
+     "at": 0.2,
+     "k": "mark"
+    }
+   ]
+  },
+  {
+   "n": 185,
+   "start": 755.22,
+   "end": 760.3,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Pop ×3",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "text": "HONESTA",
+     "y": 330,
+     "size": 110,
+     "color": "goldL",
+     "k": "txt"
+    },
+    {
+     "text": "AUTÉNTICA",
+     "y": 520,
+     "size": 110,
+     "color": "greenL",
+     "at": 0.6,
+     "k": "txt"
+    },
+    {
+     "text": "CONTAGIOSA",
+     "y": 710,
+     "size": 110,
+     "color": "pink",
+     "at": 1.2,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 186,
+   "start": 760.3,
+   "end": 765.52,
+   "sec": 5,
+   "mark": "",
+   "sfx": "Murmullo cálido",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 760,
+     "y": 640,
+     "s": 1.05,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1160,
+     "y": 640,
+     "s": 1.05,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "flip": true,
+     "mood": "happy",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 187,
+   "start": 765.52,
+   "end": 770.26,
+   "sec": 5,
+   "mark": "⚡",
+   "sfx": "Ding de revelación",
+   "mus": "Sube",
+   "bg": "amber",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.3,
+     "mood": "happy",
+     "op": 0.95,
+     "k": "person"
+    }
+   ],
+   "flash": true
+  },
+  {
+   "n": 188,
+   "start": 770.26,
+   "end": 772.48,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Grillos",
+   "mus": "Pad nocturno",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "worried",
+     "x": 960,
+     "y": 720,
+     "s": 1.15,
+     "k": "bed"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 189,
+   "start": 772.48,
+   "end": 776.88,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Zumbido eléctrico",
+   "mus": "↳",
+   "bg": "black",
+   "els": [
+    {
+     "x": 960,
+     "y": 540,
+     "s": 1.25,
+     "at": 0.1,
+     "k": "clock"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 190,
+   "start": 776.88,
+   "end": 778.98,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "1",
+     "x": 560,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "anim": "pop",
+     "color": "gold",
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "2",
+     "x": 960,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "at": 0.2,
+     "color": "gold",
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "3",
+     "x": 1360,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "at": 0.4,
+     "color": "gold",
+     "k": "card"
+    },
+    {
+     "text": "TRES *COSAS*",
+     "y": 860,
+     "size": 90,
+     "acc": "goldL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 191,
+   "start": 778.98,
+   "end": 784.62,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Clic",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "🔦",
+     "x": 560,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "anim": "none",
+     "mark": "x",
+     "markAt": 0.6,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "",
+     "x": 960,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "anim": "none",
+     "op": 0.4,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "",
+     "x": 1360,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "anim": "none",
+     "op": 0.4,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 192,
+   "start": 784.62,
+   "end": 788.74,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Ding",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "🔦",
+     "x": 560,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "anim": "none",
+     "mark": "x",
+     "markAt": -1,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "❤️",
+     "x": 960,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "color": "greenL",
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "",
+     "x": 1360,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "anim": "none",
+     "op": 0.4,
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 193,
+   "start": 788.74,
+   "end": 794.26,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Ding cómico",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "",
+     "ch": "🔦",
+     "x": 560,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "anim": "none",
+     "mark": "x",
+     "markAt": -1,
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "❤️",
+     "x": 960,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "color": "greenL",
+     "anim": "none",
+     "k": "card"
+    },
+    {
+     "text": "",
+     "ch": "🐻‍❄️",
+     "x": 1360,
+     "y": 520,
+     "w": 320,
+     "h": 320,
+     "color": "cream",
+     "k": "card"
+    }
+   ]
+  },
+  {
+   "n": 194,
+   "start": 794.26,
+   "end": 796.04,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Suspenso corto",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "kind": "post",
+     "x": 960,
+     "y": 500,
+     "w": 820,
+     "h": 260,
+     "ch": "💬",
+     "chSize": 120,
+     "rot": -3,
+     "k": "frame"
+    },
+    {
+     "x": 1260,
+     "y": 420,
+     "s": 0.55,
+     "peek": true,
+     "anim": "up",
+     "at": 0.6,
+     "k": "bear"
+    }
+   ],
+   "shake": 1.2
+  },
+  {
+   "n": 195,
+   "start": 796.04,
+   "end": 797.34,
+   "sec": 6,
+   "mark": "⚡",
+   "sfx": "Boing",
+   "mus": "↳",
+   "bg": "cream",
+   "els": [
+    {
+     "x": 960,
+     "y": 520,
+     "s": 1.1,
+     "wink": true,
+     "winkAt": 0.4,
+     "k": "bear"
+    }
+   ]
+  },
+  {
+   "n": 196,
+   "start": 797.34,
+   "end": 800.12,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Olas",
+   "mus": "Baja",
+   "bg": "night",
+   "els": [
+    {
+     "y": 720,
+     "wallsUp": true,
+     "k": "island"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 600,
+     "s": 0.75,
+     "mood": "worried",
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 197,
+   "start": 800.12,
+   "end": 805.12,
+   "sec": 6,
+   "mark": "",
+   "sfx": "—",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "y": 720,
+     "wallsUp": true,
+     "k": "island"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 600,
+     "s": 0.75,
+     "mood": "worried",
+     "anim": "none",
+     "k": "person"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 198,
+   "start": 805.12,
+   "end": 809.62,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Grieta",
+   "mus": "Sube",
+   "bg": "night",
+   "els": [
+    {
+     "y": 720,
+     "wallsUp": true,
+     "crack": 0.2,
+     "k": "island"
+    },
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 600,
+     "s": 0.75,
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "text": "LA *SALIDA*",
+     "y": 140,
+     "size": 110,
+     "acc": "goldL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ],
+   "shake": 0.2
+  },
+  {
+   "n": 199,
+   "start": 809.62,
+   "end": 812.12,
+   "sec": 6,
+   "mark": "⚡",
+   "sfx": "Choque de manos + ding",
+   "mus": "Clímax emotivo",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 700,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1220,
+     "y": 640,
+     "s": 1.1,
+     "flip": true,
+     "mood": "happy",
+     "op": 0.75,
+     "k": "person"
+    },
+    {
+     "kind": "glass",
+     "x": 1220,
+     "y": 560,
+     "w": 420,
+     "h": 640,
+     "op": 0.35,
+     "k": "frame"
+    },
+    {
+     "ch": "🙌",
+     "x": 960,
+     "y": 380,
+     "size": 120,
+     "at": 0.6,
+     "k": "emo"
+    },
+    {
+     "text": "CAERTE BIEN *A TI*",
+     "y": 950,
+     "size": 84,
+     "acc": "goldL",
+     "at": 0.8,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 200,
+   "start": 812.12,
+   "end": 817.32,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Ambiente de café",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "sit",
+     "x": 960,
+     "y": 640,
+     "s": 1.1,
+     "mood": "happy",
+     "hold": "📖",
+     "k": "person"
+    },
+    {
+     "ch": "☕",
+     "x": 1260,
+     "y": 720,
+     "size": 110,
+     "at": 0.3,
+     "k": "emo"
+    }
+   ]
+  },
+  {
+   "n": 201,
+   "start": 817.32,
+   "end": 822.84,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Clonc de balanza",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "left": "👥",
+     "right": "🙂",
+     "tilt": -14,
+     "ll": "LO QUE PIENSAN",
+     "rl": "LO QUE PIENSAS",
+     "y": 520,
+     "k": "scale"
+    }
+   ]
+  },
+  {
+   "n": 202,
+   "start": 822.84,
+   "end": 826.46,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Risas cálidas",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "stand",
+     "x": 960,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 560,
+     "y": 660,
+     "s": 0.9,
+     "hood": "#7FD8C9",
+     "skin": "#C98E68",
+     "anim": "right",
+     "at": 0.3,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "pose": "stand",
+     "x": 1380,
+     "y": 660,
+     "s": 0.9,
+     "hood": "#FF8FB1",
+     "skin": "#E8B79A",
+     "mood": "happy",
+     "anim": "left",
+     "at": 0.5,
+     "flip": true,
+     "k": "person"
+    }
+   ]
+  },
+  {
+   "n": 203,
+   "start": 826.46,
+   "end": 830.5,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Riser",
+   "mus": "Beat suave",
+   "bg": "dark",
+   "els": [
+    {
+     "text": "EL RETO",
+     "x": 960,
+     "y": 540,
+     "size": 150,
+     "color": "goldL",
+     "k": "stamp"
+    }
+   ]
+  },
+  {
+   "n": 204,
+   "start": 830.5,
+   "end": 832.68,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Check",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "items": [
+      "NO ENSAYES",
+      "UNA PREGUNTA DE SEGUIMIENTO",
+      "EL REFLECTOR ESTÁ APAGADO"
+     ],
+     "pre": 0,
+     "gap": 99,
+     "at": 0.1,
+     "x": 960,
+     "y": 540,
+     "size": 58,
+     "k": "check"
+    }
+   ]
+  },
+  {
+   "n": 205,
+   "start": 832.68,
+   "end": 834.7,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Check",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "items": [
+      "NO ENSAYES",
+      "UNA PREGUNTA DE SEGUIMIENTO",
+      "EL REFLECTOR ESTÁ APAGADO"
+     ],
+     "pre": 1,
+     "gap": 99,
+     "at": -0.3,
+     "x": 960,
+     "y": 540,
+     "size": 58,
+     "k": "check"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 206,
+   "start": 834.7,
+   "end": 839.06,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Check + clic",
+   "mus": "↳",
+   "bg": "dark",
+   "els": [
+    {
+     "items": [
+      "NO ENSAYES",
+      "UNA PREGUNTA DE SEGUIMIENTO",
+      "EL REFLECTOR ESTÁ APAGADO"
+     ],
+     "pre": 2,
+     "gap": 0.5,
+     "at": -0.3,
+     "x": 960,
+     "y": 540,
+     "size": 58,
+     "k": "check"
+    },
+    {
+     "x": 1500,
+     "y": 980,
+     "w": 300,
+     "off": 1.4,
+     "dim": false,
+     "lamp": false,
+     "k": "spot"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 207,
+   "start": 839.06,
+   "end": 841.92,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Grillos",
+   "mus": "Pad íntimo",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "worried",
+     "x": 960,
+     "y": 780,
+     "s": 1.0,
+     "k": "bed"
+    },
+    {
+     "x": 1000,
+     "y": 290,
+     "w": 560,
+     "h": 230,
+     "scribble": true,
+     "at": 0.3,
+     "k": "thought"
+    }
+   ]
+  },
+  {
+   "n": 208,
+   "start": 841.92,
+   "end": 843.02,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Viento suave",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "happy",
+     "x": 960,
+     "y": 780,
+     "s": 1.0,
+     "anim": "none",
+     "k": "bed"
+    },
+    {
+     "x": 1000,
+     "y": 290,
+     "w": 560,
+     "h": 230,
+     "scribble": true,
+     "anim": "none",
+     "at": 0,
+     "release": 0.3,
+     "k": "thought"
+    }
+   ]
+  },
+  {
+   "n": 209,
+   "start": 843.02,
+   "end": 844.4,
+   "sec": 6,
+   "mark": "",
+   "sfx": "—",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "kind": "dark",
+     "x": 960,
+     "y": 760,
+     "w": 600,
+     "h": 120,
+     "k": "frame"
+    },
+    {
+     "x": 960,
+     "y": 560,
+     "s": 0.7,
+     "anim": "fade",
+     "k": "mask"
+    }
+   ]
+  },
+  {
+   "n": 210,
+   "start": 844.4,
+   "end": 845.84,
+   "sec": 6,
+   "mark": "",
+   "sfx": "Susurro",
+   "mus": "↳",
+   "bg": "night",
+   "els": [
+    {
+     "x": 960,
+     "y": 520,
+     "s": 0.95,
+     "anim": "none",
+     "k": "mask"
+    }
+   ],
+   "cam": "push"
+  },
+  {
+   "n": 211,
+   "start": 845.84,
+   "end": 849.32,
+   "sec": 6,
+   "mark": "⚡",
+   "sfx": "Clic de lámpara",
+   "mus": "Silencio total en la pausa",
+   "bg": "night",
+   "els": [
+    {
+     "mood": "sleep",
+     "x": 960,
+     "y": 780,
+     "s": 1.0,
+     "k": "bed"
+    },
+    {
+     "x": 1460,
+     "y": 400,
+     "s": 0.45,
+     "sleep": true,
+     "at": 0.2,
+     "k": "mask"
+    }
+   ],
+   "cam": "still"
+  },
+  {
+   "n": 212,
+   "start": 849.32,
+   "end": 854.22,
+   "sec": 7,
+   "mark": "",
+   "sfx": "Whoosh",
+   "mus": "Outro suave",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 620,
+     "y": 640,
+     "s": 1.0,
+     "mood": "happy",
+     "k": "person"
+    },
+    {
+     "ch": "✈️",
+     "x": 1260,
+     "y": 460,
+     "size": 180,
+     "anim": "right",
+     "at": 0.2,
+     "k": "emo"
+    },
+    {
+     "text": "*COMPÁRTELO*",
+     "y": 760,
+     "size": 84,
+     "x": 1260,
+     "acc": "goldL",
+     "at": 0.5,
+     "k": "txt"
+    }
+   ]
+  },
+  {
+   "n": 213,
+   "start": 854.22,
+   "end": 856.58,
+   "sec": 7,
+   "mark": "",
+   "sfx": "Click",
+   "mus": "↳",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 600,
+     "y": 620,
+     "s": 1.1,
+     "k": "person"
+    },
+    {
+     "kind": "mag",
+     "x": 1300,
+     "y": 560,
+     "w": 520,
+     "h": 150,
+     "text": "SUSCRÍBETE",
+     "size": 64,
+     "at": 0.1,
+     "k": "frame"
+    }
+   ]
+  },
+  {
+   "n": 214,
+   "start": 856.58,
+   "end": 872.7,
+   "sec": 7,
+   "mark": "",
+   "sfx": "Pop",
+   "mus": "Fade out al final",
+   "bg": "warm",
+   "els": [
+    {
+     "pose": "wave",
+     "x": 600,
+     "y": 620,
+     "s": 1.1,
+     "anim": "none",
+     "k": "person"
+    },
+    {
+     "kind": "mag",
+     "x": 1300,
+     "y": 560,
+     "w": 520,
+     "h": 150,
+     "text": "SUSCRÍBETE",
+     "size": 64,
+     "anim": "none",
+     "k": "frame"
+    },
+    {
+     "x": 1300,
+     "y": 820,
+     "s": 0.4,
+     "at": 0.3,
+     "k": "clock"
+    },
+    {
+     "ch": "😉",
+     "x": 1580,
+     "y": 820,
+     "size": 90,
+     "at": 0.8,
+     "k": "emo"
+    }
+   ],
+   "cam": "still"
+  }
+ ]
+}

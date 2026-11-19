@@ -12,6 +12,11 @@ import lujoPlan from './lujo/plan.json';
 import {ShortVideo} from './lujo/Shorts';
 import lujoShorts from './lujo/shorts.json';
 import {Thumb} from './lujo/Thumbs';
+import {PersonajeVideo} from './personaje/Main';
+import personajePlan from './personaje/plan.json';
+import {ShortVideo as PersonajeShort} from './personaje/Shorts';
+import personajeShorts from './personaje/shorts.json';
+import {Thumb as PersonajeThumb} from './personaje/Thumbs';
 
 export const Root: React.FC = () => (
   <>
@@ -68,6 +73,20 @@ export const Root: React.FC = () => (
     ))}
     {[1, 2, 3, 4, 5].map((n) => (
       <Composition key={n} id={`PobrezaDeLujoMiniatura${n}`} component={Thumb} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
+    ))}
+    <Composition
+      id="PersonajeMiedo"
+      component={PersonajeVideo}
+      durationInFrames={Math.round(personajePlan.duration * 30)}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+    {(personajeShorts as any[]).map((s) => (
+      <Composition key={s.id} id={`PersonajeMiedo${s.id}`} component={PersonajeShort} defaultProps={{id: s.id}} durationInFrames={Math.round(s.duration * 30)} fps={30} width={1080} height={1920} />
+    ))}
+    {[1, 2, 3, 4, 5].map((n) => (
+      <Composition key={`pm${n}`} id={`PersonajeMiedoMiniatura${n}`} component={PersonajeThumb} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
     ))}
   </>
 );

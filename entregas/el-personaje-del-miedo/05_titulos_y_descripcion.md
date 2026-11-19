@@ -22,7 +22,14 @@ Una camiseta vergonzosa que casi nadie vio, desconocidos a los que les caíste m
 #Psicologia #Autoestima #AnsiedadSocial #DesarrolloPersonal #SerTuMismo
 
 **Capítulos**
-[CAPÍTULOS – se agregan en la Fase 2]
+0:00 Las dos de la mañana
+1:17 El personaje que fabricas
+3:52 El experimento de la camiseta
+6:13 No pienses en un oso blanco
+8:19 Sócrates y Emerson: las dos frases
+11:04 ¿Para qué socializamos?
+12:50 La salida
+14:09 Cierre
 
 > Música y efectos de sonido: Epidemic Sound. Narración generada con IA (ElevenLabs).
 
