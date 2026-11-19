@@ -3,10 +3,10 @@
 ## Entregado
 | Archivo | Formato | Duración |
 |---|---|---|
-| `el-personaje-que-fabricas-por-miedo.mp4` | 1920×1080 · 30 fps · H.264 + AAC · −14 LUFS | {{DUR_LARGO}} |
-| `short_01_oso-blanco.mp4` | 1080×1920 · 30 fps · subtítulos quemados | {{DUR_S1}} |
-| `short_02_camiseta.mp4` | 1080×1920 · 30 fps · subtítulos quemados | {{DUR_S2}} |
-| `short_03_dos-de-la-manana.mp4` | 1080×1920 · 30 fps · subtítulos quemados | {{DUR_S3}} |
+| `el-personaje-que-fabricas-por-miedo.mp4` | 1920×1080 · 30 fps · H.264 + AAC · −14 LUFS | 14:33 |
+| `short_01_oso-blanco.mp4` | 1080×1920 · 30 fps · subtítulos quemados | 0:37 |
+| `short_02_camiseta.mp4` | 1080×1920 · 30 fps · subtítulos quemados | 0:33 |
+| `short_03_dos-de-la-manana.mp4` | 1080×1920 · 30 fps · subtítulos quemados | 0:33 |
 | `../miniaturas/miniatura_*.jpg` | 1280×720 · 5 diseños listos para subir | — |
 
 Los capítulos, con sus tiempos reales, ya están en `../05_titulos_y_descripcion.md`.
@@ -30,7 +30,12 @@ Los capítulos, con sus tiempos reales, ya están en `../05_titulos_y_descripcio
   - las palomitas y las X tapaban el texto de las tarjetas;
   - la escena 127 (Sócrates) tenía un ícono de la Isla de Pascua y lo cambié por un templo griego;
   - el título del video (escena 24) no alcanzaba a aparecer completo en 0.8 s.
-- {{QC}}
+- **Sincronía:** extraje fotogramas en el momento exacto en que la voz dice «Barry Manilow», «Delfos», «cuarenta años» y «vibrante», y en los cuatro aparece el visual correcto. Los cortes de escena salen de la transcripción por palabra, con un 98.9 % de palabras alineadas.
+- **Duración y fotogramas:** el largo tiene 26,181 fotogramas (14:33 = 14:21 de narración + 12 s de pantalla final). Pesa 87 MB.
+- **Pantallas negras:** `blackdetect` no encontró ninguna.
+- **Silencios:** el único silencio largo (2.6 s, en el minuto 6:19) es el de «durante los próximos cinco segundos, no pienses en un oso blanco». Es intencional.
+- **Audio:** el largo y los shorts quedaron a −14 LUFS (±0.6). La voz siempre va por encima de la música (ducking).
+- **Loop:** en los Shorts 1 y 3, la última escena repite el encuadre de la primera.
 
 ---
 
