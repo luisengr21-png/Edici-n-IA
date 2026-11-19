@@ -1,9 +1,18 @@
 # El personaje que fabricas por miedo — Títulos y descripción
 
-## Cinco títulos
+## Título elegido
+**Nadie recuerda esa frase rara que dijiste… solo tú** (50 caracteres), con la **Miniatura 3** («¿POR QUÉ DIJE ESO?»).
+Juntos se leen como pregunta y respuesta: la miniatura plantea la duda y el título la contesta.
 
+## Otros títulos (para pruebas A/B)
 | # | Título | Estilo | Caracteres |
 |---|---|---|---|
+| 1 | Por qué no dejas de pensar en lo que dijiste (y cómo soltarlo) | Problema + promesa de solución (la mejor alternativa para la prueba A/B) | 62 |
+| 2 | Le caíste mejor de lo que crees (lo dice la ciencia) | Dato sorprendente que alivia | 52 |
+| 3 | Por qué repasas tus pláticas en la noche (y cómo dejar de hacerlo) | Búsqueda con las palabras del público | 66 |
+| 4 | Deja de actuar: por qué caes mejor cuando dejas de intentarlo | Paradoja | 61 |
+
+---|---|---|---|
 | 1 | El personaje que fabricas por miedo (y por qué te aleja de todos) | Nombrar el fenómeno y revelar la consecuencia | 65 |
 | 2 | El experimento de la camiseta: nadie te está mirando como crees | Experimento con un dato sorprendente | 63 |
 | 3 | Por qué caes mejor cuando dejas de intentarlo | Paradoja que desafía un supuesto | 45 |
