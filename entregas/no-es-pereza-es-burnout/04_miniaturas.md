@@ -149,3 +149,15 @@ Están en `miniaturas/v2/`. Las 20 variantes de fondo están en `miniaturas/fond
 **Recomendada para empezar:** la **1** con el Título 1, porque es la más cercana a la referencia. Para una prueba A/B: la **2**, con la imagen más fuerte en tamaño celular.
 
 **Sobre los rostros:** en la miniatura 1, las cabezas de los cerillos tienen forma de perfil humano, igual que en la referencia. Son siluetas de carbón, sin ojos ni rasgos de una persona real, así que respetan la regla del canal.
+
+### Miniatura v2 3 · texto reacomodado (elegida por el creador)
+El creador eligió la **3 (pila en llamas)** y pidió acomodar mejor el texto, con colores más vivos.
+- **Posición:** el texto ahora va centrado en el espacio libre, entre el borde de la pila y el borde derecho.
+- **Color:** el «3 %» lleva un degradado de fuego (amarillo → naranja → rojo), con contorno oscuro y resplandor naranja.
+
+Hay 3 opciones en `miniaturas/v2/`:
+- `opcion-a`: «AL» en blanco arriba.
+- `opcion-b`: «AL» en una etiqueta amarilla inclinada. **Es la recomendada y ya es la versión principal: `miniatura_3_al-3.jpg`.**
+- `opcion-c`: todo en una línea, con una barra de batería casi vacía.
+
+**Título con el que combina:** «Le dicen flojera, pero es agotamiento: 6 señales».

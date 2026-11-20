@@ -22,7 +22,7 @@ import burnoutPlan from './burnout/plan.json';
 import {ShortVideo as BurnoutShort} from './burnout/Shorts';
 import burnoutShorts from './burnout/shorts.json';
 import {Thumb as BurnoutThumb} from './burnout/Thumbs';
-import {Thumb2 as BurnoutThumb2} from './burnout/Thumbs2';
+import {Thumb2 as BurnoutThumb2, Thumb3Opt as BurnoutThumb3Opt} from './burnout/Thumbs2';
 
 export const Root: React.FC = () => (
   <>
@@ -103,6 +103,9 @@ export const Root: React.FC = () => (
     ))}
     {[1, 2, 3, 4, 5].map((n) => (
       <Composition key={`bv${n}`} id={`NoEsPerezaMiniaturaV2-${n}`} component={BurnoutThumb2} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
+    ))}
+    {['a', 'b', 'c'].map((v) => (
+      <Composition key={`b3${v}`} id={`NoEsPerezaMiniatura3-${v}`} component={BurnoutThumb3Opt} defaultProps={{v}} durationInFrames={1} fps={30} width={1280} height={720} />
     ))}
   </>
 );
