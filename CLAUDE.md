@@ -1,54 +1,70 @@
 # Canal de YouTube — reglas permanentes de producción
 
-Estas reglas aplican a **todos** los videos que se produzcan en este repositorio (guion, edición, shorts y miniaturas).
+Estas reglas aplican a **todos** los videos que se produzcan en este repositorio: guion, edición, shorts y miniaturas.
+
+> **Reglas vigentes desde el 4.º video (noviembre 2026).**
+> El creador pidió videos menos genéricos, para no arriesgar el canal por «contenido repetitivo». Por eso:
+> - todos los recursos visuales los pone él;
+> - el video lleva solo la voz en off;
+> - no se generan imágenes con ElevenLabs.
+>
+> Los videos 1 a 3 se hicieron con las reglas anteriores (resumidas al final, solo como historial).
 
 ## Canal "sin cara" (qué significa exactamente)
 - **El creador nunca aparece**: ni su rostro, ni fotos ni videos suyos, ni avatares que lo representen.
 - **El personaje principal ilustrado SÍ lleva rostro**: ojos, cejas, mejillas y boca, con expresiones según la escena (neutral, preocupado, sonriente). Es el personaje 2D "Tú" con sudadera/capucha mostaza (`src/lujo/elements.tsx`, componente `Person`).
-- Las imágenes o clips realistas de personas (stock o IA) van sin rostros visibles: manos, siluetas, personas de espaldas, objetos y lugares.
+- Las imágenes o clips realistas de personas van sin rostros visibles: manos, siluetas, personas de espaldas, objetos y lugares. Si un recurso que manda el creador muestra una cara, se recorta o se le avisa.
 
-## Automatizar todo
-- Respaldo para escenas `LIVE` sin clip de Envato: imagen fotográfica generada con IA (ElevenLabs, `gpt-image-2.5-sunburst`, una variante por escena) en `recursos/stock/escena_NNN.jpg`, animada con Ken Burns. En verticales, imagen centrada sobre una versión desenfocada de la misma (`fit: 'blurfill'`).
-- **Audio (música y efectos de sonido): usar el conector de Epidemic Sound** para todo lo relacionado con audio: buscar, descargar y, si hace falta, ajustar la duración de las pistas (EditRecording). Guardar lo descargado en `recursos/musica/` y `recursos/sfx/`. La síntesis por código queda solo como respaldo si Epidemic Sound no está disponible.
-- **Visuales (escenas `LIVE`): Envato Elements, opción A elegida por el creador.** El conector solo busca, así que:
-  1. Al terminar la Fase 1, busco en Envato (`search_stock_video`, y `search_photos` si conviene) el mejor clip para cada escena `LIVE` (sin rostros visibles, sin logos) y entrego `entregas/<video>/06_clips_envato.md`: escena, tiempo, enlace del clip y **nombre exacto del archivo** (`escena_NNN.mp4`).
-  2. El creador descarga los clips (licencia registrada a su proyecto) y los deja en `recursos/stock/` con ese nombre.
-  3. En la Fase 2 el pipeline los toma solos. Si falta algún clip, se usa una imagen generada con IA para esa escena y se avisa en la lista de pendientes.
-- **Epidemic Sound ya está vinculado al canal de YouTube** (sin reclamos de Content ID).
-- Miniaturas: fondo generado con IA (4 variantes, elegir la mejor) + texto añadido con código usando las tipografías del canal.
-- **Los clips, la música y los efectos con licencia no se suben al repositorio** (están en `.gitignore`). El creador los pasa por una carpeta compartida de Google Drive y yo los descargo a `recursos/`.
+## 1. Recursos: todo lo pone el creador (yo uso lo mínimo)
+- **Lo que yo genero se reduce al mínimo.** Las imágenes, fotos, clips, íconos, objetos, ilustraciones, fondos, cuadros de texto decorativos, marcos y overlays de cada escena **se los pido al creador**. No los dibujo por código ni los saco de otro lado.
+- **Entregable de la Fase 1: `entregas/<video>/06_recursos.md`.** Es la lista completa de lo que necesito, escena por escena. Para cada recurso indica:
+  - escena y tiempo aproximado;
+  - qué es, con descripción concreta (ej.: «foto de un perro dormido en un sillón, sin personas», «video de una persona enojada de espaldas golpeando un escritorio»);
+  - tipo: `video`, `foto`, `ilustración/ícono` (PNG con fondo transparente si va encima de otra cosa), `3D` o `cuadro de texto/marco`;
+  - **nombre exacto del archivo**: `escena_NNN.mp4`, `foto_NNN.jpg`, `grafico_NOMBRE.png`, etc.;
+  - la carpeta de `recursos/` donde va;
+  - opcional: palabras clave en inglés y un enlace de Envato como sugerencia (el conector de Envato solo busca).
+- **El creador sube todo a una carpeta de Google Drive.** Yo lo descargo a `recursos/` y lo integro en la Fase 2.
+- **Si falta algún recurso,** no lo invento ni lo genero con IA. La escena queda con una solución sobria (texto sobre fondo liso o el recurso de la escena anterior) y lo aviso en `PENDIENTES.md`, para que me lo mande y vuelva a renderizar solo esa escena.
+- **Los recursos con licencia no se suben al repositorio** (están en `.gitignore`).
 
-## Sacarle el máximo jugo a Envato y Epidemic Sound (a partir del 3.er video)
-El creador pidió aprovechar a fondo las dos suscripciones para que los videos no se vean ni suenen genéricos.
+## 2. Audio: solo la voz en off
+- **El video lleva únicamente la narración.** Nada de música, efectos de sonido, ambientes, risers ni firma sonora.
+- La voz se normaliza a −14 LUFS (pico real −1.5 dB) para que el volumen sea parejo de principio a fin, sin subidas bruscas.
+- Aplica al video largo y a los shorts.
 
-**Envato Elements: no solo clips `LIVE`.** En la Fase 1 hay que buscar y proponer recursos de todas las categorías útiles:
-- `search_stock_video`: clips reales sin rostros ni logos;
-- `search_photos`: fotos para fondos, texturas, objetos y lugares, con Ken Burns, recortes o fotos dentro de marcos;
-- `search_graphics`: ilustraciones, íconos, texturas, papel, grano y formas vectoriales que enriquezcan las escenas 2D y de motion;
-- `search_3d`: objetos o personajes 3D para los picos de dopamina o los momentos clave;
-- `search_fonts`: una tipografía con personalidad para los títulos de ese video, además de Montserrat y Playfair;
-- `search_graphic_templates` y `search_video_templates`: overlays, transiciones, texturas de luz o marcos, cuando sumen.
+## 3. Imágenes: no generar con ElevenLabs
+- **No usar ElevenLabs para generar imágenes** (gasta muchos créditos). ElevenLabs se sigue usando **solo para la voz**.
+- **Miniaturas del video largo:** entregar **10 ideas** en `entregas/<video>/04_miniaturas.md`, en el repositorio de GitHub. Cada idea lleva:
+  - el concepto;
+  - la composición;
+  - el texto (máximo 3–4 palabras);
+  - los colores;
+  - el título con el que combina;
+  - **el prompt listo para copiar**, en inglés, para cualquier generador de imágenes.
 
-El entregable `06_clips_envato.md` pasa a llamarse **`06_recursos_envato.md`**. Va organizado por tipo de recurso y, para cada uno, indica:
-- escena y tiempo;
-- enlace principal y una alternativa;
-- **nombre exacto del archivo**: `escena_NNN.mp4`, `foto_NNN.jpg`, `grafico_NOMBRE.svg/png`, `3d_NOMBRE.glb/png` o `fuente_NOMBRE.ttf`;
-- la carpeta de `recursos/` donde va: `stock/`, `fotos/`, `graficos/`, `3d/` o `fuentes/`.
+  El creador las genera por su cuenta (con otro generador o con Envato). Si después me pasa la imagen, le pongo el texto con código.
+- Estilo que le gusta al creador (referencia del video 3: cerillos y pila en llamas):
+  - foto conceptual realista de un solo objeto;
+  - fondo liso de color fuerte (azul marino);
+  - contraste de color (fuego naranja/rojo contra azul);
+  - texto enorme y condensado (Anton), en blanco con un acento en rojo vivo;
+  - texto centrado en el espacio libre.
 
-El conector solo busca. El creador descarga los recursos y yo los integro en la Fase 2. Si falta alguno, la escena se resuelve como antes y lo aviso en la lista de pendientes.
+## 4. Títulos: 10 propuestas con palabras clave
+- Entregar **10 títulos** en `05_titulos_y_descripcion.md`, cada uno con la miniatura con la que combina.
+- **Jugar con las palabras clave de búsqueda**: incluirlas de forma natural y, cuando ayude, escribir alguna en minúsculas para que destaque o se lea como búsqueda (ej.: «burnout: no es pereza, es agotamiento»).
+- El título complementa la miniatura, no repite su texto.
 
-**Epidemic Sound: diseño sonoro completo, no solo una pista por sección.** Se usa para:
-- **varias pistas por sección** cuando cambie la energía, y **stems** (DRUMS, BASS, INSTRUMENTS) para quitar o sumar capas en los momentos tensos o en los clímax;
-- **EditRecording** para ajustar cada pista a la duración exacta de su sección y hacer que el golpe musical caiga en los picos marcados con ⚡;
-- **ambientes de fondo** según el lugar de la escena (noche, ciudad, café, salón, naturaleza);
-- **más variedad de efectos**, con varias versiones de cada uno (whoosh, pop, impacto) para que no suene repetido, más risers antes de los picos y transiciones sonoras entre secciones;
-- una **firma sonora** corta del canal para la apertura y el cierre, que se reutiliza en todos los videos.
+## 5. Descripciones: más alegres, con emojis
+- Las descripciones del video largo y de los shorts van con **tono alegre y cercano**, con **emojis**, pero **sin saturar**: unos pocos, donde sumen.
+- Se mantienen los hashtags, los capítulos (en el largo) y las fuentes.
 
-## Shorts: entregables extra (a partir del 3.er video)
+## 6. Shorts: título, descripción y miniatura por cada uno
 Para cada short, además del video, entregar:
-- **un fotograma para usar como miniatura** (1080×1920, JPG), elegido del propio short, en `entregas/<video>/video/short_0N_miniatura.jpg`;
-- **un título** para el short (máximo 60–70 caracteres, con gancho);
-- **una descripción breve** (1–2 líneas + 3–5 hashtags, incluido #Shorts).
+- **un título** recomendado (máximo 60–70 caracteres, con gancho y palabra clave);
+- **una descripción** breve y alegre (1–2 líneas con algún emoji y 3–5 hashtags, incluido #Shorts);
+- **un fotograma para usar como miniatura** (1080×1920, JPG), elegido del propio short, en `entregas/<video>/video/short_0N_miniatura.jpg`.
 
 El título y la descripción van en `03_shorts.md`, en la Fase 1, y se confirman en `PENDIENTES.md`, en la Fase 2.
 
@@ -59,7 +75,20 @@ El título y la descripción van en `03_shorts.md`, en la Fase 1, y se confirman
 - No hacer referencia a otros videos del canal salvo que el creador lo pida en ese video.
 
 ## Texto en pantalla
-- **Nunca repetir el mismo texto o número dos veces en la misma escena al mismo tiempo** (por ejemplo, una etiqueta "$0.01" y debajo otra vez "$0.01", o un título que repite lo que dice una tarjeta). Cada dato aparece una sola vez por escena; si hace falta reforzarlo, se usa un ícono, un color o una animación, no el mismo texto.
-- `scripts/lujo/viz.py` revisa esto automáticamente al generar el plan y se detiene si encuentra textos repetidos en una escena.
+- **Nunca repetir el mismo texto o número dos veces en la misma escena al mismo tiempo.** Por ejemplo:
+  - una etiqueta "$0.01" y debajo otra vez "$0.01";
+  - un título que repite lo que dice una tarjeta.
+
+  Cada dato aparece una sola vez por escena. Si hace falta reforzarlo, se usa un ícono, un color o una animación, no el mismo texto. En los shorts, el texto en pantalla tampoco repite lo que ya dicen los subtítulos en ese momento.
+- `scripts/<video>/viz.py` revisa esto automáticamente al generar el plan y se detiene si encuentra textos repetidos en una escena.
 - La revisión compara textos completos y también números sueltos (precios, años, porcentajes) entre todos los elementos de una escena.
-- El primer video («La trampa de la pobreza de lujo») se hizo antes de esta regla y tiene repeticiones en las escenas 45, 50, 123, 140, 200 y 213; para regenerarlo tal cual, ejecutar `PERMITIR_REPETIDOS=1 python3 scripts/lujo/viz.py`. En los videos nuevos, la regla es obligatoria.
+- El primer video («La trampa de la pobreza de lujo») se hizo antes de esta regla y tiene repeticiones en las escenas 45, 50, 123, 140 y 200–213. Para regenerarlo tal cual, ejecutar `PERMITIR_REPETIDOS=1 python3 scripts/lujo/viz.py`. En los videos nuevos, la regla es obligatoria.
+
+---
+
+## Historial: reglas anteriores (videos 1 a 3, ya no se aplican)
+- **Recursos:**
+  - Envato Elements para clips, fotos, gráficos, 3D, fuentes y overlays, propuestos por mí en `06_recursos_envato.md`;
+  - respaldo con imágenes generadas con IA (ElevenLabs, `gpt-image-2.5-sunburst`) en `recursos/stock/escena_NNN.jpg`.
+- **Audio:** diseño sonoro completo con Epidemic Sound (varias pistas por sección, stems, EditRecording, ambientes, efectos variados y firma sonora del canal en `recursos/firma/`). Epidemic Sound sigue vinculado al canal, sin reclamos de Content ID.
+- **Miniaturas:** 5 diseños con fondo generado con IA (4 variantes) más texto añadido con código.
