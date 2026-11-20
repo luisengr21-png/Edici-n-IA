@@ -104,7 +104,7 @@ export const Root: React.FC = () => (
     {[1, 2, 3, 4, 5].map((n) => (
       <Composition key={`bv${n}`} id={`NoEsPerezaMiniaturaV2-${n}`} component={BurnoutThumb2} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
     ))}
-    {['a', 'b', 'c'].map((v) => (
+    {['a', 'b', 'c', 'd'].map((v) => (
       <Composition key={`b3${v}`} id={`NoEsPerezaMiniatura3-${v}`} component={BurnoutThumb3Opt} defaultProps={{v}} durationInFrames={1} fps={30} width={1280} height={720} />
     ))}
   </>

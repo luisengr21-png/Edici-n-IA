@@ -7,7 +7,7 @@ const out = 'entregas/no-es-pereza-es-burnout/miniaturas/v2';
 fs.mkdirSync(out, {recursive: true});
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
 const browser = await openBrowser('chrome', {browserExecutable: '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell'});
-for (const v of ['a', 'b', 'c']) {
+for (const v of ['d']) {
   const composition = await selectComposition({serveUrl, id: `NoEsPerezaMiniatura3-${v}`, puppeteerInstance: browser});
   await renderStill({composition, serveUrl, output: `${out}/miniatura_3_al-3_opcion-${v}.jpg`, frame: 0, imageFormat: 'jpeg', jpegQuality: 92, puppeteerInstance: browser, overwrite: true});
 }

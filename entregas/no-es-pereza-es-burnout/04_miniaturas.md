@@ -161,3 +161,5 @@ Hay 3 opciones en `miniaturas/v2/`:
 - `opcion-c`: todo en una línea, con una barra de batería casi vacía.
 
 **Título con el que combina:** «Le dicen flojera, pero es agotamiento: 6 señales».
+
+**Versión final (elegida por el creador):** `opcion-d`, que ya es la principal: `miniatura_3_al-3.jpg`. Mantiene el formato de la primera versión, con «AL» en blanco puro arriba y «3 %» en rojo intenso (`#FF1A1A`) con resplandor rojo. Va centrada en el espacio libre a la derecha de la pila. Las opciones A, B y C quedan como alternativas.

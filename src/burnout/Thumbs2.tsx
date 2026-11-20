@@ -82,8 +82,8 @@ const D5 = () => (
 
 const DESIGNS = [D1, D2, D3, D4, D5];
 export const Thumb2: React.FC<{n: number}> = ({n}) => {
-  // la 3 usa el texto reacomodado elegido (opción B: etiqueta amarilla + «3 %» con degradado de fuego)
-  if (n === 3) return <Thumb3Opt v="b" />;
+  // la 3 usa el texto elegido por el creador (opción D: blanco + rojo vivo, centrado en el espacio libre)
+  if (n === 3) return <Thumb3Opt v="d" />;
   const D = DESIGNS[n - 1];
   return (
     <AbsoluteFill style={{background: '#0b1a3a'}}>
@@ -136,7 +136,15 @@ const O3C = () => (
     </div>
   </div>
 );
-const OPTS: Record<string, React.FC> = {a: O3A, b: O3B, c: O3C};
+// D · formato de la primera versión (blanco + rojo), centrado y con colores más vivos (elegida por el creador)
+const VIVID_RED = '#FF1A1A';
+const O3D = () => (
+  <div style={AREA}>
+    <div style={{position: 'relative', zIndex: 2, fontSize: 160, color: '#FFFFFF', letterSpacing: 4, paintOrder: 'stroke fill', WebkitTextStroke: '10px #050b1f', textShadow: '0 8px 22px rgba(0,0,0,0.75)'}}>AL</div>
+    <div style={{fontSize: 360, color: VIVID_RED, WebkitTextStroke: '8px #2a0000', filter: `drop-shadow(0 0 28px ${VIVID_RED}) drop-shadow(0 0 60px rgba(255,26,26,0.6)) drop-shadow(0 10px 20px rgba(0,0,0,0.7))`}}>{`3${NB}%`}</div>
+  </div>
+);
+const OPTS: Record<string, React.FC> = {a: O3A, b: O3B, c: O3C, d: O3D};
 export const Thumb3Opt: React.FC<{v: string}> = ({v}) => {
   const D = OPTS[v];
   return (
