@@ -28,6 +28,19 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 - **Si falta algún recurso,** no lo invento ni lo genero con IA. La escena queda con una solución sobria (texto sobre fondo liso o el recurso de la escena anterior) y lo aviso en `PENDIENTES.md`, para que me lo mande y vuelva a renderizar solo esa escena.
 - **Los recursos con licencia no se suben al repositorio** (están en `.gitignore`).
 
+**Decisiones del creador sobre lo que sigo haciendo yo:**
+- **El personaje «Tú» lo sigo creando yo**, con código, por el momento.
+- **Los subtítulos palabra por palabra de los shorts los sigo poniendo yo**, con código.
+- **Los títulos y textos en pantalla (frases clave, cifras, nombres de sección, sellos) también se los pido al creador, como imagen.** En `06_recursos.md` va una sección «Textos en pantalla» que indica, para cada uno:
+  - el texto exacto;
+  - la escena;
+  - el nombre del archivo (`texto_NNN.png`);
+  - si va **sin fondo** (PNG transparente, para ponerlo sobre una foto o un clip) o **con fondo** (tarjeta o cuadro);
+  - el tamaño sugerido.
+
+  Sigue vigente la regla de no repetir el mismo texto dos veces en la misma escena.
+- **Estas reglas aplican solo a los videos futuros.** Los videos 1 a 3 no se rehacen.
+
 ## 2. Audio: solo la voz en off
 - **El video lleva únicamente la narración.** Nada de música, efectos de sonido, ambientes, risers ni firma sonora.
 - La voz se normaliza a −14 LUFS (pico real −1.5 dB) para que el volumen sea parejo de principio a fin, sin subidas bruscas.
