@@ -71,3 +71,11 @@ node scripts/personaje/miniaturas.mjs     # las 5 miniaturas
 - **Cambiar una escena:** edita su línea `S(n, ...)` en `scripts/personaje/viz.py`. Los elementos están en `src/personaje/elements.tsx`; los propios de este video (reloj, máscara, reflector, oso, isla, medidor, globo de pensamiento y cama) están al final del archivo.
 - **Si cambias la narración:** regenera el audio, vuelve a transcribirlo con `scripts/lujo/check_take.py` y realinea con `scripts/personaje/align.py`.
 - **En otra máquina:** quita `--browser-executable` y Remotion descarga su propio navegador. Para los clips, la música y los efectos, vuelve a poner los archivos en `recursos/` (no están en el repositorio por licencia).
+
+---
+
+## Miniatura del Short 1 (oso blanco) · agregada a pedido del creador
+- `short_01_miniatura.jpg`: fotograma del propio short (0:30), sin subtítulos. Muestra al personaje con el oso blanco y el texto «ES EL OSO BLANCO». Es 1080×1920.
+- `short_01_miniatura_con-texto.jpg`: el mismo fotograma con «NO PIENSES EN ÉL» abajo, en blanco y rojo vivo (tipografía Anton), para llenar el espacio que el video deja para los subtítulos. **Es la recomendada para que llame más la atención.**
+
+Para sacar otro fotograma: `node scripts/personaje/fotograma_short.mjs <short> <segundo> <salida.jpg>`.

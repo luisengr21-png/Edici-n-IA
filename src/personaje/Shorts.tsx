@@ -48,7 +48,7 @@ const Captions: React.FC<{words: W[]; T: number}> = ({words, T}) => {
   );
 };
 
-export const ShortVideo: React.FC<{id: string}> = ({id}) => {
+export const ShortVideo: React.FC<{id: string; noCaps?: boolean}> = ({id, noCaps}) => {
   const frame = useCurrentFrame();
   const {fps, width, height} = useVideoConfig();
   const T = frame / fps;
@@ -59,7 +59,7 @@ export const ShortVideo: React.FC<{id: string}> = ({id}) => {
     <AbsoluteFill style={{background: '#000'}}>
       <SceneSeq key={sc.n} sc={sc} w={width} h={height} />
       <AbsoluteFill style={{background: 'radial-gradient(ellipse at 50% 50%, transparent 55%, rgba(0,0,0,0.5) 100%)'}} />
-      <Captions words={sh.words} T={T} />
+      {!noCaps && <Captions words={sh.words} T={T} />}
     </AbsoluteFill>
   );
 };
