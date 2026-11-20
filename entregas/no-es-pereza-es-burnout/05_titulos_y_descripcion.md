@@ -14,6 +14,17 @@ Cada título está pensado para combinar con una miniatura: la miniatura plantea
 
 **Recomendado para empezar:** el **1** con la Miniatura 1: la miniatura responde «NO ES PEREZA» y el título deja la pregunta abierta. Para una prueba A/B: el **2** con la Miniatura 2.
 
+### Con las miniaturas de la versión 2 (estilo de la referencia)
+| Miniatura v2 | Título |
+|---|---|
+| 1 · NO ES PEREZA (tres cerillos) | ¿Flojera o burnout? La pregunta que lo cambia todo |
+| 2 · TE QUEMASTE (cerillo doblado) | Nadie se quema sin haber estado encendido primero |
+| 3 · AL 3 % (pila en llamas) | Le dicen flojera, pero es agotamiento: 6 señales |
+| 4 · ¿FLOJO O QUEMADO? (dos velas) | Si antes tenías ganas y ahora no, esto no es flojera |
+| 5 · 5 ETAPAS (escalera de cerillos) | El burnout no llega de golpe: avanza así |
+
+**Recomendado:** la miniatura v2 1 con el Título 1.
+
 ---
 
 ## Descripción

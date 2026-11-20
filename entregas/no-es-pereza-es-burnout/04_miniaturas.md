@@ -126,3 +126,26 @@
 ---
 
 **Recomendada para empezar:** la **Miniatura 1** con el Título 1. Para una prueba A/B, la **Miniatura 2**, la más impactante en tamaño celular.
+
+---
+
+# Versión 2 · Estilo de la referencia del creador
+
+El creador compartió como referencia una miniatura de tres cerillos con cabeza de perfil humano, sobre azul marino, con la palabra «BURNOUT» en blanco. A partir de ella hice 5 miniaturas nuevas con el mismo lenguaje:
+- **Imagen:** foto conceptual realista de un solo objeto (fondo generado con IA; 4 variantes por diseño, elegí la mejor).
+- **Fondo:** azul marino liso, con el fuego naranja como contraste.
+- **Texto:** enorme, blanco, en tipografía condensada (Anton, licencia OFL), a la derecha y centrado en vertical. Un solo acento de color.
+
+Están en `miniaturas/v2/`. Las 20 variantes de fondo están en `miniaturas/fondos_v2/`.
+
+| # | Archivo | Imagen | Texto | Título con el que combina |
+|---|---|---|---|---|
+| 1 | `miniatura_1_no-es-pereza.jpg` | Tres cerillos: uno encendido, otro a medias y otro quemado con humo | NO ES ~~PEREZA~~ | ¿Flojera o burnout? La pregunta que lo cambia todo |
+| 2 | `miniatura_2_te-quemaste.jpg` | Un cerillo quemado, doblado como una persona agotada, con brasas y humo | TE **QUEMASTE** | Nadie se quema sin haber estado encendido primero |
+| 3 | `miniatura_3_al-3.jpg` | Una pila en llamas con el indicador de carga en rojo | AL **3 %** | Le dicen flojera, pero es agotamiento: 6 señales |
+| 4 | `miniatura_4_flojo-o-quemado.jpg` | Una vela nueva que nunca se encendió junto a otra consumida y humeando | ¿FLOJO O **QUEMADO?** | Si antes tenías ganas y ahora no, esto no es flojera |
+| 5 | `miniatura_5_cinco-etapas.jpg` | Cinco cerillos en escalera, cada uno más quemado, hasta quedar en ceniza | **5** ETAPAS | El burnout no llega de golpe: avanza así *(título nuevo, para no repetir «5 etapas»)* |
+
+**Recomendada para empezar:** la **1** con el Título 1, porque es la más cercana a la referencia. Para una prueba A/B: la **2**, con la imagen más fuerte en tamaño celular.
+
+**Sobre los rostros:** en la miniatura 1, las cabezas de los cerillos tienen forma de perfil humano, igual que en la referencia. Son siluetas de carbón, sin ojos ni rasgos de una persona real, así que respetan la regla del canal.
