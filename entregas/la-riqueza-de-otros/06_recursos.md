@@ -1,5 +1,7 @@
 # La riqueza de otros — Recursos que necesito (los pones tú)
 
+> ⚠️ **DESACTUALIZADO:** este archivo corresponde al primer guion, que se reescribió. Lo rehago en cuanto apruebes el guion nuevo (`01_guion_largo.md`). **Todavía no descargues recursos de esta lista.**
+
 Desde este video, **todos los recursos visuales los pones tú** (regla del canal). Yo solo dibujo al personaje «Tú» y pongo los subtítulos de los shorts.
 
 **Cómo pasármelos:**

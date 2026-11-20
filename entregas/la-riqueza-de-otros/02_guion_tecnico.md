@@ -1,5 +1,7 @@
 # La riqueza de otros — Guion técnico de edición
 
+> ⚠️ **DESACTUALIZADO:** este archivo corresponde al primer guion, que se reescribió. Lo rehago en cuanto apruebes el guion nuevo (`01_guion_largo.md`). **Todavía no descargues recursos de esta lista.**
+
 **Formato:** 1920×1080 · 16:9 · 30 fps · **91 escenas** · narración estimada **5:41** (más 10–15 s de pantalla final)
 **Tiempos:** son aproximados, calculados a 150 palabras por minuto. En la Fase 2 se ajustan al audio real.
 **Audio:** solo la voz en off, sin música ni efectos (regla del canal).

@@ -1,5 +1,7 @@
 # La riqueza de otros — 3 Shorts verticales (9:16)
 
+> ⚠️ **DESACTUALIZADO:** este archivo corresponde al primer guion, que se reescribió. Lo rehago en cuanto apruebes el guion nuevo (`01_guion_largo.md`). **Todavía no descargues recursos de esta lista.**
+
 **Formato:** 1080×1920 · 30 fps · de 30 a 35 s cada uno.
 
 **Voz:** la misma del canal (ElevenLabs, «BRIAN CM», `eleven_v4`). **Solo voz**, sin música ni efectos.
