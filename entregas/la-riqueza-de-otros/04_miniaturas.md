@@ -33,14 +33,14 @@
 Photorealistic conceptual product photograph. A golden antique balance scale on the left half of the frame: on one pan a thick stack of banknotes, on the other pan a yellow construction hard hat, almost perfectly balanced. Solid deep navy blue background, warm golden studio light on the scale against the cool blue, high contrast, sharp focus, cinematic. The right half of the image is empty dark navy blue space for text. No text, no letters, no logos, no people. 16:9, 1280x720.
 ```
 
-## 2 · «Teléfono de antes y de hoy»
-- **Concepto:** un teléfono antiguo de disco, opaco y polvoriento, junto a un smartphone moderno que brilla con luz dorada.
-- **Composición:** los dos teléfonos a la izquierda, uno al lado del otro, y el texto a la derecha.
-- **Texto:** MÁS **RICO** QUE ANTES (blanco, con «RICO» en dorado)
+## 2 · «El ladrillo de oro»
+- **Concepto:** el primer celular de 1983 («ladrillo» con antena), dorado y brillante como una joya, con una etiqueta de precio colgando. Es el gancho del video.
+- **Composición:** el celular de pie en el tercio izquierdo, con un brillo dorado alrededor, y el texto a la derecha.
+- **Texto:** SOLO PARA **MILLONARIOS** (blanco, con «MILLONARIOS» en dorado)
 - **Título con el que combina:** riqueza: por qué hoy eres más rico aunque no tengas más dinero
 - **Prompt:**
 ```
-Photorealistic conceptual photograph. On the left half of the frame, an old dusty rotary dial telephone next to a sleek modern smartphone standing upright and glowing with warm golden light from its screen (blank screen, no interface). Solid deep navy blue background, dramatic studio lighting, warm gold against cool blue, high contrast, sharp focus. The right half is empty dark navy blue space for text. No text, no letters, no logos, no brand, no people. 16:9, 1280x720.
+Photorealistic conceptual product photograph. A vintage 1980s brick-style mobile phone with a long antenna, made of shiny polished gold like a piece of jewelry, standing upright on the left third of the frame, with a small blank paper price tag hanging from it on a string. Solid deep navy blue background, dramatic warm golden studio light and soft glow around the phone against the cool blue, high contrast, sharp focus, cinematic. The right two thirds of the image are empty dark navy blue space for text. No text, no letters, no numbers, no logos, no brand, no people. 16:9, 1280x720.
 ```
 
 ## 3 · «La moneda partida»

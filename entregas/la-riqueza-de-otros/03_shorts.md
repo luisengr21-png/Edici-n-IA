@@ -1,7 +1,5 @@
 # La riqueza de otros — 3 Shorts verticales (9:16)
 
-> ⚠️ **DESACTUALIZADO:** este archivo corresponde al primer guion, que se reescribió. Lo rehago en cuanto apruebes el guion nuevo (`01_guion_largo.md`). **Todavía no descargues recursos de esta lista.**
-
 **Formato:** 1080×1920 · 30 fps · de 30 a 35 s cada uno.
 
 **Voz:** la misma del canal (ElevenLabs, «BRIAN CM», `eleven_v4`). **Solo voz**, sin música ni efectos.
@@ -14,106 +12,113 @@
 
 **Texto en pantalla:** nunca repite lo que dicen los subtítulos en ese momento.
 
+Cada short funciona solo, sin haber visto el video largo.
+
 ---
 
-## SHORT 1 · «Eres más rico de lo que crees»
+## SHORT 1 · «El ladrillo de 4,000 dólares»
 
-**Título:** ¿Eres más rico de lo que crees? 📱🚕
+**Título:** En 1983 esto costaba casi 4,000 dólares 📱 (y hoy lo tienes tú)
 
-**Descripción:** Por lo que antes costaba una llamada, hoy tienes internet, videollamadas y un taxi desde tu celular 😄 Eso también es riqueza, aunque tu cuenta no lo diga.
-#Economia #FinanzasPersonales #Riqueza #Shorts
+**Descripción:** El primer celular pesaba casi un kilo y solo un millonario podía tenerlo 😮 Hoy lo traes en el bolsillo… gracias a la competencia. ¡Eres más rico de lo que crees! 💰
+#Economia #Riqueza #Celular #Competencia #Shorts
 
-**Fotograma para la miniatura (propuesta):** la mano con el celular y los íconos de internet, mensajes y videollamada saliendo de la pantalla (0:10).
+**Fotograma para la miniatura (propuesta):** el celular «ladrillo» con la etiqueta de precio (0:05).
 
-**Final:** loop. «…también es ser más rico» vuelve a la pregunta del inicio.
+**Final:** loop. «Porque eso que tienes en la mano…» se une con «En 1983, solo lo podía tener un millonario».
 
 ### Guion
-> Eres más rico de lo que crees… aunque tu cuenta no lo diga. [PAUSA]
-> Hace algunos años, hacer una llamada era caro, se cortaba seguido y casi no había opciones.
-> Hoy, con lo mismo, tienes internet, mensajes ilimitados y videollamadas.
-> Antes, tomar un taxi era un lujo. Hoy lo pides desde tu celular y sabes cuánto vas a pagar.
-> ¿Por qué? [PAUSA] Competencia.
-> Aunque no haya más dinero, tenemos más productos y servicios accesibles.
-> Y eso también es ser más rico.
+> En 1983, solo lo podía tener un millonario. [PAUSA]
+> El primer celular: casi un kilo, media hora de batería… y casi cuatro mil dólares.
+> Hoy traes algo mil veces mejor en el bolsillo. Y no eres millonario.
+> ¿Qué pasó? [PAUSA] Competencia.
+> Cuando una empresa cobra de más, llega otra más barata y mejor, y te lleva con ella.
+> Alguien se hizo muy rico vendiéndote ese celular. [PAUSA] Y aun así, tú saliste ganando.
+> Porque eso que tienes en la mano…
 
-**Palabras:** 72 · **Duración estimada:** unos 30 s
+**Palabras:** 77 · **Duración estimada:** unos 31 s
 
 | Tiempo | Visual | Recursos (del largo) | Texto arriba |
 |---|---|---|---|
-| 0:00–0:04 | `2D` «Tú» revisa su cartera vacía y se sorprende | `icono_cartera_vacia.png` | `texto_short1.png` «¿ERES MÁS RICO?» |
-| 0:04–0:09 | `VIDEO` Mano metiendo monedas en el teléfono público | `escena_017.mp4` | — |
-| 0:09–0:13 | `VIDEO` Manos con el celular moderno; salen los tres íconos | `escena_020.mp4`, `icono_internet.png`, `icono_mensajes.png`, `icono_videollamada.png` | — |
-| 0:13–0:18 | `FOTO` → `VIDEO` Taxi antiguo y luego la app en el celular | `foto_029.jpg`, `escena_030.mp4` | — |
-| 0:18–0:21 | `VIDEO` Corredores en la pista | `escena_023.mp4` | — |
-| 0:21–0:26 | `VIDEO` Carrito de supermercado lleno | `escena_035.mp4` | — |
-| 0:26–0:30 | `2D` «Tú» sonríe con la lluvia de íconos (mismo encuadre del inicio, para el loop) | `icono_productos.png`, `icono_estrellas.png` | — |
+| 0:00–0:04 | `FOTO` El celular «ladrillo» sobre fondo oscuro, zoom lento | `foto_003.jpg`, `icono_sombrero_copa.png` | `texto_short1.png` «EL LADRILLO MÁS CARO» |
+| 0:04–0:09 | `ÍCONOS` Báscula, batería que se vacía y etiqueta de precio, uno por uno | `icono_bascula.png`, `icono_bateria_baja.png`, `icono_etiqueta_precio.png` | — |
+| 0:09–0:13 | `VIDEO` Manos con el celular moderno; «Tú» se encoge de hombros | `escena_010.mp4` | — |
+| 0:13–0:16 | `VIDEO` Corredores en la pista | `escena_056.mp4` | — |
+| 0:16–0:21 | `ÍCONOS` Una empresa cobra de más y la otra la empuja | `icono_empresa.png`, `icono_empresa_2.png`, `icono_etiqueta_precio.png` | — |
+| 0:21–0:25 | `VIDEO` Billetes cayendo en cámara lenta | `escena_013.mp4` | — |
+| 0:25–0:30 | `VIDEO` Mano sacando el celular del bolsillo (mismo encuadre del inicio, para el loop) | `escena_001.mp4` | — |
 
 ---
 
-## SHORT 2 · «Sin trabajadores no hay empresas»
+## SHORT 2 · «El millonario que fue héroe y villano»
 
-**Título:** Sin trabajadores no hay empresas 💪 (y casi nadie lo dice)
+**Título:** Regaló 2,500 bibliotecas… pero en su fábrica hubo balazos 😳
 
-**Descripción:** Los empresarios arriesgan e invierten… pero la riqueza la producen también quienes trabajan todos los días 🙌 ¿Estás de acuerdo?
-#Trabajadores #Economia #Empleo #Shorts
+**Descripción:** Andrew Carnegie fue el rico perfecto… hasta que no 👀 Una historia real que te hará ver distinto a los millonarios. ¿Tú qué opinas? 👇
+#Millonarios #Historia #Riqueza #Carnegie #Shorts
 
-**Fotograma para la miniatura (propuesta):** las manos en la línea de producción (0:10).
-
-**Final:** cierre con frase (sin loop).
-
-### Guion
-> Te dijeron que la riqueza la generan los empresarios. [PAUSA] Es verdad… a medias.
-> Ellos arriesgan, invierten y ponen el capital.
-> Pero, ¿quién produce realmente los bienes y servicios? [PAUSA] Los trabajadores.
-> Sin los empleados que fabrican, atienden y distribuyen, ninguna empresa podría existir.
-> Y muchas veces son ellos quienes proponen las ideas que hacen crecer a la empresa.
-> Porque sin empleados no hay empresas… y sin trabajadores no hay progreso.
-
-**Palabras:** 69 · **Duración estimada:** unos 30 s
-
-| Tiempo | Visual | Recursos (del largo) | Texto arriba |
-|---|---|---|---|
-| 0:00–0:05 | `2D` «Tú» con el dedo levantado, dudando | — | `texto_short2.png` «NADIE LO DICE» |
-| 0:05–0:09 | `FOTO` Manos firmando el contrato | `foto_063.jpg` | — |
-| 0:09–0:13 | `VIDEO` Manos en la línea de producción | `escena_065.mp4` | — |
-| 0:13–0:19 | `FOTO` Fabricar, atender y repartir (tres fotos rápidas) | `foto_066_a.jpg`, `foto_066_b.jpg`, `foto_066_c.jpg` | — |
-| 0:19–0:24 | `VIDEO` Equipo con notas adhesivas, con el foco encima | `escena_069.mp4`, `icono_foco.png` | — |
-| 0:24–0:30 | `VIDEO` Las manos del equipo juntándose | `escena_068.mp4` | — |
-
----
-
-## SHORT 3 · «Los 2 tipos de ricos»
-
-**Título:** Hay 2 tipos de ricos… ¿cuál conoces tú? 💰
-
-**Descripción:** Unos se aprovechan y otros hacen avanzar a todos 🚀 Empleos, impuestos e innovación que usas cada día. Cuéntame qué piensas 👇
-#Ricos #Economia #Riqueza #Shorts
-
-**Fotograma para la miniatura (propuesta):** la pantalla dividida con la mansión y la fábrica (0:02).
+**Fotograma para la miniatura (propuesta):** la biblioteca antigua con la silueta de época encima (0:04).
 
 **Final:** pregunta a los comentarios.
 
 ### Guion
-> En cualquier economía hay dos tipos de ricos: los que se aprovechan de la sociedad… [PAUSA] y los que la hacen avanzar.
-> Los segundos generan empleos, y eso le cambia la vida a muchas familias.
-> Sus impuestos financian carreteras, hospitales y escuelas que usas todos los días.
-> Y cuando compiten por ser los mejores, innovan: desde tu teléfono hasta los medicamentos que salvan vidas.
-> ¿Tú qué piensas? [PAUSA] ¿Nos perjudican… o nos ayudan?
+> Este hombre regaló casi el noventa por ciento de su fortuna.
+> Más de dos mil quinientas bibliotecas gratis. Universidades. Investigación. [PAUSA]
+> El rico perfecto, ¿no? [PAUSA] Pues aguanta.
+> En 1892, sus obreros se negaron a aceptar un recorte de sueldo.
+> La empresa los dejó afuera y contrató guardias armados. Hubo balazos. Murieron trabajadores.
+> Andrew Carnegie fue los dos tipos de rico al mismo tiempo.
+> Por eso a un rico no se le juzga por lo que regala… sino por cómo gana su dinero.
+> ¿Tú qué opinas?
 
-**Palabras:** 66 · **Duración estimada:** unos 30 s
+**Palabras:** 84 · **Duración estimada:** unos 34 s
 
 | Tiempo | Visual | Recursos (del largo) | Texto arriba |
 |---|---|---|---|
-| 0:00–0:04 | `FOTO` Pantalla dividida: mansión y fábrica | `foto_004_a.jpg`, `foto_004_b.jpg` | `texto_short3.png` «¿CUÁL CONOCES?» |
-| 0:04–0:07 | `VIDEO` Manos contando billetes | `escena_005.mp4` | — |
-| 0:07–0:10 | `VIDEO` Obra en construcción desde el dron | `escena_006.mp4` | — |
-| 0:10–0:14 | `VIDEO` Familia caminando al atardecer | `escena_046.mp4` | — |
-| 0:14–0:19 | `VIDEO` Carretera desde el dron, con los íconos de hospital y escuela | `escena_058.mp4`, `icono_hospital.png`, `icono_escuela.png` | — |
-| 0:19–0:24 | `VIDEO` → `FOTO` Celular girando y luego las pastillas | `escena_055.mp4`, `foto_056.jpg` | — |
-| 0:24–0:30 | `ÍCONOS` La balanza que se inclina a un lado y al otro | `icono_balanza.png` | — |
+| 0:00–0:04 | `ÍCONOS` La silueta de época se vuelve dorada; sale la caja de regalo | `icono_silueta_1900.png`, `icono_regalo.png` | `texto_short2.png` «¿HÉROE O VILLANO?» |
+| 0:04–0:09 | `VIDEO` Biblioteca antigua; birrete y microscopio | `escena_106.mp4`, `icono_birrete.png`, `icono_microscopio.png` | — |
+| 0:09–0:12 | `ÍCONOS` La silueta con aureola; «Tú» levanta la mano: «alto» | `icono_silueta_1900.png`, `icono_aureola.png` | — |
+| 0:12–0:16 | `FOTO` Acería antigua con chimeneas; tijeras cortando un billete | `foto_114.jpg`, `icono_tijeras.png` | — |
+| 0:16–0:22 | `VIDEO` Candado en la reja → río oscuro con niebla | `escena_069.mp4`, `escena_118.mp4`, `icono_guardias.png` | — |
+| 0:22–0:27 | `ÍCONOS` La silueta se parte en dorado y rojo | `icono_silueta_1900.png` | — |
+| 0:27–0:33 | `VIDEO` Manos contando billetes; termina en la balanza | `escena_018.mp4`, `icono_balanza.png` | — |
+
+---
+
+## SHORT 3 · «Ford duplicó el sueldo»
+
+**Título:** Ford duplicó sueldos… y le dijeron que iba a quebrar 🚗
+
+**Descripción:** En 1914 todos pensaron que estaba loco 🤯 Spoiler: pagarle bien a la gente no fue caridad, fue buen negocio 💪
+#Trabajadores #Economia #Empleo #HenryFord #Shorts
+
+**Fotograma para la miniatura (propuesta):** el auto antiguo con la moneda que se duplica (0:04).
+
+**Final:** cierre con frase (sin loop).
+
+### Guion
+> En 1914, Henry Ford hizo algo que los otros empresarios llamaron locura: [PAUSA] duplicó el sueldo de sus obreros.
+> Le dijeron que iba a quebrar.
+> ¿Y qué pasó? [PAUSA]
+> Sus trabajadores dejaron de renunciar, trabajaron mejor… y con ese sueldo empezaron a comprar los mismos coches que fabricaban.
+> Ford se hizo todavía más rico.
+> O sea, pagarle bien a la gente no fue caridad. Fue buen negocio.
+> Porque sin empleados no hay empresas… y sin trabajadores no hay progreso.
+
+**Palabras:** 77 · **Duración estimada:** unos 32 s
+
+| Tiempo | Visual | Recursos (del largo) | Texto arriba |
+|---|---|---|---|
+| 0:00–0:04 | `FOTO` Auto antiguo de principios del siglo XX | `foto_178.jpg` | `texto_short3.png` «NADIE LE CREYÓ» |
+| 0:04–0:07 | `ÍCONOS` La moneda se duplica | `icono_moneda.png` | — |
+| 0:07–0:10 | `ÍCONOS` Gráfica roja cayendo; «Tú» expectante | `icono_grafica_baja.png` | — |
+| 0:10–0:17 | `FOTO` Línea de ensamblaje antigua → auto con llave | `foto_182.jpg`, `icono_llave_auto.png` | — |
+| 0:17–0:20 | `VIDEO` Billetes cayendo en cámara lenta | `escena_013.mp4` | — |
+| 0:20–0:25 | `ÍCONOS` Apretón de manos (buen negocio) | `icono_apreton.png` | — |
+| 0:25–0:31 | `VIDEO` Manos en la línea de producción → manos del equipo juntándose | `escena_163.mp4`, `escena_186.mp4` | — |
 
 ---
 
 ### Notas
-- Los textos de los shorts son los del guion largo, condensados.
+- Los textos de los shorts salen del guion largo, condensados. El short 2 dice «Hubo balazos», en pasado, para que se entienda solo.
 - Los nombres de archivo de los recursos coinciden con los de `06_recursos.md`. Si cambia la numeración del largo, los actualizo.

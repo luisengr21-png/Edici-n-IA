@@ -193,7 +193,7 @@ Y si este video te hizo ver tu celular con otros ojos, regálame un like, compá
 ## Conteo
 
 - **Palabras narradas:** **2,058** (sin subtítulos ni indicaciones entre corchetes)
-- **Duración estimada:** **≈ 13:43** a 150 palabras por minuto, pausas incluidas. Cumple el mínimo de 10 minutos del prompt maestro. En la Fase 2 mandan los tiempos del audio real.
+- **Duración estimada:** **≈ 14 minutos**: 13:43 de narración a 150 palabras por minuto, más las pausas. Cumple el mínimo de 10 minutos del prompt maestro. En la Fase 2 mandan los tiempos del audio real.
 
 ---
 
