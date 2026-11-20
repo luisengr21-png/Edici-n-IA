@@ -140,7 +140,7 @@ const O3C = () => (
 const VIVID_RED = '#FF1A1A';
 const O3D = () => (
   <div style={AREA}>
-    <div style={{position: 'relative', zIndex: 2, marginBottom: 34, fontSize: 160, color: '#FFFFFF', letterSpacing: 4, paintOrder: 'stroke fill', WebkitTextStroke: '10px #050b1f', textShadow: '0 8px 22px rgba(0,0,0,0.75)'}}>AL</div>
+    <div style={{position: 'relative', zIndex: 2, marginBottom: 64, fontSize: 160, color: '#FFFFFF', letterSpacing: 4, paintOrder: 'stroke fill', WebkitTextStroke: '10px #050b1f', textShadow: '0 8px 22px rgba(0,0,0,0.75)'}}>AL</div>
     <div style={{fontSize: 360, color: VIVID_RED, WebkitTextStroke: '8px #2a0000', filter: `drop-shadow(0 0 28px ${VIVID_RED}) drop-shadow(0 0 60px rgba(255,26,26,0.6)) drop-shadow(0 10px 20px rgba(0,0,0,0.7))`}}>{`3${NB}%`}</div>
   </div>
 );
