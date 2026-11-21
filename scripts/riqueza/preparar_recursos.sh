@@ -11,7 +11,7 @@ declare -A CROP=(
   [escena_100]="0.55 0.22 0.43 0.43"   # el letrero de cerrado a abierto
   [escena_130]="0.45 0.45 0.55 0.55"   # la mesa: café y celular
   [escena_167]="0.50 0.40 0.50 0.50"   # manos con guantes en la máquina
-  [escena_198]="0.30 0.55 0.45 0.45"   # las cajas
+  [escena_198]="0.25 0.58 0.42 0.42"   # las cajas
 )
 for f in recursos/riqueza/VIDEOS/*; do
   b=$(basename "${f%.*}"); o=public/riqueza/videos/$b.mp4

@@ -181,7 +181,8 @@ def clip_len(src):
         LEN[src] = float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', os.path.join(ROOT, 'public', src)]))
     return LEN[src]
 FIRST = {'riqueza/videos/escena_100.mp4': (4.0, 1.0),   # el letrero voltea de «cerrado» a «abierto» en el segundo 5
-         'riqueza/videos/escena_111.mp4': (0.0, 0.6)}   # el niño voltea a la cámara en el segundo 2.7: más lento y solo el inicio
+         'riqueza/videos/escena_111.mp4': (0.0, 0.6),   # el niño voltea a la cámara en el segundo 2.7: más lento y solo el inicio
+         'riqueza/videos/escena_198.mp4': (4.0, 1.0)}   # del segundo 4 al 8.5 el trabajador está derecho y su cara queda fuera del recorte
 for s in out:
     d = (s['end'] - s['start']) / (2 if len([m for m in s['media'] if m['t'] == 'v']) >= 2 and 'split' not in s['fx'] else 1)
     for m in s['media']:

@@ -4300,7 +4300,8 @@
 {
 "t": "v",
 "src": "riqueza/videos/escena_198.mp4",
-"off": 0.4
+"off": 4.0,
+"rate": 1.0
 }
 ],
 "icons": [],
