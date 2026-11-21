@@ -22,6 +22,10 @@ import burnoutPlan from './burnout/plan.json';
 import {ShortVideo as BurnoutShort} from './burnout/Shorts';
 import burnoutShorts from './burnout/shorts.json';
 import {Thumb as BurnoutThumb} from './burnout/Thumbs';
+import {RiquezaVideo} from './riqueza/Riqueza';
+import riquezaPlan from './riqueza/plan.json';
+import {RiquezaShort} from './riqueza/Shorts';
+import riquezaShorts from './riqueza/shorts.json';
 import {Thumb2 as BurnoutThumb2, Thumb3Opt as BurnoutThumb3Opt} from './burnout/Thumbs2';
 
 export const Root: React.FC = () => (
@@ -106,6 +110,10 @@ export const Root: React.FC = () => (
     ))}
     {['a', 'b', 'c', 'd'].map((v) => (
       <Composition key={`b3${v}`} id={`NoEsPerezaMiniatura3-${v}`} component={BurnoutThumb3Opt} defaultProps={{v}} durationInFrames={1} fps={30} width={1280} height={720} />
+    ))}
+    <Composition id="LaRiquezaDeOtros" component={RiquezaVideo} durationInFrames={Math.round(riquezaPlan.duration * 30)} fps={30} width={1920} height={1080} />
+    {(riquezaShorts as any[]).map((s) => (
+      <Composition key={`r${s.id}`} id={`LaRiquezaDeOtros${s.id}`} component={RiquezaShort} defaultProps={{id: s.id}} durationInFrames={Math.round(s.duration * 30)} fps={30} width={1080} height={1920} />
     ))}
   </>
 );

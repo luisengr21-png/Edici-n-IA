@@ -38,7 +38,14 @@ Al final te dejo una prueba de una sola pregunta para saber de qué tipo es cual
 #Economia #Riqueza #FinanzasPersonales #Empleo #Millonarios
 
 **Capítulos**
-[CAPÍTULOS – se agregan en la Fase 2, con los tiempos reales]
+0:00 Dos tipos de ricos
+1:18 Más rico sin un peso más
+3:02 El villano: el rico que no quiere competir
+4:20 El hombre que fue los dos
+6:53 Lo que usas sin ver
+8:29 La parte que casi nadie dice
+10:19 Por qué un país es rico
+11:51 La prueba de una sola pregunta
 
 > Narración generada con IA (ElevenLabs). Imágenes y clips: material con licencia del creador.
 > Este video es de opinión y divulgación; no es asesoría financiera.

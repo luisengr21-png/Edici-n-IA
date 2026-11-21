@@ -56,3 +56,7 @@ recursos/firma/
 
 # Video 4 (la riqueza de otros): recursos con licencia que manda el creador
 recursos/riqueza/
+public/riqueza/videos/
+public/riqueza/fotos/
+audio/la-riqueza-de-otros/tomas/
+audio/la-riqueza-de-otros/*.wav

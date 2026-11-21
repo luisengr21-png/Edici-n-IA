@@ -1,0 +1,5252 @@
+{
+"audioEnd": 807.62,
+"duration": 819.62,
+"scenes": [
+{
+"n": 1,
+"start": 0.0,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_001.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 2.42
+},
+{
+"n": 2,
+"start": 2.42,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "🎩"
+}
+],
+"txt": [
+{
+"text": "SOLO MILLONARIOS",
+"card": false,
+"size": "mediano",
+"acc": "MILLONARIOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "phone",
+"mood": "happy"
+},
+"end": 8.52
+},
+{
+"n": 3,
+"start": 8.52,
+"tipo": "FOTO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_003.jpg",
+"k": 0,
+"ar": 0.686
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "1983",
+"card": true,
+"size": "chico",
+"acc": "1983",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 12.76
+},
+{
+"n": 4,
+"start": 12.76,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_003.jpg",
+"k": 1,
+"ar": 0.686
+}
+],
+"icons": [
+{
+"svg": "bascula"
+}
+],
+"txt": [
+{
+"text": "CASI 1 KG",
+"card": false,
+"size": "mediano",
+"acc": "1 KG",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 14.84
+},
+{
+"n": 5,
+"start": 14.84,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "🪫"
+}
+],
+"txt": [
+{
+"text": "30 MIN",
+"card": false,
+"size": "mediano",
+"acc": "30 MIN",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 17.26
+},
+{
+"n": 6,
+"start": 17.26,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "⏰"
+}
+],
+"txt": [
+{
+"text": "10 HORAS",
+"card": false,
+"size": "mediano",
+"acc": "10 HORAS",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "sit",
+"mood": "tired"
+},
+"end": 20.18
+},
+{
+"n": 7,
+"start": 20.18,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 22.02
+},
+{
+"n": 8,
+"start": 22.02,
+"tipo": "FOTO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_003.jpg",
+"k": 2,
+"ar": 0.686
+}
+],
+"icons": [
+{
+"e": "🏷️"
+}
+],
+"txt": [
+{
+"text": "$3,995",
+"card": true,
+"size": "grande",
+"acc": "$3,995",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 24.92
+},
+{
+"n": 9,
+"start": 24.92,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "💵"
+}
+],
+"txt": [
+{
+"text": "+$10,000 DE HOY",
+"card": false,
+"size": "mediano",
+"acc": "+$10,000",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 27.02
+},
+{
+"n": 10,
+"start": 27.02,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_010.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 29.52
+},
+{
+"n": 11,
+"start": 29.52,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "📷"
+},
+{
+"e": "📍"
+},
+{
+"e": "🏦"
+},
+{
+"e": "📺"
+},
+{
+"e": "📖"
+}
+],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 35.16
+},
+{
+"n": 12,
+"start": 35.16,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug"
+},
+"end": 37.32
+},
+{
+"n": 13,
+"start": 37.32,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_013.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [
+"drop"
+],
+"hit": false,
+"end": 41.2
+},
+{
+"n": 14,
+"start": 41.2,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "TÚ GANASTE",
+"card": false,
+"size": "grande",
+"acc": "GANASTE",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"person": {
+"pose": "handup",
+"mood": "happy"
+},
+"end": 44.26
+},
+{
+"n": 15,
+"start": 44.26,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch"
+},
+"end": 45.54
+},
+{
+"n": 16,
+"start": 45.54,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "🫳"
+}
+],
+"txt": [
+{
+"text": "¿SE LO QUITÓ A OTRO?",
+"card": false,
+"size": "mediano",
+"acc": "QUITÓ",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 48.7
+},
+{
+"n": 17,
+"start": 48.7,
+"tipo": "FOTO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_017_a.jpg",
+"k": 0,
+"ar": 1.5
+},
+{
+"t": "f",
+"src": "riqueza/fotos/foto_017_b.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "2 TIPOS DE RICOS",
+"card": true,
+"size": "mediano",
+"acc": "2 TIPOS",
+"red": false
+}
+],
+"fx": [
+"split"
+],
+"hit": false,
+"end": 52.24
+},
+{
+"n": 18,
+"start": 52.24,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_018.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "SE APROVECHAN",
+"card": false,
+"size": "grande",
+"acc": "APROVECHAN",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 53.86
+},
+{
+"n": 19,
+"start": 53.86,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_019.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "LA HACEN AVANZAR",
+"card": false,
+"size": "grande",
+"acc": "AVANZAR",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 57.12
+},
+{
+"n": 20,
+"start": 57.12,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_020.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "IDÉNTICOS",
+"card": false,
+"size": "mediano",
+"acc": "IDÉNTICOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 59.44
+},
+{
+"n": 21,
+"start": 59.44,
+"tipo": "FOTO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_021.jpg",
+"k": 0,
+"ar": 1.365
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 63.28
+},
+{
+"n": 22,
+"start": 63.28,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "🔍"
+}
+],
+"txt": [
+{
+"text": "LA PRUEBA",
+"card": true,
+"size": "mediano",
+"acc": "PRUEBA",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "🔍"
+},
+"end": 66.8
+},
+{
+"n": 23,
+"start": 66.8,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "🔍"
+},
+{
+"e": "🎩"
+}
+],
+"txt": [
+{
+"text": "¿DE QUÉ TIPO ES?",
+"card": false,
+"size": "mediano",
+"acc": "TIPO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "🔍"
+},
+"end": 71.2
+},
+{
+"n": 24,
+"start": 71.2,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "⚖️"
+}
+],
+"txt": [
+{
+"text": "INCOMODA A LOS DOS BANDOS",
+"card": true,
+"size": "mediano",
+"acc": "DOS BANDOS",
+"red": false
+}
+],
+"fx": [
+"tilt"
+],
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "happy"
+},
+"end": 78.87
+},
+{
+"n": 25,
+"start": 78.87,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🧪"
+}
+],
+"txt": [
+{
+"text": "EXPERIMENTO",
+"card": true,
+"size": "chico",
+"acc": "EXPERIMENTO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "🧪"
+},
+"end": 81.29
+},
+{
+"n": 26,
+"start": 81.29,
+"tipo": "FOTO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_026.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 84.55
+},
+{
+"n": 27,
+"start": 84.55,
+"tipo": "FOTO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_027.jpg",
+"k": 0,
+"ar": 1.333
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "1990",
+"card": true,
+"size": "grande",
+"acc": "1990",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 89.91
+},
+{
+"n": 28,
+"start": 89.91,
+"tipo": "FOTO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_028.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 92.61
+},
+{
+"n": 29,
+"start": 92.61,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_029.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "LARGA DISTANCIA",
+"card": false,
+"size": "mediano",
+"acc": "LARGA",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 93.99
+},
+{
+"n": 30,
+"start": 93.99,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "⏰"
+},
+{
+"e": "🪙"
+}
+],
+"txt": [
+{
+"text": "$$$ POR MINUTO",
+"card": false,
+"size": "mediano",
+"acc": "$$$",
+"red": true
+}
+],
+"fx": [
+"drop"
+],
+"hit": false,
+"end": 95.27
+},
+{
+"n": 31,
+"start": 95.27,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "⏰"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "phone",
+"mood": "worried",
+"sweat": true
+},
+"end": 100.37
+},
+{
+"n": 32,
+"start": 100.37,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_032.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 101.93
+},
+{
+"n": 33,
+"start": 101.93,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🌎"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 104.29
+},
+{
+"n": 34,
+"start": 104.29,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "📅"
+}
+],
+"txt": [
+{
+"text": "MESES… O AÑOS",
+"card": false,
+"size": "mediano",
+"acc": "AÑOS",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"person": {
+"pose": "sit"
+},
+"end": 106.67
+},
+{
+"n": 35,
+"start": 106.67,
+"tipo": "FOTO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_035.jpg",
+"k": 0,
+"ar": 1.614
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 110.39
+},
+{
+"n": 36,
+"start": 110.39,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_036.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 112.43
+},
+{
+"n": 37,
+"start": 112.43,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_037.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 115.67
+},
+{
+"n": 38,
+"start": 115.67,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "❓"
+}
+],
+"txt": [
+{
+"text": "¿CUÁNTO? ¿QUIÉN?",
+"card": false,
+"size": "mediano",
+"acc": "¿QUIÉN?",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 118.61
+},
+{
+"n": 39,
+"start": 118.61,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🏷️"
+}
+],
+"txt": [],
+"fx": [
+"rise"
+],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 122.05
+},
+{
+"n": 40,
+"start": 122.05,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_040.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "HOY",
+"card": true,
+"size": "chico",
+"acc": "HOY",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 124.01
+},
+{
+"n": 41,
+"start": 124.01,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_010.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 127.05
+},
+{
+"n": 42,
+"start": 127.05,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🌐"
+},
+{
+"e": "💬"
+},
+{
+"e": "📹"
+}
+],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 131.85
+},
+{
+"n": 43,
+"start": 131.85,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_043.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 133.81
+},
+{
+"n": 44,
+"start": 133.81,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🏷️"
+},
+{
+"e": "✅"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 135.97
+},
+{
+"n": 45,
+"start": 135.97,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_045.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 137.39
+},
+{
+"n": 46,
+"start": 137.39,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"svg": "estrellas"
+}
+],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 140.97
+},
+{
+"n": 47,
+"start": 140.97,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "MISMO SUELDO",
+"card": true,
+"size": "mediano",
+"acc": "SUELDO",
+"red": false
+},
+{
+"text": "OTRA VIDA",
+"card": true,
+"size": "mediano",
+"acc": "OTRA VIDA",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 144.11
+},
+{
+"n": 48,
+"start": 144.11,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "LA TRAMPA",
+"card": false,
+"size": "grande",
+"acc": "TRAMPA",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug",
+"mood": "worried"
+},
+"end": 145.75
+},
+{
+"n": 49,
+"start": 145.75,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_049.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 148.07
+},
+{
+"n": 50,
+"start": 148.07,
+"tipo": "FOTO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_050.jpg",
+"k": 0,
+"ar": 1.503
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "SOLO UN PAPEL",
+"card": false,
+"size": "mediano",
+"acc": "PAPEL",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 151.41
+},
+{
+"n": 51,
+"start": 151.41,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_051.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 154.47
+},
+{
+"n": 52,
+"start": 154.47,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "👑"
+}
+],
+"txt": [
+{
+"text": "MÁS RICO",
+"card": false,
+"size": "grande",
+"acc": "RICO",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"person": {
+"pose": "hips",
+"mood": "happy"
+},
+"end": 158.63
+},
+{
+"n": 53,
+"start": 158.63,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 159.67
+},
+{
+"n": 54,
+"start": 159.67,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🏢"
+},
+{
+"svg": "aureola"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 161.91
+},
+{
+"n": 55,
+"start": 161.91,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🏢"
+},
+{
+"svg": "aureola"
+}
+],
+"txt": [],
+"fx": [
+"drop"
+],
+"hit": false,
+"end": 163.25
+},
+{
+"n": 56,
+"start": 163.25,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_056.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "COMPETENCIA",
+"card": false,
+"size": "grande",
+"acc": "COMPETENCIA",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 166.77
+},
+{
+"n": 57,
+"start": 166.77,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🏢"
+},
+{
+"e": "🏷️"
+}
+],
+"txt": [
+{
+"text": "COBRA DE MÁS",
+"card": false,
+"size": "mediano",
+"acc": "DE MÁS",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 168.77
+},
+{
+"n": 58,
+"start": 168.77,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🏢"
+},
+{
+"e": "🏭"
+}
+],
+"txt": [
+{
+"text": "MÁS BARATO Y MEJOR",
+"card": false,
+"size": "mediano",
+"acc": "MEJOR",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 172.99
+},
+{
+"n": 59,
+"start": 172.99,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🎁"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "worried",
+"hold": "🎁"
+},
+"end": 174.63
+},
+{
+"n": 60,
+"start": 174.63,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_060.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "POR TI",
+"card": false,
+"size": "grande",
+"acc": "POR TI",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 176.69
+},
+{
+"n": 61,
+"start": 176.69,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"svg": "villano"
+}
+],
+"txt": [
+{
+"text": "EL VILLANO",
+"card": false,
+"size": "grande",
+"acc": "VILLANO",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug",
+"mood": "worried"
+},
+"end": 182.41
+},
+{
+"n": 62,
+"start": 182.41,
+"tipo": "FOTO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_028.jpg",
+"k": 1,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 188.91
+},
+{
+"n": 63,
+"start": 188.91,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_063.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 191.19
+},
+{
+"n": 64,
+"start": 191.19,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "🏢"
+},
+{
+"e": "👑"
+}
+],
+"txt": [
+{
+"text": "UNA SOLA COMPAÑÍA",
+"card": true,
+"size": "mediano",
+"acc": "UNA SOLA",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 195.73
+},
+{
+"n": 65,
+"start": 195.73,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "1",
+"card": false,
+"size": "grande",
+"acc": "1",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 199.65
+},
+{
+"n": 66,
+"start": 199.65,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_066.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 201.31
+},
+{
+"n": 67,
+"start": 201.31,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"svg": "sin_senal"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand"
+},
+"end": 204.41
+},
+{
+"n": 68,
+"start": 204.41,
+"tipo": "FOTO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_017_a.jpg",
+"k": 1,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "TIPO 1",
+"card": true,
+"size": "mediano",
+"acc": "1",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 206.85
+},
+{
+"n": 69,
+"start": 206.85,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_069.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "NADIE MÁS PUEDE JUGAR",
+"card": false,
+"size": "mediano",
+"acc": "NADIE",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 212.23
+},
+{
+"n": 70,
+"start": 212.23,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "📜"
+},
+{
+"e": "🤝"
+},
+{
+"e": "🔨"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 217.43
+},
+{
+"n": 71,
+"start": 217.43,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "🏷️"
+}
+],
+"txt": [
+{
+"text": "LO QUE QUIERE",
+"card": false,
+"size": "mediano",
+"acc": "QUIERE",
+"red": true
+}
+],
+"fx": [
+"rise"
+],
+"hit": false,
+"end": 220.41
+},
+{
+"n": 72,
+"start": 220.41,
+"tipo": "FOTO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_017_b.jpg",
+"k": 1,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "TIPO 2",
+"card": true,
+"size": "mediano",
+"acc": "2",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 225.31
+},
+{
+"n": 73,
+"start": 225.31,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "⬇️"
+},
+{
+"svg": "estrellas"
+},
+{
+"e": "🧲"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 228.15
+},
+{
+"n": 74,
+"start": 228.15,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_013.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "MUY RICO",
+"card": false,
+"size": "grande",
+"acc": "MUY",
+"red": false
+}
+],
+"fx": [
+"drop"
+],
+"hit": true,
+"end": 232.79
+},
+{
+"n": 75,
+"start": 232.79,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "worried",
+"sweat": true
+},
+"end": 235.99
+},
+{
+"n": 76,
+"start": 235.99,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "⚖️"
+}
+],
+"txt": [
+{
+"text": "¿BUENOS O MALOS?",
+"card": false,
+"size": "mediano",
+"acc": "BUENOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 239.45
+},
+{
+"n": 77,
+"start": 239.45,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "⚖️"
+},
+{
+"e": "❌"
+}
+],
+"txt": [
+{
+"text": "PREGUNTA EQUIVOCADA",
+"card": true,
+"size": "mediano",
+"acc": "EQUIVOCADA",
+"red": true
+}
+],
+"fx": [
+"cross"
+],
+"hit": true,
+"end": 241.01
+},
+{
+"n": 78,
+"start": 241.01,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_078.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 244.05
+},
+{
+"n": 79,
+"start": 244.05,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 246.31
+},
+{
+"n": 80,
+"start": 246.31,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_049.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 249.41
+},
+{
+"n": 81,
+"start": 249.41,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "¿CÓMO LO CONSIGUIÓ?",
+"card": true,
+"size": "grande",
+"acc": "CÓMO",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 251.49
+},
+{
+"n": 82,
+"start": 251.49,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "📔"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "📔"
+},
+"end": 254.07
+},
+{
+"n": 83,
+"start": 254.07,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "📔"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 257.37
+},
+{
+"n": 84,
+"start": 257.37,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"svg": "silueta_1900"
+}
+],
+"txt": [
+{
+"text": "LOS DOS A LA VEZ",
+"card": false,
+"size": "mediano",
+"acc": "DOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 260.2
+},
+{
+"n": 85,
+"start": 260.2,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_085.jpg",
+"k": 0,
+"ar": 1.416
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "ESCOCIA, 1848",
+"card": true,
+"size": "mediano",
+"acc": "1848",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 263.36
+},
+{
+"n": 86,
+"start": 263.36,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_086.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 268.48
+},
+{
+"n": 87,
+"start": 268.48,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"svg": "silueta_nino"
+}
+],
+"txt": [
+{
+"text": "ANDREW CARNEGIE",
+"card": true,
+"size": "mediano",
+"acc": "CARNEGIE",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 273.24
+},
+{
+"n": 88,
+"start": 273.24,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_088.jpg",
+"k": 0,
+"ar": 1.493
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 276.03
+},
+{
+"n": 89,
+"start": 276.03,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "⏰"
+}
+],
+"txt": [
+{
+"text": "12 HORAS DIARIAS",
+"card": false,
+"size": "mediano",
+"acc": "12 HORAS",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 277.76
+},
+{
+"n": 90,
+"start": 277.76,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🪙"
+}
+],
+"txt": [
+{
+"text": "$1.20 A LA SEMANA",
+"card": false,
+"size": "mediano",
+"acc": "$1.20",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 280.24
+},
+{
+"n": 91,
+"start": 280.24,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_091.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 284.06
+},
+{
+"n": 92,
+"start": 284.06,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🧠"
+},
+{
+"e": "🐷"
+},
+{
+"e": "🌱"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 286.84
+},
+{
+"n": 93,
+"start": 286.84,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_093.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "40 AÑOS DESPUÉS",
+"card": false,
+"size": "chico",
+"acc": "40 AÑOS",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 292.86
+},
+{
+"n": 94,
+"start": 292.86,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_094.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 295.28
+},
+{
+"n": 95,
+"start": 295.28,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_095_a.mp4",
+"off": 0.4
+},
+{
+"t": "v",
+"src": "riqueza/videos/escena_095_b.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 297.58
+},
+{
+"n": 96,
+"start": 297.58,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_096.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 301.66
+},
+{
+"n": 97,
+"start": 301.66,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "💼"
+}
+],
+"txt": [
+{
+"text": "BENEFICIO DIRECTO: EMPLEO",
+"card": true,
+"size": "mediano",
+"acc": "EMPLEO",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 306.12
+},
+{
+"n": 98,
+"start": 306.12,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_098.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 308.46
+},
+{
+"n": 99,
+"start": 308.46,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_017_b.jpg",
+"k": 2,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 311.88
+},
+{
+"n": 100,
+"start": 311.88,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_100.mp4",
+"off": 4.0,
+"rate": 1.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 314.44
+},
+{
+"n": 101,
+"start": 314.44,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_101.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 317.38
+},
+{
+"n": 102,
+"start": 317.38,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🏠"
+},
+{
+"e": "🏫"
+},
+{
+"e": "🩺"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 319.86
+},
+{
+"n": 103,
+"start": 319.86,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"svg": "silueta_1900"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 322.12
+},
+{
+"n": 104,
+"start": 322.12,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🎁"
+},
+{
+"e": "💵"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 327.04
+},
+{
+"n": 105,
+"start": 327.04,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "90 %",
+"card": false,
+"size": "grande",
+"acc": "90 %",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 329.1
+},
+{
+"n": 106,
+"start": 329.1,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_106.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "+2,500 BIBLIOTECAS",
+"card": false,
+"size": "mediano",
+"acc": "+2,500",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 335.2
+},
+{
+"n": 107,
+"start": 335.2,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🎓"
+},
+{
+"e": "🔬"
+},
+{
+"e": "🕊️"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 339.84
+},
+{
+"n": 108,
+"start": 339.84,
+"tipo": "2D",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "handup"
+},
+"end": 341.16
+},
+{
+"n": 109,
+"start": 341.16,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🎓"
+},
+{
+"e": "🏥"
+},
+{
+"e": "🫶"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 345.38
+},
+{
+"n": 110,
+"start": 345.38,
+"tipo": "2D",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "phone",
+"mood": "blank"
+},
+"end": 347.4
+},
+{
+"n": 111,
+"start": 347.4,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_111.mp4",
+"off": 0.0,
+"rate": 0.6
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 351.36
+},
+{
+"n": 112,
+"start": 351.36,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"svg": "silueta_1900"
+},
+{
+"svg": "aureola"
+}
+],
+"txt": [
+{
+"text": "¿EL RICO PERFECTO?",
+"card": false,
+"size": "mediano",
+"acc": "PERFECTO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 354.56
+},
+{
+"n": 113,
+"start": 354.56,
+"tipo": "2D",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [
+"dark"
+],
+"hit": false,
+"person": {
+"pose": "handup"
+},
+"end": 356.12
+},
+{
+"n": 114,
+"start": 356.12,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_114.jpg",
+"k": 0,
+"ar": 2.012
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "1892",
+"card": true,
+"size": "chico",
+"acc": "1892",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 359.46
+},
+{
+"n": 115,
+"start": 359.46,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "✂️"
+}
+],
+"txt": [
+{
+"text": "RECORTE DE SUELDO",
+"card": false,
+"size": "mediano",
+"acc": "RECORTE",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 362.8
+},
+{
+"n": 116,
+"start": 362.8,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_069.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 364.08
+},
+{
+"n": 117,
+"start": 364.08,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"svg": "guardias"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 367.42
+},
+{
+"n": 118,
+"start": 367.42,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_118.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 370.76
+},
+{
+"n": 119,
+"start": 370.76,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "MUEREN TRABAJADORES",
+"card": false,
+"size": "mediano",
+"acc": "MUEREN",
+"red": true
+},
+{
+"text": "Y GUARDIAS",
+"card": false,
+"size": "mediano",
+"acc": "GUARDIAS",
+"red": true
+}
+],
+"fx": [
+"dark"
+],
+"hit": true,
+"end": 374.34
+},
+{
+"n": 120,
+"start": 374.34,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_085.jpg",
+"k": 1,
+"ar": 1.416
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 377.18
+},
+{
+"n": 121,
+"start": 377.18,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"svg": "silueta_1900"
+}
+],
+"txt": [
+{
+"text": "NO HIZO NADA",
+"card": false,
+"size": "mediano",
+"acc": "NADA",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 381.92
+},
+{
+"n": 122,
+"start": 381.92,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_106.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 384.88
+},
+{
+"n": 123,
+"start": 384.88,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_118.mp4",
+"off": 3.53
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 389.08
+},
+{
+"n": 124,
+"start": 389.08,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "⚖️"
+}
+],
+"txt": [
+{
+"text": "¿SUMA O SE APROVECHA?",
+"card": false,
+"size": "mediano",
+"acc": "SUMA",
+"red": false
+}
+],
+"fx": [
+"tilt"
+],
+"hit": false,
+"end": 394.94
+},
+{
+"n": 125,
+"start": 394.94,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "LOS DOS",
+"card": true,
+"size": "grande",
+"acc": "DOS",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 396.48
+},
+{
+"n": 126,
+"start": 396.48,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🎁"
+},
+{
+"e": "❌"
+}
+],
+"txt": [
+{
+"text": "NO POR LO QUE REGALA",
+"card": false,
+"size": "mediano",
+"acc": "REGALA",
+"red": true
+}
+],
+"fx": [
+"cross"
+],
+"hit": false,
+"end": 399.72
+},
+{
+"n": 127,
+"start": 399.72,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_018.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "POR CÓMO GANA",
+"card": false,
+"size": "mediano",
+"acc": "CÓMO GANA",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 402.42
+},
+{
+"n": 128,
+"start": 402.42,
+"tipo": "2D",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🔍"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "🔍"
+},
+"end": 407.1
+},
+{
+"n": 129,
+"start": 407.1,
+"tipo": "2D",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "INVISIBLES",
+"card": false,
+"size": "grande",
+"acc": "INVISIBLES",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "🔍"
+},
+"end": 409.1
+},
+{
+"n": 130,
+"start": 409.1,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_130.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 413.35
+},
+{
+"n": 131,
+"start": 413.35,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "💼"
+},
+{
+"e": "🎁"
+}
+],
+"txt": [
+{
+"text": "DIRECTOS",
+"card": true,
+"size": "chico",
+"acc": "DIRECTOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 418.07
+},
+{
+"n": 132,
+"start": 418.07,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "INDIRECTOS",
+"card": true,
+"size": "mediano",
+"acc": "INDIRECTOS",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 424.19
+},
+{
+"n": 133,
+"start": 424.19,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "💡"
+}
+],
+"txt": [
+{
+"text": "1. INNOVACIÓN",
+"card": true,
+"size": "mediano",
+"acc": "INNOVACIÓN",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 426.33
+},
+{
+"n": 134,
+"start": 426.33,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_134.jpg",
+"k": 0,
+"ar": 1.778
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "1928",
+"card": true,
+"size": "chico",
+"acc": "1928",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 431.43
+},
+{
+"n": 135,
+"start": 431.43,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "handup",
+"mood": "happy"
+},
+"end": 432.77
+},
+{
+"n": 136,
+"start": 432.77,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "📅"
+}
+],
+"txt": [
+{
+"text": "+10 AÑOS",
+"card": false,
+"size": "mediano",
+"acc": "+10 AÑOS",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 436.89
+},
+{
+"n": 137,
+"start": 436.89,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug"
+},
+"end": 437.93
+},
+{
+"n": 138,
+"start": 437.93,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_138.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 441.97
+},
+{
+"n": 139,
+"start": 441.97,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_139.jpg",
+"k": 0,
+"ar": 1.334
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "1942",
+"card": true,
+"size": "chico",
+"acc": "1942",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 448.17
+},
+{
+"n": 140,
+"start": 448.17,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "💊"
+}
+],
+"txt": [
+{
+"text": "LA MITAD DEL PAÍS",
+"card": false,
+"size": "mediano",
+"acc": "LA MITAD",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 454.73
+},
+{
+"n": 141,
+"start": 454.73,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_056.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 457.45
+},
+{
+"n": 142,
+"start": 457.45,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_142.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 462.13
+},
+{
+"n": 143,
+"start": 462.13,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_143.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 466.11
+},
+{
+"n": 144,
+"start": 466.11,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_134.jpg",
+"k": 1,
+"ar": 1.778
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 468.89
+},
+{
+"n": 145,
+"start": 468.89,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_145.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 475.59
+},
+{
+"n": 146,
+"start": 475.59,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "📱"
+},
+{
+"e": "🌐"
+},
+{
+"e": "💊"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 479.65
+},
+{
+"n": 147,
+"start": 479.65,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "🧾"
+}
+],
+"txt": [
+{
+"text": "2. IMPUESTOS",
+"card": true,
+"size": "mediano",
+"acc": "IMPUESTOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 482.15
+},
+{
+"n": 148,
+"start": 482.15,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_148.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 483.95
+},
+{
+"n": 149,
+"start": 483.95,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "🏥"
+},
+{
+"e": "🏫"
+},
+{
+"svg": "poste_luz"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 487.83
+},
+{
+"n": 150,
+"start": 487.83,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_017_b.jpg",
+"k": 3,
+"ar": 1.5
+}
+],
+"icons": [
+{
+"e": "🧾"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 492.41
+},
+{
+"n": 151,
+"start": 492.41,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "happy"
+},
+"end": 496.09
+},
+{
+"n": 152,
+"start": 496.09,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_152.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "LO MENOS POSIBLE",
+"card": false,
+"size": "mediano",
+"acc": "MENOS",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 500.87
+},
+{
+"n": 153,
+"start": 500.87,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_017_a.jpg",
+"k": 2,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "¿TIPO 1 O 2?",
+"card": false,
+"size": "mediano",
+"acc": "¿TIPO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 503.69
+},
+{
+"n": 154,
+"start": 503.69,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 509.29
+},
+{
+"n": 155,
+"start": 509.29,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_020.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 511.99
+},
+{
+"n": 156,
+"start": 511.99,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "👑"
+},
+{
+"e": "🏰"
+}
+],
+"txt": [
+{
+"text": "ÉL SOLITO",
+"card": false,
+"size": "mediano",
+"acc": "SOLITO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 515.45
+},
+{
+"n": 157,
+"start": 515.45,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "MENTIRA",
+"card": false,
+"size": "grande",
+"acc": "MENTIRA",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 516.95
+},
+{
+"n": 158,
+"start": 516.95,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "MEDIA VERDAD",
+"card": true,
+"size": "mediano",
+"acc": "MEDIA",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand"
+},
+"end": 519.75
+},
+{
+"n": 159,
+"start": 519.75,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "🎲"
+},
+{
+"e": "🌱"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 523.21
+},
+{
+"n": 160,
+"start": 523.21,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "📉"
+}
+],
+"txt": [],
+"fx": [
+"drop"
+],
+"hit": false,
+"end": 525.03
+},
+{
+"n": 161,
+"start": 525.03,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 527.37
+},
+{
+"n": 162,
+"start": 527.37,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "❓"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 529.47
+},
+{
+"n": 163,
+"start": 529.47,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_163.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 530.69
+},
+{
+"n": 164,
+"start": 530.69,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_164.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 531.91
+},
+{
+"n": 165,
+"start": 531.91,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_165.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 533.47
+},
+{
+"n": 166,
+"start": 533.47,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_166.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 534.79
+},
+{
+"n": 167,
+"start": 534.79,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_167.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 537.27
+},
+{
+"n": 168,
+"start": 537.27,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_168.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "UN EDIFICIO VACÍO",
+"card": false,
+"size": "mediano",
+"acc": "VACÍO",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 543.21
+},
+{
+"n": 169,
+"start": 543.21,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "✋"
+},
+{
+"e": "💡"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 545.11
+},
+{
+"n": 170,
+"start": 545.11,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_170.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 547.59
+},
+{
+"n": 171,
+"start": 547.59,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_171.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 551.21
+},
+{
+"n": 172,
+"start": 551.21,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "NO FUE EL DUEÑO",
+"card": false,
+"size": "mediano",
+"acc": "DUEÑO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 553.85
+},
+{
+"n": 173,
+"start": 553.85,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "👥"
+}
+],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 556.17
+},
+{
+"n": 174,
+"start": 556.17,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_138.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 560.69
+},
+{
+"n": 175,
+"start": 560.69,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_175.jpg",
+"k": 0,
+"ar": 1.385
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 566.15
+},
+{
+"n": 176,
+"start": 566.15,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_171.jpg",
+"k": 1,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "DE UN ERROR",
+"card": false,
+"size": "mediano",
+"acc": "ERROR",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 573.09
+},
+{
+"n": 177,
+"start": 573.09,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "EL GIRO",
+"card": false,
+"size": "grande",
+"acc": "GIRO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 575.01
+},
+{
+"n": 178,
+"start": 575.01,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_178.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "1914",
+"card": true,
+"size": "chico",
+"acc": "1914",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 581.49
+},
+{
+"n": 179,
+"start": 581.49,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "🪙"
+}
+],
+"txt": [
+{
+"text": "SUELDO ×2",
+"card": false,
+"size": "grande",
+"acc": "×2",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 584.13
+},
+{
+"n": 180,
+"start": 584.13,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "📉"
+}
+],
+"txt": [],
+"fx": [
+"drop"
+],
+"hit": false,
+"end": 586.13
+},
+{
+"n": 181,
+"start": 586.13,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 587.15
+},
+{
+"n": 182,
+"start": 587.15,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_182.jpg",
+"k": 0,
+"ar": 1.776
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 590.65
+},
+{
+"n": 183,
+"start": 590.65,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_178.jpg",
+"k": 1,
+"ar": 1.5
+}
+],
+"icons": [
+{
+"e": "🔑"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 595.79
+},
+{
+"n": 184,
+"start": 595.79,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_013.mp4",
+"off": 11.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [
+"drop"
+],
+"hit": true,
+"end": 598.95
+},
+{
+"n": 185,
+"start": 598.95,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "NO FUE CARIDAD",
+"card": true,
+"size": "mediano",
+"acc": "CARIDAD",
+"red": true
+},
+{
+"text": "FUE BUEN NEGOCIO",
+"card": true,
+"size": "mediano",
+"acc": "BUEN NEGOCIO",
+"red": false
+}
+],
+"fx": [
+"cross"
+],
+"hit": true,
+"end": 603.87
+},
+{
+"n": 186,
+"start": 603.87,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_186.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "ESFUERZO COMPARTIDO",
+"card": false,
+"size": "mediano",
+"acc": "COMPARTIDO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 606.85
+},
+{
+"n": 187,
+"start": 606.85,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "🎲"
+},
+{
+"e": "✋"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 611.65
+},
+{
+"n": 188,
+"start": 611.65,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "🧩"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 614.19
+},
+{
+"n": 189,
+"start": 614.19,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "🌍"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "happy",
+"hold": "🌍"
+},
+"end": 619.94
+},
+{
+"n": 190,
+"start": 619.94,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "💥"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug",
+"mood": "worried"
+},
+"end": 622.72
+},
+{
+"n": 191,
+"start": 622.72,
+"tipo": "FOTO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_191.jpg",
+"k": 0,
+"ar": 1.5
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "COREA DEL SUR",
+"card": true,
+"size": "mediano",
+"acc": "COREA",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 628.12
+},
+{
+"n": 192,
+"start": 628.12,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "🏜️"
+},
+{
+"e": "🛢️"
+},
+{
+"e": "❌"
+}
+],
+"txt": [],
+"fx": [
+"cross"
+],
+"hit": false,
+"end": 633.7
+},
+{
+"n": 193,
+"start": 633.7,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_193.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 637.22
+},
+{
+"n": 194,
+"start": 637.22,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "🔍"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "🔍"
+},
+"end": 639.0
+},
+{
+"n": 195,
+"start": 639.0,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_195.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 643.08
+},
+{
+"n": 196,
+"start": 643.08,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "📱"
+},
+{
+"e": "🚗"
+},
+{
+"e": "🚢"
+},
+{
+"e": "📺"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 647.22
+},
+{
+"n": 197,
+"start": 647.22,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "TRABAJA · CREA · VENDE AL MUNDO",
+"card": true,
+"size": "grande",
+"acc": "VENDE AL MUNDO",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 652.26
+},
+{
+"n": 198,
+"start": 652.26,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_198.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 656.52
+},
+{
+"n": 199,
+"start": 656.52,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_096.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 659.6
+},
+{
+"n": 200,
+"start": 659.6,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "happy"
+},
+"end": 661.68
+},
+{
+"n": 201,
+"start": 661.68,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_201.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "+500,000 FAMILIAS",
+"card": false,
+"size": "mediano",
+"acc": "+500,000",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 667.48
+},
+{
+"n": 202,
+"start": 667.48,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "🗺️"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 671.66
+},
+{
+"n": 203,
+"start": 671.66,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_201.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "RIQUEZA DESDE ABAJO",
+"card": false,
+"size": "mediano",
+"acc": "DESDE ABAJO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 674.84
+},
+{
+"n": 204,
+"start": 674.84,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "blank"
+},
+"end": 677.08
+},
+{
+"n": 205,
+"start": 677.08,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"svg": "pastel_injusto"
+}
+],
+"txt": [
+{
+"text": "UNOS POCOS",
+"card": false,
+"size": "mediano",
+"acc": "POCOS",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 682.78
+},
+{
+"n": 206,
+"start": 682.78,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_101.mp4",
+"off": 6.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 686.76
+},
+{
+"n": 207,
+"start": 686.76,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "🍽️"
+},
+{
+"e": "🏫"
+},
+{
+"e": "🩺"
+},
+{
+"e": "🚌"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 691.08
+},
+{
+"n": 208,
+"start": 691.08,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 692.36
+},
+{
+"n": 209,
+"start": 692.36,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "🔺"
+}
+],
+"txt": [
+{
+"text": "NO DESDE ARRIBA",
+"card": false,
+"size": "mediano",
+"acc": "ARRIBA",
+"red": true
+}
+],
+"fx": [
+"tilt"
+],
+"hit": false,
+"end": 696.76
+},
+{
+"n": 210,
+"start": 696.76,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_210.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 700.16
+},
+{
+"n": 211,
+"start": 700.16,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_211.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 702.46
+},
+{
+"n": 212,
+"start": 702.46,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "🚌"
+},
+{
+"e": "⚡"
+},
+{
+"e": "🌐"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 707.68
+},
+{
+"n": 213,
+"start": 707.68,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 711.55
+},
+{
+"n": 214,
+"start": 711.55,
+"tipo": "FOTO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "f",
+"src": "riqueza/fotos/foto_003.jpg",
+"k": 3,
+"ar": 0.686
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 715.13
+},
+{
+"n": 215,
+"start": 715.13,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "LA PRUEBA DE UNA PREGUNTA",
+"card": true,
+"size": "mediano",
+"acc": "UNA PREGUNTA",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 716.89
+},
+{
+"n": 216,
+"start": 716.89,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_020.mp4",
+"off": 11.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 720.73
+},
+{
+"n": 217,
+"start": 720.73,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "🔍"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"hold": "🔍"
+},
+"end": 722.79
+},
+{
+"n": 218,
+"start": 722.79,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "¿MEJORÓ LA VIDA DE OTROS…",
+"card": true,
+"size": "mediano",
+"acc": "MEJORÓ",
+"red": false
+},
+{
+"text": "…O LES QUITÓ OPCIONES?",
+"card": true,
+"size": "mediano",
+"acc": "QUITÓ",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 728.29
+},
+{
+"n": 219,
+"start": 728.29,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_010.mp4",
+"off": 5.73
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 732.13
+},
+{
+"n": 220,
+"start": 732.13,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"svg": "estrellas"
+},
+{
+"e": "💼"
+},
+{
+"e": "🧾"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 735.95
+},
+{
+"n": 221,
+"start": 735.95,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "👑"
+}
+],
+"txt": [
+{
+"text": "TE HACE MÁS RICO",
+"card": false,
+"size": "mediano",
+"acc": "MÁS RICO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "happy"
+},
+"end": 740.37
+},
+{
+"n": 222,
+"start": 740.37,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_069.mp4",
+"off": 6.24
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 742.83
+},
+{
+"n": 223,
+"start": 742.83,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "🤝"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 745.11
+},
+{
+"n": 224,
+"start": 745.11,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "🍋"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 748.17
+},
+{
+"n": 225,
+"start": 748.17,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_018.mp4",
+"off": 11.0
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "TE HACE MÁS POBRE",
+"card": false,
+"size": "mediano",
+"acc": "MÁS POBRE",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 752.59
+},
+{
+"n": 226,
+"start": 752.59,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "⚖️"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 755.45
+},
+{
+"n": 227,
+"start": 755.45,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"svg": "villano"
+},
+{
+"svg": "aureola"
+}
+],
+"txt": [
+{
+"text": "NI VILLANOS NI HÉROES",
+"card": true,
+"size": "mediano",
+"acc": "HÉROES",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 759.77
+},
+{
+"n": 228,
+"start": 759.77,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_228.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "ES UN JUEGO",
+"card": false,
+"size": "grande",
+"acc": "JUEGO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 762.17
+},
+{
+"n": 229,
+"start": 762.17,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_229.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "PIERDES",
+"card": false,
+"size": "grande",
+"acc": "PIERDES",
+"red": true
+}
+],
+"fx": [
+"drop"
+],
+"hit": true,
+"end": 765.21
+},
+{
+"n": 230,
+"start": 765.21,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "💡"
+},
+{
+"e": "🛠️"
+},
+{
+"e": "🗺️"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 769.97
+},
+{
+"n": 231,
+"start": 769.97,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_096.mp4",
+"off": 11.0
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 774.53
+},
+{
+"n": 232,
+"start": 774.53,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_163.mp4",
+"off": 5.53
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "SIN EMPLEADOS NO HAY EMPRESAS",
+"card": false,
+"size": "mediano",
+"acc": "EMPRESAS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 776.87
+},
+{
+"n": 233,
+"start": 776.87,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_186.mp4",
+"off": 4.09
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "SIN TRABAJADORES NO HAY PROGRESO",
+"card": false,
+"size": "mediano",
+"acc": "PROGRESO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 779.81
+},
+{
+"n": 234,
+"start": 779.81,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 7",
+"media": [
+{
+"t": "v",
+"src": "riqueza/videos/escena_234.mp4",
+"off": 0.4
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 783.21
+},
+{
+"n": 235,
+"start": 783.21,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"svg": "pastel_parejo"
+}
+],
+"txt": [
+{
+"text": "SE REPARTE MEJOR",
+"card": false,
+"size": "mediano",
+"acc": "MEJOR",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 785.29
+},
+{
+"n": 236,
+"start": 785.29,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "happy"
+},
+"end": 787.51
+},
+{
+"n": 237,
+"start": 787.51,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "⚖️"
+}
+],
+"txt": [
+{
+"text": "¿ES JUSTO EN TU PAÍS?",
+"card": true,
+"size": "mediano",
+"acc": "JUSTO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 791.05
+},
+{
+"n": 238,
+"start": 791.05,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "🗨️"
+}
+],
+"txt": [
+{
+"text": "TE LEO EN LOS COMENTARIOS",
+"card": false,
+"size": "mediano",
+"acc": "COMENTARIOS",
+"red": false
+}
+],
+"fx": [
+"drop"
+],
+"hit": false,
+"person": {
+"pose": "phone",
+"mood": "happy"
+},
+"end": 794.33
+},
+{
+"n": 239,
+"start": 794.33,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "👍"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "phone",
+"mood": "happy"
+},
+"end": 798.61
+},
+{
+"n": 240,
+"start": 798.61,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "↗️"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand"
+},
+"end": 802.01
+},
+{
+"n": 241,
+"start": 802.01,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "🔔"
+}
+],
+"txt": [
+{
+"text": "SUSCRÍBETE",
+"card": true,
+"size": "chico",
+"acc": "SUSCRÍBETE",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "happy",
+"hold": "🔔"
+},
+"end": 803.61
+},
+{
+"n": 242,
+"start": 803.61,
+"tipo": "2D",
+"sec": "SECCIÓN 7",
+"media": [],
+"icons": [
+{
+"e": "👍"
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "wave",
+"mood": "happy"
+},
+"end": 819.62,
+"endscreen": true
+}
+]
+}
