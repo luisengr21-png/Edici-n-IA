@@ -12,7 +12,8 @@
 
 - El largo dura 13:40: 13:28 de narración más 12 s de pantalla final, con el lado derecho libre para los elementos de YouTube.
 - Los capítulos, con sus tiempos reales, ya están en `../05_titulos_y_descripcion.md`.
-- **Calidad del largo:** para que entre en GitHub (límite de 100 MB), el archivo pesa unos 90 MB. Como este video es más largo y casi todo es video real, la compresión se nota un poco más que en los anteriores. Si quieres la versión en calidad alta (unos 350 MB), dime por dónde te la paso.
+- **Volumen:** el largo quedó en −13.7 LUFS y los shorts entre −13.7 y −13.9, con picos por debajo de −2 dB.
+- **Calidad del largo:** para que entre en GitHub (límite de 100 MB), el archivo pesa 86 MB. Como este video es más largo y casi todo es video real, la compresión se nota un poco más que en los anteriores. Si quieres la versión en calidad alta (unos 350 MB), dime por dónde te la paso.
 
 ## Shorts: título, descripción y miniatura
 
