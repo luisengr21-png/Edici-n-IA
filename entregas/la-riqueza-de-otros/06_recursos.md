@@ -49,7 +49,7 @@ Desde este video, **todos los recursos visuales los pones tú** (regla del canal
 | ☐ | `escena_095_a.mp4` | Tren de carga avanzando sobre las vías | 95 | `freight train tracks` |
 | ☐ | `escena_095_b.mp4` | Rascacielos vistos desde abajo hacia el cielo | 95 | `skyscrapers looking up` |
 | ☐ | `escena_096.mp4` | Obreros con casco caminando de espaldas en una fábrica o planta | 96, 199, 231 | `workers hard hats walking factory back view` |
-| ☐ | `escena_100.mp4` | Mano volteando el letrero de abierto en la puerta de un negocio | 100 | `hand flipping open sign shop door` |
+| ☐ | `escena_100.mp4` | Mano volteando el letrero de la puerta de un negocio de CERRADO a ABIERTO (al final se ve «abierto») | 100 | `hand flipping closed to open sign shop door` |
 | ☐ | `escena_101.mp4` | Familia caminando de espaldas al atardecer (sin rostros) | 101, 206 | `family walking sunset back view` |
 | ☐ | `escena_106.mp4` | Interior de biblioteca antigua con estantes altos, sin rostros | 106, 122 | `old library interior bookshelves` |
 | ☐ | `escena_111.mp4` | Salón de clases luminoso, niños de espaldas o sin rostros | 111 | `classroom children back view` |

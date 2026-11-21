@@ -150,7 +150,7 @@
 | 97 ⚡ | 5:25–5:30 | «Esto es lo primero que hace un rico de los que suman: empleo.» | `ÍCONOS` | Ícono de empleo grande al centro, con brillo dorado. | `icono_empleo.png` | `texto_097.png` «BENEFICIO DIRECTO: EMPLEO» |
 | 98 | 5:30–5:33 | «Cada empresa, desde la tiendita de la esquina» | `FOTO` | Tiendita de barrio con productos en la entrada. | `foto_098.jpg` | — |
 | 99 | 5:33–5:36 | «hasta la fábrica más grande, necesita gente.» | `FOTO` | La fábrica moderna otra vez. | `foto_017_b.jpg` | — |
-| 100 | 5:36–5:39 | «Y cuando alguien invierte y abre un negocio,» | `VIDEO` | Mano volteando el letrero de «abierto» en la puerta de un local. | `escena_100.mp4` | — |
+| 100 | 5:36–5:39 | «Y cuando alguien invierte y abre un negocio,» | `VIDEO` | Mano volteando el letrero de la puerta de un local: pasa de «cerrado» a «abierto». | `escena_100.mp4` | — |
 | 101 | 5:39–5:43 | «hay familias que por fin pueden pagar la renta,» | `VIDEO` | Familia caminando de espaldas al atardecer. | `escena_101.mp4` | — |
 | 102 | 5:43–5:45 | «la escuela de los hijos, el doctor.» | `ÍCONOS` | Tres íconos: casa, escuela y estetoscopio. | `icono_casa.png`<br>`icono_escuela.png`<br>`icono_doctor.png` | — |
 | 103 | 5:45–5:48 | «Pero Carnegie no se detiene ahí.» | `ÍCONOS` | La silueta de 1900 vuelve, ahora toda dorada. | `icono_silueta_1900.png` | — |

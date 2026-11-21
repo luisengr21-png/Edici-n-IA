@@ -208,8 +208,8 @@ R('Esto es lo primero que hace un rico de los que suman', 'ÍCONOS', 'Ícono de 
 R('Cada empresa desde la tiendita de la esquina', 'FOTO', 'Tiendita de barrio con productos en la entrada.',
   [('foto', 'Tiendita de barrio (abarrotes) con productos en la entrada, sin personas', 'small corner grocery store latin america')])
 R('hasta la fábrica más grande necesita gente', 'FOTO', 'La fábrica moderna otra vez.', ['=@fabrica'])
-R('Y cuando alguien invierte y abre un negocio', 'VIDEO', 'Mano volteando el letrero de «abierto» en la puerta de un local.',
-  [('video', 'Mano volteando el letrero de abierto en la puerta de un negocio', 'hand flipping open sign shop door')])
+R('Y cuando alguien invierte y abre un negocio', 'VIDEO', 'Mano volteando el letrero de la puerta de un local: pasa de «cerrado» a «abierto».',
+  [('video', 'Mano volteando el letrero de la puerta de un negocio de CERRADO a ABIERTO (al final se ve «abierto»)', 'hand flipping closed to open sign shop door')])
 R('hay familias que por fin pueden pagar la renta', 'VIDEO', 'Familia caminando de espaldas al atardecer.',
   [('video', 'Familia caminando de espaldas al atardecer (sin rostros)', 'family walking sunset back view', 'familia')])
 R('la escuela de los hijos el doctor', 'ÍCONOS', 'Tres íconos: casa, escuela y estetoscopio.',
