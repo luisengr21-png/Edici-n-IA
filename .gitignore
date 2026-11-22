@@ -26,3 +26,6 @@ out/cine-music.wav
 out/cine-sfx.wav
 out/cine-render.log
 out/cine-audio.log
+
+# Claves (ElevenLabs, etc.)
+.env
