@@ -5,6 +5,6 @@
 3. **Lo místico (prana, chi, Swami Rama, Szent-Györgyi, Buteyko místico):** se cuenta con respeto y con escepticismo.
 4. **Religión:** Hasta donde sé, las religiones buscan dar paz a quien cree en ellas; lo mismo que ofrece una buena respiración.
 5. **Buteyko / "respirar menos":** nos inclinamos hacia el autor, con cautela.
-6. **Ansiedad como problema respiratorio:** _pendiente_
-7. **Mewing y ortodoncia:** _pendiente_
-8. **Experimentos con animales:** _pendiente_
+6. **Ansiedad como problema respiratorio:** puede ser. Se presenta como hipótesis que todavía se está probando.
+7. **Mewing y ortodoncia:** hay que tomarlo con escepticismo.
+8. **Experimentos con animales:** se cuentan de pasada.
