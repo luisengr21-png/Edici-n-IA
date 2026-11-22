@@ -13,7 +13,7 @@
 - El largo dura 13:40: 13:28 de narración más 12 s de pantalla final, con el lado derecho libre para los elementos de YouTube.
 - Los capítulos, con sus tiempos reales, ya están en `../05_titulos_y_descripcion.md`.
 - **Volumen:** el largo quedó en −13.7 LUFS y los shorts entre −13.7 y −13.9, con picos por debajo de −2 dB.
-- **Calidad del largo:** para que entre en GitHub (límite de 100 MB), el archivo pesa 86 MB. Como este video es más largo y casi todo es video real, la compresión se nota un poco más que en los anteriores. Si quieres la versión en calidad alta (unos 350 MB), dime por dónde te la paso.
+- **Calidad del largo:** el de GitHub pesa unos 86 MB y se comprime más. La versión en **alta calidad** (352 MB) está en tu Google Drive: https://drive.google.com/file/d/1jCGf4jZMYFXzof5N41qXujxhQHvJ-7dz/view
 
 ## Shorts: título, descripción y miniatura
 
@@ -56,19 +56,11 @@
   - 108 textos en pantalla en Anton, blancos con acento dorado o rojo vivo, con o sin tarjeta azul marino, como decía la lista;
   - ningún texto ni número se repite en la misma escena.
 - **Personaje «Tú» con rostro:** aparece en las escenas `2D`, con gestos según la escena (sorprendido, preocupado, feliz, pensativo, saludando…).
-- **Sin rostros de personas reales:** 6 de tus clips traían una cara, así que los recorté para dejar solo las manos y los objetos:
-  - `escena_037` (el taxi);
-  - `escena_043` (el celular en la calle);
-  - `escena_100` (el letrero, que además arranca justo antes de voltear de «cerrado» a «abierto»);
-  - `escena_130` (el desayuno);
-  - `escena_167` (el mecánico);
-  - `escena_198` (las cajas).
-
-  En `escena_111` (el salón) el niño voltea a la cámara en el segundo 3: la escena usa solo los primeros 2.4 s, un poco en cámara lenta. En `escena_018` (las manos contando billetes) se ve la barbilla, pero no los ojos; la dejé así.
+- **Clips de stock:** se usan completos, aunque se vean rostros, porque tienes licencia de todos.
 - **Sin referencias a otros videos del canal.**
 
 ## Para revisar tú
 
 1. **Datos con `[VERIFICAR]`:** están en la tabla del final de `../01_guion_largo.md`. La voz ya los dice; si alguno cambia, regenero solo esa parte.
-2. **Fotos antiguas con gente:** en `foto_182` (la línea de ensamblaje) y `foto_191` (el campo de arroz) se ven personas pequeñas, de época. No se distinguen rostros, pero avísame si prefieres otra.
+2. **Fotos antiguas con gente (ya no es problema, tienes licencia):** en `foto_182` (la línea de ensamblaje) y `foto_191` (el campo de arroz) se ven personas pequeñas, de época. No se distinguen rostros, pero avísame si prefieres otra.
 3. **Íconos:** si después quieres cambiar algún ícono por uno tuyo de Envato, súbelo con el mismo nombre de la lista y vuelvo a renderizar solo esas escenas.
