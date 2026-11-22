@@ -5,7 +5,7 @@
 | Archivo | Formato | Duración |
 |---|---|---|
 | `la-riqueza-de-otros.mp4` | 1920×1080 · 30 fps · H.264 + AAC · solo voz a −14 LUFS | 13:40 |
-| `short_01_ladrillo-de-4000.mp4` | 1080×1920 · 30 fps · subtítulos quemados · −14 LUFS | 0:34 |
+| `short_01_ladrillo-de-4000.mp4` | 1080×1920 · 30 fps · subtítulos quemados · −14 LUFS | 0:37 |
 | `short_02_heroe-o-villano.mp4` | 1080×1920 · 30 fps · subtítulos quemados · −14 LUFS | 0:36 |
 | `short_03_ford-duplico-sueldos.mp4` | 1080×1920 · 30 fps · subtítulos quemados · −14 LUFS | 0:35 |
 | `short_0N_miniatura.jpg` | 1080×1920 · fotograma de cada short, sin subtítulos | — |
@@ -31,6 +31,21 @@
 - **Título:** Ford duplicó sueldos… y le dijeron que iba a quebrar 🚗
 - **Descripción:** En 1914 todos pensaron que estaba loco 🤯 Spoiler: pagarle bien a la gente no fue caridad, fue buen negocio 💪 #Trabajadores #Economia #Empleo #HenryFord #Shorts
 - **Miniatura:** `short_03_miniatura.jpg`. Es el auto antiguo con «NADIE LE CREYÓ» (0:02).
+
+## Cambios después de tu revisión
+
+**Video largo**
+- **1:00:** «mismo coche, misma casa, misma foto en la revista» muestra el coche, la mansión y un periódico con una cámara.
+- **1:03, 1:19, 4:12, 6:43, 10:37, 12:01 y 13:22:** el objeto que sostiene «Tú» (lupa, tubo de ensayo, libro, campana) ya no se repite al lado.
+- **1:12, los dos bandos:** una carita enojada en «los que odian a los ricos» y un escudo en «los que los defienden».
+- **Personajes:** las siluetas negras ahora son personajes a color (Carnegie con barba, el niño, el villano, los guardias y los dos empleados).
+- **6:25:** en lugar del río va la foto de la acería de 1892 con los guardias.
+- **Rostros:** los clips de stock se usan completos, sin recortes, porque tienes licencia.
+
+**Shorts**
+- **Short 1:** nuevo cierre: «Porque tener cosas mejores y más baratas también es ser rico… aunque tu cuenta no lo diga». Termina con «Tú» y la corona. Ya no es loop.
+- **Short 2:** los mismos cambios de personajes del video largo (Carnegie y los guardias a color).
+- **Short 3:** sin cambios.
 
 ## Lo que se cumplió de las reglas del canal
 

@@ -25,7 +25,7 @@ Cada short funciona solo, sin haber visto el video largo.
 
 **Fotograma para la miniatura (propuesta):** el celular «ladrillo» con la etiqueta de precio (0:05).
 
-**Final:** loop. «Porque eso que tienes en la mano…» se une con «En 1983, solo lo podía tener un millonario».
+**Final:** cierre con frase: «tener cosas mejores y más baratas también es ser rico… aunque tu cuenta no lo diga».
 
 ### Guion
 > En 1983, solo lo podía tener un millonario. [PAUSA]
@@ -34,7 +34,7 @@ Cada short funciona solo, sin haber visto el video largo.
 > ¿Qué pasó? [PAUSA] Competencia.
 > Cuando una empresa cobra de más, llega otra más barata y mejor, y te lleva con ella.
 > Alguien se hizo muy rico vendiéndote ese celular. [PAUSA] Y aun así, tú saliste ganando.
-> Porque eso que tienes en la mano…
+> Porque tener cosas mejores y más baratas también es ser rico… aunque tu cuenta no lo diga.
 
 **Palabras:** 77 · **Duración estimada:** unos 31 s
 
@@ -46,7 +46,7 @@ Cada short funciona solo, sin haber visto el video largo.
 | 0:13–0:16 | `VIDEO` Corredores en la pista | `escena_056.mp4` | — |
 | 0:16–0:21 | `ÍCONOS` Una empresa cobra de más y la otra la empuja | `icono_empresa.png`, `icono_empresa_2.png`, `icono_etiqueta_precio.png` | — |
 | 0:21–0:25 | `VIDEO` Billetes cayendo en cámara lenta | `escena_013.mp4` | — |
-| 0:25–0:30 | `VIDEO` Mano sacando el celular del bolsillo (mismo encuadre del inicio, para el loop) | `escena_001.mp4` | — |
+| 0:25–0:33 | `VIDEO` → `2D` Mano sacando el celular del bolsillo; cierra «Tú» con la corona dorada | `escena_001.mp4`, `icono_corona.png` | — |
 
 ---
 

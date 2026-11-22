@@ -27,7 +27,8 @@ SH = {
    ('Cuando una empresa cobra de más', 'ÍCONOS', [], I('empresa', 'etiqueta_precio', 'empresa_2'), None, []),
    ('Alguien se hizo muy rico', 'VIDEO', [V('escena_013', 3)], [], None, []),
    ('Y aun así tú saliste ganando', '2D', [], [], dict(pose='handup', mood='happy'), []),
-   ('Porque eso que tienes en la mano', 'VIDEO', [V('escena_001')], [], None, []),
+   ('Porque tener cosas mejores', 'VIDEO', [V('escena_001')], [], None, []),
+   ('aunque tu cuenta no lo diga', '2D', [], I('corona'), dict(pose='hips', mood='happy'), []),
  ]),
  2: ('El millonario que fue héroe y villano', 'texto_short2', [
    ('Este hombre regaló', 'ÍCONOS', [], I('silueta_1900', 'regalo'), None, []),
