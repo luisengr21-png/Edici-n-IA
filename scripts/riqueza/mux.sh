@@ -2,6 +2,7 @@
 # Une el video mudo con la narración de «La riqueza de otros». Solo voz (regla del canal), a −14 LUFS y pico real −1.5 dB.
 # Largo: H.264 en dos pasadas con tamaño objetivo ≈ 90 MB (para que entre en GitHub, límite 100 MB). Shorts: CRF 20.
 # Uso: bash scripts/riqueza/mux.sh [largo|shorts|todo|audio]
+#   alta: versión del largo en calidad alta (CRF 18, ~400 MB) en out/, para entregar fuera de GitHub.
 #   audio: rehace solo el audio de los videos ya entregados (copia la imagen sin recodificar).
 set -euo pipefail
 cd "$(dirname "$0")/../.."
@@ -32,6 +33,14 @@ if [[ $QUE == audio ]]; then
     ffmpeg -y -hide_banner -loglevel error -i "$F" -i out/riqueza-tmp-voz.m4a -map 0:v:0 -map 1:a:0 -c copy -movflags +faststart -t "$T" out/riqueza-tmp.mp4
     mv out/riqueza-tmp.mp4 "$F"; echo "audio: $F"
   done
+  exit 0
+fi
+
+if [[ $QUE == alta ]]; then
+  V=out/riqueza-mudo.mp4; T=$(dur "$V")
+  [ -s out/riqueza-voz.m4a ] || voz $AUD/largo_narracion_completa.wav "$T" out/riqueza-voz.m4a
+  ffmpeg -y -hide_banner -loglevel error -i "$V" -i out/riqueza-voz.m4a -map 0:v:0 -map 1:a:0 -c:v libx264 -preset medium -crf 18 -pix_fmt yuv420p -c:a copy -movflags +faststart -t "$T" out/la-riqueza-de-otros_alta-calidad.mp4
+  echo "alta: out/la-riqueza-de-otros_alta-calidad.mp4"
   exit 0
 fi
 

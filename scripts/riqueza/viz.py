@@ -56,10 +56,10 @@ EMO = dict(sombrero_copa='🎩', bateria_baja='🪫', reloj='⏰', etiqueta_prec
            regalo='🎁', permiso='📜', apreton='🤝', mazo='🔨', flecha_abajo='⬇️', iman='🧲', x_roja='❌', libro_viejo='📔', cerebro='🧠',
            alcancia='🐷', inversion='🌱', empleo='💼', casa='🏠', escuela='🏫', doctor='🩺', birrete='🎓', microscopio='🔬', paloma='🕊️',
            hospital='🏥', mano_corazon='🫶', tijeras='✂️', foco='💡', frasco='💊', celular='📱', impuestos='🧾', castillo='🏰', riesgo='🎲',
-           grafica_baja='📉', mano='✋', dos_empleados='👥', llave_auto='🔑', rompecabezas='🧩', globo='🌍', explosion='💥', tierra_seca='🏜️',
+           grafica_baja='📉', mano='✋', dos_empleados='👷👩‍🔧', llave_auto='🔑', rompecabezas='🧩', globo='🌍', explosion='💥', tierra_seca='🏜️',
            barril='🛢️', auto='🚗', barco='🚢', mapamundi='🗺️', plato='🍽️', autobus='🚌', piramide='🔺', rayo='⚡', exprimidor='🍋',
-           herramientas='🛠️', comentario='🗨️', like='👍', compartir='↗️', campana='🔔')
-SVG = {'estrellas', 'pastel_injusto', 'pastel_parejo', 'silueta_1900', 'silueta_nino', 'guardias', 'villano', 'aureola', 'sin_senal', 'bascula', 'poste_luz'}
+           herramientas='🛠️', silueta_1900='🧔', silueta_nino='👦', villano='🦹', guardias='💂💂💂', comentario='🗨️', like='👍', compartir='↗️', campana='🔔')
+SVG = {'estrellas', 'pastel_injusto', 'pastel_parejo', 'aureola', 'sin_senal', 'bascula', 'poste_luz'}
 
 def icon(name):
     k = name[len('icono_'):-4]
@@ -167,7 +167,45 @@ for r in ROWS:
               txt=[tx(*t) for t in r['txt']], fx=fx, hit=('⚡' in r['mark']))
     if r['tipo'] == '2D':
         sc['person'] = person(r['desc'])
+        # si «Tú» sostiene el objeto, no se repite como ícono al lado
+        h = sc['person'].get('hold')
+        if h: sc['icons'] = [i for i in icons if i.get('e') != h]
+    sc['idx'] = r['idx']
     out.append(sc)
+
+# ── cambios pedidos por el creador después de ver el video ──
+def t_of(phrase, n):
+    base = next(s for s in out if s['n'] == n)['idx']
+    p_ = norm(phrase)
+    for k in range(base, len(words) - len(p_) + 1):
+        if words[k:k + len(p_)] == p_:
+            return round(tw[k] - 0.12, 2)
+    sys.exit(f'frase no encontrada: {phrase}')
+def add(after, phrase, **kw):
+    sc = dict(n=None, start=t_of(phrase, after), tipo='ÍCONOS', sec=next(s for s in out if s['n'] == after)['sec'],
+              media=[], icons=[], txt=[], fx=[], hit=False)
+    sc.update(kw); out.append(sc); out.sort(key=lambda s: s['start'])
+def foto(f, k=1):
+    from PIL import Image
+    w, h = Image.open(os.path.join(ROOT, 'public', 'riqueza', 'fotos', f + '.jpg')).size
+    return dict(t='f', src=f'riqueza/fotos/{f}.jpg', k=k, ar=round(w / h, 3))
+E = lambda *es: [dict(e=x) for x in es]
+# «mismo coche, misma casa, misma foto en la revista»: una imagen para cada cosa
+add(21, 'misma casa', tipo='FOTO', media=[foto('foto_017_a', 1)])
+add(21, 'misma foto en la revista', icons=E('📰', '📸'))
+# «la respuesta incomoda a los que odian a los ricos… y también a los que los defienden»: los dos bandos
+s24 = next(s for s in out if s['n'] == 24)
+bandos = s24['txt']; s24['txt'] = []
+add(24, 'la respuesta incomoda', txt=bandos,
+    icons=[dict(e='😡', at=round(t_of('a los que odian', 24) - t_of('la respuesta incomoda', 24) + 0.1, 2)),
+           dict(e='🛡️', at=round(t_of('a los que los defienden', 24) - t_of('la respuesta incomoda', 24) + 0.1, 2))])
+# «…dejó que se disparara contra la gente que le hacía ganar ese dinero»: la acería de 1892 y los guardias
+s = next(s for s in out if s['n'] == 123)
+s.update(tipo='FOTO', media=[foto('foto_114', 1)], icons=E('💂💂💂'))
+for s in out:
+    s.pop('idx', None)
+for i, s in enumerate(out, 1):
+    s['n'] = i
 for a, b in zip(out, out[1:]):
     a['end'] = b['start']
 out[-1]['end'] = round(AUDIO_END + END_SCREEN, 2)
@@ -181,8 +219,7 @@ def clip_len(src):
         LEN[src] = float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', os.path.join(ROOT, 'public', src)]))
     return LEN[src]
 FIRST = {'riqueza/videos/escena_100.mp4': (4.0, 1.0),   # el letrero voltea de «cerrado» a «abierto» en el segundo 5
-         'riqueza/videos/escena_111.mp4': (0.0, 0.6),   # el niño voltea a la cámara en el segundo 2.7: más lento y solo el inicio
-         'riqueza/videos/escena_198.mp4': (4.0, 1.0)}   # del segundo 4 al 8.5 el trabajador está derecho y su cara queda fuera del recorte
+         'riqueza/videos/escena_198.mp4': (4.0, 1.0)}   # del segundo 4 al 8.5: el trabajador acomoda las cajas
 for s in out:
     d = (s['end'] - s['start']) / (2 if len([m for m in s['media'] if m['t'] == 'v']) >= 2 and 'split' not in s['fx'] else 1)
     for m in s['media']:

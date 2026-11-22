@@ -18,7 +18,7 @@ if (typeof document !== 'undefined') {
 }
 
 type Media = {t: 'v' | 'f'; src: string; off?: number; k?: number; ar?: number; rate?: number};
-type Icon = {e?: string; svg?: string};
+type Icon = {e?: string; svg?: string; at?: number};
 type Txt = {text: string; card: boolean; size: 'grande' | 'mediano' | 'chico'; acc: string; red: boolean; at?: number; y?: number};
 type Person = {pose?: string; mood?: string; hold?: string; sweat?: boolean; walk?: boolean};
 export type SceneT = {n: number; start: number; end: number; tipo: string; sec?: string; media: Media[]; icons: Icon[]; txt: Txt[]; fx: string[]; hit?: boolean; person?: Person; endscreen?: boolean; vertical?: boolean};
@@ -116,7 +116,7 @@ const IconView: React.FC<{ic: Icon; size: number; t: number}> = ({ic, size, t}) 
   ic.svg ? (
     <div style={{filter: 'drop-shadow(0 0 3px rgba(255,217,90,0.9)) drop-shadow(0 0 16px rgba(255,217,90,0.45)) drop-shadow(0 18px 26px rgba(0,0,0,0.5))'}}><SvgIcon k={ic.svg} size={size} t={t} /></div>
   ) : (
-    <div style={{fontFamily: EMOJI, fontSize: size * 0.82, lineHeight: 1, width: size, height: size, display: 'flex', alignItems: 'center', justifyContent: 'center', filter: 'drop-shadow(0 18px 26px rgba(0,0,0,0.5))'}}>{ic.e}</div>
+    <div style={{fontFamily: EMOJI, fontSize: (size * 0.82) * Math.min(1, 1.3 / Array.from(new (Intl as any).Segmenter().segment(ic.e ?? '')).length), lineHeight: 1, minWidth: size, height: size, whiteSpace: 'nowrap', display: 'flex', alignItems: 'center', justifyContent: 'center', filter: 'drop-shadow(0 18px 26px rgba(0,0,0,0.5))'}}>{ic.e}</div>
   );
 
 // Fila (o columna) de íconos que aparecen uno por uno a lo largo de la escena.
@@ -131,7 +131,7 @@ const Icons: React.FC<{icons: Icon[]; t: number; d: number; cx: number; cy: numb
   return (
     <>
       {list.map((ic, i) => {
-        const at = 0.15 + i * step;
+        const at = ic.at ?? 0.15 + i * step;
         const p = spr(t, at, 2.2, 0.5);
         const off = (i - (n - 1) / 2) * gap;
         const x = col ? cx : cx + off, y = col ? cy + off : cy;
@@ -259,7 +259,7 @@ export const SceneView: React.FC<{sc: SceneT; T: number; w: number; h: number}> 
     }
     els.push(<AbsoluteFill key="shade" style={{background: 'linear-gradient(180deg, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.55) 100%)'}} />);
     if (sc.icons.length) {
-      els.push(<Icons key="ic" icons={sc.icons} t={t} d={d} cx={V ? w / 2 : w * 0.76} cy={V ? 1430 : h * 0.46} maxW={V ? 900 : 700} fx={sc.fx} col={!V && sc.icons.length > 1} big={V ? 240 : 230} />);
+      els.push(<Icons key="ic" icons={sc.icons} t={t} d={d} cx={V ? w / 2 : w * 0.76} cy={V ? 1430 : h * 0.46} maxW={V ? 900 : 700} fx={sc.fx} col={!V && sc.icons.length > 1} big={V ? 240 : sc.icons.length === 1 ? 360 : 230} />);
     }
   } else {
     els.push(<Navy key="bg" t={T} w={w} h={h} floor={!!hasPerson} />);
