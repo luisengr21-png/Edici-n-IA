@@ -62,5 +62,4 @@
 ## Para revisar tú
 
 1. **Datos con `[VERIFICAR]`:** están en la tabla del final de `../01_guion_largo.md`. La voz ya los dice; si alguno cambia, regenero solo esa parte.
-2. **Fotos antiguas con gente (ya no es problema, tienes licencia):** en `foto_182` (la línea de ensamblaje) y `foto_191` (el campo de arroz) se ven personas pequeñas, de época. No se distinguen rostros, pero avísame si prefieres otra.
-3. **Íconos:** si después quieres cambiar algún ícono por uno tuyo de Envato, súbelo con el mismo nombre de la lista y vuelvo a renderizar solo esas escenas.
+2. **Íconos:** si después quieres cambiar algún ícono por uno tuyo de Envato, súbelo con el mismo nombre de la lista y vuelvo a renderizar solo esas escenas.
