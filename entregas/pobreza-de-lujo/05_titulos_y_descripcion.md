@@ -33,3 +33,48 @@ Un abrigo para la Antártida que terminó en la ciudad, una gráfica que lo expl
 14:55 Cierre
 
 > Música y efectos de sonido sintetizados para este video. Narración generada con IA (ElevenLabs).
+
+---
+
+## Shorts: título y descripción
+
+Listos para copiar al subir cada short. La miniatura de cada uno está en `video/` con el mismo número.
+
+### Short 1 · `video/short_01_si-te-tratan-mal.mp4`
+
+**Título**
+```
+Si te tratan mal en una tienda, gastas más 😳
+```
+
+**Descripción**
+```
+Cuando un vendedor te mira feo, a veces compras de más solo para demostrarle algo 😳 Se llama efecto Pretty Woman y le pasa a más gente de la que crees 🛍️
+#PobrezaDeLujo #FinanzasPersonales #Consumo #Psicologia #Shorts
+```
+
+### Short 2 · `video/short_02_bolso-pago-inicial.mp4`
+
+**Título**
+```
+Ese bolso de $2,000 no es un capricho 👜
+```
+
+**Descripción**
+```
+A veces un bolso caro no es un gusto: es un pago inicial para sentir que perteneces 👜 La pobreza de lujo es más común de lo que parece 💸
+#PobrezaDeLujo #Dinero #FinanzasPersonales #Shorts
+```
+
+### Short 3 · `video/short_03_parka-antartida.mp4`
+
+**Título**
+```
+Hecha para la Antártida… usada en la ciudad 🧥
+```
+
+**Descripción**
+```
+Una chamarra pensada para el frío extremo… para ir al súper 🧥😅 Muchas veces no compramos el producto, sino lo que dice de nosotros ✨
+#Marcas #Consumo #PobrezaDeLujo #Shorts
+```

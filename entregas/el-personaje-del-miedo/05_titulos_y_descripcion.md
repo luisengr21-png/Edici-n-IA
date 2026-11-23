@@ -44,3 +44,48 @@ Datos verificados por el creador:
 - Taylor y Alden (2011), *Behaviour Research and Therapy*: las conductas de seguridad en la ansiedad social.
 - Huang, Yeomans, Brooks, Minson y Gino (2017), *Journal of Personality and Social Psychology*: las preguntas de seguimiento.
 - Ralph Waldo Emerson, *Self-Reliance* (1841).
+
+---
+
+## Shorts: título y descripción
+
+Listos para copiar al subir cada short. La miniatura de cada uno está en `video/` con el mismo número.
+
+### Short 1 · `video/short_01_oso-blanco.mp4`
+
+**Título**
+```
+No pienses en un oso blanco 🐻‍❄️ (te va a arruinar tus pláticas)
+```
+
+**Descripción**
+```
+Intenta no pensar en un oso blanco… ¿ya ves? 🐻‍❄️ Mientras más intentas no parecer nervioso, más se nota. Te cuento por qué 😉
+#Psicologia #Ansiedad #Autoestima #Shorts
+```
+
+### Short 2 · `video/short_02_camiseta.mp4`
+
+**Título**
+```
+El experimento de la camiseta vergonzosa 👕 (nadie te está mirando)
+```
+
+**Descripción**
+```
+Un experimento con una camiseta vergonzosa demostró que casi nadie se fija en ti tanto como crees 👕 ¡Respira, nadie te está mirando! 😄
+#Psicologia #EfectoFoco #Autoestima #Shorts
+```
+
+### Short 3 · `video/short_03_dos-de-la-manana.mp4`
+
+**Título**
+```
+Son las 2 a. m. y sigues pensando en lo que dijiste 🌙
+```
+
+**Descripción**
+```
+¿Son las 2 a. m. y sigues repasando lo que dijiste hoy? 🌙 Spoiler: le caíste mejor de lo que crees 💛
+#Ansiedad #Psicologia #Pensamientos #Shorts
+```

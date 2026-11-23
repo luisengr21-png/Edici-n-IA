@@ -57,3 +57,48 @@ Datos verificados por el creador:
 - La encuesta en EE. UU. sobre síntomas de burnout en adultos (~75 %, más del 40 % graves).
 - El modelo de las cinco etapas del burnout (entusiasmo, estancamiento, frustración, apatía y burnout): se parece al de Edelwich y Brodsky (1980), *Burn-out: Stages of Disillusionment in the Helping Professions*.
 - La despersonalización como parte del burnout: Maslach y Jackson, *Maslach Burnout Inventory*.
+
+---
+
+## Shorts: título y descripción
+
+Listos para copiar al subir cada short. La miniatura de cada uno está en `video/` con el mismo número.
+
+### Short 1 · `video/short_01_celular-al-3.mp4`
+
+**Título**
+```
+El peor consejo para alguien con burnout 🔋
+```
+
+**Descripción**
+```
+"Échale ganas" no carga una batería al 3 %. Si te sientes así, no es flojera: es agotamiento.
+#Burnout #SaludMental #Psicologia #Shorts
+```
+
+### Short 2 · `video/short_02_te-quemaste.mp4`
+
+**Título**
+```
+¿Flojera o burnout? La diferencia en 30 segundos 🔥
+```
+
+**Descripción**
+```
+Si antes tenías ganas, metas y pasión, y hoy no puedes, no te volviste flojo. Te quemaste.
+#Burnout #Pereza #SaludMental #Shorts
+```
+
+### Short 3 · `video/short_03_cinco-escalones.mp4`
+
+**Título**
+```
+Las 5 etapas del burnout: ¿en cuál estás tú? 🪜
+```
+
+**Descripción**
+```
+El burnout no llega de golpe, llega por escalones. Ubícate hoy: también se puede salir.
+#Burnout #EtapasDelBurnout #SaludMental #Shorts
+```

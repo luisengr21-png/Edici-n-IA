@@ -85,7 +85,12 @@ Para cada short, además del video, entregar:
   - el texto complementa el título del short, no lo repite;
   - se arma con código, con los recursos del video (fotos, cuadros de los clips, íconos y textos); no se genera con ElevenLabs.
 
-El título y la descripción van en `03_shorts.md`, en la Fase 1, y se confirman en `PENDIENTES.md`, en la Fase 2. La miniatura de cada short se entrega en la Fase 2.
+El título y la descripción de cada short van en `03_shorts.md`, en la Fase 1, y se confirman en `PENDIENTES.md`, en la Fase 2. La miniatura de cada short se entrega en la Fase 2.
+- **Además, siempre en `05_titulos_y_descripcion.md` del mismo video**, en una sección al final llamada «Shorts: título y descripción». Ahí van los 3 shorts con:
+  - el nombre del archivo;
+  - el título y la descripción, cada uno en su propio bloque listo para copiar.
+
+  Ahí es donde el creador los busca para subirlos. Si cambian en la Fase 2, se actualizan también ahí.
 
 ## Narración
 - **Siempre la misma voz en todos los videos:** ElevenLabs, voz "BRIAN CM | Young LatAm Spanish Narrator" (`LY1fdYL8QcEDyEkAT4Qq`), modelo `eleven_v4`. No cambiarla salvo que el creador lo pida o grabe su propio audio.

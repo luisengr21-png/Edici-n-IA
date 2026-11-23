@@ -61,3 +61,48 @@ Datos marcados con `[VERIFICAR]` en el guion. En la Fase 2 pongo aquí las fuent
 - Ford Motor Company: el «día de 5 dólares» (1914).
 - Banco Mundial y Proyecto Maddison: PIB por persona de Corea del Sur en 1960.
 - Federación Nacional de Cafeteros de Colombia: número de familias cafeteras.
+
+---
+
+## Shorts: título y descripción
+
+Listos para copiar al subir cada short. La miniatura de cada uno está en `video/` con el mismo número.
+
+### Short 1 · `video/short_01_ladrillo-de-4000.mp4`
+
+**Título**
+```
+En 1983 esto costaba casi 4,000 dólares 📱 (y hoy lo tienes tú)
+```
+
+**Descripción**
+```
+El primer celular pesaba casi un kilo y solo un millonario podía tenerlo 😮 Hoy lo traes en el bolsillo… gracias a la competencia. ¡Eres más rico de lo que crees! 💰
+#Economia #Riqueza #Celular #Competencia #Shorts
+```
+
+### Short 2 · `video/short_02_heroe-o-villano.mp4`
+
+**Título**
+```
+Regaló 2,500 bibliotecas… pero en su fábrica hubo balazos 😳
+```
+
+**Descripción**
+```
+Andrew Carnegie fue el rico perfecto… hasta que no 👀 Una historia real que te hará ver distinto a los millonarios. ¿Tú qué opinas? 👇
+#Millonarios #Historia #Riqueza #Carnegie #Shorts
+```
+
+### Short 3 · `video/short_03_ford-duplico-sueldos.mp4`
+
+**Título**
+```
+Ford duplicó sueldos… y le dijeron que iba a quebrar 🚗
+```
+
+**Descripción**
+```
+En 1914 todos pensaron que estaba loco 🤯 Spoiler: pagarle bien a la gente no fue caridad, fue buen negocio 💪
+#Trabajadores #Economia #Empleo #HenryFord #Shorts
+```
