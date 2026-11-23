@@ -74,7 +74,7 @@ Genera el audio según la sección G. Si te pido cambios, haz **solo** esos camb
 ### El narrador
 - Hombre, **mexicano, informal y conversacional**. No es serio ni "propio": es **atrevido**, con humor, opina sin miedo y a veces se burla de sí mismo o de las ideas comunes.
 - Ama leer y lo contagia: **anima al espectador a leer** mostrando, de forma positiva, cómo el libro le cambió la manera de ver las cosas. Nunca suena a sermón ni a profesor.
-- Habla en **español mexicano coloquial** ("neta", "está cañón", "no manches", "a poco", "qué onda"), pero sin abusar, para que lo entienda alguien de cualquier país. Groserías muy ligeras y solo si suman; nunca fuertes (cuida la monetización).
+- Habla en **español mexicano coloquial** ("neta", "está cañón", "no manches", "a poco", "qué onda"), pero sin abusar, para que lo entienda alguien de cualquier país. Groserías muy ligeras y solo si suman; nunca fuertes (cuida la monetización). Revisa la sección *Lenguaje del narrador* de `mi_forma_de_ver_el_mundo.md`: ahí están las palabras que no quiero (por ejemplo, "madrazo").
 - Le habla al espectador de **"tú"** todo el tiempo, como si fuera un amigo.
 - El público es de **cualquier edad y país**, curioso, que quiere aprender de forma amena. Que lo entienda un adolescente sin que se aburra un adulto.
 

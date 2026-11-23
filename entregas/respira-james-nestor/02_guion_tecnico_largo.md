@@ -75,7 +75,7 @@
 | 41 | 3:30–3:35 | "Luego aprendimos a cocinar. Masticar menos nos ahorró energía…" | STOCK | Carne asándose al fuego | — | meat roasting on fire |
 | 42 | 3:35–3:42 | "…esa energía se fue al cerebro… y el cerebro le robó espacio a la cara." | MOTION | Cráneo ilustrado: el cerebro se infla y la cara se encoge | CEREBRO ↑ CARA ↓ | human evolution skull illustration |
 | 43 | 3:42–3:48 | "Pero eso fue lentísimo. Nos dio tiempo de adaptarnos." | MOTION | Línea de tiempo larguísima con una tortuga caminando sobre ella | LENTÍSIMO | turtle png |
-| 44 ⚡ | 3:48–3:54 | "El madrazo llegó hace apenas unos trescientos años." | MOTION | Zoom violento al último pedacito rojo de la línea de tiempo | ÚLTIMOS 300 AÑOS | — |
+| 44 ⚡ | 3:48–3:54 | "El golpe de verdad llegó hace apenas unos trescientos años." | MOTION | Zoom violento al último pedacito rojo de la línea de tiempo | ÚLTIMOS 300 AÑOS | — |
 | 45 | 3:54–4:02 | "Por primera vez… la vida entera comiendo pura comida procesada." | IMG-FONDO | Grabado de una fábrica victoriana; paneo | — | industrial revolution factory engraving |
 | 46 | 4:02–4:06 | "Nada fresco. Nada crudo. Nada natural." | MOTION | Tres palabras tachándose una por golpe | ~~FRESCO~~ ~~CRUDO~~ ~~NATURAL~~ | — |
 | 47 | 4:06–4:13 | "Las latas fueron un inventazo… blanda y pastosa." | IMG-RECORTE | Latas antiguas recortadas → una cuchara con papilla que escurre | BLANDA Y PASTOSA | vintage tin cans; mushy food spoon |

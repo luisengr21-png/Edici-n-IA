@@ -75,7 +75,7 @@ Durante cientos de miles de años comimos crudo: masticar era una chamba de hora
 
 Pero eso fue lentísimo. Nos dio tiempo de adaptarnos.
 
-⚡ El madrazo llegó hace apenas unos trescientos años. Por primera vez en la historia de la humanidad, alguien podía pasarse la vida entera comiendo pura comida procesada. Nada fresco. Nada crudo. Nada natural.
+⚡ El golpe de verdad llegó hace apenas unos trescientos años. Por primera vez en la historia de la humanidad, alguien podía pasarse la vida entera comiendo pura comida procesada. Nada fresco. Nada crudo. Nada natural.
 
 Las latas fueron un inventazo: la comida duraba meses. Pero también la volvieron blanda y pastosa.
 

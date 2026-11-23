@@ -17,6 +17,9 @@
 ## Cosas con las que NO estoy de acuerdo
 - **Taparse la boca con cinta para dormir.** Bloquea una vía de aire, puede causar sensación de ahogo o baja oxigenación y es incómodo. El narrador no lo recomienda. *(Respira)*
 
+## Lenguaje del narrador
+- **No usar la palabra "madrazo"** (ni groserías de ese nivel). *(Respira)*
+
 ## Mi postura sobre la lectura
 - Leer cambia la manera de ver las cosas; el narrador lo contagia de forma positiva, nunca como sermón. *(Prompt maestro)*
 
