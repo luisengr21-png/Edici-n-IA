@@ -1,8 +1,8 @@
-// Miniaturas diseñadas de los 3 shorts (1080×1920, JPG) → entregas/la-riqueza-de-otros/video/short_0N_miniatura.jpg
+// Miniaturas diseñadas de los 3 shorts (1080×1920, JPG) → entregas/04-la-riqueza-de-otros/video/short_0N_miniatura.jpg
 import {bundle} from '@remotion/bundler';
 import {renderStill, selectComposition, openBrowser} from '@remotion/renderer';
 import path from 'node:path';
-const out = process.argv[2] ?? 'entregas/la-riqueza-de-otros/video';
+const out = process.argv[2] ?? 'entregas/04-la-riqueza-de-otros/video';
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
 const browser = await openBrowser('chrome', {browserExecutable: '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell'});
 for (const n of [1, 2, 3]) {

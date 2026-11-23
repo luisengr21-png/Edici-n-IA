@@ -121,7 +121,7 @@ python3 scripts/burnout/viz_shorts.py     # shorts → src/burnout/shorts.json
 python3 scripts/burnout/audio.py todo     # música, stems, ambientes y efectos → out/
 npx remotion render src/index.ts NoEsPereza out/burnout-mudo.mp4 --muted
 npx remotion render src/index.ts NoEsPerezaShort1 out/burnout-short1-mudo.mp4 --muted   # 2 y 3 igual
-bash scripts/burnout/mux.sh todo          # mezcla final a −14 LUFS → entregas/no-es-pereza-es-burnout/video/
+bash scripts/burnout/mux.sh todo          # mezcla final a −14 LUFS → entregas/03-no-es-pereza-es-burnout/video/
 node scripts/burnout/miniaturas.mjs       # 5 miniaturas
 node scripts/burnout/fotogramas_shorts.mjs  # fotogramas de los shorts
 ```

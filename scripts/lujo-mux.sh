@@ -5,7 +5,7 @@
 # Uso: bash scripts/lujo-mux.sh [largo|shorts|todo]
 set -euo pipefail
 cd "$(dirname "$0")/.."
-OUT=entregas/pobreza-de-lujo/video
+OUT=entregas/01-pobreza-de-lujo/video
 AUD=audio/pobreza-de-lujo
 mkdir -p "$OUT"
 QUE=${1:-todo}

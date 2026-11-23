@@ -5,7 +5,7 @@
 # Uso: bash scripts/burnout/mux.sh [largo|shorts|todo]
 set -euo pipefail
 cd "$(dirname "$0")/../.."
-OUT=entregas/no-es-pereza-es-burnout/video
+OUT=entregas/03-no-es-pereza-es-burnout/video
 AUD=audio/no-es-pereza-es-burnout
 mkdir -p "$OUT"
 QUE=${1:-todo}

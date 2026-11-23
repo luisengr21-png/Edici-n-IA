@@ -71,7 +71,7 @@ node scripts/lujo-shorts-audio.mjs   # música + efectos de los shorts
 npx remotion studio src/index.ts     # previsualizar: composiciones PobrezaDeLujo y PobrezaDeLujoShort1–3
 npx remotion render src/index.ts PobrezaDeLujo out/lujo-mudo.mp4 --concurrency=4
 for n in 1 2 3; do npx remotion render src/index.ts PobrezaDeLujoShort$n out/lujo-short$n-mudo.mp4; done
-bash scripts/lujo-mux.sh             # mezcla y exporta a entregas/pobreza-de-lujo/video/
+bash scripts/lujo-mux.sh             # mezcla y exporta a entregas/01-pobreza-de-lujo/video/
 ```
 - **Cambiar una escena:** edita su línea `S(n, ...)` en `scripts/lujo/viz.py`. Los elementos disponibles (texto, etiqueta, persona, vendedora, casa, bolso, jaula, balanza, sello, gráfica, teléfono, marco, neón, contador de piezas…) están en `src/lujo/elements.tsx`.
 - **Si cambias la narración:** regenera el audio, vuelve a transcribirlo con `scripts/lujo/check_take.py` y realinea con `scripts/lujo/align.py`, que escribe `scripts/lujo/plan_base.json`.

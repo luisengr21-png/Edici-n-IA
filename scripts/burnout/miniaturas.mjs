@@ -1,10 +1,10 @@
-// Exporta las 5 miniaturas (1280×720) a entregas/no-es-pereza-es-burnout/miniaturas/
+// Exporta las 5 miniaturas (1280×720) a entregas/03-no-es-pereza-es-burnout/miniaturas/
 import {bundle} from '@remotion/bundler';
 import {renderStill, selectComposition, openBrowser} from '@remotion/renderer';
 import fs from 'node:fs';
 import path from 'node:path';
 const NAMES = ['1_no-es-pereza', '2_al-3', '3_te-quemaste', '4_flojo-o-quemado', '5_en-que-etapa'];
-const out = 'entregas/no-es-pereza-es-burnout/miniaturas';
+const out = 'entregas/03-no-es-pereza-es-burnout/miniaturas';
 fs.mkdirSync(out, {recursive: true});
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
 const browser = await openBrowser('chrome', {browserExecutable: '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell'});

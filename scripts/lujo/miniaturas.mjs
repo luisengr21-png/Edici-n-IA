@@ -1,10 +1,10 @@
-// Exporta las 5 miniaturas (1280×720) a entregas/pobreza-de-lujo/miniaturas/
+// Exporta las 5 miniaturas (1280×720) a entregas/01-pobreza-de-lujo/miniaturas/
 import {bundle} from '@remotion/bundler';
 import {renderStill, selectComposition, openBrowser} from '@remotion/renderer';
 import fs from 'node:fs';
 import path from 'node:path';
 const NAMES = ['1_la-casa-llavero', '2_la-casa-en-la-vitrina', '3_la-mirada-de-la-vendedora', '4_el-ticket-infinito', '5_atrapado-con-estilo'];
-const out = 'entregas/pobreza-de-lujo/miniaturas';
+const out = 'entregas/01-pobreza-de-lujo/miniaturas';
 fs.mkdirSync(out, {recursive: true});
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
 const browser = await openBrowser('chrome', {browserExecutable: '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell'});

@@ -9,7 +9,7 @@ import os, re, sys, unicodedata
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
-ENT = os.path.join(ROOT, 'entregas', 'la-riqueza-de-otros')
+ENT = os.path.join(ROOT, 'entregas', '04-la-riqueza-de-otros')
 GUION = os.path.join(ENT, '01_guion_largo.md')
 
 def norm(s):

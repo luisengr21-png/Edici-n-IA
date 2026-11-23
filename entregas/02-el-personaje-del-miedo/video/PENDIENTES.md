@@ -65,7 +65,7 @@ python3 scripts/personaje/audio.py        # música y efectos (Epidemic Sound) d
 npx remotion studio src/index.ts          # previsualizar: PersonajeMiedo y PersonajeMiedoShort1–3
 npx remotion render src/index.ts PersonajeMiedo out/personaje-mudo.mp4 --concurrency=4
 for n in 1 2 3; do npx remotion render src/index.ts PersonajeMiedoShort$n out/personaje-short$n-mudo.mp4; done
-bash scripts/personaje/mux.sh             # mezcla y exporta a entregas/el-personaje-del-miedo/video/
+bash scripts/personaje/mux.sh             # mezcla y exporta a entregas/02-el-personaje-del-miedo/video/
 node scripts/personaje/miniaturas.mjs     # las 5 miniaturas
 ```
 - **Cambiar una escena:** edita su línea `S(n, ...)` en `scripts/personaje/viz.py`. Los elementos están en `src/personaje/elements.tsx`; los propios de este video (reloj, máscara, reflector, oso, isla, medidor, globo de pensamiento y cama) están al final del archivo.

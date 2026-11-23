@@ -1,5 +1,5 @@
 import re, sys, json, difflib, unicodedata
-sys.argv=['x','/home/user/Edici-n-IA/entregas/el-personaje-del-miedo/01_guion_largo.md','/dev/null','rows.py','tecnico_tpl.md']
+sys.argv=['x','/home/user/Edici-n-IA/entregas/02-el-personaje-del-miedo/01_guion_largo.md','/dev/null','rows.py','tecnico_tpl.md']
 # reutiliza el parser del generador del guion técnico
 src=open('gen_tecnico.py').read().split("body = open(sys.argv[4])")[0]
 exec(src)

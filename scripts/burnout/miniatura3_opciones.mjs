@@ -3,7 +3,7 @@ import {bundle} from '@remotion/bundler';
 import {renderStill, selectComposition, openBrowser} from '@remotion/renderer';
 import fs from 'node:fs';
 import path from 'node:path';
-const out = 'entregas/no-es-pereza-es-burnout/miniaturas/v2';
+const out = 'entregas/03-no-es-pereza-es-burnout/miniaturas/v2';
 fs.mkdirSync(out, {recursive: true});
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
 const browser = await openBrowser('chrome', {browserExecutable: '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell'});

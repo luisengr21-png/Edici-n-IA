@@ -16,6 +16,10 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 - **Rostros en fotos y clips de stock: permitidos.** El creador tiene licencia de todos los recursos que manda, así que se usan completos aunque se vean caras de otras personas. No se recortan ni se le pide cambiarlos por eso. (Decisión del creador, noviembre 2026, en el 4.º video.)
 - En `06_recursos.md` ya no hace falta pedir «sin rostro». Solo se describe lo que debe verse.
 
+## Carpetas de entrega: en orden cronológico
+- Cada video tiene su carpeta en `entregas/`, con el número del video al inicio para que queden en orden: `01-pobreza-de-lujo`, `02-el-personaje-del-miedo`, `03-no-es-pereza-es-burnout`, `04-la-riqueza-de-otros`…
+- **Cada video nuevo toma el siguiente número, con dos dígitos** (`05-…`, `06-…`, `10-…`), para que el orden no se rompa después del 9. Donde estas reglas dicen `entregas/<video>/`, `<video>` es ese nombre con número.
+
 ## 1. Recursos: todo lo pone el creador (yo uso lo mínimo)
 - **Lo que yo genero se reduce al mínimo.** Las imágenes, fotos, clips, íconos, objetos, ilustraciones, fondos, cuadros de texto decorativos, marcos y overlays de cada escena **se los pido al creador**. No los dibujo por código ni los saco de otro lado.
 - **Entregable de la Fase 1: `entregas/<video>/06_recursos.md`.** Es la lista completa de lo que necesito, escena por escena. Para cada recurso indica:

@@ -3,7 +3,7 @@ import {bundle} from '@remotion/bundler';
 import {renderStill, selectComposition, openBrowser} from '@remotion/renderer';
 import path from 'node:path';
 const PICKS = [[1, 2.0], [2, 2.0], [3, 2.0]]; // segundo elegido de cada short
-const out = 'entregas/la-riqueza-de-otros/video';
+const out = 'entregas/04-la-riqueza-de-otros/video';
 const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
 const browser = await openBrowser('chrome', {browserExecutable: '/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell'});
 for (const [n, t] of PICKS) {

@@ -5,7 +5,7 @@
 # Uso: bash scripts/personaje/mux.sh [largo|shorts|todo]
 set -euo pipefail
 cd "$(dirname "$0")/../.."
-OUT=entregas/el-personaje-del-miedo/video
+OUT=entregas/02-el-personaje-del-miedo/video
 AUD=audio/el-personaje-del-miedo
 mkdir -p "$OUT"
 QUE=${1:-todo}

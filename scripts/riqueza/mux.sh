@@ -6,7 +6,7 @@
 #   audio: rehace solo el audio de los videos ya entregados (copia la imagen sin recodificar).
 set -euo pipefail
 cd "$(dirname "$0")/../.."
-OUT=entregas/la-riqueza-de-otros/video
+OUT=entregas/04-la-riqueza-de-otros/video
 AUD=audio/la-riqueza-de-otros
 mkdir -p "$OUT"
 QUE=${1:-todo}
