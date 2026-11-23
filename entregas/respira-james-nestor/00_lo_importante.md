@@ -88,3 +88,10 @@
 - RESPIREN MÁS, DE VEZ EN CUANDO
 - AGUANTEN LA RESPIRACIÓN
 - LA MANERA EN QUE RESPIRAMOS IMPORTA
+
+---
+
+## Decisiones (al aprobar el ángulo)
+- Las consecuencias de respirar por la boca se cuentan **sin el experimento de Stanford**.
+- Tummo y Wim Hof: los beneficios se presentan como "lo que reporta el libro", con advertencia de riesgo y sin recomendarlos.
+- Los capítulos 8 (tummo, Wim Hof) y 10 (técnicas, yoga) van **solo a shorts**.

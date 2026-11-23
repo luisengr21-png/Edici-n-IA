@@ -1,341 +1,289 @@
 # Respira – James Nestor · Guion del video largo
 
+> Construido **solo** con los puntos de `00_lo_importante.md`.
 > Los subtítulos entre corchetes **no se narran**. Cada sección lleva su tiempo aproximado y su indicación de voz `{ritmo | emoción}`.
-> Narrador: hombre, mexicano, informal, atrevido. Le habla al espectador de "tú".
 
 ---
 
-## [GANCHO – Dos hombres con la nariz tapada] (0:00–1:00)
-`{ritmo: rápido, con frenazos secos | emoción: tensión, morbo}`
+## [GANCHO – Los cráneos] (0:00–0:35)
+`{ritmo: medio, con frenazos secos | emoción: intriga, morbo}`
 
-Dos hombres se acuestan a dormir con la nariz rellena de silicona.
+En el sótano de un museo en Filadelfia hay cientos de cráneos humanos: la Colección Morton. Algunos tienen cientos de años. Otros, miles.
 
-No es una broma. No es un reto de TikTok. Es un experimento en la Universidad de Stanford, y lo van a aguantar diez días.
+Y todos tienen algo que tú, probablemente, no tienes.
 
-Diez días respirando solo por la boca. Comiendo, haciendo ejercicio, durmiendo… todo por la boca.
+Los dientes derechos.
 
-La primera noche, uno de ellos pasa de cero ronquidos a más de cuatro horas.
+Gente que nunca vio un cepillo, ni un hilo dental, ni un ortodoncista… con sonrisa de comercial. Mandíbulas enormes, echadas hacia adelante. Bocas anchas.
 
-Después escuchan cómo suenan dormidos. Primero se ríen. Luego se dejan de reír.
+Ahora mira un cráneo moderno. La barbilla, metida. La mandíbula, chiquita. Los dientes, chuecos.
 
-Porque lo que se oye en la grabación no es un ronquido. Es alguien ahogándose.
+Algo le pasó a la cara humana. Y tiene todo que ver con algo que estás haciendo ahorita mismo, mientras ves esto.
 
-Y lo más inquietante no es lo que les pasó a ellos. Es que tú, a lo mejor, llevas años haciendo una versión light de ese experimento… y ni cuenta te has dado.
-
-Así que antes de seguir, hazme un favor. Fíjate ahorita: ¿estás respirando por la boca o por la nariz?
-
-Guárdate la respuesta. Al final vas a entender por qué te lo pregunté.
-
-🪝
+Respirar. 🪝
 
 ---
 
-## [PRESENTACIÓN – Lo que tu doctor nunca revisa] (1:00–2:25)
+## [PRESENTACIÓN – El pilar olvidado] (0:35–1:25)
 `{ritmo: medio, conversacional | emoción: complicidad, curiosidad}`
 
-Esta historia viene de un libro que se llama *Respira*, de James Nestor. Un periodista que se pasó diez años metido en laboratorios, catacumbas, consultorios rarísimos y hasta en una cueva, persiguiendo una pregunta que suena tontísima: ¿estamos respirando bien?
+Esto viene de un libro que se llama *Respira*, de James Nestor. Y su idea suena casi ofensiva de tan simple: llevas toda la vida respirando… y casi seguro lo haces mal.
 
-Y sí, ya sé lo que estás pensando. "Respirar. Wow. Qué tema. Llevo respirando desde que nací y aquí sigo."
+Te dicen que comas bien, que hagas ejercicio, que duermas ocho horas. ¿Alguien te ha enseñado a respirar? Para Nestor, la respiración es el pilar de la salud que se nos olvidó.
 
-Pero piensa en tu última consulta. Te tomaron la presión, el pulso, te pusieron el estetoscopio, te preguntaron cómo duermes y si te duele la cabeza… ¿Alguna vez te revisaron *cómo* respiras? ¿Por dónde? ¿Cuántas veces por minuto?
+Rápido, para estar en la misma página: respirar es meter oxígeno y sacar dióxido de carbono. El oxígeno lo usan tus células para producir energía. El dióxido de carbono es lo que sobra… o eso creemos. Guárdate esa duda.
 
-Casi seguro que no. Un neumólogo se lo resumió a Nestor en una frase: "Nosotros tratamos emergencias".
+Lo que importa ahorita es esto: no da igual por dónde entra el aire. No es lo mismo la boca que la nariz.
 
-Y ojo, esto no es echarle tierra a los médicos. En una emergencia hay una causa clara: un infarto, un hueso roto, una infección. Lo crónico es otra bestia. Mezcla genética, estrés, comida, sueño… y una sola pastilla rara vez desata todo ese nudo. Para atenderlo en serio habría que cambiar sistemas de salud enteros, públicos y privados.
-
-Pero dentro de ese nudo hay un hilo que casi nadie jala. Y lo jalas tú más de veinte mil veces al día.
-
-Te voy a contar qué les pasó a los dos de la silicona. Pero primero tengo que enseñarte unas calaveras. 🪝
+Ni de lejos.
 
 ---
 
-## [LAS CALAVERAS – La cara que perdimos] (2:25–6:00)
-`{ritmo: calmado al inicio, se acelera hacia el final | emoción: intriga → asombro → humor}`
+## [LA BOCA – Lo que te hace por dentro y por fuera] (1:25–3:20)
+`{ritmo: rápido, enumerativo; baja al final | emoción: tensión, incomodidad}`
 
-Sótano de un museo en Filadelfia. Repisas y repisas de cráneos humanos. Algunos de doscientos años. Otros, de miles.
+Cuando respiras por la boca todo el tiempo, el aire te entra sin filtro, frío y seco. Pierdes como un cuarenta por ciento más de agua; por eso amaneces con la boca seca. La presión puede subir. El cuerpo se queda en modo estrés.
 
-La colección tiene una historia fea: la juntó en el siglo diecinueve Samuel Morton, que quería demostrar que unas razas eran superiores a otras. Casi dos siglos después, la ortodoncista Marianna Evans miró esos mismos cráneos con otros ojos. Y donde Morton veía "inferioridad", ella encontró algo cercano a la perfección.
+Y de noche se pone peor. Al jalar aire por la boca, baja la presión en la garganta, y los tejidos blandos del fondo se aflojan y se van hacia adentro. Resultado: roncas. Y si se cierran de más, dejas de respirar por ratos. Eso es la apnea del sueño: tu propio cuerpo estrangulándote mientras duermes.
 
-Todos los cráneos antiguos tenían lo mismo. Mandíbulas enormes, echadas hacia adelante. Senos nasales amplísimos. Bocas anchas. Y dientes derechos.
+⚡ Cuando eso pasa noche tras noche, el oxígeno en tu sangre baja. Y por debajo del noventa por ciento, la sangre ya no alcanza a llevar suficiente oxígeno a tus tejidos. Si dura demasiado, puede terminar en problemas del corazón, depresión, fallas de memoria… y hasta una muerte prematura.
 
-Derechos.
+¿Roncas? ¿Te despiertas cansado aunque dormiste?
 
-Gente que jamás vio un cepillo, un hilo dental ni un ortodoncista… con dientes de comercial.
+Pero aquí viene lo más raro. Respirar por la boca no solo te afecta por dentro.
 
-Luego ves un cráneo moderno. La barbilla se fue para atrás. La mandíbula se encogió. Los dientes, chuecos en algún grado. Todos.
+Te cambia la cara.
 
-⚡ Y aquí va el dato que me voló la cabeza: de las más de cinco mil especies de mamíferos que hay en el planeta, los humanos somos los únicos que tenemos, de forma sistemática, la mandíbula desalineada y los dientes chuecos.
+Un investigador, Egil Harvold, les tapó la nariz con silicona a unos monos para obligarlos a respirar por la boca. A todos les pasó lo mismo: la cara les creció hacia abajo, más larga, y el arco de los dientes se les estrechó.
 
-Nestor lo dice sin rodeos: somos los peores respiradores del reino animal.
+Se llama patrón de crecimiento vertical: cara larga, ojos caídos, barbilla hacia atrás. Y cuando la boca no crece a lo ancho, el paladar crece hacia arriba, en forma de V… y le roba espacio a la nariz por dentro. Menos espacio, más congestión. Más congestión, más boca abierta.
 
-¿Cómo llegamos aquí? La primera parte de la respuesta es casi poética. Hace muchísimo aprendimos a machacar y a cocinar la comida. Masticar menos nos ahorró energía, y esa energía se fue al cerebro. El cerebro creció… y el espacio se lo robó a la cara. Se encogió la boca, se achicaron los senos nasales y apareció esta nariz salidita que tenemos.
+¿Te suena a los cráneos modernos del museo?
 
-Lo que nos hizo humanos nos tapó la nariz. Literal.
+Exacto.
 
-¿Has oído respirar a un pug? Ese ronquidito, esa nariz aplastada… A los pugs los criamos para tener la cara plana, y lo pagan con problemas respiratorios toda la vida. Según Nestor, en muchos sentidos nos volvimos la versión humana de esos perritos. Gracias, evolución.
-
-Pero todo eso fue lento, y nos adaptamos más o menos bien. El verdadero madrazo llegó hace apenas unos trescientos años.
-
-Con la industrialización, por primera vez en la historia, alguien podía pasarse la vida entera comiendo pura cosa procesada. Harina blanca. Arroz blanco. Latas. Azúcar baratísima. Comida blanda.
-
-Las bocas se hicieron más chicas, los dientes chuecos se multiplicaron, y un dentista de la época soltó una frase buenísima: "Cuanto mejor es la escuela, peores son los dientes". Los ricos, con su comida refinada, estaban peor.
-
-¿Y si es pura genética? Un antropólogo, Robert Corruccini, hizo una prueba sencillísima. A unos cerdos les dio bolitas de alimento duras. A otros, exactamente el mismo alimento… pero remojado en agua. Misma comida, mismas vitaminas. Solo cambiaba la textura.
-
-Los de comida blanda terminaron con la cara más estrecha y los dientes amontonados.
-
-El problema no era tanto *qué* comíamos. Era cuánto *masticábamos*.
-
-⚡ Hoy, cerca del noventa por ciento de nosotros tenemos algún grado de dientes o mandíbula desalineados. Y ahora piensa: ¿cuánto masticas en un día? El licuado, el pan, la avena, el aguacate… hasta lo "sano" es blandito. Nuestros antepasados masticaban horas.
-
-Y un experimento viejo, bastante cruel, lo remata: a unos monos les taparon la nariz durante meses y su cara empezó a crecer hacia abajo. Respirar por la boca no solo depende de tu cara. También la cambia.
-
-Así que, si tu cara cambió por cómo comes… ¿qué le hace al resto de tu cuerpo cómo respiras?
-
-Regresemos a Stanford. 🪝
+Pero, ¿qué empezó todo esto? ¿Por qué se nos encogió la cara en primer lugar? 🪝
 
 ---
 
-## [STANFORD – Diez días por la boca] (6:00–8:55)
-`{ritmo: rápido, enumerativo | emoción: tensión, humor negro}`
+## [MASTICAR – Lo que nos encogió la cara] (3:20–5:55)
+`{ritmo: medio, con humor; se acelera en las dietas | emoción: asombro, sorpresa}`
 
-Los dos voluntarios son el propio James Nestor y un sueco llamado Anders Olsson, un obsesivo de la respiración. Antes de empezar, el doctor Jayakar Nayak, jefe de investigación de la nariz en Stanford, les hace de todo: sangre, hormonas, olfato, pulmones. Luego, la silicona.
+La historia empieza con fuego.
 
-Y a vivir.
+Durante cientos de miles de años comimos crudo: masticar era una chamba de horas. Luego aprendimos a cocinar. Masticar menos nos ahorró energía, esa energía se fue al cerebro… y el cerebro le robó espacio a la cara. La boca se achicó y la mandíbula se adelgazó.
 
-Día uno: se sienten raros.
-Día tres: se sienten fatal.
-Para el día cinco, ya no es chistoso.
+Pero eso fue lentísimo. Nos dio tiempo de adaptarnos.
 
-La presión arterial de Nestor subió en promedio trece puntos: hipertensión etapa uno. La variabilidad de su frecuencia cardiaca, que es como un termómetro de qué tan estresado anda tu sistema nervioso, se desplomó. El pulso, arriba. La claridad mental, por los suelos. Y los datos de Olsson, igualitos.
+⚡ El madrazo llegó hace apenas unos trescientos años. Por primera vez en la historia de la humanidad, alguien podía pasarse la vida entera comiendo pura comida procesada. Nada fresco. Nada crudo. Nada natural.
 
-Pero lo peor llegaba de noche.
+Las latas fueron un inventazo: la comida duraba meses. Pero también la volvieron blanda y pastosa.
 
-⚡ La primera noche, los ronquidos de Nestor aumentaron un mil trescientos por ciento. Al final del experimento, el aumento era de casi cinco mil por ciento. Empezó a tener apnea del sueño: en su peor noche, unos veinticinco episodios en los que su oxígeno caía por debajo del ochenta y cinco por ciento. Y abajo del noventa, la sangre ya no alcanza a llevar suficiente oxígeno a tus tejidos.
+¿Y qué pasó? Las bocas se hicieron más chicas. Los dientes chuecos se multiplicaron por diez. Y los problemas para respirar se dispararon.
 
-Cada mañana escuchaban las grabaciones. Al principio se reían. Luego, no. Porque lo que oían, en palabras de Nestor, eran "hombres estrangulados por su propio cuerpo".
+Ahora, a lo mejor estás pensando: "Ah, ya sé. El problema es la comida chatarra. Hay que comer sano".
 
-Y había más. Sed toda la noche. Ganas de ir al baño a cada rato. Respirar por la boca te hace perder mucha más agua. Y cuando no llegas al sueño profundo, tu cuerpo no suelta bien una hormona que le dice a los riñones: "aguanta, no es hora de hacer pipí".
+Mmm… no exactamente.
 
-Para colmo, dentro de la nariz tapada de Nestor empezó a crecer una bacteria. Unos días más, y aquello se volvía sinusitis.
+Un dentista, Weston Price, viajó por el mundo buscando pueblos que todavía comían como antes. En Alaska, foca y pescado. Los masái, en África, sangre de vaca, leche y algo de carne. En Canadá, puros animales salvajes. Unos casi carnívoros, otros casi vegetarianos.
 
-Ahora, una pregunta incómoda. ¿Amaneces con la boca seca? ¿Te paras al baño a las tres de la mañana? ¿Despiertas cansado aunque dormiste ocho horas?
+Dietas totalmente distintas. Y todos con lo mismo: dientes casi perfectos, bocas anchas, narices amplias.
 
-No te estoy diagnosticando nada, eh. Pero el libro cita un informe de la Clínica Mayo según el cual mucho del insomnio crónico, que durante años se vio como algo psicológico, en realidad es un problema de respiración.
+⚡ Entonces el problema no era tanto *qué* comíamos.
 
-Y aquí va una parte del libro que me encanta, porque es mexicana. Aparece alguien que creció en Puebla y cuenta que, de niño, los maestros se paseaban entre las bancas y si te cachaban con la boca abierta… ¡pap!, zape en la nuca. Respirar por la boca era de mala educación `[VERIFICAR: quién es el personaje]`.
+Era cuánto *masticábamos*.
 
-No te digo que regresemos al zape. Pero esos maestros, sin un solo estudio de Stanford, ya sabían algo.
+Nuestros antepasados masticaban horas, y esa presión hacía crecer la cara ancha y fuerte. Hoy, hasta lo "sano" es blandito: el licuado, la avena, el aguacate.
 
-Porque cuando Nestor y Olsson por fin se quitaron la silicona, la nariz empezó a hacer cosas que ningún órgano "de repuesto" debería poder hacer. 🪝
+¿Quieres saber cómo andas tú? Hay dos pruebas que puedes hacer frente al espejo.
+
+La primera: abre la boca y mira al fondo. ¿Ves la campanita que cuelga, la úvula? Si la ves completa y arriba, buena señal. Si está muy abajo o ni la ves, hay más riesgo de que algo te tape la garganta al dormir. Es la escala de Friedman.
+
+La segunda: jala suavemente tu mejilla hacia afuera, junto a la nariz, y respira. Si el aire entra mucho más fácil, puede que tus fosas nasales se cierren de más al inhalar. Es la maniobra de Cottle. `[VERIFICAR: descripción de la maniobra]`
+
+No es diagnóstico, eh. Pero si alguna te salió rara, platícalo con tu doctor.
+
+¿La solución? Masticar más: comida más dura, más cruda. Una especialista del libro hasta recomienda mascar chicle un rato al día.
+
+Pero antes de ir por el chicle, hay un órgano al que le debemos una disculpa. 🪝
 
 ---
 
-## [LA NARIZ – El órgano más subestimado] (8:55–12:30)
+## [LA NARIZ – El órgano subestimado] (5:55–8:05)
 `{ritmo: medio, juguetón | emoción: asombro, risa}`
 
-Durante el último siglo, la medicina occidental trató a la nariz como un extra. Si funciona, chido. Si no, para eso está la boca. En los Institutos Nacionales de Salud de Estados Unidos hay veintisiete departamentos: pulmones, ojos, piel, oídos… La nariz no tiene ni uno.
+La nariz no es un adorno, ni un tubo de repuesto. Es una máquina.
 
-Y la nariz es una máquina.
+Calienta, humedece, limpia y frena el aire para que tus pulmones le saquen más jugo. Y por la nariz tu cuerpo produce hasta seis veces más óxido nítrico, que abre los vasos sanguíneos. Resultado: absorbes como un dieciocho por ciento más de oxígeno que por la boca.
 
-Adentro tienes unos huesitos enroscados como conchas, los cornetes, que calientan, humedecen, frenan y presurizan el aire. Tienes una capa de moco que avanza como banda transportadora, unos dieciocho metros al día, llevándose polvo y bichos directo a tu estómago, donde el ácido los destruye.
+Y luego está el moco. Es tu primera línea de defensa: una banda transportadora que avanza unos dieciocho metros al día, llevándose polvo y bacterias directo a tu estómago, donde el ácido los destruye.
 
-Sí: te tragas tus mocos todo el día. Ya lo sospechabas, ¿no?
+O sea, te tragas tus mocos todo el día. De nada.
 
-⚡ Y ahora, el dato que nadie te contó en la escuela. El interior de tu nariz está cubierto del mismo tejido eréctil que tienen los genitales. Tu nariz tiene… erecciones. Se llena de sangre y se hincha. Y está tan conectada con lo sexual que hay gente que, con solo pensar en sexo, se congestiona y empieza a estornudar sin parar. Tiene nombre y todo: rinitis de luna de miel.
+⚡ Ahora, el dato que nadie te contó en la escuela. Tu nariz está forrada del mismo tejido eréctil que los genitales: se llena de sangre y se hincha. Hay gente que, con solo pensar en sexo, se congestiona y empieza a estornudar. Tiene nombre: rinitis de luna de miel.
 
-No me lo estoy inventando.
+Neta.
 
-Más en serio: respirar por la nariz puede multiplicar por seis el óxido nítrico en tu cuerpo, una molécula que abre los vasos sanguíneos. ¿Te suena eso de "abre los vasos sanguíneos"? Así funciona el Viagra. En parte por eso, por la nariz absorbes alrededor de un dieciocho por ciento más de oxígeno que por la boca.
+Y esa hinchazón no es pareja. En 1895, un médico alemán, Richard Kayser, se dio cuenta de que un orificio de la nariz se congestiona mientras el otro se abre… y luego se turnan, cada media hora o cada cuatro horas. Se llama ciclo nasal.
 
-¿Y eso cuánto importa? En los noventa, un entrenador llamado John Douillard subió a unos ciclistas a bicis fijas y les fue subiendo la resistencia. Primero, respirando por la boca: al final iban jadeando, ahogados. Luego, lo mismo, pero solo por la nariz.
+Según el libro, el lado derecho sería el acelerador: más alerta, el pulso arriba. El izquierdo, el freno: más calma. ¿Está comprobado del todo? No, así que tómalo como pista curiosa. Pero la próxima vez que andes acelerado, tápate el lado derecho y respira un ratito por el izquierdo.
 
-⚡ Uno de ellos pasó de cuarenta y siete respiraciones por minuto… a catorce. Mismo esfuerzo. Menos de un tercio de las respiraciones.
+El libro también habla de una moda: taparse la boca con cinta para dormir. Ahí yo no te la recomiendo. Bloquear una vía de aire mientras duermes puede darte sensación de ahogo y bajar tu oxigenación. Y es incomodísimo.
 
-Y esto no lo descubrió un laboratorio. En los años 1830, un pintor gringo, George Catlin, se fue a recorrer las Grandes Llanuras y convivió con unas cincuenta tribus nativas. Le impresionaron sus cuerpos: altísimos, fuertes, con dientes "tan regulares como las teclas de un piano". Les preguntó su secreto.
+La buena noticia va por otro lado: si vuelves a respirar por la nariz, tu cuerpo empieza a recuperarse. El aire que entra por ahí empuja los tejidos de la garganta y los acostumbra a quedarse abiertos.
 
-Respirar por la nariz.
-
-Las mamás les cerraban suavemente los labios a los bebés después de comer. Y en la noche, si abrían la boca dormidos, se la cerraban con un pellizquito.
-
-Catlin, de niño, roncaba y vivía enfermo; de adulto llegó a escupir sangre. Se obligó a respirar por la nariz, de día y de noche… y se curó. Tanto, que dijo que, si pudiera dejarle un solo lema a la humanidad, serían tres palabras: "CIERREN-LA-BOCA".
-
-En Stanford pasó algo parecido. Respirando por la nariz y practicando técnicas, la presión de Nestor bajó de ciento cuarenta y dos a ciento veinticuatro. Su variabilidad cardiaca subió más de ciento cincuenta por ciento. Los ronquidos casi desaparecieron.
-
-Ahora, para ser honesto contigo: en esa fase, Nestor también se ponía un pedacito de cinta en la boca para dormir. Ahí yo no lo sigo. Bloquear una vía de aire mientras duermes puede darte sensación de ahogo, puede bajar tu oxigenación si tu nariz no está al cien… y es incomodísimo. La lección no es la cinta. La lección es la nariz.
-
-Muy bien. Ya respiras por la nariz. Felicidades.
+Bueno. Ya respiras por la nariz. Felicidades.
 
 Ahora viene lo raro: probablemente estás respirando demasiado. 🪝
 
 ---
 
-## [EL VILLANO ERA EL HÉROE – Dióxido de carbono] (12:30–16:25)
-`{ritmo: calmado al explicar, rápido en las historias | emoción: sorpresa, rebeldía}`
+## [EL GIRO – Respiras demasiado] (8:05–10:15)
+`{ritmo: calmado al explicar, rápido en los remates | emoción: sorpresa, rebeldía}`
 
-Cuando alguien está nervioso, ¿qué le dices? "Respira hondo." Bien profundo. Llénate de aire.
+Te hago una pregunta. Cuando bajas de peso… ¿la grasa a dónde se va?
 
-Pues según Olsson, ese es casi el peor consejo que te pueden dar.
+¿Se quema? ¿La sudas? ¿Se va al baño?
 
-Para entenderlo, te hago una pregunta. Cuando bajas de peso… ¿la grasa a dónde se va? ¿Se quema? ¿La sudas? ¿Se va al baño?
+⚡ La exhalas. De cada cuatro kilos y medio de grasa que pierdes, casi cuatro salen por tus pulmones, convertidos en dióxido de carbono y un poquito de vapor de agua.
 
-⚡ Sale por tu boca. Bueno, por tus pulmones. De cada cuatro kilos y medio de grasa que pierdes, casi cuatro salen exhalados, convertidos en dióxido de carbono y un poco de vapor de agua. Tus pulmones son, literalmente, tu sistema para bajar de peso.
+Y no, no vas a adelgazar resoplando frente al espejo. Ya sé lo que estabas pensando.
 
-Y no, no vas a adelgazar resoplando frente al espejo. Sé lo que estabas pensando.
+Ese gas siempre ha tenido mala fama. Pero hace más de un siglo, un fisiólogo danés, Christian Bohr, descubrió que el oxígeno, para soltarse de la sangre y meterse a tus células, necesita al dióxido de carbono. A eso se le llama efecto Bohr.
 
-Ese gas, el dióxido de carbono, siempre ha tenido fama de basura. Lo que exhalas. Lo que contamina. Pero hace más de un siglo, un fisiólogo danés, Christian Bohr, descubrió que el oxígeno, para soltarse de la sangre y meterse a tus células, necesita al dióxido de carbono.
+Imagínalo así: el oxígeno es un pasajero en el camión de tu sangre, y el dióxido de carbono es el que toca el timbre para que se baje. Sin timbre, el pasajero se queda arriba, dando vueltas.
 
-Piénsalo así: el oxígeno es un pasajero en el camión de tu sangre, y el dióxido de carbono es el que toca el timbre para que se baje. Sin timbre, el pasajero se queda arriba dando vueltas. Por eso, si respiras de más y sacas demasiado dióxido de carbono, puedes tener la sangre llenísima de oxígeno… y tus tejidos con hambre.
+Por eso, si respiras de más y sacas demasiado dióxido de carbono, puedes tener la sangre llena de oxígeno… y tus tejidos con hambre.
 
-Y aquí entra un médico ucraniano: Konstantín Buteyko.
+Otro fisiólogo, Yandell Henderson, forzó a unos perros a respirar de más: terminaron agitados y confundidos, como en un ataque de pánico.
 
-Años cincuenta. Buteyko tiene veintinueve años y una hipertensión salvaje: su presión llega a doscientos doce. Dolores de cabeza, de estómago, de corazón. Los médicos le dan un año de vida.
+Y aquí está el problema: casi todos respiramos de más. Hasta una cuarta parte de la gente vive con hiperventilación crónica. Igual que nos acostumbramos a comer de más, nos acostumbramos a respirar de más.
 
-Una noche de octubre, solo en un cuarto del hospital, ve su reflejo en la ventana. Un tipo flaco, ojeroso, respirando pesado, con la boca abierta. Los hombros le suben y le bajan. No está haciendo ejercicio… pero respira igualito que sus pacientes terminales.
+"Hiper" significa por encima: respirar más de lo que tu cuerpo necesita. "Hipo", por debajo: respirar menos. Y cuando vives en "hiper", tu cuerpo compensa. Los riñones sueltan bicarbonato para equilibrar tu sangre, y con él se van minerales como el magnesio. Con los años, eso desgasta nervios, músculos… y hasta huesos.
 
-Entonces prueba algo. Respira menos. Relaja el pecho. Sorbe el aire por la nariz.
+Ojo con una trampa: respirar menos no es lo mismo que respirar lento. Puedes respirar lentísimo, pero tan profundo que metes el doble del aire que necesitas. La meta son las dos: lento… y menos.
 
-Y en unos minutos, los dolores desaparecen.
-
-Ahí se le ocurre la pregunta que le cambia la vida: ¿y si respirar de más no era una consecuencia de su enfermedad… sino la causa?
-
-Buteyko armó todo un método para respirar menos. Y aquí te debo dos cosas: respeto y escepticismo. Al final de su vida, Buteyko se puso medio místico. Decía que su método curaba más de cien enfermedades y hasta despertaba la intuición. Por cosas así, buena parte de la medicina lo tachó de pseudociencia.
-
-Pero luego llegaron los ensayos. En Dallas, la investigadora Alicia Meuret le dio a ciento veinte asmáticos un aparatito que mide el dióxido de carbono que exhalas. Tras un mes practicando respirar menos, el ochenta por ciento tuvo menos ataques. Y en Australia y otros países hubo ensayos con resultados parecidos.
-
-Meuret lo explica de una forma buenísima: quien hiperventila mete demasiado aire, pero siente que le falta. "Es casi como un error del sistema biológico."
-
-¿Que si funciona para todo? Ni de chiste. Pero aquí me inclino hacia Nestor. Con cautela… y con el pie cerca del freno.
-
-⚡ Y por si dudabas de que respirar menos te puede hacer más fuerte: Emil Zátopek, un corredor checo, entrenaba corriendo lo más rápido que podía mientras aguantaba la respiración. Se burlaban de él. Un entrenador gringo lo resumió así: "Lo hace todo mal, pero gana". En los Olímpicos de 1952 ganó el oro en cinco mil metros. Luego en diez mil. Y luego se le ocurrió correr el maratón, que nunca había corrido en su vida.
-
-También lo ganó.
-
-Porque antes tengo que contarte qué pasa cuando le das dióxido de carbono a alguien que no puede sentir miedo. 🪝
+Ahora, menos aire no significa pulmones más chiquitos. Al contrario. 🪝
 
 ---
 
-## [LA MUJER SIN MIEDO] (16:25–19:20)
-`{ritmo: lento, casi susurrado; se acelera en el clímax | emoción: intriga, tensión, escalofrío}`
+## [EXHALAR – El tamaño de tus pulmones] (10:15–12:05)
+`{ritmo: medio, narrativo | emoción: asombro, inspiración}`
 
-En Estados Unidos hay una mujer a la que los científicos llaman S. M. Tiene una enfermedad rarísima que le destruyó la amígdala, esas dos almendritas en el cerebro que funcionan como alarma del miedo.
+En Estados Unidos hubo un estudio enorme, el de Framingham. Siguieron a miles de personas durante dos décadas para descubrir qué predice cuánto vas a vivir.
 
-Y S. M. no siente miedo. Nada.
+¿La genética? ¿La dieta? ¿El ejercicio?
 
-Se le acerca a desconocidos hasta quedar a centímetros de su cara. Sale de su casa en plena tormenta a platicar con el vecino. Durante años, los investigadores intentaron asustarla. Le pusieron películas de terror. La llevaron a casas embrujadas. Le pasaron serpientes por los brazos.
+⚡ No. El tamaño de tus pulmones. Pulmones más chicos, vida más corta. Pulmones más grandes, vida más larga.
 
-Nada. Cero.
+Y el problema es que se encogen. Entre los treinta y los cincuenta pierdes como un doce por ciento de capacidad. A los ochenta, metes alrededor de un treinta por ciento menos de aire que a los veinte.
 
-Hasta que un neurocientífico, Justin Feinstein, prueba algo distinto. Le pone una mascarilla y le da una sola bocanada de aire con mucho dióxido de carbono. Nadie espera que pase nada.
+¿Se puede hacer algo? Sí. Algo tan simple como caminar o andar en bici puede aumentar tu capacidad hasta un quince por ciento.
 
-Los ojos se le abren. Se le tensan los hombros. Se agarra de la mesa.
+Pero quien mejor lo entendió no fue un médico. Fue un maestro de coro.
 
-"¡Ayúdenme! ¡No puedo respirar!"
+Carl Stough notó que sus cantantes tomaban aire desesperados… y lo soltaban a medias. En 1958 lo llamó un hospital de veteranos: "Usted debe de saber algo sobre la respiración que nosotros no sabemos". Sus nuevos alumnos tenían enfisema. Algunos ya no podían ni caminar.
 
-Le arrancan la mascarilla. Tarda como un minuto en calmarse.
+Stough se dio cuenta de que su problema no era meter aire. Era sacarlo. Su diafragma, ese músculo debajo de los pulmones al que le dicen "el segundo corazón", apenas se movía.
 
-⚡ Por primera vez en treinta años, S. M. sintió miedo. Un ataque de pánico completo. Y su cerebro no había cambiado: la amígdala seguía sin estar ahí. Después lo repitieron con dos gemelas alemanas con la misma enfermedad. Mismo resultado.
+Así que los puso a contar del uno al diez, una y otra vez, en una sola exhalación. Hasta quedarse sin voz. Moviendo solo los labios.
 
-O sea: los libros de texto estaban equivocados. La amígdala no es la única alarma del miedo. Hay otra, más profunda, más vieja, que compartes con casi cualquier ser vivo: el terror de no poder tomar el siguiente respiro.
+Algunos volvieron a decir una frase completa. Otros volvieron a caminar. Uno que no aguantaba quince minutos sin oxígeno extra… aguantó ocho horas.
 
-Y lo más loco es lo que vigila esa alarma. No es el oxígeno. Es el dióxido de carbono. Unas neuronas en la base de tu cerebro miden cuánto tienes en la sangre, y con eso deciden cuándo y cuánto respiras.
+Le dijeron que eso era imposible. Las radiografías le dieron la razón a él.
 
-Ahora junta las piezas. Mucha gente con ansiedad o con ataques de pánico respira de más, todo el día. Su cuerpo se acostumbra a tener poquito dióxido de carbono, y cuando sube tantito… alarma. Tienen ansiedad porque hiperventilan, e hiperventilan porque tienen ansiedad. Una rueda de hámster.
+La lección: para que entre aire bueno, primero tienes que sacar todo el que traes.
 
-Feinstein va más lejos. Sugiere que la ansiedad, en su origen, quizá ni siquiera sea un problema psicológico, sino una reacción natural a una emergencia dentro del cuerpo.
+Y si sacar el aire es poderoso… aguantarlo, también. 🪝
 
-¿Que si me lo creo? Puede ser. Él mismo dice que es una hipótesis y que hay que probarla con rigor. Así que si llevas un tratamiento, no lo dejes por un video de YouTube. Pero qué idea tan poderosa.
+---
 
-Y una más. Muchísima gente que trabaja frente a una pantalla deja de respirar sin darse cuenta mientras lee sus correos. Le dicen "apnea del email".
+## [AGUANTARLA] (12:05–13:15)
+`{ritmo: lento, íntimo | emoción: intriga → complicidad}`
 
-Así que, de verdad: ¿cuándo fue la última vez que sacaste todo el aire mientras veías este video?
+Aguantar la respiración suena a algo malo. Y a veces lo es. Pero hay una diferencia enorme entre aguantarla sin querer… y aguantarla a propósito.
+
+Sin querer es la apnea del sueño. O algo que seguramente te está pasando hoy: la apnea del email. Frente a una pantalla, revisando mensajes, mucha gente deja de respirar sin darse cuenta. A veces medio minuto. O más. Y eso podría contribuir a los mismos problemas que la apnea del sueño.
+
+A propósito es otra historia. Aguantar la respiración de forma controlada sube un poco tu dióxido de carbono y entrena a tu cuerpo a tolerarlo. Y eso importa, porque mucha gente con ansiedad respira de más y entra en pánico en cuanto el dióxido de carbono sube tantito. Hay investigadores que creen que entrenar esto podría ayudar con la ansiedad.
+
+¿Que si es cierto? Puede ser. Se está estudiando. Así que no dejes ningún tratamiento por un video. Pero la idea es poderosa.
+
+Ahora, de verdad: ¿cuándo fue la última vez que soltaste todo el aire mientras veías este video?
 
 …Exacto.
 
-Entonces, ¿cuál es la forma correcta de respirar? La respuesta lleva siglos colgada del cuello de muchas abuelitas. 🪝
-
 ---
 
-## [LA RESPIRACIÓN PERFECTA – Cierre] (19:20–22:30)
-`{ritmo: calmado, cálido, con pausas largas | emoción: revelación, paz; alegría al final}`
+## [CIERRE – La respiración perfecta] (13:15–15:00)
+`{ritmo: calmado, cálido, con pausas largas | emoción: paz, revelación; alegría al final}`
 
-Después de diez años investigando, Nestor llega a una fórmula que, confiesa, le da un poco de pena de lo simple que es.
+Entonces, ¿cómo se respira bien?
 
-Inhala unos cinco segundos y medio. Exhala otros cinco y medio. Eso da unas cinco respiraciones y media por minuto, y alrededor de cinco litros y medio de aire.
+Después de diez años investigando, Nestor llegó a una fórmula tan simple que hasta le dio pena: inhala unos cinco segundos y medio. Exhala otros cinco y medio. Eso da unas cinco respiraciones y media por minuto, y unos cinco litros y medio de aire.
 
-Cinco punto cinco. Cinco punto cinco. Cinco punto cinco.
+La respiración perfecta.
 
-⚡ Y aquí viene el giro. Unos investigadores en Italia midieron a gente rezando el rosario, y a otra recitando mantras de yoga. ¿Y adivina a qué ritmo terminaban respirando? A casi el mismo: unas seis veces por minuto. Pegadito a la respiración perfecta. `[VERIFICAR: Bernardi et al., BMJ, 2001]`
+Hagámosla. Ahorita. Cierra la boca.
 
-Nestor lo dice así: la respiración lenta también tiene otro nombre. Oración.
-
-No te estoy diciendo que reces, ni que dejes de hacerlo. Lo que yo pienso es esto: las religiones, hasta donde sé, buscan darle paz a quien cree en ellas. Y una buena respiración ofrece algo muy parecido. A lo mejor por eso tantas culturas, sin conocerse, llegaron al mismo ritmo.
-
-Una investigadora, Patricia Gerbarg, dice algo de esta técnica que me encanta: "Nadie sabe que lo estás haciendo". En el tráfico. En una junta. Antes de un examen.
-
-Así que hagámoslo. Ahorita.
-
-Cierra la boca. Por la nariz… inhala… dos… tres… cuatro… cinco…
+Por la nariz… inhala… dos… tres… cuatro… cinco…
 
 Y suelta… dos… tres… cuatro… cinco…
 
-Eso. Así de fácil.
+Eso.
 
-¿Te acuerdas de la pregunta del principio? ¿Por dónde estabas respirando? ¿Y te acuerdas de los dos hombres de la silicona? ¿Qué pasó cuando se la quitaron?
+Ahora, una advertencia que el propio Nestor hace al final: la respiración no cura enfermedades. No quita un cáncer ni una embolia. Para eso está la medicina, y qué bueno que existe. Pero para mucho de lo que nos pasa todos los días, vale la pena jalar este hilo.
 
-Al volver a la nariz, su presión bajó, su dióxido de carbono regresó a niveles normales y, en dos días, ninguno de los dos roncaba. Y la bacteria que había empezado a crecer en la nariz de Nestor desapareció sola, sin medicamento.
+Y si tuviera que resumirte el libro en una ráfaga, sería esta:
 
-No se curaron con una pastilla nueva. Se curaron con algo que ya traían puesto.
+Cierra la boca.
+Respira por la nariz.
+Exhala todo.
+Mastica.
+Respira más… de vez en cuando.
+Aguanta la respiración.
+Porque la manera en que respiramos importa.
 
-Esa es la idea que este libro me dejó en la cabeza: no estamos rotos. Se nos olvidó. Somos los peores respiradores del reino animal, sí. Pero lo que se aprendió mal se puede volver a aprender. Con la boca cerrada. Masticando más. Sacando el aire completo. Y, de vez en cuando, respirando menos.
+¿Y los cráneos del principio? ¿Estamos condenados a la cara chiquita y los dientes chuecos?
 
-Y ojo, el propio Nestor lo aclara al final: respirar bien no cura un cáncer ni una embolia. Para eso está la medicina, y qué bueno que existe. Pero para mucho de lo que nos pasa todos los días, este hilo vale la pena jalarlo.
+Acuérdate de los monos de Harvold. Después de un par de años respirando por la boca, les quitaron la silicona. Poco a poco volvieron a respirar por la nariz… y sus caras volvieron a cambiar. La mandíbula se fue hacia adelante. Las vías se abrieron.
 
-Me quedé con ganas de contarte del maestro de coro que puso a caminar a pacientes con enfisema, de los monjes que derriten la nieve con su cuerpo y del holandés que corre descalzo sobre el hielo. Eso te lo dejo a ti. *Respira*, de James Nestor.
+⚡ Seis meses después, los monos volvían a parecer monos.
 
-Léelo con la boca cerrada.
+No estamos rotos. Se nos olvidó.
 
-Y si este video te hizo darte cuenta de cómo respiras, suscríbete. Aquí leemos libros que te cambian la forma de ver algo. Por la nariz, eso sí.
+*Respira*, de James Nestor. Los monjes que se calientan en la nieve te los cuento en los shorts. Aunque, la neta, mejor léelo tú.
+
+Y si este video te hizo cerrar la boca, suscríbete. Por la nariz, eso sí.
 
 ---
 
 ## Datos del guion
 
-- **Conteo de palabras narradas:** ~3,400
-- **Duración estimada:** ~22 minutos (a ~150–155 palabras por minuto, más las pausas de la respiración guiada). El gancho fuerte ocupa los primeros 25 segundos, hasta "Es alguien ahogándose".
-- **Por qué dura esto:** el video se sostiene en cinco historias con giro propio (las calaveras, Stanford, la nariz, Buteyko y la mujer sin miedo) más un cierre práctico. Si recortara una, el arco de "estamos rotos → no, se nos olvidó" pierde un escalón; si agregara otra, empezaría a sentirse como lista.
+- **Conteo de palabras narradas:** ~2,320
+- **Duración estimada:** ~15 minutos (a ~155 palabras por minuto, con las pausas de la respiración guiada)
+- **Por qué dura esto:** marcaste puntos de 10 de los 12 capítulos. Cada uno lleva lo mínimo para entenderse y no hay datos extra; bajar de aquí implicaría mandar capítulos completos a los shorts.
 
-### Ideas del resumen usadas
-- Experimento de Stanford (fase boca y fase nariz): presión, variabilidad cardiaca, ronquidos, apnea, bacteria, sed y vasopresina.
-- El médico no revisa la respiración ("Nosotros tratamos emergencias"), contado con tu postura sobre la medicina.
-- Cráneos de la Colección Morton y Marianna Evans: los "peores respiradores del reino animal".
-- Cocinar → cerebro más grande → cara más pequeña; laringe, habla y atragantamiento; la comparación con los pugs.
-- Industrialización y comida blanda; estatura de los británicos; "cuanto mejor es la escuela, peores son los dientes"; los cerdos de Corruccini; 90 % de maloclusión.
-- Monos de Harvold (de pasada).
-- Insomnio como problema respiratorio (Clínica Mayo); ratas japonesas en el laberinto.
-- El zape en Puebla.
-- Nariz: cornetes, moco, tejido eréctil y rinitis de luna de miel, ciclo nasal (con escepticismo), óxido nítrico y 18 % más de oxígeno.
-- Ciclistas de Douillard; George Catlin y "CIERREN LA BOCA".
-- La cinta en la boca: se menciona con tu desacuerdo.
-- La grasa sale por los pulmones; efecto Bohr; Buteyko (con respeto, escepticismo y cautela); estudio de Brisbane; Meuret con asmáticos; Zátopek.
-- Respirar menos no es lo mismo que respirar lento.
-- S. M., Feinstein y las gemelas; quimiorreceptores; ansiedad como hipótesis ("puede ser"); apnea del email.
-- La respiración perfecta de 5.5 segundos; la oración y el rosario; Gerbarg; el epílogo (la respiración no lo cura todo).
+### Puntos que marcaste, en el video largo
+- **Introducción:** la respiración como pilar olvidado; boca contra nariz; qué es la respiración.
+- **Cap. 1:** la dieta blanda y la falta de masticación; el patrón de crecimiento vertical; la Colección Morton (gancho); la dieta cruda y el fuego.
+- **Cap. 2:** las consecuencias de respirar por la boca (sin el experimento); los monos de Harvold (daño y recuperación); la baja oxigenación; el 40 % más de agua; ronquidos y apnea; la recuperación al volver a la nariz.
+- **Cap. 3:** los beneficios de la nariz; el ciclo nasal de Kayser y los dos orificios; la relación con lo sexual; el moco como primera defensa; la crítica a la cinta.
+- **Cap. 4:** el estudio Framingham; la pérdida de capacidad con la edad; cómo aumentarla; Carl Stough.
+- **Cap. 5:** la importancia del dióxido de carbono; perder peso al exhalar; el efecto Bohr; los perros de Henderson (de pasada).
+- **Cap. 6:** respiramos de más; menos no es lo mismo que lento; qué pasa si respiras de más; hiper e hipoventilación; la respiración perfecta de 5.5.
+- **Cap. 7:** la vida entera con comida procesada; los enlatados; las consecuencias de la dieta moderna; los ejemplos de dietas antiguas; nos hace falta masticar; la escala de Friedman; la maniobra de Cottle; el chicle (una línea).
+- **Cap. 9:** los beneficios del dióxido de carbono; aguantar la respiración de forma controlada; la apnea del email.
+- **Epílogo:** "la respiración no cura enfermedades" y las 7 reglas.
 
-### Ideas que se fueron a los shorts
-- Carl Stough, el maestro de coro y los pacientes con enfisema → Short 8
-- Tummo, los monjes de Benson y Wim Hof (como curiosidad) → Short 9
-- Mewing y la familia Mew (con escepticismo) → Short 6
-- Somos de los únicos animales que se atragantan con comida (versión corta) → Short 3
-- Tejido eréctil de la nariz (versión corta) → Short 1
-- (Fuera del largo) Ciclo nasal: derecho acelerador, izquierdo freno → no entró; queda para un short futuro
-- La grasa sale por los pulmones (versión corta) → Short 2
-- Zátopek (versión extendida) → Short 4
-- Apnea del email → Short 5
-- La mujer sin miedo (versión independiente) → Short 7
+### Puntos que van solo a shorts
+- **Cap. 1:** la forma de la nariz según el clima → Short 01
+- **Cap. 7:** el mewing → Short 04
+- **Cap. 8:** tummo, Wim Hof y los beneficios del tummo → Shorts 07 y 08
+- **Cap. 10:** las técnicas de respiración y el yoga → Short 09
 
-### Ideas que no entraron en ningún lado (por si las quieres después)
-- Katharina Schroth y la escoliosis; el estudio Framingham sobre capacidad pulmonar; los Cinco Ritos Tibetanos.
-- Maffetone y la fórmula 180 menos tu edad; Belfor y el hueso nuevo en la cara.
-- Respiración holotrópica; Swami Rama; el prana y Szent-Györgyi; el valle del Indo y el yoga original.
-- La terapia con CO₂ de Royat; Henderson y los perros; Kling y los monos.
+### Puntos que van en los dos
+- La grasa que sale al exhalar → Short 02
+- El moco como primera defensa → Short 03
+- El chicle → Short 05
+- La apnea del email → Short 06

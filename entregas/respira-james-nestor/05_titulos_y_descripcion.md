@@ -4,26 +4,25 @@
 
 | # | Título | Caracteres | Miniatura sugerida |
 |---|---|---|---|
-| 1 | Respira de James Nestor: "respira hondo" es el peor consejo | 59 | #3 |
-| 2 | Respira (James Nestor): llevas toda la vida respirando mal | 58 | #9 |
-| 3 | Somos los peores respiradores del planeta \| Respira, J. Nestor | 62 | #2 o #6 |
-| 4 | Se taparon la nariz 10 días: el experimento de Respira (Nestor) | 63 | #1 |
-| 5 | Respirar por la boca te enferma: lo que revela Respira de Nestor | 64 | #4 |
-| 6 | La respiración perfecta: 5.5 segundos \| Respira, James Nestor | 61 | #5 |
-| 7 | Tu cara cambió por cómo comes y respiras \| Respira, James Nestor | 64 | #7 |
-| 8 | Respira, de James Nestor: por qué respirar MENOS te hace bien | 61 | #3 |
-| 9 | Respira de James Nestor: la mujer sin miedo y el gas del pánico | 63 | #8 |
-| 10 | James Nestor y Respira: el arte olvidado de respirar bien | 57 | #10 |
+| 1 | Respira de James Nestor: llevas toda la vida respirando mal | 59 | #2 |
+| 2 | Respirar por la boca te cambia la cara \| Respira, James Nestor | 62 | #3 |
+| 3 | Por qué tus dientes están chuecos (y no es solo genética) \| Respira | 67 | #5 |
+| 4 | Respira, de James Nestor: la respiración perfecta en 5.5 | 56 | #8 |
+| 5 | Probablemente respiras demasiado \| Respira, de James Nestor | 59 | #7 |
+| 6 | Cráneos de hace miles de años vs. tú \| Respira, James Nestor | 60 | #1 |
+| 7 | Te falta masticar (y por eso respiras mal) \| Respira, J. Nestor | 63 | #4 |
+| 8 | ¿Boca o nariz? Lo que cambia todo \| Respira, de James Nestor | 60 | #2 |
+| 9 | Respira, de James Nestor: el arte olvidado de respirar bien | 59 | #9 o #10 |
+| 10 | La grasa se va al exhalar y otras verdades de Respira (Nestor) | 62 | #6 |
 
-**Mi recomendación:** el **#4 con la miniatura #1** como versión principal: es el gancho del video, despierta morbo y se cumple en los primeros segundos. Como alternativa para A/B, el **#1 con la miniatura #3**.
+**Mi recomendación:** el **#6 con la miniatura #1** (los cráneos) como versión principal, porque es el gancho del video y se cumple en los primeros segundos. Como alternativa para A/B, el **#7 con la miniatura #4** (el licuado).
 
 ---
 
 ## Descripción del video largo
 
-Llevas toda la vida haciendo mal lo único que haces más de 20 mil veces al día 😮‍💨
-Dos hombres se taparon la nariz 10 días, una mujer que no sentía miedo entró en pánico con un solo respiro y un médico desahuciado descubrió que el problema era respirar de más.
-Al final te dejo la respiración "perfecta", y dura 5.5 segundos 🫁
+Hace miles de años nadie usaba brackets… y todos tenían los dientes derechos 🦷
+La culpa de que hoy no sea así está en tu plato y en tu boca abierta. Aquí te cuento cómo respirar por la nariz, masticar más y respirar *menos* puede cambiarlo, y te dejo la respiración perfecta: 5.5 😮‍💨
 
 📖 *Respira*, de James Nestor
 
