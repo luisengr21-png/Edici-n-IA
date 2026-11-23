@@ -1,0 +1,12 @@
+{
+  "proveedor": "ElevenLabs",
+  "voice_id": "qKiF0EEU7wtRm1G2mLMh",
+  "nombre_voz": "Pablo - Energetic Mexican Spanish",
+  "modelo": "eleven_v4",
+  "tomas_por_seccion": 1,
+  "ajustes": {
+    "nota": "eleven_v4 no tiene velocidad ni estabilidad ajustables; el ritmo y la emoción se controlan con etiquetas de audio ([curious], [excited], [softly], [pause], [laughs]...), puntuación y mayúsculas puntuales.",
+    "pausa_entre_secciones_seg": 0.7
+  },
+  "elegida_en": "Respira – James Nestor (muestra pablo_toma1.mp3)"
+}

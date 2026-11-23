@@ -24,4 +24,4 @@
 - Leer cambia la manera de ver las cosas; el narrador lo contagia de forma positiva, nunca como sermón. *(Prompt maestro)*
 
 ## Libros ya trabajados
-- *Respira* – James Nestor *(guiones reescritos solo con lo importante; audio pendiente de visto bueno)*
+- *Respira* – James Nestor *(guiones y audio entregados; voz: Pablo)*
