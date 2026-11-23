@@ -77,12 +77,24 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 Para cada short, además del video, entregar:
 - **un título** recomendado (máximo 60–70 caracteres, con gancho y palabra clave);
 - **una descripción** breve y alegre (1–2 líneas con algún emoji y 3–5 hashtags, incluido #Shorts);
-- **un fotograma para usar como miniatura** (1080×1920, JPG), elegido del propio short, en `entregas/<video>/video/short_0N_miniatura.jpg`.
+- **una miniatura diseñada** (1080×1920, JPG) en `entregas/<video>/video/short_0N_miniatura.jpg`. Vigente desde el 4.º video (noviembre 2026):
+  - no es un simple fotograma: es una portada pensada para atraer clics;
+  - lleva el estilo del video (sus colores, su tipografía, sus recursos, el personaje «Tú» si aplica);
+  - un elemento principal fuerte y un texto corto de 2 a 4 palabras, grande y con acento de color;
+  - el texto complementa el título del short, no lo repite;
+  - se arma con código, con los recursos del video (fotos, cuadros de los clips, íconos y textos); no se genera con ElevenLabs.
 
-El título y la descripción van en `03_shorts.md`, en la Fase 1, y se confirman en `PENDIENTES.md`, en la Fase 2.
+El título y la descripción van en `03_shorts.md`, en la Fase 1, y se confirman en `PENDIENTES.md`, en la Fase 2. La miniatura de cada short se entrega en la Fase 2.
 
 ## Narración
 - **Siempre la misma voz en todos los videos:** ElevenLabs, voz "BRIAN CM | Young LatAm Spanish Narrator" (`LY1fdYL8QcEDyEkAT4Qq`), modelo `eleven_v4`. No cambiarla salvo que el creador lo pida o grabe su propio audio.
+- **Ritmo y emoción (desde el 5.º video):** la narración no debe sonar lineal.
+  - **Velocidad variable según lo que pide cada momento:** más rápida en enumeraciones, tensión creciente o momentos divertidos; más lenta en revelaciones, datos fuertes y momentos tristes o reflexivos; pausas antes de los giros.
+  - **Emociones que se noten en la voz:** alegría, tensión, tristeza, enojo, sorpresa, ironía o susurro, según la escena.
+  - **En el guion:** marcar estas indicaciones en cada frase o párrafo que lo amerite. Se agregan a las de siempre, por ejemplo `[MÁS RÁPIDO]`, `[MÁS LENTO]`, `[ALEGRE]`, `[TENSO]`, `[TRISTE]`, `[ENOJADO]`, `[SORPRENDIDO]`, `[TONO IRÓNICO]` y `[SUSURRO]`.
+  - **Al generar la voz:** convertir esas marcas en las etiquetas de audio de `eleven_v4` (por ejemplo `[quickly]`, `[slowly]`, `[excited]`, `[happy]`, `[nervous]`, `[sad]`, `[angry]`, `[surprised]`, `[sarcastic]`, `[whispers]`), consultando antes la guía del modelo.
+  - **Generar por bloques cortos** cuando cambie mucho la emoción, para que cada parte tenga su tono.
+  - **Revisar al escuchar** que no suene exagerado.
 
 ## Cierre de los videos
 - No hacer referencia a otros videos del canal salvo que el creador lo pida en ese video.

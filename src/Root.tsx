@@ -26,6 +26,7 @@ import {RiquezaVideo} from './riqueza/Riqueza';
 import riquezaPlan from './riqueza/plan.json';
 import {RiquezaShort} from './riqueza/Shorts';
 import riquezaShorts from './riqueza/shorts.json';
+import {MiniShort as RiquezaMiniShort} from './riqueza/MiniShorts';
 import {Thumb2 as BurnoutThumb2, Thumb3Opt as BurnoutThumb3Opt} from './burnout/Thumbs2';
 
 export const Root: React.FC = () => (
@@ -114,6 +115,9 @@ export const Root: React.FC = () => (
     <Composition id="LaRiquezaDeOtros" component={RiquezaVideo} durationInFrames={Math.round(riquezaPlan.duration * 30)} fps={30} width={1920} height={1080} />
     {(riquezaShorts as any[]).map((s) => (
       <Composition key={`r${s.id}`} id={`LaRiquezaDeOtros${s.id}`} component={RiquezaShort} defaultProps={{id: s.id}} durationInFrames={Math.round(s.duration * 30)} fps={30} width={1080} height={1920} />
+    ))}
+    {[1, 2, 3].map((n) => (
+      <Composition key={`rm${n}`} id={`LaRiquezaDeOtrosMiniaturaShort${n}`} component={RiquezaMiniShort} defaultProps={{n}} durationInFrames={1} fps={30} width={1080} height={1920} />
     ))}
   </>
 );

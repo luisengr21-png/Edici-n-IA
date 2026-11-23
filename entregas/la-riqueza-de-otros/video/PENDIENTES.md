@@ -8,7 +8,8 @@
 | `short_01_ladrillo-de-4000.mp4` | 1080×1920 · 30 fps · subtítulos quemados · −14 LUFS | 0:37 |
 | `short_02_heroe-o-villano.mp4` | 1080×1920 · 30 fps · subtítulos quemados · −14 LUFS | 0:36 |
 | `short_03_ford-duplico-sueldos.mp4` | 1080×1920 · 30 fps · subtítulos quemados · −14 LUFS | 0:35 |
-| `short_0N_miniatura.jpg` | 1080×1920 · fotograma de cada short, sin subtítulos | — |
+| `short_0N_miniatura.jpg` | 1080×1920 · miniatura diseñada de cada short (estilo del video) | — |
+| `short_0N_fotograma.jpg` | 1080×1920 · fotograma del short, por si prefieres una imagen del video | — |
 
 - El largo dura 13:40: 13:28 de narración más 12 s de pantalla final, con el lado derecho libre para los elementos de YouTube.
 - Los capítulos, con sus tiempos reales, ya están en `../05_titulos_y_descripcion.md`.
@@ -20,17 +21,17 @@
 ### Short 1 · `short_01_ladrillo-de-4000.mp4`
 - **Título:** En 1983 esto costaba casi 4,000 dólares 📱 (y hoy lo tienes tú)
 - **Descripción:** El primer celular pesaba casi un kilo y solo un millonario podía tenerlo 😮 Hoy lo traes en el bolsillo… gracias a la competencia. ¡Eres más rico de lo que crees! 💰 #Economia #Riqueza #Celular #Competencia #Shorts
-- **Miniatura:** `short_01_miniatura.jpg`. Es el celular «ladrillo» con «EL LADRILLO MÁS CARO» (0:02).
+- **Miniatura:** `short_01_miniatura.jpg`. El celular «ladrillo» con la etiqueta de precio, «SOLO PARA MILLONARIOS» y el sello «1983».
 
 ### Short 2 · `short_02_heroe-o-villano.mp4`
 - **Título:** Regaló 2,500 bibliotecas… pero en su fábrica hubo balazos 😳
 - **Descripción:** Andrew Carnegie fue el rico perfecto… hasta que no 👀 Una historia real que te hará ver distinto a los millonarios. ¿Tú qué opinas? 👇 #Millonarios #Historia #Riqueza #Carnegie #Shorts
-- **Miniatura:** `short_02_miniatura.jpg`. Es la silueta de Carnegie con el regalo y «¿HÉROE O VILLANO?» (0:02).
+- **Miniatura:** `short_02_miniatura.jpg`. Pantalla partida: arriba la biblioteca dorada con la carita de ángel («¿HÉROE»); abajo la acería en rojo con los guardias («O VILLANO?»); Carnegie al centro.
 
 ### Short 3 · `short_03_ford-duplico-sueldos.mp4`
 - **Título:** Ford duplicó sueldos… y le dijeron que iba a quebrar 🚗
 - **Descripción:** En 1914 todos pensaron que estaba loco 🤯 Spoiler: pagarle bien a la gente no fue caridad, fue buen negocio 💪 #Trabajadores #Economia #Empleo #HenryFord #Shorts
-- **Miniatura:** `short_03_miniatura.jpg`. Es el auto antiguo con «NADIE LE CREYÓ» (0:02).
+- **Miniatura:** `short_03_miniatura.jpg`. El auto antiguo con monedas, «SUELDO X2», «¿LOCURA?» y «Tú» preocupado junto a la gráfica que cae.
 
 ## Cambios después de tu revisión
 
