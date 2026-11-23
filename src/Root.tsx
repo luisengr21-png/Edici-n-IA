@@ -27,6 +27,7 @@ import riquezaPlan from './riqueza/plan.json';
 import {RiquezaShort} from './riqueza/Shorts';
 import riquezaShorts from './riqueza/shorts.json';
 import {MiniShort as RiquezaMiniShort} from './riqueza/MiniShorts';
+import {MiniLargo as RiquezaMiniLargo} from './riqueza/MiniLargo';
 import {Thumb2 as BurnoutThumb2, Thumb3Opt as BurnoutThumb3Opt} from './burnout/Thumbs2';
 
 export const Root: React.FC = () => (
@@ -118,6 +119,9 @@ export const Root: React.FC = () => (
     ))}
     {[1, 2, 3].map((n) => (
       <Composition key={`rm${n}`} id={`LaRiquezaDeOtrosMiniaturaShort${n}`} component={RiquezaMiniShort} defaultProps={{n}} durationInFrames={1} fps={30} width={1080} height={1920} />
+    ))}
+    {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((n) => (
+      <Composition key={`rl${n}`} id={`LaRiquezaDeOtrosMiniatura${n}`} component={RiquezaMiniLargo} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
     ))}
   </>
 );

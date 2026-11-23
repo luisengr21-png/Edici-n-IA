@@ -13,7 +13,8 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 ## Canal "sin cara" (qué significa exactamente)
 - **El creador nunca aparece**: ni su rostro, ni fotos ni videos suyos, ni avatares que lo representen.
 - **El personaje principal ilustrado SÍ lleva rostro**: ojos, cejas, mejillas y boca, con expresiones según la escena (neutral, preocupado, sonriente). Es el personaje 2D "Tú" con sudadera/capucha mostaza (`src/lujo/elements.tsx`, componente `Person`).
-- Las imágenes o clips realistas de personas van sin rostros visibles: manos, siluetas, personas de espaldas, objetos y lugares. Si un recurso que manda el creador muestra una cara, se recorta o se le avisa.
+- **Rostros en fotos y clips de stock: permitidos.** El creador tiene licencia de todos los recursos que manda, así que se usan completos aunque se vean caras de otras personas. No se recortan ni se le pide cambiarlos por eso. (Decisión del creador, noviembre 2026, en el 4.º video.)
+- En `06_recursos.md` ya no hace falta pedir «sin rostro». Solo se describe lo que debe verse.
 
 ## 1. Recursos: todo lo pone el creador (yo uso lo mínimo)
 - **Lo que yo genero se reduce al mínimo.** Las imágenes, fotos, clips, íconos, objetos, ilustraciones, fondos, cuadros de texto decorativos, marcos y overlays de cada escena **se los pido al creador**. No los dibujo por código ni los saco de otro lado.

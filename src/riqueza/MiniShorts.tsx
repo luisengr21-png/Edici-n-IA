@@ -32,18 +32,18 @@ const Titulo: React.FC<{text: string; y: number; size: number; acc?: string; rot
   );
 };
 
-const Emo: React.FC<{e: string; x: number; y: number; size: number; rot?: number; glow?: string}> = ({e, x, y, size, rot = 0, glow}) => (
+export const Emo: React.FC<{e: string; x: number; y: number; size: number; rot?: number; glow?: string}> = ({e, x, y, size, rot = 0, glow}) => (
   <div style={{position: 'absolute', left: x, top: y, transform: `translate(-50%,-50%) rotate(${rot}deg)`, fontFamily: EMOJI, fontSize: size, lineHeight: 1, whiteSpace: 'nowrap',
     filter: `${glow ? `drop-shadow(0 0 40px ${glow}) ` : ''}drop-shadow(0 20px 30px rgba(0,0,0,0.6))`}}>{e}</div>
 );
 
-const Tarjeta: React.FC<{src: string; x: number; y: number; w: number; h: number; rot?: number; border?: string; filter?: string; fit?: 'cover' | 'contain'}> = ({src, x, y, w, h, rot = 0, border = C.gold, filter, fit = 'cover'}) => (
+export const Tarjeta: React.FC<{src: string; x: number; y: number; w: number; h: number; rot?: number; border?: string; filter?: string; fit?: 'cover' | 'contain'}> = ({src, x, y, w, h, rot = 0, border = C.gold, filter, fit = 'cover'}) => (
   <div style={{position: 'absolute', left: x - w / 2, top: y - h / 2, width: w, height: h, transform: `rotate(${rot}deg)`, borderRadius: 34, overflow: 'hidden', border: `10px solid ${border}`, boxShadow: `0 0 70px ${border}66, 0 40px 80px rgba(0,0,0,0.7)`, background: '#fff'}}>
     <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: fit, filter}} />
   </div>
 );
 
-const Tu: React.FC<{x: number; y: number; s: number; pose: string; mood?: string; hold?: string; flip?: boolean}> = (p) => (
+export const Tu: React.FC<{x: number; y: number; s: number; pose: string; mood?: string; hold?: string; holdSize?: number; flip?: boolean}> = (p) => (
   <>{renderEl({k: 'person', at: -1, anim: 'none', ...p}, 2, 0)}</>
 );
 

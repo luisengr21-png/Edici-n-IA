@@ -128,3 +128,32 @@ Photorealistic conceptual photograph. A rolled-up banknote shaped like a rocket 
 **Recomendadas para empezar:**
 - **La 1 (la balanza)** con su título. Resume la pregunta del video y se entiende al instante.
 - **La 3 (la moneda partida)** para una prueba A/B: es la más llamativa en tamaño celular.
+
+---
+
+## Miniaturas listas, hechas con código (sin gastar créditos)
+
+Las 10 ideas de arriba ya están armadas en `miniaturas/`, en 1280×720 JPG. Usan el mismo estilo que las miniaturas de los shorts:
+- fondo azul marino con brillo dorado;
+- el objeto a la izquierda;
+- texto en Anton a la derecha (blanco con acento dorado, o rojo vivo en lo negativo);
+- la esquina inferior derecha libre para la duración del video.
+
+| # | Archivo | Texto | Título con el que combina |
+|---|---|---|---|
+| 1 | `miniatura_01_la-balanza.jpg` | ¿QUIÉN PESA **MÁS**? | ¿Los ricos nos perjudican o nos hacen más ricos? |
+| 2 | `miniatura_02_el-ladrillo-de-oro.jpg` | SOLO PARA **MILLONARIOS** | riqueza: por qué hoy eres más rico aunque no tengas más dinero |
+| 3 | `miniatura_03_la-moneda-partida.jpg` | ¿CUÁL **AYUDA**? | Hay 2 tipos de ricos (y solo uno te hace más rico a ti) |
+| 4 | `miniatura_04_la-alcancia-con-casco.jpg` | ¿QUIÉN LA **LLENA**? | economía: sin trabajadores no hay empresas (lo que nadie dice) |
+| 5 | `miniatura_05_el-pastel-de-monedas.jpg` | UNOS **POCOS** | ¿La riqueza se reparte de forma justa? Esto es lo que no te dicen |
+| 6 | `miniatura_06_el-rey-del-ajedrez.jpg` | ¿SABES **JUGAR**? | La economía es un juego… y así es como se gana |
+| 7 | `miniatura_07_la-llave-dorada.jpg` | ¿LA **CLAVE**? | millonarios: lo que aportan (y casi nadie te cuenta) |
+| 8 | `miniatura_08_los-engranajes.jpg` | SIN ELLOS **NADA** | La riqueza no la generan solo los empresarios |
+| 9 | `miniatura_09_el-edificio-sostenido.jpg` | DESDE **ABAJO** | Por qué un país es rico (spoiler: no es por sus millonarios) |
+| 10 | `miniatura_10_el-billete-cohete.jpg` | TE HACE **MÁS RICO** | La riqueza de otros también puede hacerte rico a ti |
+
+- La 7 lleva al personaje «Tú» con la llave.
+- La 6 usa un cuadro de tu clip del ajedrez.
+- La 2 usa tu foto del celular «ladrillo».
+
+Se generan con `node scripts/riqueza/miniaturas_largo.mjs`.
