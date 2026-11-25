@@ -129,7 +129,7 @@
 | 71 | 4:23–4:25 | «Mira cómo ha cambiado el lenguaje.» | `2D` | «Tú» sorprendido. | — | — |
 | 72 | 4:25–4:30 | «En la Inglaterra medieval, a los pobres se les llamaba "desafortunados":» | `FOTO` | Grabado antiguo de la Rueda de la Fortuna. | `foto_072.jpg` | `texto_072.png` «DESAFORTUNADOS» |
 | 73 | 4:30–4:34 | «gente a la que la diosa Fortuna no había bendecido.» | `ÍCONOS` | Una rueda de la fortuna dorada que gira despacio. | `icono_rueda_fortuna.png` | — |
-| 74 | 4:34–4:39 | «Hoy, sobre todo en Estados Unidos, se les dice de otra forma:» | `VIDEO` | Calle de una ciudad estadounidense con una bandera. | `escena_074.mp4` | — |
+| 74 | 4:34–4:39 | «Hoy, sobre todo en Estados Unidos, se les dice de otra forma:» | `VIDEO` | Calle de Nueva York con taxis amarillos y rascacielos, sin banderas. | `escena_074.mp4` | — |
 | 75 ⚡ | 4:39–4:40 | «"perdedores".» | `ÍCONOS` | Una mano haciendo la «L» de perdedor sobre la frente. | `icono_perdedor.png` | `texto_075.png` «PERDEDORES» |
 | 76 | 4:40–4:42 | «Ya casi nadie cree en la suerte.» | `ÍCONOS` | Un trébol de cuatro hojas que se marchita. | `icono_trebol.png` | — |
 | 77 | 4:42–4:47 | «Intenta decir en una entrevista que te despidieron por mala suerte…» | `VIDEO` | Entrevista de trabajo: el entrevistador escucha con escepticismo. | `escena_077.mp4` | — |

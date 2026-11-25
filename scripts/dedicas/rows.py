@@ -150,8 +150,8 @@ R('En la Inglaterra medieval a los pobres', 'FOTO', 'Grabado antiguo de la Rueda
   [('foto', 'Grabado o pintura antigua de la Rueda de la Fortuna (dominio público)', 'medieval wheel of fortune illustration')], [('DESAFORTUNADOS', CON, M)])
 R('gente a la que la diosa Fortuna', 'ÍCONOS', 'Una rueda de la fortuna dorada que gira despacio.',
   [('icono:rueda_fortuna', 'Rueda de la fortuna (rueda dorada antigua)', 'wheel of fortune icon gold')])
-R('Hoy sobre todo en Estados Unidos', 'VIDEO', 'Calle de una ciudad estadounidense con una bandera.',
-  [('video', 'Calle de una ciudad estadounidense con bandera ondeando', 'american city street flag')])
+R('Hoy sobre todo en Estados Unidos', 'VIDEO', 'Calle de Nueva York con taxis amarillos y rascacielos, sin banderas.',
+  [('video', 'Calle de Nueva York con taxis amarillos y rascacielos (sin banderas)', 'new york street yellow taxis skyscrapers')])
 R('perdedores', 'ÍCONOS', 'Una mano haciendo la «L» de perdedor sobre la frente.',
   [('icono:perdedor', 'Mano haciendo la «L» de perdedor', 'loser hand sign L icon')], [('PERDEDORES', SIN, G)], '⚡')
 R('Ya casi nadie cree en la suerte', 'ÍCONOS', 'Un trébol de cuatro hojas que se marchita.',

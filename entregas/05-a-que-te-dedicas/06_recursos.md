@@ -45,7 +45,7 @@ Desde este video, **todos los recursos visuales los pones tú** (regla del canal
 | ☐ | `escena_059.mp4` | Graduación con birretes lanzados al aire | 59, 64 | `graduation caps thrown air` |
 | ☐ | `escena_066.mp4` | Persona en una oficina en lo alto de un rascacielos mirando la ciudad | 66 | `executive office skyscraper view` |
 | ☐ | `escena_067.mp4` | Persona sin hogar sentada en la calle | 67 | `homeless person sitting street` |
-| ☐ | `escena_074.mp4` | Calle de una ciudad estadounidense con bandera ondeando | 74 | `american city street flag` |
+| ☐ | `escena_074.mp4` | Calle de Nueva York con taxis amarillos y rascacielos (sin banderas) | 74 | `new york street yellow taxis skyscrapers` |
 | ☐ | `escena_077.mp4` | Entrevista de trabajo, entrevistador escuchando con escepticismo | 77 | `job interview skeptical interviewer` |
 | ☐ | `escena_080.mp4` | Persona con la cabeza entre las manos frente a su escritorio | 80 | `stressed person head in hands desk` |
 | ☐ | `escena_082.mp4` | Timelapse de una ciudad moderna creciendo | 82 | `city growth timelapse construction skyline` |
