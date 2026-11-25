@@ -1,9 +1,9 @@
 # ¿A qué te dedicas? — Recursos que necesito (los pones tú)
 
-Desde este video, **todos los recursos visuales los pones tú** (regla del canal). Yo solo dibujo al personaje «Tú» y pongo los subtítulos de los shorts.
+**Tú pones los videos y las fotos** (secciones 1 y 2). Los **íconos y los textos en pantalla los hago yo** con código (secciones 3, 4 y 5): vienen listados solo para que sepas qué va en cada escena. También dibujo al personaje «Tú» y pongo los subtítulos de los shorts.
 
 **Cómo pasármelos:**
-1. Crea una carpeta en Google Drive con cuatro subcarpetas: `VIDEOS`, `FOTOS`, `ICONOS` y `TEXTOS`.
+1. Crea una carpeta en Google Drive con dos subcarpetas: `VIDEOS` y `FOTOS`.
 2. Guarda cada archivo con el **nombre exacto** de la lista (así el editor lo encuentra solo).
 3. Compárteme el enlace de la carpeta.
 
@@ -78,7 +78,7 @@ Desde este video, **todos los recursos visuales los pones tú** (regla del canal
 | ☐ | `foto_095.jpg` | Mano entregando una tarjeta de presentación | 95, 96 | `hand giving business card` |
 | ☐ | `foto_104.jpg` | Sala de cine con la luz del proyector encendida | 104 | `cinema projector light beam theater` |
 
-## 3. Íconos e ilustraciones → `ICONOS/` (37)
+## 3. Íconos e ilustraciones — los hago yo (37)
 
 PNG con fondo transparente. Que todos tengan **el mismo estilo** (por ejemplo, íconos planos a color de un mismo paquete de Envato), para que el video se vea unido.
 
@@ -122,7 +122,7 @@ PNG con fondo transparente. Que todos tengan **el mismo estilo** (por ejemplo, �
 | ☐ | `icono_compartir.png` | Flecha de compartir | 108 | `share arrow icon flat` |
 | ☐ | `icono_campana.png` | Campana de notificaciones | 109 | `notification bell icon flat` |
 
-## 4. Textos en pantalla → `TEXTOS/` (38)
+## 4. Textos en pantalla — los hago yo (38)
 
 Cada texto va como **imagen PNG**. Te sugiero un solo estilo para todo el video:
 - **tipografía condensada y gruesa** (Anton, la misma de los videos anteriores) en mayúsculas;
@@ -170,7 +170,7 @@ Cada texto va como **imagen PNG**. Te sugiero un solo estilo para todo el video:
 | ☐ | `texto_107.png` | TE LEO EN LOS COMENTARIOS | sin fondo | 1200×320 px | 107 |
 | ☐ | `texto_109.png` | SUSCRÍBETE | con fondo | 800×220 px | 109 |
 
-## 5. Textos de los shorts → `TEXTOS/` (3)
+## 5. Textos de los shorts — los hago yo (3)
 
 Van en el tercio de arriba del short vertical. Mismo estilo que los demás, tamaño 900×260 px.
 

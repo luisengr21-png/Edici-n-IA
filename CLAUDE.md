@@ -36,14 +36,12 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 **Decisiones del creador sobre lo que sigo haciendo yo:**
 - **El personaje «Tú» lo sigo creando yo**, con código, por el momento.
 - **Los subtítulos palabra por palabra de los shorts los sigo poniendo yo**, con código.
-- **Los títulos y textos en pantalla (frases clave, cifras, nombres de sección, sellos) también se los pido al creador, como imagen.** En `06_recursos.md` va una sección «Textos en pantalla» que indica, para cada uno:
-  - el texto exacto;
-  - la escena;
-  - el nombre del archivo (`texto_NNN.png`);
-  - si va **sin fondo** (PNG transparente, para ponerlo sobre una foto o un clip) o **con fondo** (tarjeta o cuadro);
-  - el tamaño sugerido.
-
-  Sigue vigente la regla de no repetir el mismo texto dos veces en la misma escena.
+- **Los íconos y los textos en pantalla los hago yo, con código, siempre** (decisión del creador, noviembre 2026, desde el 5.º video).
+  - El creador solo pone los **videos y las fotos**.
+  - **Íconos:** emojis de color (Noto Color Emoji, licencia libre) o dibujos propios en SVG. Nunca siluetas negras de personajes.
+  - **Textos en pantalla:** frases clave, cifras, nombres de sección y sellos, en Anton, con los colores de acento del video.
+  - En `06_recursos.md` siguen listados para que el creador sepa qué va en cada escena, pero marcados como «los hago yo»; él no tiene que conseguirlos.
+  - Sigue vigente la regla de no repetir el mismo texto dos veces en la misma escena.
 - **Estas reglas aplican solo a los videos futuros.** Los videos 1 a 3 no se rehacen.
 
 ## 2. Audio: solo la voz en off
@@ -108,6 +106,8 @@ El título y la descripción de cada short van en `03_shorts.md`, en la Fase 1, 
 
 ## Edición: fondos, transiciones y efectos (obligatorio, desde el 5.º video)
 Aplica al video largo y a los shorts. Antes de programar un video, se define en `scripts/<video>/viz.py` un plan por escena con su fondo, su transición de entrada y los efectos de cada imagen. Se revisa automáticamente que no se repitan en escenas seguidas, igual que la regla de los textos.
+
+**No aplica a las miniaturas del video largo:** esas siguen con el estilo de la sección 3 (fondo liso azul marino, un objeto y texto en Anton).
 
 ### Fondos
 1. **No usar azul marino ni azul oscuro como fondo por defecto** (`#0a1128`, `#0f172a`, `#1a1a40`, `#0B1A3A`, `#121633` y similares). No es la preferencia del creador y se usaba demasiado.
