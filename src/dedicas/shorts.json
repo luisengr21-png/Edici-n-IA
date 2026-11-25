@@ -1,1 +1,2271 @@
-[]
+[
+{
+"id": "Short1",
+"title": "Los 3 segundos",
+"duration": 32.44,
+"scenes": [
+{
+"n": 1,
+"start": 0.0,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_002.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "kenburns",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "LOS 3 SEGUNDOS",
+"card": true,
+"size": "mediano",
+"acc": "3 SEGUNDOS",
+"red": true,
+"y": 300
+}
+],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 2.7,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.3
+}
+},
+{
+"n": 2,
+"start": 2.7,
+"tipo": "2D",
+"sec": "SHORT",
+"media": [],
+"icons": [
+{
+"e": "⏱️",
+"fx": {
+"in": "pop",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "worried",
+"sweat": true
+},
+"end": 4.88,
+"layout": "none",
+"bg": {
+"type": "halftone",
+"c1": "#6A1650",
+"c2": "#A0157F",
+"c3": "#F72585",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 3,
+"start": 4.88,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_005.mp4",
+"off": 0.4,
+"fx": {
+"in": "zoomPoint",
+"keep": "parallax",
+"treat": [
+"duotone"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 10.44,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dip",
+"dur": 0.72
+}
+},
+{
+"n": 4,
+"start": 10.44,
+"tipo": "FOTO",
+"sec": "SHORT",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_007.jpg",
+"ar": 1.498,
+"fx": {
+"in": "slideBounce",
+"keep": "float",
+"treat": [
+"grain",
+"shadowBorder"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 14.36,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "leak",
+"dur": 0.72
+}
+},
+{
+"n": 5,
+"start": 14.36,
+"tipo": "FOTO",
+"sec": "SHORT",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_009.jpg",
+"ar": 1.5,
+"fx": {
+"in": "blurSharp",
+"keep": "rotate",
+"treat": [
+"halftone"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 16.2,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "iris",
+"dur": 0.72
+}
+},
+{
+"n": 6,
+"start": 16.2,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_010.mp4",
+"off": 0.4,
+"fx": {
+"in": "blocks",
+"keep": "breathe",
+"treat": [
+"grain"
+],
+"shape": "rounded",
+"special": "shine"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 19.9,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "ink",
+"dur": 0.72
+}
+},
+{
+"n": 7,
+"start": 19.9,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_020.mp4",
+"off": 0.4,
+"fx": {
+"in": "polaroid",
+"keep": "kenburns",
+"treat": [
+"halftone",
+"shadowBorder"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 24.92,
+"layout": "card",
+"bg": {
+"type": "solid",
+"c1": "#FFDDD2",
+"c2": "#FFB4A2",
+"c3": "#E5989B",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "page",
+"dur": 0.72
+}
+},
+{
+"n": 8,
+"start": 24.92,
+"tipo": "2D",
+"sec": "SHORT",
+"media": [],
+"icons": [
+{
+"e": "❓",
+"fx": {
+"in": "drop",
+"keep": "breathe"
+}
+}
+],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 26.76,
+"layout": "none",
+"bg": {
+"type": "conic",
+"c1": "#D7F1FF",
+"c2": "#A0E7E5",
+"c3": "#B4F8C8",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.72
+}
+},
+{
+"n": 9,
+"start": 26.76,
+"tipo": "FOTO",
+"sec": "SHORT",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_022.jpg",
+"ar": 1.5,
+"fx": {
+"in": "shapeOpen",
+"keep": "parallax",
+"treat": [
+"glow"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 30.48,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blur",
+"dur": 0.72
+}
+},
+{
+"n": 10,
+"start": 30.48,
+"tipo": "2D",
+"sec": "SHORT",
+"media": [],
+"icons": [
+{
+"e": "❤️",
+"fx": {
+"in": "spin",
+"keep": "rotate"
+}
+}
+],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "happy"
+},
+"end": 32.44,
+"layout": "none",
+"bg": {
+"type": "linear",
+"c1": "#FFE5EC",
+"c2": "#FFC2D1",
+"c3": "#FFB3C6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "dip",
+"dur": 0.72
+}
+}
+],
+"words": [
+[
+"\"¿Y",
+0.0,
+0.16
+],
+[
+"tú",
+0.16,
+0.42
+],
+[
+"a",
+0.7,
+0.84
+],
+[
+"qué",
+0.84,
+0.98
+],
+[
+"te",
+0.98,
+1.16
+],
+[
+"dedicas?\"",
+1.16,
+1.56
+],
+[
+"Tienes",
+2.8,
+3.24
+],
+[
+"tres",
+3.24,
+3.52
+],
+[
+"segundos.",
+3.52,
+4.02
+],
+[
+"Tres",
+4.98,
+5.18
+],
+[
+"segundos",
+5.18,
+5.76
+],
+[
+"para",
+5.76,
+6.16
+],
+[
+"que",
+6.16,
+6.36
+],
+[
+"esa",
+6.36,
+6.7
+],
+[
+"persona",
+6.7,
+7.14
+],
+[
+"decida",
+7.14,
+7.64
+],
+[
+"si",
+7.64,
+7.88
+],
+[
+"vale",
+7.88,
+8.22
+],
+[
+"la",
+8.22,
+8.4
+],
+[
+"pena",
+8.4,
+8.68
+],
+[
+"seguir",
+8.68,
+9.04
+],
+[
+"hablando",
+9.04,
+9.36
+],
+[
+"contigo.",
+9.36,
+9.96
+],
+[
+"Dices",
+10.54,
+10.92
+],
+[
+"\"soy",
+11.4,
+11.56
+],
+[
+"cirujano\"",
+11.56,
+12.06
+],
+[
+"y",
+12.06,
+12.54
+],
+[
+"te",
+12.54,
+12.7
+],
+[
+"hace",
+12.7,
+12.9
+],
+[
+"mil",
+12.9,
+13.32
+],
+[
+"preguntas.",
+13.32,
+13.72
+],
+[
+"Dices",
+14.46,
+14.84
+],
+[
+"\"estoy",
+15.26,
+15.48
+],
+[
+"buscando",
+15.48,
+15.78
+],
+[
+"trabajo\"…",
+15.78,
+16.3
+],
+[
+"y",
+16.3,
+16.82
+],
+[
+"de",
+16.82,
+16.94
+],
+[
+"repente",
+16.94,
+17.26
+],
+[
+"ve",
+17.26,
+17.56
+],
+[
+"a",
+17.56,
+17.64
+],
+[
+"un",
+17.64,
+17.78
+],
+[
+"amigo",
+17.78,
+18.1
+],
+[
+"al",
+18.1,
+18.26
+],
+[
+"otro",
+18.26,
+18.44
+],
+[
+"lado",
+18.44,
+18.68
+],
+[
+"del",
+18.68,
+18.9
+],
+[
+"salón.",
+18.9,
+19.26
+],
+[
+"Vivimos",
+20.0,
+20.32
+],
+[
+"rodeados",
+20.32,
+20.88
+],
+[
+"de",
+20.88,
+21.08
+],
+[
+"gente",
+21.08,
+21.4
+],
+[
+"que",
+21.4,
+21.58
+],
+[
+"juzga",
+21.58,
+21.92
+],
+[
+"tu",
+21.92,
+22.08
+],
+[
+"película",
+22.08,
+22.36
+],
+[
+"entera",
+22.36,
+23.0
+],
+[
+"por",
+23.0,
+23.36
+],
+[
+"un",
+23.36,
+23.7
+],
+[
+"solo",
+23.7,
+23.96
+],
+[
+"cuadro.",
+23.96,
+24.44
+],
+[
+"¿Sabes",
+25.02,
+25.42
+],
+[
+"quién",
+25.42,
+25.66
+],
+[
+"no",
+25.66,
+25.9
+],
+[
+"lo",
+25.9,
+26.02
+],
+[
+"hace?",
+26.02,
+26.26
+],
+[
+"Tu",
+26.86,
+26.98
+],
+[
+"mamá.",
+26.98,
+27.36
+],
+[
+"A",
+27.36,
+27.98
+],
+[
+"ella",
+27.98,
+28.2
+],
+[
+"no",
+28.2,
+28.68
+],
+[
+"le",
+28.68,
+28.86
+],
+[
+"importa",
+28.86,
+29.26
+],
+[
+"tu",
+29.26,
+29.48
+],
+[
+"puesto.",
+29.48,
+29.86
+],
+[
+"Le",
+30.58,
+30.64
+],
+[
+"importas",
+30.64,
+31.24
+],
+[
+"tú.",
+31.24,
+31.52
+]
+]
+},
+{
+"id": "Short2",
+"title": "Lo que de verdad compra un Ferrari",
+"duration": 28.12,
+"scenes": [
+{
+"n": 1,
+"start": 0.0,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_029.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "kenburns",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "NO ES AVARICIA",
+"card": true,
+"size": "mediano",
+"acc": "AVARICIA",
+"red": false,
+"y": 300
+}
+],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 1.6,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.3
+}
+},
+{
+"n": 2,
+"start": 1.6,
+"tipo": "2D",
+"sec": "SHORT",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "angry"
+},
+"end": 5.1,
+"layout": "none",
+"bg": {
+"type": "conic",
+"c1": "#D7F1FF",
+"c2": "#A0E7E5",
+"c3": "#B4F8C8",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 3,
+"start": 5.1,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_042.mp4",
+"off": 0.4,
+"fx": {
+"in": "zoomPoint",
+"keep": "parallax",
+"treat": [
+"duotone"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 10.6,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dip",
+"dur": 0.72
+}
+},
+{
+"n": 4,
+"start": 10.6,
+"tipo": "ÍCONOS",
+"sec": "SHORT",
+"media": [],
+"icons": [
+{
+"e": "💵",
+"fx": {
+"in": "pop",
+"keep": "float"
+}
+},
+{
+"e": "🏎️",
+"fx": {
+"in": "drop",
+"keep": "breathe"
+}
+}
+],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 16.42,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "leak",
+"dur": 0.72
+}
+},
+{
+"n": 5,
+"start": 16.42,
+"tipo": "FOTO",
+"sec": "SHORT",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_033.jpg",
+"ar": 1.5,
+"fx": {
+"in": "slideBounce",
+"keep": "float",
+"treat": [
+"grain",
+"shadowBorder"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 17.84,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#FFDDD2",
+"c2": "#FFB4A2",
+"c3": "#E5989B",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.64
+}
+},
+{
+"n": 6,
+"start": 17.84,
+"tipo": "FOTO",
+"sec": "SHORT",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_034.jpg",
+"ar": 0.667,
+"fx": {
+"in": "blurSharp",
+"keep": "rotate",
+"treat": [
+"duotone"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 20.04,
+"layout": "card",
+"bg": {
+"type": "lines",
+"c1": "#6A1650",
+"c2": "#A0157F",
+"c3": "#F72585",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "ink",
+"dur": 0.72
+}
+},
+{
+"n": 7,
+"start": 20.04,
+"tipo": "ÍCONOS",
+"sec": "SHORT",
+"media": [],
+"icons": [
+{
+"e": "👁️",
+"fx": {
+"in": "spin",
+"keep": "rotate"
+}
+},
+{
+"e": "👂",
+"fx": {
+"in": "slide",
+"keep": "float"
+}
+},
+{
+"e": "👏",
+"fx": {
+"in": "blur",
+"keep": "breathe"
+}
+}
+],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 26.04,
+"layout": "none",
+"bg": {
+"type": "blobs",
+"c1": "#CAFFBF",
+"c2": "#9BF6FF",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "page",
+"dur": 0.72
+}
+},
+{
+"n": 8,
+"start": 26.04,
+"tipo": "FOTO",
+"sec": "SHORT",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_039.jpg",
+"ar": 1.236,
+"fx": {
+"in": "blocks",
+"keep": "breathe",
+"treat": [
+"grain"
+],
+"shape": "rounded",
+"special": "shine"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 28.12,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.72
+}
+}
+],
+"words": [
+[
+"La",
+0.0,
+0.34
+],
+[
+"próxima",
+0.34,
+0.58
+],
+[
+"vez",
+0.58,
+0.9
+],
+[
+"que",
+0.9,
+1.06
+],
+[
+"veas",
+1.06,
+1.28
+],
+[
+"un",
+1.28,
+1.42
+],
+[
+"Ferrari,",
+1.42,
+1.7
+],
+[
+"no",
+1.7,
+2.2
+],
+[
+"pienses",
+2.2,
+2.6
+],
+[
+"\"qué",
+2.6,
+3.08
+],
+[
+"tipo",
+3.08,
+3.46
+],
+[
+"tan",
+3.46,
+3.8
+],
+[
+"codicioso\".",
+3.8,
+4.56
+],
+[
+"Piensa:",
+5.2,
+5.84
+],
+[
+"\"ahí",
+5.84,
+6.76
+],
+[
+"va",
+6.76,
+6.92
+],
+[
+"alguien",
+6.92,
+7.32
+],
+[
+"que",
+7.32,
+7.54
+],
+[
+"necesita",
+7.54,
+8.02
+],
+[
+"muchísimo",
+8.02,
+8.82
+],
+[
+"que",
+8.82,
+9.14
+],
+[
+"lo",
+9.14,
+9.28
+],
+[
+"quieran\".",
+9.28,
+9.72
+],
+[
+"Lo",
+10.7,
+10.84
+],
+[
+"que",
+10.84,
+10.94
+],
+[
+"la",
+10.94,
+11.04
+],
+[
+"gente",
+11.04,
+11.26
+],
+[
+"busca",
+11.26,
+11.7
+],
+[
+"cuando",
+11.7,
+11.98
+],
+[
+"persigue",
+11.98,
+12.4
+],
+[
+"dinero",
+12.4,
+12.92
+],
+[
+"o",
+12.92,
+13.24
+],
+[
+"un",
+13.24,
+13.42
+],
+[
+"auto",
+13.42,
+13.62
+],
+[
+"de",
+13.62,
+13.78
+],
+[
+"lujo",
+13.78,
+14.2
+],
+[
+"casi",
+14.2,
+14.58
+],
+[
+"nunca",
+14.58,
+15.0
+],
+[
+"es",
+15.0,
+15.36
+],
+[
+"eso",
+15.36,
+15.6
+],
+[
+"en",
+15.6,
+15.76
+],
+[
+"sí.",
+15.76,
+15.96
+],
+[
+"Un",
+16.52,
+16.7
+],
+[
+"reloj",
+16.7,
+17.02
+],
+[
+"carísimo",
+17.02,
+17.62
+],
+[
+"marca",
+17.62,
+17.94
+],
+[
+"la",
+17.94,
+18.14
+],
+[
+"misma",
+18.14,
+18.5
+],
+[
+"hora",
+18.5,
+18.82
+],
+[
+"que",
+18.82,
+18.98
+],
+[
+"tu",
+18.98,
+19.12
+],
+[
+"celular.",
+19.12,
+19.52
+],
+[
+"Lo",
+20.14,
+20.36
+],
+[
+"que",
+20.36,
+20.48
+],
+[
+"buscan",
+20.48,
+21.02
+],
+[
+"es",
+21.02,
+21.5
+],
+[
+"que",
+21.5,
+21.62
+],
+[
+"los",
+21.62,
+21.78
+],
+[
+"miren,",
+21.78,
+22.26
+],
+[
+"que",
+22.46,
+22.86
+],
+[
+"los",
+22.86,
+23.02
+],
+[
+"escuchen,",
+23.02,
+23.62
+],
+[
+"que",
+24.16,
+24.36
+],
+[
+"los",
+24.36,
+24.52
+],
+[
+"respeten.",
+24.52,
+25.2
+],
+[
+"Es",
+26.14,
+26.3
+],
+[
+"una",
+26.3,
+26.46
+],
+[
+"forma",
+26.46,
+26.76
+],
+[
+"de",
+26.76,
+26.96
+],
+[
+"amor.",
+26.96,
+27.14
+]
+]
+},
+{
+"id": "Short3",
+"title": "La trampa de la meritocracia",
+"duration": 30.04,
+"scenes": [
+{
+"n": 1,
+"start": 0.0,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_066.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "kenburns",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "¿TE LO MERECES?",
+"card": true,
+"size": "mediano",
+"acc": "MERECES",
+"red": true,
+"y": 300
+}
+],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 3.46,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.3
+}
+},
+{
+"n": 2,
+"start": 3.46,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_067.mp4",
+"off": 0.4,
+"fx": {
+"in": "zoomPoint",
+"keep": "parallax",
+"treat": [
+"duotone"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 7.86,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 3,
+"start": 7.86,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_059.mp4",
+"off": 0.4,
+"fx": {
+"in": "slideBounce",
+"keep": "float",
+"treat": [
+"grain",
+"shadowBorder"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 10.74,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#6A1650",
+"c2": "#A0157F",
+"c3": "#F72585",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "push",
+"dur": 0.35
+}
+},
+{
+"n": 4,
+"start": 10.74,
+"tipo": "FOTO",
+"sec": "SHORT",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_072.jpg",
+"ar": 1.792,
+"fx": {
+"in": "blurSharp",
+"keep": "rotate",
+"treat": [
+"halftone"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 15.12,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.35
+}
+},
+{
+"n": 5,
+"start": 15.12,
+"tipo": "ÍCONOS",
+"sec": "SHORT",
+"media": [],
+"icons": [
+{
+"svg": "perdedor",
+"fx": {
+"in": "pop",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 17.56,
+"layout": "none",
+"bg": {
+"type": "grain",
+"c1": "#8A2D00",
+"c2": "#A83A00",
+"c3": "#FFBE0B",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "flash",
+"dur": 0.35
+}
+},
+{
+"n": 6,
+"start": 17.56,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_077.mp4",
+"off": 0.4,
+"fx": {
+"in": "blocks",
+"keep": "breathe",
+"treat": [
+"grain"
+],
+"shape": "rounded",
+"special": "shine"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 21.78,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "page",
+"dur": 0.5
+}
+},
+{
+"n": 7,
+"start": 21.78,
+"tipo": "VIDEO",
+"sec": "SHORT",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_087.mp4",
+"off": 0.4,
+"fx": {
+"in": "polaroid",
+"keep": "kenburns",
+"treat": [
+"halftone",
+"shadowBorder"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [
+{
+"e": "🎲",
+"fx": {
+"in": "drop",
+"keep": "breathe"
+}
+}
+],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"end": 24.56,
+"layout": "card",
+"bg": {
+"type": "solid",
+"c1": "#FFDDD2",
+"c2": "#FFB4A2",
+"c3": "#E5989B",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.72
+}
+},
+{
+"n": 8,
+"start": 24.56,
+"tipo": "2D",
+"sec": "SHORT",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"vertical": true,
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "happy"
+},
+"end": 30.04,
+"layout": "none",
+"bg": {
+"type": "lines",
+"c1": "#CAFFBF",
+"c2": "#9BF6FF",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "blur",
+"dur": 0.72
+}
+}
+],
+"words": [
+[
+"Si",
+0.0,
+0.22
+],
+[
+"crees",
+0.22,
+0.62
+],
+[
+"que",
+0.62,
+0.74
+],
+[
+"los",
+0.74,
+0.88
+],
+[
+"que",
+0.88,
+1.02
+],
+[
+"están",
+1.02,
+1.28
+],
+[
+"arriba",
+1.28,
+1.66
+],
+[
+"se",
+1.66,
+1.88
+],
+[
+"ganaron",
+1.88,
+2.22
+],
+[
+"su",
+2.22,
+2.42
+],
+[
+"lugar…",
+2.42,
+2.74
+],
+[
+"entonces",
+3.56,
+4.14
+],
+[
+"también",
+4.14,
+4.66
+],
+[
+"crees",
+4.66,
+5.16
+],
+[
+"que",
+5.16,
+5.28
+],
+[
+"los",
+5.28,
+5.42
+],
+[
+"de",
+5.42,
+5.56
+],
+[
+"abajo",
+5.56,
+5.86
+],
+[
+"se",
+5.86,
+6.12
+],
+[
+"ganaron",
+6.12,
+6.44
+],
+[
+"el",
+6.44,
+6.64
+],
+[
+"suyo.",
+6.64,
+7.08
+],
+[
+"Esa",
+7.96,
+8.4
+],
+[
+"es",
+8.4,
+8.66
+],
+[
+"la",
+8.66,
+8.8
+],
+[
+"trampa",
+8.8,
+9.2
+],
+[
+"de",
+9.2,
+9.36
+],
+[
+"la",
+9.36,
+9.48
+],
+[
+"meritocracia.",
+9.48,
+10.14
+],
+[
+"En",
+10.84,
+10.98
+],
+[
+"la",
+10.98,
+11.08
+],
+[
+"Inglaterra",
+11.08,
+11.5
+],
+[
+"medieval,",
+11.5,
+11.94
+],
+[
+"a",
+11.94,
+12.28
+],
+[
+"los",
+12.28,
+12.42
+],
+[
+"pobres",
+12.42,
+12.74
+],
+[
+"les",
+12.74,
+12.94
+],
+[
+"decían",
+12.94,
+13.38
+],
+[
+"\"desafortunados\".",
+13.38,
+14.7
+],
+[
+"Hoy",
+15.22,
+15.52
+],
+[
+"les",
+15.52,
+15.76
+],
+[
+"decimos",
+15.76,
+16.14
+],
+[
+"\"perdedores\".",
+16.14,
+17.06
+],
+[
+"Intenta",
+17.66,
+18.06
+],
+[
+"decir",
+18.06,
+18.4
+],
+[
+"en",
+18.4,
+18.58
+],
+[
+"una",
+18.58,
+18.7
+],
+[
+"entrevista",
+18.7,
+19.2
+],
+[
+"que",
+19.2,
+19.38
+],
+[
+"te",
+19.38,
+19.48
+],
+[
+"despidieron",
+19.48,
+20.02
+],
+[
+"por",
+20.02,
+20.28
+],
+[
+"mala",
+20.28,
+20.54
+],
+[
+"suerte…",
+20.54,
+21.14
+],
+[
+"La",
+21.88,
+22.1
+],
+[
+"suerte",
+22.1,
+22.7
+],
+[
+"sigue",
+22.7,
+23.4
+],
+[
+"contando.",
+23.4,
+24.22
+],
+[
+"Así",
+24.66,
+24.86
+],
+[
+"que",
+24.86,
+25.06
+],
+[
+"no",
+25.06,
+25.3
+],
+[
+"trates",
+25.3,
+25.68
+],
+[
+"a",
+25.68,
+25.86
+],
+[
+"nadie,",
+25.86,
+26.22
+],
+[
+"ni",
+26.52,
+26.74
+],
+[
+"a",
+26.74,
+26.9
+],
+[
+"ti,",
+26.9,
+27.08
+],
+[
+"como",
+27.44,
+27.62
+],
+[
+"si",
+27.62,
+27.76
+],
+[
+"mereciera",
+27.76,
+28.28
+],
+[
+"todo",
+28.28,
+28.64
+],
+[
+"su",
+28.64,
+28.86
+],
+[
+"lugar.",
+28.86,
+29.12
+]
+]
+}
+]

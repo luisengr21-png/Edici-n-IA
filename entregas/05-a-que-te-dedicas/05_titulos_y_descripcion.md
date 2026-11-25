@@ -38,8 +38,14 @@ Al final te dejo tres ideas para que esa pregunta ya no te encoja el estómago �
 
 #Psicologia #Autoestima #AnsiedadSocial #Meritocracia #Exito
 
-**Capítulos**
-[CAPÍTULOS – se agregan en la Fase 2, con los tiempos reales]
+⏱️ Capítulos
+0:00 Los tres segundos
+0:46 Un mundo de engreídos
+1:37 Lo que de verdad compra un Ferrari
+2:26 El peso de «puedes ser lo que quieras»
+3:24 La trampa de la meritocracia
+4:53 Tres salidas
+5:56 La pregunta, otra vez
 
 > Narración generada con IA (ElevenLabs). Imágenes y clips: material con licencia del creador.
 
@@ -55,7 +61,7 @@ Al final te dejo tres ideas para que esa pregunta ya no te encoja el estómago �
 
 Listos para copiar al subir cada short. La miniatura de cada uno se entrega en la Fase 2, en `video/`, con el mismo número.
 
-### Short 1 · `video/short_01_…mp4`
+### Short 1 · `video/short_01_los-3-segundos.mp4`
 
 **Título**
 ```
@@ -68,7 +74,7 @@ Esa pregunta en una fiesta puede decidir si alguien se queda a platicar contigo�
 #Psicologia #Autoestima #AnsiedadSocial #Shorts
 ```
 
-### Short 2 · `video/short_02_…mp4`
+### Short 2 · `video/short_02_ferrari.mp4`
 
 **Título**
 ```
@@ -81,7 +87,7 @@ No es el auto, ni el reloj, ni la marca 🤔 Es algo mucho más humano… y te v
 #Psicologia #Dinero #Estatus #Shorts
 ```
 
-### Short 3 · `video/short_03_…mp4`
+### Short 3 · `video/short_03_meritocracia.mp4`
 
 **Título**
 ```

@@ -32,6 +32,7 @@ import {DedicasVideo} from './dedicas/Dedicas';
 import dedicasPlan from './dedicas/plan.json';
 import {DedicasShort} from './dedicas/Shorts';
 import dedicasShorts from './dedicas/shorts.json';
+import {DedicasMiniShort} from './dedicas/MiniShorts';
 import {Thumb2 as BurnoutThumb2, Thumb3Opt as BurnoutThumb3Opt} from './burnout/Thumbs2';
 
 export const Root: React.FC = () => (
@@ -126,6 +127,9 @@ export const Root: React.FC = () => (
     ))}
     {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((n) => (
       <Composition key={`rl${n}`} id={`LaRiquezaDeOtrosMiniatura${n}`} component={RiquezaMiniLargo} defaultProps={{n}} durationInFrames={1} fps={30} width={1280} height={720} />
+    ))}
+    {[1, 2, 3].map((n) => (
+      <Composition key={`dm${n}`} id={`AQueTeDedicasMiniaturaShort${n}`} component={DedicasMiniShort} defaultProps={{n}} durationInFrames={1} fps={30} width={1080} height={1920} />
     ))}
     <Composition id="AQueTeDedicas" component={DedicasVideo} durationInFrames={Math.max(1, Math.round(dedicasPlan.duration * 30))} fps={30} width={1920} height={1080} />
     {(dedicasShorts as any[]).map((s) => (
