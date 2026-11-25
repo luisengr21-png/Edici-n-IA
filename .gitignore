@@ -64,3 +64,9 @@ out/riqueza-*
 out/la-riqueza-de-otros_alta-calidad.mp4
 public/riqueza/thumbs/
 recursos/dedicas/
+public/dedicas/
+audio/05-a-que-te-dedicas/tomas/
+audio/05-a-que-te-dedicas/*.wav
+out/dedicas-*
+out/a-que-te-dedicas_*
+scripts/dedicas/__pycache__/

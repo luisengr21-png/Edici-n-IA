@@ -1,0 +1,4655 @@
+{
+"audioEnd": 388.56,
+"duration": 400.56,
+"scenes": [
+{
+"n": 1,
+"start": 0.0,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_001.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "kenburns",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 1.78,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.3
+}
+},
+{
+"n": 2,
+"start": 1.78,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_002.mp4",
+"off": 0.4,
+"fx": {
+"in": "zoomPoint",
+"keep": "parallax",
+"treat": [
+"duotone"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 6.3,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 3,
+"start": 6.3,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "¿Y TÚ A QUÉ TE DEDICAS?",
+"card": true,
+"size": "grande",
+"acc": "A QUÉ TE DEDICAS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 8.62,
+"layout": "none",
+"bg": {
+"type": "mesh",
+"c1": "#FFF8EC",
+"c2": "#FFE8CC",
+"c3": "#FFD6A5",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.5
+}
+},
+{
+"n": 4,
+"start": 8.62,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "⏱️",
+"fx": {
+"in": "pop",
+"keep": "float"
+}
+}
+],
+"txt": [
+{
+"text": "3 SEGUNDOS",
+"card": false,
+"size": "mediano",
+"acc": "3",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "worried",
+"sweat": true
+},
+"end": 11.74,
+"layout": "none",
+"bg": {
+"type": "linear",
+"c1": "#1B4332",
+"c2": "#2D6A4F",
+"c3": "#52B788",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "leak",
+"dur": 0.72
+}
+},
+{
+"n": 5,
+"start": 11.74,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_005.mp4",
+"off": 0.4,
+"fx": {
+"in": "slideBounce",
+"keep": "float",
+"treat": [
+"grain",
+"shadowBorder"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 16.52,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.72
+}
+},
+{
+"n": 6,
+"start": 16.52,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_006.mp4",
+"off": 0.4,
+"fx": {
+"in": "blurSharp",
+"keep": "rotate",
+"treat": [
+"halftone"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 20.14,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "ink",
+"dur": 0.72
+}
+},
+{
+"n": 7,
+"start": 20.14,
+"tipo": "FOTO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_007.jpg",
+"ar": 1.498,
+"fx": {
+"in": "blocks",
+"keep": "breathe",
+"treat": [
+"grain"
+],
+"shape": "rounded",
+"special": "shine"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "CIRUJANO",
+"card": true,
+"size": "chico",
+"acc": "CIRUJANO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 22.16,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "push",
+"dur": 0.5
+}
+},
+{
+"n": 8,
+"start": 22.16,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_002.mp4",
+"off": 4.93,
+"fx": {
+"in": "polaroid",
+"keep": "kenburns",
+"treat": [
+"halftone",
+"shadowBorder"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 23.86,
+"layout": "card",
+"bg": {
+"type": "lines",
+"c1": "#6A1650",
+"c2": "#A0157F",
+"c3": "#F72585",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.5
+}
+},
+{
+"n": 9,
+"start": 23.86,
+"tipo": "FOTO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_009.jpg",
+"ar": 1.5,
+"fx": {
+"in": "shapeOpen",
+"keep": "parallax",
+"treat": [
+"glow"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "BUSCANDO TRABAJO",
+"card": true,
+"size": "chico",
+"acc": "BUSCANDO",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 26.44,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipev",
+"dur": 0.5
+}
+},
+{
+"n": 10,
+"start": 26.44,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 0",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_010.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "float",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 29.38,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "push",
+"dur": 0.35
+}
+},
+{
+"n": 11,
+"start": 29.38,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "blank"
+},
+"end": 30.5,
+"layout": "none",
+"bg": {
+"type": "paper",
+"c1": "#CAFFBF",
+"c2": "#9BF6FF",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.5
+}
+},
+{
+"n": 12,
+"start": 30.5,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "worried"
+},
+"end": 33.56,
+"layout": "none",
+"bg": {
+"type": "solid",
+"c1": "#7A2E1B",
+"c2": "#A8442A",
+"c3": "#F4A261",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "slide",
+"dur": 0.5
+}
+},
+{
+"n": 13,
+"start": 33.56,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [
+{
+"e": "❓",
+"fx": {
+"in": "drop",
+"keep": "breathe"
+}
+},
+{
+"e": "⛈️",
+"fx": {
+"in": "spin",
+"keep": "rotate"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 39.8,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#E3F0D6",
+"c2": "#C5DEB0",
+"c3": "#F1E3B6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "ink",
+"dur": 0.72
+}
+},
+{
+"n": 14,
+"start": 39.8,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "3 IDEAS",
+"card": true,
+"size": "mediano",
+"acc": "3 IDEAS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "handup",
+"mood": "happy"
+},
+"end": 43.72,
+"layout": "none",
+"bg": {
+"type": "circles",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "page",
+"dur": 0.72
+}
+},
+{
+"n": 15,
+"start": 43.72,
+"tipo": "2D",
+"sec": "SECCIÓN 0",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "worried"
+},
+"end": 46.37,
+"layout": "none",
+"bg": {
+"type": "warm",
+"c1": "#FFD6A5",
+"c2": "#FFADAD",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.72
+}
+},
+{
+"n": 16,
+"start": 46.37,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🔖",
+"fx": {
+"in": "slide",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "worried"
+},
+"end": 50.61,
+"layout": "none",
+"bg": {
+"type": "mesh",
+"c1": "#33420D",
+"c2": "#4F5E16",
+"c3": "#C9D46C",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "cube",
+"dur": 0.5
+}
+},
+{
+"n": 17,
+"start": 50.61,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_017.mp4",
+"off": 0.4,
+"fx": {
+"in": "zoomPoint",
+"keep": "rotate",
+"treat": [
+"chroma"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "ENGREÍDOS",
+"card": false,
+"size": "grande",
+"acc": "ENGREÍDOS",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 53.35,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#FFE5EC",
+"c2": "#FFC2D1",
+"c3": "#FFB3C6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "push",
+"dur": 0.35
+}
+},
+{
+"n": 18,
+"start": 53.35,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "💼",
+"fx": {
+"in": "blur",
+"keep": "breathe"
+}
+},
+{
+"e": "🎓",
+"fx": {
+"in": "pop",
+"keep": "rotate"
+}
+},
+{
+"e": "🪪",
+"fx": {
+"in": "drop",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 59.39,
+"layout": "none",
+"bg": {
+"type": "grid",
+"c1": "#F4EDE4",
+"c2": "#E9DCC9",
+"c3": "#D4C1A1",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "ink",
+"dur": 0.5
+}
+},
+{
+"n": 19,
+"start": 59.39,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "🏷️",
+"fx": {
+"in": "spin",
+"keep": "breathe"
+}
+}
+],
+"txt": [
+{
+"text": "¿CUÁNTO VALES?",
+"card": false,
+"size": "mediano",
+"acc": "VALES",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "worried"
+},
+"end": 62.73,
+"layout": "none",
+"bg": {
+"type": "blobs",
+"c1": "#FFF8EC",
+"c2": "#FFE8CC",
+"c3": "#FFD6A5",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "push",
+"dur": 0.5
+}
+},
+{
+"n": 20,
+"start": 62.73,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_020.mp4",
+"off": 0.4,
+"fx": {
+"in": "slideBounce",
+"keep": "breathe",
+"treat": [
+"vignette"
+],
+"shape": "circle",
+"special": "particles"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "UN SOLO CUADRO",
+"card": false,
+"size": "mediano",
+"acc": "CUADRO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 66.49,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.5
+}
+},
+{
+"n": 21,
+"start": 66.49,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 69.67,
+"layout": "none",
+"bg": {
+"type": "paper",
+"c1": "#1B4332",
+"c2": "#2D6A4F",
+"c3": "#52B788",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipev",
+"dur": 0.5
+}
+},
+{
+"n": 22,
+"start": 69.67,
+"tipo": "FOTO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_022.jpg",
+"ar": 1.5,
+"fx": {
+"in": "blurSharp",
+"keep": "kenburns",
+"treat": [
+"halftone"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "TU MAMÁ",
+"card": false,
+"size": "grande",
+"acc": "MAMÁ",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 71.03,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "whip",
+"dur": 0.35
+}
+},
+{
+"n": 23,
+"start": 71.03,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "💼",
+"fx": {
+"in": "slide",
+"keep": "rotate"
+}
+},
+{
+"e": "📦",
+"fx": {
+"in": "blur",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 74.59,
+"layout": "none",
+"bg": {
+"type": "solid",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "slide",
+"dur": 0.5
+}
+},
+{
+"n": 24,
+"start": 74.59,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_024.mp4",
+"off": 0.4,
+"fx": {
+"in": "blocks",
+"keep": "parallax",
+"treat": [
+"glow"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 79.27,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#0B525B",
+"c2": "#14706B",
+"c3": "#7AE7C7",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipe",
+"dur": 0.5
+}
+},
+{
+"n": 25,
+"start": 79.27,
+"tipo": "FOTO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_022.jpg",
+"ar": 1.5,
+"fx": {
+"in": "shapeOpen",
+"keep": "float",
+"treat": [
+"bwaccent",
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "TÚ, NO TU ESTATUS",
+"card": true,
+"size": "mediano",
+"acc": "TÚ",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 82.35,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "iris",
+"dur": 0.5
+}
+},
+{
+"n": 26,
+"start": 82.35,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_026.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "rotate",
+"treat": [
+"glow"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 86.31,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "ink",
+"dur": 0.72
+}
+},
+{
+"n": 27,
+"start": 86.31,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [
+{
+"e": "👀",
+"fx": {
+"in": "pop",
+"keep": "breathe"
+}
+}
+],
+"txt": [
+{
+"text": "JUZGADOS",
+"card": false,
+"size": "mediano",
+"acc": "JUZGADOS",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug",
+"mood": "worried"
+},
+"end": 91.59,
+"layout": "none",
+"bg": {
+"type": "grain",
+"c1": "#E3F0D6",
+"c2": "#C5DEB0",
+"c3": "#F1E3B6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "page",
+"dur": 0.72
+}
+},
+{
+"n": 28,
+"start": 91.59,
+"tipo": "2D",
+"sec": "SECCIÓN 1",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "handup",
+"mood": "happy"
+},
+"end": 94.75,
+"layout": "none",
+"bg": {
+"type": "warm",
+"c1": "#7A2E1B",
+"c2": "#A8442A",
+"c3": "#F4A261",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.35
+}
+},
+{
+"n": 29,
+"start": 94.75,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 1",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_029.mp4",
+"off": 0.4,
+"fx": {
+"in": "zoomPoint",
+"keep": "breathe",
+"treat": [
+"shadowBorder"
+],
+"shape": "arch",
+"special": "leak"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 97.02,
+"layout": "card",
+"bg": {
+"type": "mesh",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "whip",
+"dur": 0.35
+}
+},
+{
+"n": 30,
+"start": 97.02,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_030.mp4",
+"off": 0.4,
+"fx": {
+"in": "slideBounce",
+"keep": "kenburns",
+"treat": [
+"duotone"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 100.8,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "push",
+"dur": 0.5
+}
+},
+{
+"n": 31,
+"start": 100.8,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "blank"
+},
+"end": 104.54,
+"layout": "none",
+"bg": {
+"type": "linear",
+"c1": "#FFD6A5",
+"c2": "#FFADAD",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "dip",
+"dur": 0.72
+}
+},
+{
+"n": 32,
+"start": 104.54,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "❤️",
+"fx": {
+"in": "drop",
+"keep": "rotate"
+}
+},
+{
+"e": "🛍️",
+"fx": {
+"in": "spin",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 110.74,
+"layout": "none",
+"bg": {
+"type": "grid",
+"c1": "#33420D",
+"c2": "#4F5E16",
+"c3": "#C9D46C",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipev",
+"dur": 0.5
+}
+},
+{
+"n": 33,
+"start": 110.74,
+"tipo": "FOTO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_033.jpg",
+"ar": 1.5,
+"fx": {
+"in": "blurSharp",
+"keep": "parallax",
+"treat": [
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 114.7,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.5
+}
+},
+{
+"n": 34,
+"start": 114.7,
+"tipo": "FOTO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_034.jpg",
+"ar": 0.667,
+"fx": {
+"in": "blocks",
+"keep": "float",
+"treat": [
+"duotone"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "LA MISMA HORA",
+"card": false,
+"size": "mediano",
+"acc": "MISMA",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 117.18,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#6A1650",
+"c2": "#A0157F",
+"c3": "#F72585",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "slide",
+"dur": 0.35
+}
+},
+{
+"n": 35,
+"start": 117.18,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "💵",
+"fx": {
+"in": "slide",
+"keep": "breathe"
+}
+},
+{
+"e": "💼",
+"fx": {
+"in": "blur",
+"keep": "rotate"
+}
+},
+{
+"e": "🏎️",
+"fx": {
+"in": "pop",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 122.08,
+"layout": "none",
+"bg": {
+"type": "paper",
+"c1": "#FFE5EC",
+"c2": "#FFC2D1",
+"c3": "#FFB3C6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "wipe",
+"dur": 0.5
+}
+},
+{
+"n": 36,
+"start": 122.08,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "happy"
+},
+"end": 123.96,
+"layout": "none",
+"bg": {
+"type": "solid",
+"c1": "#F4EDE4",
+"c2": "#E9DCC9",
+"c3": "#D4C1A1",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.5
+}
+},
+{
+"n": 37,
+"start": 123.96,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_037.mp4",
+"off": 0.4,
+"fx": {
+"in": "shapeOpen",
+"keep": "rotate",
+"treat": [
+"grain"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 125.32,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blinds",
+"dur": 0.5
+}
+},
+{
+"n": 38,
+"start": 125.32,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [
+{
+"e": "👁️",
+"fx": {
+"in": "drop",
+"keep": "breathe"
+}
+},
+{
+"e": "👂",
+"fx": {
+"in": "spin",
+"keep": "rotate"
+}
+},
+{
+"e": "👏",
+"fx": {
+"in": "slide",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 129.9,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#FFF8EC",
+"c2": "#FFE8CC",
+"c3": "#FFD6A5",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "cube",
+"dur": 0.5
+}
+},
+{
+"n": 39,
+"start": 129.9,
+"tipo": "FOTO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_039.jpg",
+"ar": 1.236,
+"fx": {
+"in": "mask",
+"keep": "breathe",
+"treat": [
+"bwaccent",
+"vignette"
+],
+"shape": "blob",
+"special": "flare"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "UNA FORMA DE AMOR",
+"card": false,
+"size": "mediano",
+"acc": "AMOR",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 131.7,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.35
+}
+},
+{
+"n": 40,
+"start": 131.7,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_029.mp4",
+"off": 6.0,
+"fx": {
+"in": "zoomPoint",
+"keep": "kenburns",
+"treat": [
+"bwaccent"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 134.56,
+"layout": "card",
+"bg": {
+"type": "circles",
+"c1": "#1B4332",
+"c2": "#2D6A4F",
+"c3": "#52B788",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "ink",
+"dur": 0.5
+}
+},
+{
+"n": 41,
+"start": 134.56,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "¿CODICIOSO?",
+"card": false,
+"size": "mediano",
+"acc": "CODICIOSO",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "angry"
+},
+"end": 137.5,
+"layout": "none",
+"bg": {
+"type": "warm",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "push",
+"dur": 0.5
+}
+},
+{
+"n": 42,
+"start": 137.5,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 2",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_042.mp4",
+"off": 0.4,
+"fx": {
+"in": "slideBounce",
+"keep": "parallax",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "NECESITA QUE LO QUIERAN",
+"card": false,
+"size": "mediano",
+"acc": "QUE LO QUIERAN",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 142.06,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "page",
+"dur": 0.72
+}
+},
+{
+"n": 43,
+"start": 142.06,
+"tipo": "2D",
+"sec": "SECCIÓN 2",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug",
+"mood": "worried"
+},
+"end": 146.69,
+"layout": "none",
+"bg": {
+"type": "mesh",
+"c1": "#8A2D00",
+"c2": "#A83A00",
+"c3": "#FFBE0B",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "whip",
+"dur": 0.35
+}
+},
+{
+"n": 44,
+"start": 146.69,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_044.mp4",
+"off": 0.4,
+"fx": {
+"in": "blurSharp",
+"keep": "float",
+"treat": [
+"duotone"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "¡LO QUE QUIERAS!",
+"card": false,
+"size": "mediano",
+"acc": "QUIERAS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 149.87,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.5
+}
+},
+{
+"n": 45,
+"start": 149.87,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_045.jpg",
+"ar": 1.498,
+"fx": {
+"in": "blocks",
+"keep": "rotate",
+"treat": [
+"grain",
+"shadowBorder"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 151.35,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#FFE5EC",
+"c2": "#FFC2D1",
+"c3": "#FFB3C6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "slide",
+"dur": 0.5
+}
+},
+{
+"n": 46,
+"start": 151.35,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_046.mp4",
+"off": 0.4,
+"fx": {
+"in": "shapeOpen",
+"keep": "breathe",
+"treat": [
+"halftone"
+],
+"shape": "rounded",
+"special": "frame"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 155.35,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipe",
+"dur": 0.5
+}
+},
+{
+"n": 47,
+"start": 155.35,
+"tipo": "2D",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "worried"
+},
+"end": 157.69,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#5E0B15",
+"c2": "#7D2531",
+"c3": "#D9A6A1",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "flash",
+"dur": 0.35
+}
+},
+{
+"n": 48,
+"start": 157.69,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_048.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "kenburns",
+"treat": [
+"grain"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 162.85,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "slide",
+"dur": 0.35
+}
+},
+{
+"n": 49,
+"start": 162.85,
+"tipo": "FOTO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_049.jpg",
+"ar": 1.5,
+"fx": {
+"in": "zoomPoint",
+"keep": "parallax",
+"treat": [
+"halftone",
+"shadowBorder"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "¿DE QUIÉN ES LA CULPA?",
+"card": true,
+"size": "mediano",
+"acc": "CULPA",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 168.83,
+"layout": "card",
+"bg": {
+"type": "halftone",
+"c1": "#2B2522",
+"c2": "#4A3D37",
+"c3": "#E07A5F",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.35
+}
+},
+{
+"n": 50,
+"start": 168.83,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_050.mp4",
+"off": 0.4,
+"fx": {
+"in": "slideBounce",
+"keep": "float",
+"treat": [
+"glow"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 173.99,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "page",
+"dur": 0.5
+}
+},
+{
+"n": 51,
+"start": 173.99,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "📒",
+"fx": {
+"in": "blur",
+"keep": "breathe"
+}
+}
+],
+"txt": [
+{
+"text": "TRIUNFA EN 15 MINUTOS",
+"card": true,
+"size": "chico",
+"acc": "15 MINUTOS",
+"red": false
+},
+{
+"text": "MILLONARIO DE LA NOCHE A LA MAÑANA",
+"card": true,
+"size": "chico",
+"acc": "MILLONARIO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 179.55,
+"layout": "none",
+"bg": {
+"type": "paper",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 52,
+"start": 179.55,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "📓",
+"fx": {
+"in": "pop",
+"keep": "rotate"
+}
+}
+],
+"txt": [
+{
+"text": "CÓMO LIDIAR CON LA BAJA AUTOESTIMA",
+"card": true,
+"size": "chico",
+"acc": "BAJA AUTOESTIMA",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 184.67,
+"layout": "none",
+"bg": {
+"type": "solid",
+"c1": "#FFD6A5",
+"c2": "#FFADAD",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "push",
+"dur": 0.35
+}
+},
+{
+"n": 53,
+"start": 184.67,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🪙",
+"fx": {
+"in": "drop",
+"keep": "float"
+}
+}
+],
+"txt": [
+{
+"text": "DOS CARAS",
+"card": false,
+"size": "mediano",
+"acc": "DOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 188.61,
+"layout": "none",
+"bg": {
+"type": "circles",
+"c1": "#33420D",
+"c2": "#4F5E16",
+"c3": "#C9D46C",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.5
+}
+},
+{
+"n": 54,
+"start": 188.61,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_054.mp4",
+"off": 0.4,
+"fx": {
+"in": "blurSharp",
+"keep": "rotate",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 191.39,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipev",
+"dur": 0.5
+}
+},
+{
+"n": 55,
+"start": 191.39,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [
+{
+"e": "🥇",
+"fx": {
+"in": "spin",
+"keep": "breathe"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 194.15,
+"layout": "none",
+"bg": {
+"type": "warm",
+"c1": "#FFE5EC",
+"c2": "#FFC2D1",
+"c3": "#FFB3C6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.5
+}
+},
+{
+"n": 56,
+"start": 194.15,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_056.mp4",
+"off": 0.4,
+"fx": {
+"in": "blocks",
+"keep": "breathe",
+"treat": [
+"chroma"
+],
+"shape": "circle",
+"special": "speedlines"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 196.37,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#F4EDE4",
+"c2": "#E9DCC9",
+"c3": "#D4C1A1",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "slide",
+"dur": 0.5
+}
+},
+{
+"n": 57,
+"start": 196.37,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 3",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_057.mp4",
+"off": 0.4,
+"fx": {
+"in": "shapeOpen",
+"keep": "kenburns",
+"treat": [
+"vignette"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "INSATISFECHA",
+"card": false,
+"size": "mediano",
+"acc": "INSATISFECHA",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 198.43,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.72
+}
+},
+{
+"n": 58,
+"start": 198.43,
+"tipo": "2D",
+"sec": "SECCIÓN 3",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug",
+"mood": "worried"
+},
+"end": 204.58,
+"layout": "none",
+"bg": {
+"type": "lines",
+"c1": "#5E0B15",
+"c2": "#7D2531",
+"c3": "#D9A6A1",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 59,
+"start": 204.58,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_059.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "parallax",
+"treat": [
+"halftone"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "MERITOCRACIA",
+"card": false,
+"size": "grande",
+"acc": "MERITOCRACIA",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 207.64,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blinds",
+"dur": 0.5
+}
+},
+{
+"n": 60,
+"start": 207.64,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "🪜",
+"fx": {
+"in": "slide",
+"keep": "rotate"
+}
+},
+{
+"e": "⚖️",
+"fx": {
+"in": "blur",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 211.77,
+"layout": "none",
+"bg": {
+"type": "linear",
+"c1": "#1B4332",
+"c2": "#2D6A4F",
+"c3": "#52B788",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "cube",
+"dur": 0.5
+}
+},
+{
+"n": 61,
+"start": 211.77,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_061.jpg",
+"ar": 1.5,
+"fx": {
+"in": "zoomPoint",
+"keep": "float",
+"treat": [
+"glow"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "JUEGO ARREGLADO",
+"card": false,
+"size": "mediano",
+"acc": "ARREGLADO",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 216.78,
+"layout": "card",
+"bg": {
+"type": "grid",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.72
+}
+},
+{
+"n": 62,
+"start": 216.78,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_062.jpg",
+"ar": 1.336,
+"fx": {
+"in": "slideBounce",
+"keep": "rotate",
+"treat": [
+"bwaccent",
+"vignette"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 219.78,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "ink",
+"dur": 0.72
+}
+},
+{
+"n": 63,
+"start": 219.78,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_063.jpg",
+"ar": 0.762,
+"fx": {
+"in": "blurSharp",
+"keep": "breathe",
+"treat": [
+"bwaccent"
+],
+"shape": "arch",
+"special": "stickers"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 223.46,
+"layout": "card",
+"bg": {
+"type": "blobs",
+"c1": "#0B525B",
+"c2": "#14706B",
+"c3": "#7AE7C7",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "page",
+"dur": 0.72
+}
+},
+{
+"n": 64,
+"start": 223.46,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_059.mp4",
+"off": 6.0,
+"fx": {
+"in": "blocks",
+"keep": "kenburns",
+"treat": [
+"shadowBorder"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 226.36,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#CAFFBF",
+"c2": "#9BF6FF",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.5
+}
+},
+{
+"n": 65,
+"start": 226.36,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [
+"dark"
+],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "blank"
+},
+"end": 228.72,
+"layout": "none",
+"bg": {
+"type": "lines",
+"c1": "#FFDDD2",
+"c2": "#FFB4A2",
+"c3": "#E5989B",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 66,
+"start": 228.72,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_066.mp4",
+"off": 0.4,
+"fx": {
+"in": "shapeOpen",
+"keep": "parallax",
+"treat": [
+"duotone"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 232.56,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.5
+}
+},
+{
+"n": 67,
+"start": 232.56,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_067.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "float",
+"treat": [
+"vignette"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 238.46,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "flash",
+"dur": 0.35
+}
+},
+{
+"n": 68,
+"start": 238.46,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "LA TRAMPA",
+"card": true,
+"size": "grande",
+"acc": "TRAMPA",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 240.32,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#E3F0D6",
+"c2": "#C5DEB0",
+"c3": "#F1E3B6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "wipe",
+"dur": 0.5
+}
+},
+{
+"n": 69,
+"start": 240.32,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_069.jpg",
+"ar": 0.664,
+"fx": {
+"in": "zoomPoint",
+"keep": "rotate",
+"treat": [
+"duotone"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 244.14,
+"layout": "card",
+"bg": {
+"type": "circles",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "iris",
+"dur": 0.5
+}
+},
+{
+"n": 70,
+"start": 244.14,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "¿MERECIDA?",
+"card": false,
+"size": "grande",
+"acc": "MERECIDA",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 246.92,
+"layout": "none",
+"bg": {
+"type": "warm",
+"c1": "#FFD6A5",
+"c2": "#FFADAD",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.35
+}
+},
+{
+"n": 71,
+"start": 246.92,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "shrug",
+"mood": "worried"
+},
+"end": 249.3,
+"layout": "none",
+"bg": {
+"type": "mesh",
+"c1": "#8A2D00",
+"c2": "#A83A00",
+"c3": "#FFBE0B",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "whip",
+"dur": 0.35
+}
+},
+{
+"n": 72,
+"start": 249.3,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_072.jpg",
+"ar": 1.792,
+"fx": {
+"in": "slideBounce",
+"keep": "breathe",
+"treat": [
+"grain"
+],
+"shape": "blob",
+"special": "shine"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "DESAFORTUNADOS",
+"card": true,
+"size": "mediano",
+"acc": "DESAFORTUNADOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 253.66,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "glitch",
+"dur": 0.35
+}
+},
+{
+"n": 73,
+"start": 253.66,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "🎡",
+"fx": {
+"in": "pop",
+"keep": "breathe"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 257.56,
+"layout": "none",
+"bg": {
+"type": "conic",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "push",
+"dur": 0.35
+}
+},
+{
+"n": 74,
+"start": 257.56,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_074.mp4",
+"off": 0.4,
+"fx": {
+"in": "blurSharp",
+"keep": "kenburns",
+"treat": [
+"bwaccent",
+"vignette"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 262.24,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.35
+}
+},
+{
+"n": 75,
+"start": 262.24,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"svg": "perdedor",
+"fx": {
+"in": "drop",
+"keep": "rotate"
+}
+}
+],
+"txt": [
+{
+"text": "PERDEDORES",
+"card": false,
+"size": "grande",
+"acc": "PERDEDORES",
+"red": true
+}
+],
+"fx": [],
+"hit": true,
+"end": 263.22,
+"layout": "none",
+"bg": {
+"type": "solid",
+"c1": "#2B2522",
+"c2": "#4A3D37",
+"c3": "#E07A5F",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "flash",
+"dur": 0.35
+}
+},
+{
+"n": 76,
+"start": 263.22,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "🍀",
+"fx": {
+"in": "spin",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 265.62,
+"layout": "none",
+"bg": {
+"type": "blobs",
+"c1": "#FFF8EC",
+"c2": "#FFE8CC",
+"c3": "#FFD6A5",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "wipev",
+"dur": 0.5
+}
+},
+{
+"n": 77,
+"start": 265.62,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_077.mp4",
+"off": 0.4,
+"fx": {
+"in": "blocks",
+"keep": "parallax",
+"treat": [
+"bwaccent"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 269.4,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.5
+}
+},
+{
+"n": 78,
+"start": 269.4,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "scratch",
+"mood": "worried",
+"sweat": true
+},
+"end": 270.88,
+"layout": "none",
+"bg": {
+"type": "halftone",
+"c1": "#FFDDD2",
+"c2": "#FFB4A2",
+"c3": "#E5989B",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "slide",
+"dur": 0.5
+}
+},
+{
+"n": 79,
+"start": 270.88,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "🔨",
+"fx": {
+"in": "slide",
+"keep": "breathe"
+}
+},
+{
+"e": "🪪",
+"fx": {
+"in": "blur",
+"keep": "rotate"
+}
+}
+],
+"txt": [
+{
+"text": "EL VEREDICTO",
+"card": false,
+"size": "mediano",
+"acc": "VEREDICTO",
+"red": true
+}
+],
+"fx": [],
+"hit": false,
+"end": 274.7,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#0B525B",
+"c2": "#14706B",
+"c3": "#7AE7C7",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipe",
+"dur": 0.5
+}
+},
+{
+"n": 80,
+"start": 274.7,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_080.mp4",
+"off": 0.4,
+"fx": {
+"in": "shapeOpen",
+"keep": "float",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 277.3,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dip",
+"dur": 0.72
+}
+},
+{
+"n": 81,
+"start": 277.3,
+"tipo": "FOTO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_081.jpg",
+"ar": 1.0,
+"fx": {
+"in": "mask",
+"keep": "rotate",
+"treat": [
+"chroma"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "ÉMILE DURKHEIM, 1897",
+"card": true,
+"size": "chico",
+"acc": "1897",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 282.24,
+"layout": "card",
+"bg": {
+"type": "warm",
+"c1": "#4A1942",
+"c2": "#893168",
+"c3": "#C4A5DE",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "leak",
+"dur": 0.72
+}
+},
+{
+"n": 82,
+"start": 282.24,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 4",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_082.mp4",
+"off": 0.4,
+"fx": {
+"in": "zoomPoint",
+"keep": "breathe",
+"treat": [
+"grain",
+"shadowBorder"
+],
+"shape": "rounded",
+"special": "particles"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 286.36,
+"layout": "card",
+"bg": {
+"type": "linear",
+"c1": "#FFF8EC",
+"c2": "#FFE8CC",
+"c3": "#FFD6A5",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.72
+}
+},
+{
+"n": 83,
+"start": 286.36,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [
+{
+"e": "📈",
+"fx": {
+"in": "pop",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 289.58,
+"layout": "none",
+"bg": {
+"type": "paper",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "ink",
+"dur": 0.72
+}
+},
+{
+"n": 84,
+"start": 289.58,
+"tipo": "2D",
+"sec": "SECCIÓN 4",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "handup"
+},
+"end": 293.26,
+"layout": "none",
+"bg": {
+"type": "grid",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "push",
+"dur": 0.5
+}
+},
+{
+"n": 85,
+"start": 293.26,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "3 SALIDAS",
+"card": true,
+"size": "grande",
+"acc": "SALIDAS",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 296.32,
+"layout": "none",
+"bg": {
+"type": "blobs",
+"c1": "#FFD6A5",
+"c2": "#FFADAD",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "whip",
+"dur": 0.35
+}
+},
+{
+"n": 86,
+"start": 296.32,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "🎲",
+"fx": {
+"in": "drop",
+"keep": "breathe"
+}
+}
+],
+"txt": [
+{
+"text": "1. LA SUERTE CUENTA",
+"card": true,
+"size": "mediano",
+"acc": "SUERTE",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 300.22,
+"layout": "none",
+"bg": {
+"type": "solid",
+"c1": "#33420D",
+"c2": "#4F5E16",
+"c3": "#C9D46C",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.5
+}
+},
+{
+"n": 87,
+"start": 300.22,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_087.mp4",
+"off": 0.4,
+"fx": {
+"in": "slideBounce",
+"keep": "kenburns",
+"treat": [
+"halftone"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 304.38,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipev",
+"dur": 0.5
+}
+},
+{
+"n": 88,
+"start": 304.38,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "happy"
+},
+"end": 311.28,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#FFE5EC",
+"c2": "#FFC2D1",
+"c3": "#FFB3C6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "leak",
+"dur": 0.72
+}
+},
+{
+"n": 89,
+"start": 311.28,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [
+{
+"e": "✏️",
+"fx": {
+"in": "spin",
+"keep": "rotate"
+}
+},
+{
+"e": "🏆",
+"fx": {
+"in": "slide",
+"keep": "float"
+}
+}
+],
+"txt": [
+{
+"text": "2. TU PROPIO ÉXITO",
+"card": true,
+"size": "mediano",
+"acc": "ÉXITO",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"end": 315.59,
+"layout": "none",
+"bg": {
+"type": "circles",
+"c1": "#F4EDE4",
+"c2": "#E9DCC9",
+"c3": "#D4C1A1",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "slide",
+"dur": 0.5
+}
+},
+{
+"n": 90,
+"start": 315.59,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_090.mp4",
+"off": 0.4,
+"fx": {
+"in": "blurSharp",
+"keep": "parallax",
+"treat": [
+"grain"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 321.41,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "wipe",
+"dur": 0.5
+}
+},
+{
+"n": 91,
+"start": 321.41,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_091.mp4",
+"off": 0.4,
+"fx": {
+"in": "blocks",
+"keep": "float",
+"treat": [
+"halftone",
+"shadowBorder"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 323.53,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#FFDDD2",
+"c2": "#FFB4A2",
+"c3": "#E5989B",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.5
+}
+},
+{
+"n": 92,
+"start": 323.53,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_092.mp4",
+"off": 0.4,
+"fx": {
+"in": "shapeOpen",
+"keep": "rotate",
+"treat": [
+"glow"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": true,
+"end": 324.95,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "whip",
+"dur": 0.35
+}
+},
+{
+"n": 93,
+"start": 324.95,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_093.mp4",
+"off": 0.4,
+"fx": {
+"in": "mask",
+"keep": "breathe",
+"treat": [
+"grain",
+"vignette"
+],
+"shape": "circle",
+"special": "leak"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 331.49,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "cube",
+"dur": 0.5
+}
+},
+{
+"n": 94,
+"start": 331.49,
+"tipo": "TEXTO",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "3. NO ERES TU PUESTO",
+"card": true,
+"size": "mediano",
+"acc": "NO ERES",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 334.69,
+"layout": "none",
+"bg": {
+"type": "warm",
+"c1": "#1B4332",
+"c2": "#2D6A4F",
+"c3": "#52B788",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "push",
+"dur": 0.35
+}
+},
+{
+"n": 95,
+"start": 334.69,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_095.jpg",
+"ar": 1.503,
+"fx": {
+"in": "zoomPoint",
+"keep": "kenburns",
+"treat": [
+"chroma"
+],
+"shape": "arch"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 340.05,
+"layout": "card",
+"bg": {
+"type": "mesh",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "leak",
+"dur": 0.72
+}
+},
+{
+"n": 96,
+"start": 340.05,
+"tipo": "FOTO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_095.jpg",
+"ar": 1.503,
+"fx": {
+"in": "slideBounce",
+"keep": "parallax",
+"treat": [
+"vignette"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 344.53,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "iris",
+"dur": 0.72
+}
+},
+{
+"n": 97,
+"start": 344.53,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_097.mp4",
+"off": 0.4,
+"fx": {
+"in": "blurSharp",
+"keep": "float",
+"treat": [
+"halftone"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 345.53,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "ink",
+"dur": 0.45
+}
+},
+{
+"n": 98,
+"start": 345.53,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_098.mp4",
+"off": 0.4,
+"fx": {
+"in": "blocks",
+"keep": "rotate",
+"treat": [
+"glow"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 347.55,
+"layout": "card",
+"bg": {
+"type": "linear",
+"c1": "#0B525B",
+"c2": "#14706B",
+"c3": "#7AE7C7",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "page",
+"dur": 0.72
+}
+},
+{
+"n": 99,
+"start": 347.55,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 5",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_091.mp4",
+"off": 6.0,
+"fx": {
+"in": "shapeOpen",
+"keep": "breathe",
+"treat": [
+"bwaccent",
+"vignette"
+],
+"shape": "arch",
+"special": "flare"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 348.95,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dissolve",
+"dur": 0.63
+}
+},
+{
+"n": 100,
+"start": 348.95,
+"tipo": "2D",
+"sec": "SECCIÓN 5",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "blank",
+"hold": "📇"
+},
+"end": 356.49,
+"layout": "none",
+"bg": {
+"type": "grid",
+"c1": "#CAFFBF",
+"c2": "#9BF6FF",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "slide",
+"dur": 0.5
+}
+},
+{
+"n": 101,
+"start": 356.49,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_002.mp4",
+"off": 4.33,
+"fx": {
+"in": "mask",
+"keep": "kenburns",
+"treat": [
+"glow"
+],
+"shape": "blob"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 358.79,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "dip",
+"dur": 0.72
+}
+},
+{
+"n": 102,
+"start": 358.79,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "hips",
+"mood": "happy"
+},
+"end": 362.01,
+"layout": "none",
+"bg": {
+"type": "blobs",
+"c1": "#FFF3B0",
+"c2": "#FFD166",
+"c3": "#F4A261",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "iris",
+"dur": 0.5
+}
+},
+{
+"n": 103,
+"start": 362.01,
+"tipo": "VIDEO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "v",
+"src": "dedicas/videos/escena_020.mp4",
+"off": 6.0,
+"fx": {
+"in": "zoomPoint",
+"keep": "parallax",
+"treat": [
+"shadowBorder"
+],
+"shape": "rounded"
+}
+}
+],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"end": 366.21,
+"layout": "card",
+"bg": {
+"type": "blurmedia",
+"c1": "#D7F1FF",
+"c2": "#A0E7E5",
+"c3": "#B4F8C8",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "blinds",
+"dur": 0.5
+}
+},
+{
+"n": 104,
+"start": 366.21,
+"tipo": "FOTO",
+"sec": "SECCIÓN 6",
+"media": [
+{
+"t": "f",
+"src": "dedicas/fotos/foto_104.jpg",
+"ar": 1.5,
+"fx": {
+"in": "slideBounce",
+"keep": "float",
+"treat": [
+"duotone"
+],
+"shape": "circle"
+}
+}
+],
+"icons": [],
+"txt": [
+{
+"text": "TU PELÍCULA ES MÁS LARGA",
+"card": false,
+"size": "mediano",
+"acc": "MÁS LARGA",
+"red": false
+}
+],
+"fx": [],
+"hit": true,
+"end": 369.59,
+"layout": "full",
+"bg": {
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "slide",
+"dur": 0.35
+}
+},
+{
+"n": 105,
+"start": 369.59,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "happy"
+},
+"end": 371.29,
+"layout": "none",
+"bg": {
+"type": "paper",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "page",
+"dur": 0.5
+}
+},
+{
+"n": 106,
+"start": 371.29,
+"tipo": "ÍCONOS",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "🪪",
+"fx": {
+"in": "blur",
+"keep": "breathe"
+}
+},
+{
+"e": "❌",
+"fx": {
+"in": "pop",
+"keep": "rotate"
+}
+}
+],
+"txt": [
+{
+"text": "¿CÓMO TE PRESENTARÍAS?",
+"card": true,
+"size": "mediano",
+"acc": "PRESENTARÍAS",
+"red": false
+}
+],
+"fx": [
+"cross"
+],
+"hit": false,
+"end": 375.39,
+"layout": "none",
+"bg": {
+"type": "solid",
+"c1": "#FFD6A5",
+"c2": "#FFADAD",
+"c3": "#FDFFB6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "ink",
+"dur": 0.5
+}
+},
+{
+"n": 107,
+"start": 375.39,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "💬",
+"fx": {
+"in": "drop",
+"keep": "float"
+}
+}
+],
+"txt": [
+{
+"text": "TE LEO EN LOS COMENTARIOS",
+"card": false,
+"size": "mediano",
+"acc": "COMENTARIOS",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "phone",
+"mood": "happy"
+},
+"end": 378.35,
+"layout": "none",
+"bg": {
+"type": "radial",
+"c1": "#33420D",
+"c2": "#4F5E16",
+"c3": "#C9D46C",
+"light": false
+},
+"acc": {
+"amber": "#FFB547",
+"red": "#FF6B6B"
+},
+"tr": {
+"type": "push",
+"dur": 0.5
+}
+},
+{
+"n": 108,
+"start": 378.35,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "👍",
+"fx": {
+"in": "spin",
+"keep": "breathe"
+}
+},
+{
+"e": "↗️",
+"fx": {
+"in": "slide",
+"keep": "rotate"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "stand",
+"mood": "happy"
+},
+"end": 384.05,
+"layout": "none",
+"bg": {
+"type": "circles",
+"c1": "#FFE5EC",
+"c2": "#FFC2D1",
+"c3": "#FFB3C6",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "blocks",
+"dur": 0.5
+}
+},
+{
+"n": 109,
+"start": 384.05,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [],
+"txt": [
+{
+"text": "SUSCRÍBETE",
+"card": true,
+"size": "chico",
+"acc": "SUSCRÍBETE",
+"red": false
+}
+],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "reach",
+"mood": "happy",
+"hold": "🔔"
+},
+"end": 385.09,
+"layout": "none",
+"bg": {
+"type": "warm",
+"c1": "#F4EDE4",
+"c2": "#E9DCC9",
+"c3": "#D4C1A1",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "wipev",
+"dur": 0.47
+}
+},
+{
+"n": 110,
+"start": 385.09,
+"tipo": "2D",
+"sec": "SECCIÓN 6",
+"media": [],
+"icons": [
+{
+"e": "👍",
+"fx": {
+"in": "blur",
+"keep": "float"
+}
+}
+],
+"txt": [],
+"fx": [],
+"hit": false,
+"person": {
+"pose": "wave",
+"mood": "happy"
+},
+"end": 400.56,
+"endscreen": true,
+"layout": "none",
+"bg": {
+"type": "lines",
+"c1": "#FFF3B0",
+"c2": "#FFD166",
+"c3": "#F4A261",
+"light": true
+},
+"acc": {
+"amber": "#8A4100",
+"red": "#B0101C"
+},
+"tr": {
+"type": "zoom",
+"dur": 0.5
+}
+}
+]
+}
