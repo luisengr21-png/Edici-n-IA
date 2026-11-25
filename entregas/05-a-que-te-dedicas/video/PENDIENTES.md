@@ -14,7 +14,7 @@
 - Quedó de la extensión de tu guion, como pediste.
 - Los capítulos, con sus tiempos reales, ya están en `../05_titulos_y_descripcion.md`.
 - **Volumen:** el largo quedó en −13.6 LUFS, con picos de −1.7 dB. Los shorts, entre −13.7 y −13.9 LUFS, con picos por debajo de −2 dB.
-- **Calidad del largo:** el de GitHub va comprimido para que entre en el repositorio. La versión en **alta calidad** va a tu Google Drive (enlace abajo).
+- **Calidad del largo:** el de GitHub va comprimido para que entre en el repositorio. La versión en **alta calidad** (200 MB) está en tu Google Drive: https://drive.google.com/file/d/1Fh0pVKP9lvpUS_uvGFVrgxlTAgkTupmq/view
 
 ## Shorts: título, descripción y miniatura
 
