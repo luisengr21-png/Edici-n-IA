@@ -106,6 +106,44 @@ El título y la descripción de cada short van en `03_shorts.md`, en la Fase 1, 
   - **Generar por bloques cortos** cuando cambie mucho la emoción, para que cada parte tenga su tono.
   - **Revisar al escuchar** que no suene exagerado.
 
+## Edición: fondos, transiciones y efectos (obligatorio, desde el 5.º video)
+Aplica al video largo y a los shorts. Antes de programar un video, se define en `scripts/<video>/viz.py` un plan por escena con su fondo, su transición de entrada y los efectos de cada imagen. Se revisa automáticamente que no se repitan en escenas seguidas, igual que la regla de los textos.
+
+### Fondos
+1. **No usar azul marino ni azul oscuro como fondo por defecto** (`#0a1128`, `#0f172a`, `#1a1a40`, `#0B1A3A`, `#121633` y similares). No es la preferencia del creador y se usaba demasiado.
+2. **Cada escena con un fondo distinto de la anterior.** Antes de programar, se define una paleta por escena y no se repite el color dominante en dos escenas seguidas.
+3. **Variar el tipo de fondo, no solo el color.** Alternar entre:
+   - color sólido vibrante o pastel;
+   - degradados lineales, radiales o cónicos;
+   - degradados animados o «mesh gradient» en movimiento;
+   - texturas (papel, grano de película, ruido, cuadrícula, puntos de semitono);
+   - patrones geométricos animados (líneas, círculos, formas orgánicas flotantes);
+   - imagen o video desenfocado, con una capa de color encima;
+   - fondos claros o blancos cálidos (no todo debe ser oscuro).
+4. **Buen contraste entre texto y fondo siempre** (mínimo WCAG AA).
+5. **Coherencia:** 1 o 2 colores de acento recurrentes, para que el video se sienta una sola pieza aunque cambien los fondos.
+
+### Transiciones
+1. **Nunca la misma transición en dos cortes seguidos.** Que no todo sea fade o corte simple.
+2. **Catálogo variado**, según el ritmo y la emoción de cada corte:
+   - movimiento: slide, push, wipe (horizontal, vertical, diagonal), zoom in/out, whip pan con desenfoque de movimiento;
+   - formas: círculo que se expande (iris), barras o persianas, mosaico o píxeles, cortina con forma;
+   - estilo digital: glitch, separación RGB, distorsión de ondas, desplazamiento por líneas de escaneo;
+   - cinematográficas: cross-dissolve, fundido a color, flash blanco, light leak, desenfoque progresivo;
+   - creativas: pasar página, rotación 3D o cubo, formas que se transforman, «líquido» o tinta, match cut con un elemento compartido.
+3. **Duración de cada transición: 0.3–0.8 s.** Más rápidas en escenas enérgicas y más lentas en las emotivas. Siempre con easing (ease-in-out, spring), nunca con movimiento lineal.
+4. **Solapar escenas:** cuando se pueda, elementos de la escena que sale se solapan con la que entra.
+
+### Efectos en imágenes
+Ninguna imagen aparece estática. Cada imagen (foto, clip, ícono o ilustración) lleva al menos 1 efecto de entrada y 1 de permanencia, y si aplica, 1 de salida. Los efectos varían entre imágenes:
+- **Entrada:** revelado con máscara, zoom desde un punto, deslizamiento con rebote, de desenfocado a nítido, cortina por bloques, «polaroid» que cae, apertura con forma (círculo, rectángulo redondeado).
+- **Permanencia:** Ken Burns (zoom y paneo lento), parallax por capas, flotación suave, rotación sutil, respiración (escala 1.00→1.04).
+- **Tratamientos visuales:** duotono, grano de película, viñeta, glow o bloom, aberración cromática, semitono (halftone), blanco y negro con acento de color, bordes con sombra, recorte con forma (círculo, blob, arco).
+- **Efectos especiales, de vez en cuando:** partículas, destellos (lens flare), light leaks, líneas de velocidad, brillo que barre la imagen (shine sweep), marcos animados, stickers o formas decorativas alrededor.
+- **Dosificación:**
+  - máximo 2 tratamientos visuales por imagen, sin perder legibilidad;
+  - el efecto apoya el mensaje, no distrae.
+
 ## Cierre de los videos
 - No hacer referencia a otros videos del canal salvo que el creador lo pida en ese video.
 
