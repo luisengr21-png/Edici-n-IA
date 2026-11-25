@@ -13,7 +13,7 @@
 - El largo dura 6:40: 6:29 de narración más 12 s de pantalla final, con el lado derecho libre para los elementos de YouTube.
 - Quedó de la extensión de tu guion, como pediste.
 - Los capítulos, con sus tiempos reales, ya están en `../05_titulos_y_descripcion.md`.
-- **Volumen:** los shorts quedaron entre −13.7 y −13.9 LUFS, con picos por debajo de −2 dB. El largo, igual (ver abajo).
+- **Volumen:** el largo quedó en −13.6 LUFS, con picos de −1.7 dB. Los shorts, entre −13.7 y −13.9 LUFS, con picos por debajo de −2 dB.
 - **Calidad del largo:** el de GitHub va comprimido para que entre en el repositorio. La versión en **alta calidad** va a tu Google Drive (enlace abajo).
 
 ## Shorts: título, descripción y miniatura
