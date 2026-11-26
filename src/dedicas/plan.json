@@ -59,7 +59,7 @@
 "in": "zoomPoint",
 "keep": "parallax",
 "treat": [
-"duotone"
+"glow"
 ],
 "shape": "circle"
 }
@@ -609,9 +609,9 @@
 "layout": "none",
 "bg": {
 "type": "warm",
-"c1": "#FFD6A5",
-"c2": "#FFADAD",
-"c3": "#FDFFB6",
+"c1": "#D7F1FF",
+"c2": "#A0E7E5",
+"c3": "#B4F8C8",
 "light": true
 },
 "acc": {
@@ -959,7 +959,7 @@
 }
 },
 {
-"e": "📦",
+"e": "🚪",
 "fx": {
 "in": "blur",
 "keep": "float"
@@ -1043,7 +1043,7 @@
 "in": "shapeOpen",
 "keep": "float",
 "treat": [
-"bwaccent",
+"grain",
 "vignette"
 ],
 "shape": "rounded"
@@ -1259,7 +1259,7 @@
 "in": "slideBounce",
 "keep": "kenburns",
 "treat": [
-"duotone"
+"glow"
 ],
 "shape": "blob"
 }
@@ -1305,9 +1305,9 @@
 "layout": "none",
 "bg": {
 "type": "linear",
-"c1": "#FFD6A5",
-"c2": "#FFADAD",
-"c3": "#FDFFB6",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
 "light": true
 },
 "acc": {
@@ -1418,7 +1418,7 @@
 "in": "blocks",
 "keep": "float",
 "treat": [
-"duotone"
+"shadowBorder"
 ],
 "shape": "circle"
 }
@@ -1642,7 +1642,7 @@
 "in": "mask",
 "keep": "breathe",
 "treat": [
-"bwaccent",
+"grain",
 "vignette"
 ],
 "shape": "blob",
@@ -1694,7 +1694,7 @@
 "in": "zoomPoint",
 "keep": "kenburns",
 "treat": [
-"bwaccent"
+"glow"
 ],
 "shape": "rounded"
 }
@@ -1831,9 +1831,9 @@
 "layout": "none",
 "bg": {
 "type": "mesh",
-"c1": "#8A2D00",
-"c2": "#A83A00",
-"c3": "#FFBE0B",
+"c1": "#4C1D95",
+"c2": "#6D28D9",
+"c3": "#C084FC",
 "light": false
 },
 "acc": {
@@ -1859,7 +1859,7 @@
 "in": "blurSharp",
 "keep": "float",
 "treat": [
-"duotone"
+"vignette"
 ],
 "shape": "arch"
 }
@@ -2648,7 +2648,7 @@
 "in": "slideBounce",
 "keep": "rotate",
 "treat": [
-"bwaccent",
+"grain",
 "vignette"
 ],
 "shape": "circle"
@@ -2691,7 +2691,7 @@
 "in": "blurSharp",
 "keep": "breathe",
 "treat": [
-"bwaccent"
+"glow"
 ],
 "shape": "arch",
 "special": "stickers"
@@ -2810,7 +2810,7 @@
 "in": "shapeOpen",
 "keep": "parallax",
 "treat": [
-"duotone"
+"vignette"
 ],
 "shape": "rounded"
 }
@@ -2930,7 +2930,7 @@
 "in": "zoomPoint",
 "keep": "rotate",
 "treat": [
-"duotone"
+"grain"
 ],
 "shape": "arch"
 }
@@ -3012,9 +3012,9 @@
 "layout": "none",
 "bg": {
 "type": "mesh",
-"c1": "#8A2D00",
-"c2": "#A83A00",
-"c3": "#FFBE0B",
+"c1": "#0B525B",
+"c2": "#14706B",
+"c3": "#7AE7C7",
 "light": false
 },
 "acc": {
@@ -3080,33 +3080,40 @@
 {
 "n": 73,
 "start": 253.66,
-"tipo": "ÍCONOS",
+"tipo": "FOTO",
 "sec": "SECCIÓN 4",
-"media": [],
-"icons": [
+"media": [
 {
-"e": "🎡",
+"t": "f",
+"src": "dedicas/fotos/foto_diosa_fortuna.jpg",
+"ar": 1.792,
 "fx": {
-"in": "pop",
-"keep": "breathe"
+"in": "zoomPoint",
+"keep": "kenburns",
+"treat": [
+"glow",
+"shadowBorder"
+],
+"shape": "rounded"
 }
 }
 ],
+"icons": [],
 "txt": [],
 "fx": [],
 "hit": false,
 "end": 257.56,
-"layout": "none",
+"layout": "card",
 "bg": {
-"type": "conic",
-"c1": "#E4D9FF",
-"c2": "#BDB2FF",
-"c3": "#FFC6FF",
-"light": true
+"type": "blurmedia",
+"c1": "#5E0B15",
+"c2": "#7D2531",
+"c3": "#D9A6A1",
+"light": false
 },
 "acc": {
-"amber": "#8A4100",
-"red": "#B0101C"
+"amber": "#FFB547",
+"red": "#FF6B6B"
 },
 "tr": {
 "type": "push",
@@ -3127,7 +3134,7 @@
 "in": "blurSharp",
 "keep": "kenburns",
 "treat": [
-"bwaccent",
+"glow",
 "vignette"
 ],
 "shape": "rounded"
@@ -3159,18 +3166,24 @@
 {
 "n": 75,
 "start": 262.24,
-"tipo": "ÍCONOS",
+"tipo": "FOTO",
 "sec": "SECCIÓN 4",
-"media": [],
-"icons": [
+"media": [
 {
-"svg": "perdedor",
+"t": "f",
+"src": "dedicas/fotos/foto_perdedores.jpg",
+"ar": 1.499,
 "fx": {
-"in": "drop",
-"keep": "rotate"
+"in": "mask",
+"keep": "kenburns",
+"treat": [
+"vignette"
+],
+"shape": "rounded"
 }
 }
 ],
+"icons": [],
 "txt": [
 {
 "text": "PERDEDORES",
@@ -3183,12 +3196,12 @@
 "fx": [],
 "hit": true,
 "end": 263.22,
-"layout": "none",
+"layout": "full",
 "bg": {
-"type": "solid",
-"c1": "#2B2522",
-"c2": "#4A3D37",
-"c3": "#E07A5F",
+"type": "media",
+"c1": "#000000",
+"c2": "#000000",
+"c3": "#000000",
 "light": false
 },
 "acc": {
@@ -3250,7 +3263,7 @@
 "in": "blocks",
 "keep": "parallax",
 "treat": [
-"bwaccent"
+"shadowBorder"
 ],
 "shape": "circle"
 }
@@ -3705,10 +3718,10 @@
 "end": 311.28,
 "layout": "none",
 "bg": {
-"type": "radial",
-"c1": "#FFE5EC",
-"c2": "#FFC2D1",
-"c3": "#FFB3C6",
+"type": "grid",
+"c1": "#E4D9FF",
+"c2": "#BDB2FF",
+"c3": "#FFC6FF",
 "light": true
 },
 "acc": {
@@ -4160,7 +4173,7 @@
 "in": "shapeOpen",
 "keep": "breathe",
 "treat": [
-"bwaccent",
+"grain",
 "vignette"
 ],
 "shape": "arch",
@@ -4283,14 +4296,14 @@
 "layout": "none",
 "bg": {
 "type": "blobs",
-"c1": "#FFF3B0",
-"c2": "#FFD166",
-"c3": "#F4A261",
-"light": true
+"c1": "#1B4332",
+"c2": "#2D6A4F",
+"c3": "#52B788",
+"light": false
 },
 "acc": {
-"amber": "#8A4100",
-"red": "#B0101C"
+"amber": "#FFB547",
+"red": "#FF6B6B"
 },
 "tr": {
 "type": "iris",
@@ -4353,7 +4366,7 @@
 "in": "slideBounce",
 "keep": "float",
 "treat": [
-"duotone"
+"glow"
 ],
 "shape": "circle"
 }
@@ -4637,14 +4650,14 @@
 "layout": "none",
 "bg": {
 "type": "lines",
-"c1": "#FFF3B0",
-"c2": "#FFD166",
-"c3": "#F4A261",
-"light": true
+"c1": "#4A1942",
+"c2": "#893168",
+"c3": "#C4A5DE",
+"light": false
 },
 "acc": {
-"amber": "#8A4100",
-"red": "#B0101C"
+"amber": "#FFB547",
+"red": "#FF6B6B"
 },
 "tr": {
 "type": "zoom",

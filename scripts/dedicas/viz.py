@@ -167,8 +167,31 @@ def build():
     estilo.assign(out, emos)
     for s in out:  # la transición no puede durar más de la mitad de las escenas que une
         s['tr']['dur'] = round(min(s['tr']['dur'], max(0.3, (s['end'] - s['start']) * 0.45)), 2)
+    estilo.ajustar(out)
+    revision_creador(out)
     estilo.check(out)
     return out
+
+def foto(name):
+    from PIL import Image
+    w_, h_ = Image.open(os.path.join(ROOT, 'public', 'dedicas', 'fotos', name + '.jpg')).size
+    return dict(t='f', src=f'dedicas/fotos/{name}.jpg', ar=round(w_ / h_, 3))
+
+def revision_creador(out):
+    """Cambios que pidió el creador al revisar el video (26 nov 2026). Solo tocan estas escenas."""
+    S = {s['n']: s for s in out}
+    # 1:12 · «si te acaban de despedir»: la caja de cartón no se entendía → puerta de salida
+    S[23]['icons'] = [dict(i, e='🚪') if i.get('e') == '📦' else i for i in S[23]['icons']]
+    # 4:14 · la diosa Fortuna: su imagen (la puso el creador) en tarjeta, sobre su propia imagen desenfocada en tono vino
+    s = S[73]
+    s.update(tipo='FOTO', icons=[], layout='card', media=[dict(foto('foto_diosa_fortuna'), fx={'in': 'zoomPoint', 'keep': 'kenburns', 'treat': ['glow', 'shadowBorder'], 'shape': 'rounded'})])
+    estilo.set_bg(s, 'vino', 'blurmedia')
+    # 4:22 · «perdedores»: la foto del creador en lugar de la «L»
+    s = S[75]
+    s.update(tipo='FOTO', icons=[], layout='full', media=[dict(foto('foto_perdedores'), fx={'in': 'mask', 'keep': 'kenburns', 'treat': ['vignette'], 'shape': 'rounded'})])
+    s['bg'] = dict(type='media', c1='#000000', c2='#000000', c3='#000000', light=False); s['acc'] = dict(estilo.ACC_DARK)
+    # 5:05 · otro fondo para «Tú» con la mano en el pecho
+    estilo.set_bg(S[88], 'lavanda', 'grid')
 
 if __name__ == '__main__':
     out = build()

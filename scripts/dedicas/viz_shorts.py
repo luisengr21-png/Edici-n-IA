@@ -53,7 +53,7 @@ SH = {
    ('entonces también crees que los de abajo', 'VIDEO', [V('escena_067')], [], None, []),
    ('Esa es la trampa de la meritocracia', 'VIDEO', [V('escena_059')], [], None, []),
    ('En la Inglaterra medieval', 'FOTO', [F('foto_072')], [], None, []),
-   ('Hoy les decimos perdedores', 'ÍCONOS', [], I('perdedor'), None, []),
+   ('Hoy les decimos perdedores', 'FOTO', [F('foto_perdedores')], [], None, []),
    ('Intenta decir en una entrevista', 'VIDEO', [V('escena_077')], [], None, []),
    ('La suerte sigue contando', 'VIDEO', [V('escena_087')], I('dado'), None, []),
    ('Así que no trates a nadie', '2D', [], [], P('mano en el pecho'), []),
@@ -109,6 +109,7 @@ def build(n):
     estilo.assign(scenes, emos, vertical=True)
     for s in scenes:
         s['tr']['dur'] = round(min(s['tr']['dur'], max(0.3, (s['end'] - s['start']) * 0.45)), 2)
+    estilo.ajustar(scenes)  # cambios que pidió el creador al revisar el video 5
     estilo.check(scenes)
     # Subtítulos: las palabras exactas del guion del short con los tiempos de la transcripción
     script = re.sub(r'\[[^\]]*\]', ' ', raw).split()

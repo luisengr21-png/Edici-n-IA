@@ -181,3 +181,50 @@ def check(scenes):
                 if contrast('#FFFFFF', bg['c2']) < 3: errs.append(f"escena {s['n']}: poco contraste texto/fondo ({bg['c2']})")
     if errs:
         sys.exit('Reglas de edición rotas:\n  ' + '\n  '.join(errs))
+
+
+# ── Ajustes pedidos por el creador al revisar el video 5 (noviembre 2026) ──
+# 1) Nada de tratamientos que cambian el color solo en parte de la imagen (blanco y negro con acento, duotono):
+#    se cambian por tratamientos que se ven parejos en toda la imagen.
+# 2) El fondo de las escenas con «Tú» no puede ser amarillo/naranja, porque se confunde con su sudadera mostaza.
+PARTIAL = {'bwaccent', 'duotone'}
+UNIFORM_FULL = ['glow', 'vignette', 'grain']
+UNIFORM_CARD = ['glow', 'shadowBorder', 'grain']
+YELLOWISH = {'limon', 'oxido', 'durazno'}
+PERSON_OK = ['cielo', 'lavanda', 'violeta', 'petroleo', 'bosque', 'ciruela']  # sin tonos amarillos (menta y salvia traen amarillo claro)
+
+def _pal(c1):
+    for d in (LIGHT, DARK):
+        for k, v in d.items():
+            if v[0] == c1: return k
+    return None
+
+def ajustar(scenes):
+    k = 0
+    for s in scenes:
+        for m in s['media']:
+            tr = (m.get('fx') or {}).get('treat') or []
+            if any(t in PARTIAL for t in tr):
+                pool = UNIFORM_FULL if s['layout'] == 'full' else UNIFORM_CARD
+                new = []
+                for t in tr:
+                    if t in PARTIAL:
+                        while pool[k % len(pool)] in tr or pool[k % len(pool)] in new: k += 1
+                        t = pool[k % len(pool)]; k += 1
+                    new.append(t)
+                m['fx']['treat'] = new
+    r = 0
+    for i, s in enumerate(scenes):
+        if s.get('person') and s['layout'] != 'full' and _pal(s['bg']['c1']) in YELLOWISH:
+            near = {scenes[j]['bg']['c1'] for j in (i - 1, i + 1) if 0 <= j < len(scenes)}
+            order = PERSON_OK[r % len(PERSON_OK):] + PERSON_OK[:r % len(PERSON_OK)]
+            name = next(n for n in order if (LIGHT.get(n) or DARK.get(n))[0] not in near)
+            r += 1
+            set_bg(s, name)
+    return scenes
+
+def set_bg(s, name, btype=None):
+    c1, c2, c3 = LIGHT.get(name) or DARK.get(name)
+    light = name in LIGHT
+    s['bg'] = dict(type=btype or s['bg']['type'], c1=c1, c2=c2, c3=c3, light=light)
+    s['acc'] = dict(ACC_LIGHT if light else ACC_DARK)
