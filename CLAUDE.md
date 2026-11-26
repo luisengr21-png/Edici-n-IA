@@ -10,6 +10,10 @@ Estas reglas aplican a **todos** los videos que se produzcan en este repositorio
 >
 > Los videos 1 a 3 se hicieron con las reglas anteriores (resumidas al final, solo como historial).
 
+## Idioma: siempre en español
+- **Todo lo que le escribo al creador va en español**, sencillo y sin palabras técnicas: respuestas, resúmenes, avisos, preguntas y descripciones de lo que estoy haciendo. Nunca en inglés, ni siquiera una parte. (Pedido del creador, noviembre 2026.)
+- También van en español los archivos de entrega, `PENDIENTES.md` y los mensajes de los commits.
+
 ## Canal "sin cara" (qué significa exactamente)
 - **El creador nunca aparece**: ni su rostro, ni fotos ni videos suyos, ni avatares que lo representen.
 - **El personaje principal ilustrado SÍ lleva rostro**: ojos, cejas, mejillas y boca, con expresiones según la escena (neutral, preocupado, sonriente). Es el personaje 2D "Tú" con sudadera/capucha mostaza (`src/lujo/elements.tsx`, componente `Person`).
