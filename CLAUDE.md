@@ -122,6 +122,7 @@ Aplica al video largo y a los shorts. Antes de programar un video, se define en 
    - fondos claros o blancos cálidos (no todo debe ser oscuro).
 4. **Buen contraste entre texto y fondo siempre** (mínimo WCAG AA).
 5. **Coherencia:** 1 o 2 colores de acento recurrentes, para que el video se sienta una sola pieza aunque cambien los fondos.
+6. **Detrás de «Tú», nunca fondos amarillos ni naranjas** (limón, óxido, durazno o cualquier tono parecido), porque se confunden con su sudadera mostaza. Se usan colores que contrasten con ella: azul cielo, lila, morado, azul petróleo, verde bosque o ciruela. (Decisión del creador, noviembre 2026, en el 5.º video.)
 
 ### Transiciones
 1. **Nunca la misma transición en dos cortes seguidos.** Que no todo sea fade o corte simple.
@@ -138,7 +139,8 @@ Aplica al video largo y a los shorts. Antes de programar un video, se define en 
 Ninguna imagen aparece estática. Cada imagen (foto, clip, ícono o ilustración) lleva al menos 1 efecto de entrada y 1 de permanencia, y si aplica, 1 de salida. Los efectos varían entre imágenes:
 - **Entrada:** revelado con máscara, zoom desde un punto, deslizamiento con rebote, de desenfocado a nítido, cortina por bloques, «polaroid» que cae, apertura con forma (círculo, rectángulo redondeado).
 - **Permanencia:** Ken Burns (zoom y paneo lento), parallax por capas, flotación suave, rotación sutil, respiración (escala 1.00→1.04).
-- **Tratamientos visuales:** duotono, grano de película, viñeta, glow o bloom, aberración cromática, semitono (halftone), blanco y negro con acento de color, bordes con sombra, recorte con forma (círculo, blob, arco).
+- **Tratamientos visuales:** grano de película, viñeta, glow o bloom, aberración cromática, semitono (halftone), bordes con sombra, recorte con forma (círculo, blob, arco).
+  - **El color debe verse parejo en toda la imagen.** No usar duotono ni blanco y negro con acento de color, ni ningún efecto que cambie el color solo en una parte de la imagen. (Decisión del creador, noviembre 2026, en el 5.º video.)
 - **Efectos especiales, de vez en cuando:** partículas, destellos (lens flare), light leaks, líneas de velocidad, brillo que barre la imagen (shine sweep), marcos animados, stickers o formas decorativas alrededor.
 - **Dosificación:**
   - máximo 2 tratamientos visuales por imagen, sin perder legibilidad;
