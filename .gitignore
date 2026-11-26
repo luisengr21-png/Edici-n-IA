@@ -70,3 +70,10 @@ audio/05-a-que-te-dedicas/*.wav
 out/dedicas-*
 out/a-que-te-dedicas_*
 scripts/dedicas/__pycache__/
+recursos/subempleo/
+public/subempleo/
+audio/06-el-subempleo/tomas/
+audio/06-el-subempleo/*.wav
+out/subempleo-*
+out/el-subempleo_*
+scripts/subempleo/__pycache__/
