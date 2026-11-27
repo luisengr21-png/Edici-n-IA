@@ -150,6 +150,76 @@ Ninguna imagen aparece estática. Cada imagen (foto, clip, ícono o ilustración
   - máximo 2 tratamientos visuales por imagen, sin perder legibilidad;
   - el efecto apoya el mensaje, no distrae.
 
+## Estilo de edición «collage» (desde el 6.º video; el 5.º se rehace con él)
+Decisión del creador, noviembre 2026. Es el estilo de todos los videos a partir de ahora. Las reglas de la sección «Edición: fondos, transiciones y efectos» **siguen vigentes**, con los ajustes de aquí.
+
+**Referencias** (capturas y grabaciones en la carpeta de Drive «INSPIRACIÓN VIDEOS»):
+- MOATSEEK: recortes tipo estampa, tarjetas, sellos y ritmo rápido;
+- The School of Life: notas escritas a mano, papel cuadriculado, espacio con estrellas y escenas que se arman despacio;
+- MIGALA: collage con pinturas antiguas y humor visual;
+- la miniatura «Tu valor no está arriba»: ilustración retro, pocos colores y la palabra clave en una caja de color.
+
+Prueba aprobada: `src/estilo/PruebaCollage.tsx` (inicio del video 6).
+
+### Elementos del estilo
+- **Recortes tipo estampa:** personas, objetos y el personaje, en PNG sin fondo, con un borde blanco alrededor (como calcomanía) y sombra suave. Entran con rebote, se acomodan juntos y salen.
+- **Tarjetas:** fotos y clips con marco blanco y esquinas redondeadas, un poco inclinadas. Entran deslizándose, se apilan o se voltean.
+- **Ilustraciones** en el estilo de la miniatura: planas, retro, con textura.
+- **Pinturas antiguas** como fondo o como recorte, con humor (cosas que no van juntas, puestas juntas para explicar la idea).
+- **Marcas hechas a mano (las hago yo):**
+  - sellos de goma («¡BUENA NOTICIA!», «RECHAZADO»);
+  - X rojas, flechas curvas, círculos, subrayados y tachones;
+  - dibujitos (sol, estrellas, foco, corazón);
+  - gráficas y mapas dibujados con línea blanca.
+- **Texto:**
+  - notas escritas a mano (Caveat) que aparecen letra por letra;
+  - frases con marcador (Permanent Marker) para los remates;
+  - titulares grandes en Anton, con la palabra clave en una caja de color.
+  - Las dos letras de mano tienen licencia libre (OFL) y están en `public/canal/fonts/`.
+
+### Fondos
+- **Tipos de fondo:**
+  - papel oscuro (carbón), crema, arrugado, cuadriculado o rayado;
+  - pizarrón azul marino con cuadrícula;
+  - espacio con estrellas;
+  - pintura antigua;
+  - imagen desenfocada con color encima.
+  - Los fondos de papel y de espacio los hago yo con código.
+- **El fondo sigue cambiando entre escenas:** nunca el mismo tipo ni el mismo color en dos escenas seguidas.
+- **Azul marino:** permitido, pero con moderación: nunca en dos escenas seguidas y no más de 1 de cada 6 escenas.
+- **Detrás de «Tú»:** sigue prohibido el amarillo y el naranja.
+
+### Ritmo
+- **Cada escena se arma por capas:** los elementos van entrando y saliendo sobre el mismo fondo.
+  - Dentro de la escena cambia algo cada 2 a 4 segundos (entra un recorte, cae un sello, se escribe una nota o se mueve la cámara).
+  - El fondo cambia cada 5 a 12 segundos.
+  - Esto sustituye a la regla de «cambiar de plano cada 3 a 8 segundos».
+- **El ritmo sigue a la voz:**
+  - rápido en enumeraciones, datos y momentos irónicos (estilo MOATSEEK);
+  - lento en revelaciones y momentos reflexivos o tristes, con escenas que se arman despacio y movimiento suave de cámara (estilo The School of Life).
+- **Transiciones entre escenas:** con las mismas reglas de siempre (nunca la misma en dos cortes seguidos, de 0.3 a 0.8 s, con suavizado). Para este estilo:
+  - hoja de papel que entra deslizándose;
+  - golpe rápido con desenfoque;
+  - hoja que sube;
+  - fundido lento al espacio;
+  - página que se voltea;
+  - corte en el sello.
+
+### Recursos
+- **El creador pone:**
+  - recortes en PNG sin fondo (personas, objetos y su personaje rediseñado);
+  - ilustraciones en el estilo de la miniatura;
+  - fotos para las tarjetas;
+  - pinturas antiguas;
+  - pocos clips de stock, solo para momentos humanos.
+- **Yo hago con código:** los fondos de papel y de espacio, los sellos, los dibujitos, las flechas, las gráficas, los mapas sencillos, las notas a mano y todos los textos. Esto es una excepción a la sección 1: ahí sigue valiendo que las imágenes las pone el creador.
+- **Personaje «Tú»:** el creador lo rediseña y me manda el archivo. Mientras tanto se usa el actual, como estampa con borde blanco.
+- **Derechos:**
+  - nada de logos ni marcas reales;
+  - nada de personajes de películas o caricaturas con derechos;
+  - nada de caras de famosos;
+  - pinturas solo de dominio público (de autores que murieron hace más de 70 años) o con licencia.
+
 ## Cierre de los videos
 - No hacer referencia a otros videos del canal salvo que el creador lo pida en ese video.
 
