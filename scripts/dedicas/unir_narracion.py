@@ -3,8 +3,8 @@ Uso: python3 scripts/riqueza/unir_narracion.py"""
 import json, os, subprocess
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 A = os.path.join(ROOT, 'audio', '05-a-que-te-dedicas'); T = os.path.join(A, 'tomas')
-ELEGIDAS = ['largo_00_gancho_A', 'largo_01_engreidos_A', 'largo_02_ferrari_A', 'largo_03_puedes_ser_A', 'largo_04_meritocracia_a_A',
-            'largo_05_meritocracia_b_B', 'largo_06_salidas_a_B', 'largo_07_salidas_b_A', 'largo_08_cierre_B']
+ELEGIDAS = ['largo_00_gancho_A', 'largo_01_engreidos_A', 'largo_02_ferrari_A', 'largo_03_puedes_ser_E', 'largo_04_meritocracia_a_A',
+            'largo_05_meritocracia_b_E', 'largo_06_salidas_a_C', 'largo_07_salidas_b_A', 'largo_08_cierre_B']
 SHORTS = {1: 'short_01_B', 2: 'short_02_A', 3: 'short_03_A'}
 GAP = 0.7  # aire entre secciones
 def dur(f): return float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', f]))

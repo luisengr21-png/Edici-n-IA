@@ -1,5 +1,5 @@
 {
- "duration": 388.56,
+ "duration": 391.44,
  "partes": [
   [
    "largo_00_gancho_A",
@@ -14,28 +14,28 @@
    97.14
   ],
   [
-   "largo_03_puedes_ser_A",
+   "largo_03_puedes_ser_E",
    147.39
   ],
   [
    "largo_04_meritocracia_a_A",
-   204.7
+   204.54
   ],
   [
-   "largo_05_meritocracia_b_B",
-   247.04
+   "largo_05_meritocracia_b_E",
+   246.88
   ],
   [
-   "largo_06_salidas_a_B",
-   293.38
+   "largo_06_salidas_a_C",
+   293.79
   ],
   [
    "largo_07_salidas_b_A",
-   311.47
+   314.37
   ],
   [
    "largo_08_cierre_B",
-   356.61
+   359.51
   ]
  ]
 }

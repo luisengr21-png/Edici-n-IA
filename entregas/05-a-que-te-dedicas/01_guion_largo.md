@@ -74,7 +74,7 @@ La próxima vez que veas a alguien manejando un Ferrari, no pienses "qué tipo t
 
 [TENSO] Pero hazte esta pregunta: ¿qué pasa si, con todas esas puertas abiertas… no llegas? [PAUSA] Si tenías todo para llegar a la cima y no lo lograste, ¿de quién es la culpa?
 
-Entra a la sección de autoayuda de cualquier librería. Vas a encontrar dos tipos de libros. [MÁS RÁPIDO] Unos dicen: "Triunfa en quince minutos", "Hazte millonario de la noche a la mañana". [PAUSA] Y justo al lado, otros dicen: [MÁS LENTO] "Cómo lidiar con la baja autoestima".
+Entra a la sección de autoayuda de cualquier librería. Vas a encontrar dos tipos de libros. Unos dicen: "Triunfa en quince minutos", "Hazte millonario de la noche a la mañana". [PAUSA] Y justo al lado, otros dicen: [MÁS LENTO] "Cómo lidiar con la baja autoestima".
 
 No es casualidad: son dos caras de la misma moneda.
 
@@ -96,7 +96,7 @@ Si de verdad crees que los que están arriba se ganaron su lugar… entonces tam
 
 [ÉNFASIS: Ahí] está la trampa. La meritocracia no solo hace que la pobreza se vea desagradable. Hace que parezca merecida.
 
-[SORPRENDIDO] Mira cómo ha cambiado el lenguaje. En la Inglaterra medieval, a los pobres se les llamaba "desafortunados": gente a la que la diosa Fortuna no había bendecido. [VERIFICAR] [PAUSA] Hoy, sobre todo en Estados Unidos, se les dice de otra forma: [ENOJADO] "perdedores".
+Mira cómo ha cambiado el lenguaje. En la Inglaterra medieval, a los pobres se les llamaba "desafortunados": gente a la que la diosa Fortuna no había bendecido. [VERIFICAR] [PAUSA] Hoy, sobre todo en Estados Unidos, se les dice de otra forma: [MÁS LENTO] "perdedores".
 
 Ya casi nadie cree en la suerte. [TONO IRÓNICO] Intenta decir en una entrevista que te despidieron por mala suerte… a ver qué cara ponen.
 
@@ -110,7 +110,7 @@ Entonces, ¿cómo salimos de esto?
 
 ## SECCIÓN 5 · "Tres salidas" · 5:11 – 6:22
 
-[MÁS RÁPIDO] Aquí van tres ideas. Y la tercera es la más importante.
+Aquí van tres ideas. Y la tercera es la más importante.
 
 Uno: [PAUSA] no te creas del todo el cuento de la meritocracia. La suerte y mil accidentes siguen decidiendo dónde terminas. [MÁS LENTO] Así que no trates a nadie —ni siquiera a ti— como si mereciera por completo el lugar donde está.
 
