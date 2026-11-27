@@ -8,7 +8,7 @@
 - La palabra que se dice va en color de acento, sobre texto blanco con contorno oscuro.
 - Van entre el 61 % y el 68 % de la altura, fuera de los botones de YouTube.
 
-**Recursos:** se reutilizan los del video largo, con los mismos nombres de archivo de `06_recursos.md`. Los textos e íconos los hago yo.
+**Recursos:** se reutilizan los del video largo, con los mismos nombres de archivo de `06_recursos.md`. **Estilo collage**, igual que el largo (recortes tipo estampa, tarjetas, sellos y notas a mano). Los textos, sellos y dibujitos los hago yo.
 
 **Miniatura:** una portada diseñada por short, con el estilo del video. Se entrega en la Fase 2.
 
@@ -33,14 +33,14 @@ Cada short funciona solo, sin haber visto el video largo, y cierra con una frase
 
 **Palabras:** 80 · **Duración estimada:** unos 33 s
 
-| Tiempo | Visual | Recursos (del largo) | Texto arriba |
+| Tiempo | Qué se ve (estilo collage, vertical) | Recursos (del largo) | Texto arriba |
 |---|---|---|---|
-| 0:00–0:04 | `VIDEO` El hombre de los volantes | `escena_003.mp4` | `texto_short1` «¿EMPLEADO?» |
-| 0:04–0:10 | `VIDEO` Las Vegas de día → tragamonedas | `escena_001.mp4`, `escena_028.mp4` | — |
-| 0:10–0:15 | `ÍCONOS` Gráfica con palomita | `icono_grafica`, `icono_palomita` | — |
-| 0:15–0:20 | `VIDEO` Contadora de billetes → flor que se marchita | `escena_033.mp4`, `escena_034.mp4` | — |
-| 0:20–0:28 | `TEXTO` «SUBEMPLEO» → oficinista aburrido | `escena_020.mp4` | — |
-| 0:28–0:32 | `2D` «Tú» sorprendido | — | — |
+| 0:00–0:04 | Recorte del hombre de los volantes sobre papel oscuro; los volantes salen volando | `recorte_002.png` | «¿EMPLEADO?» (lo hago yo) |
+| 0:04–0:10 | Tarjeta de Las Vegas → estampas de la pirámide del casino y la tragamonedas | `escena_001.mp4`, `recorte_014_b.png`, `recorte_025_a.png` | — |
+| 0:10–0:15 | Gráfica dibujada que baja y sello «¡BUENA NOTICIA!» | — | — |
+| 0:15–0:20 | Montaña de billetes con el hombre arriba → flor marchita | `ilustracion_016.png`, `recorte_015.png` | — |
+| 0:20–0:28 | Diccionario: «SUBEMPLEO» en caja roja, definición tachada y reescrita | `recorte_010.png` | — |
+| 0:28–0:33 | Espacio con estrellas; el hombre flota y aparece «ningún gobierno lo mide» a mano | `recorte_002.png` | — |
 
 ---
 
@@ -59,14 +59,14 @@ Cada short funciona solo, sin haber visto el video largo, y cierra con una frase
 
 **Palabras:** 76 · **Duración estimada:** unos 32 s
 
-| Tiempo | Visual | Recursos (del largo) | Texto arriba |
+| Tiempo | Qué se ve (estilo collage, vertical) | Recursos (del largo) | Texto arriba |
 |---|---|---|---|
-| 0:00–0:06 | `VIDEO` Cigarros → serie de noche → `FOTO` galletas | `escena_036.mp4`, `escena_037.mp4`, `foto_041.jpg` | `texto_short2` «¿PARA QUÉ SIRVE?» |
-| 0:06–0:11 | `VIDEO` Multitud a la hora pico | `escena_043.mp4` | — |
-| 0:11–0:16 | `VIDEO` Flor que se marchita | `escena_034.mp4` | — |
-| 0:16–0:21 | `FOTO` Pagando las cuentas | `foto_045.jpg` | — |
-| 0:21–0:27 | `VIDEO` Enfermera ayudando a un paciente | `escena_048.mp4` | — |
-| 0:27–0:32 | `VIDEO` Manos plantando un brote; cierra «Tú» con esperanza | `escena_049.mp4` | — |
+| 0:00–0:06 | Estampas en fila: cigarros, control de la tele, galletas | `recorte_017_a.png`, `recorte_017_b.png`, `recorte_017_d.png` | «¿PARA QUÉ SIRVE?» (lo hago yo) |
+| 0:06–0:11 | Tarjeta con la multitud a la hora pico | `escena_018.mp4` | — |
+| 0:11–0:16 | Flor marchita con «bienestar: 0» a mano | `recorte_015.png` | — |
+| 0:16–0:21 | Tarjeta: pagando las cuentas, con las llaves | `foto_019.jpg`, `recorte_019.png` | — |
+| 0:21–0:27 | Tarjeta: enfermera ayudando a un paciente | `escena_021.mp4` | — |
+| 0:27–0:32 | Manos con un brote; cierra «Tú» con esperanza | `recorte_021.png` | — |
 
 ---
 
@@ -85,14 +85,14 @@ Cada short funciona solo, sin haber visto el video largo, y cierra con una frase
 
 **Palabras:** 69 · **Duración estimada:** unos 30 s
 
-| Tiempo | Visual | Recursos (del largo) | Texto arriba |
+| Tiempo | Qué se ve (estilo collage, vertical) | Recursos (del largo) | Texto arriba |
 |---|---|---|---|
-| 0:00–0:04 | `FOTO` Edificio de gobierno | `foto_052.jpg` | `texto_short3` «¿BUENA O MALA?» |
-| 0:04–0:09 | `VIDEO` Centro comercial lleno | `escena_054.mp4` | — |
-| 0:09–0:13 | `ÍCONOS` La flecha que baja con la palomita | `icono_flecha_baja`, `icono_palomita` | — |
-| 0:13–0:19 | `VIDEO` Tragamonedas → niña aprendiendo piano | `escena_028.mp4`, `escena_059.mp4` | — |
-| 0:19–0:25 | `VIDEO` Amigos cocinando juntos | `escena_063.mp4` | — |
-| 0:25–0:30 | `VIDEO` Maestra con sus alumnos; cierra «Tú» sonriendo | `escena_066.mp4` | — |
+| 0:00–0:04 | Pintura de la asamblea con la palanca gigante | `pintura_023.jpg`, `recorte_023.png` | «¿BUENA O MALA?» (lo hago yo) |
+| 0:04–0:09 | Tarjeta del centro comercial y bolsas que caen | `escena_024.mp4`, `recorte_024_a.png` | — |
+| 0:09–0:13 | Gráfica dibujada que baja con palomita | — | — |
+| 0:13–0:19 | Balanza: tragamonedas contra niña tocando el piano | `recorte_025_a.png`, `recorte_025_b.png` | — |
+| 0:19–0:25 | Tarjeta: amigos cocinando juntos | `escena_027_a.mp4` | — |
+| 0:25–0:30 | Tarjeta: maestra con sus alumnos; cierra «Tú» sonriendo | `foto_028_b.jpg` | — |
 
 ---
 
