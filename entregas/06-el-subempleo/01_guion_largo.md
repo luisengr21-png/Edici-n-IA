@@ -32,7 +32,7 @@ Un hombre con chaleco brillante reparte volantes en la banqueta: "Pásele, hay a
 
 ## SECCIÓN 1 · "El titular que todos celebran" · 0:28 – 0:55
 
-[ALEGRE] "¡Bajó el desempleo!" Aunque sea poquito, suena a fiesta. Y está bien: [MÁS RÁPIDO] quiere decir que la economía se mueve, que hay más gente produciendo y que pronto habrá un poco más de dinero en los bolsillos.
+"Bajó el desempleo". [ALEGRE] Aunque sea poquito, suena a fiesta. Y está bien: [MÁS RÁPIDO] quiere decir que la economía se mueve, que hay más gente produciendo y que pronto habrá un poco más de dinero en los bolsillos.
 
 [PAUSA] [TENSO] Pero si le pedimos un poco más al potencial de las personas, el panorama se complica. Y se pone bastante más oscuro de lo que nos cuentan los gobiernos.
 

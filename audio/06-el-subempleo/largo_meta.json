@@ -1,33 +1,33 @@
 {
- "duration": 241.32,
+ "duration": 240.92,
  "partes": [
   [
    "largo_00_gancho_A",
    0.0
   ],
   [
-   "largo_01_titular_B",
+   "largo_01_titular_C",
    29.23
   ],
   [
    "largo_02_palabra_a_A",
-   51.63
+   51.24
   ],
   [
    "largo_03_palabra_b_A",
-   85.4
+   85.01
   ],
   [
    "largo_04_fondo_A",
-   130.77
+   130.38
   ],
   [
    "largo_05_truco_B",
-   155.43
+   155.04
   ],
   [
    "largo_06_indice_B",
-   199.36
+   198.97
   ]
  ]
 }

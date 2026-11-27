@@ -20,7 +20,7 @@ for f in sorted(glob.glob(os.path.join(TOMAS, '*.mp3')) + sys.argv[1:]):
         words = [[w.word.strip(), round(w.start, 2), round(w.end, 2)] for s in segs for w in s.words]
         json.dump(words, open(out, 'w'), ensure_ascii=False)
     words = json.load(open(out))
-    base = re.sub(r'_[AB]\.mp3$', '', os.path.basename(f))
+    base = re.sub(r'_[A-Z]\.mp3$', '', os.path.basename(f))
     txt = open(os.path.join(TTS, base + '.txt')).read()
     txt = re.sub(r'\[[^\]]*\]', ' ', txt)
     for k, v in NUM.items(): txt = txt.replace(k, v)

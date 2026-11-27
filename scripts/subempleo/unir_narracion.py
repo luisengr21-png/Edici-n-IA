@@ -3,7 +3,7 @@ Uso: python3 scripts/subempleo/unir_narracion.py"""
 import json, os, subprocess
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 A = os.path.join(ROOT, 'audio', '06-el-subempleo'); T = os.path.join(A, 'tomas')
-ELEGIDAS = ['largo_00_gancho_A', 'largo_01_titular_B', 'largo_02_palabra_a_A', 'largo_03_palabra_b_A', 'largo_04_fondo_A',
+ELEGIDAS = ['largo_00_gancho_A', 'largo_01_titular_C', 'largo_02_palabra_a_A', 'largo_03_palabra_b_A', 'largo_04_fondo_A',
             'largo_05_truco_B', 'largo_06_indice_B']
 SHORTS = {1: 'short_01_B', 2: 'short_02_A', 3: 'short_03_B'}
 GAP = 0.7  # aire entre secciones
