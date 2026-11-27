@@ -77,3 +77,4 @@ audio/06-el-subempleo/*.wav
 out/subempleo-*
 out/el-subempleo_*
 scripts/subempleo/__pycache__/
+out/subempleo-prueba*

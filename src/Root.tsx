@@ -33,6 +33,7 @@ import dedicasPlan from './dedicas/plan.json';
 import {DedicasShort} from './dedicas/Shorts';
 import dedicasShorts from './dedicas/shorts.json';
 import {DedicasMiniShort} from './dedicas/MiniShorts';
+import {PruebaCollage} from './estilo/PruebaCollage';
 import {Thumb2 as BurnoutThumb2, Thumb3Opt as BurnoutThumb3Opt} from './burnout/Thumbs2';
 
 export const Root: React.FC = () => (
@@ -131,6 +132,7 @@ export const Root: React.FC = () => (
     {[1, 2, 3].map((n) => (
       <Composition key={`dm${n}`} id={`AQueTeDedicasMiniaturaShort${n}`} component={DedicasMiniShort} defaultProps={{n}} durationInFrames={1} fps={30} width={1080} height={1920} />
     ))}
+    <Composition id="PruebaEstiloCollage" component={PruebaCollage} durationInFrames={Math.round(29.6 * 30)} fps={30} width={1920} height={1080} />
     <Composition id="AQueTeDedicas" component={DedicasVideo} durationInFrames={Math.max(1, Math.round(dedicasPlan.duration * 30))} fps={30} width={1920} height={1080} />
     {(dedicasShorts as any[]).map((s) => (
       <Composition key={`d${s.id}`} id={`AQueTeDedicas${s.id}`} component={DedicasShort} defaultProps={{id: s.id}} durationInFrames={Math.round(s.duration * 30)} fps={30} width={1080} height={1920} />
