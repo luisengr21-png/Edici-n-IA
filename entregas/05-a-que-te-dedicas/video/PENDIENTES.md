@@ -13,6 +13,7 @@
   - La del noble a caballo (Rubens) la recorté por arriba para dejar fuera las figuras de abajo.
   - Los demás son los videos y fotos que ya me habías mandado.
 - **Capítulos:** solo cambió el último, que ahora empieza en el 5:59 (ya está corregido en `05_titulos_y_descripcion.md`).
+- **Alta calidad** (138 MB), en tu Drive: https://drive.google.com/file/d/1ZNgQRn3AK11Oz4AP_Jm-7AaW1BYsmHwO/view
 - **Shorts:** siguen en el estilo anterior. Si quieres, también los paso al collage.
 
 ---
