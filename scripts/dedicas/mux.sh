@@ -36,6 +36,20 @@ if [[ $QUE == audio ]]; then
   exit 0
 fi
 
+# collage: la versión nueva del video en el estilo collage (GitHub ≈ 90 MB y copia en alta calidad en out/).
+if [[ $QUE == collage ]]; then
+  V=out/dedicas-collage-mudo.mp4; T=$(dur "$V")
+  voz $AUD/largo_narracion_completa.wav "$T" out/dedicas-collage-voz.m4a
+  P=$(mktemp -d)
+  VB=$(python3 -c "print(int(90e6*8/$T/1000 - 165))")
+  ffmpeg -y -hide_banner -loglevel error -i "$V" -c:v libx264 -preset slow -tune film -b:v ${VB}k -maxrate $((VB * 3))k -bufsize $((VB * 4))k -pix_fmt yuv420p -pass 1 -passlogfile $P/p -an -f mp4 /dev/null
+  ffmpeg -y -hide_banner -loglevel error -i "$V" -i out/dedicas-collage-voz.m4a -map 0:v:0 -map 1:a:0 -c:v libx264 -preset slow -tune film -b:v ${VB}k -maxrate $((VB * 3))k -bufsize $((VB * 4))k -pix_fmt yuv420p -pass 2 -passlogfile $P/p -c:a copy -movflags +faststart -t "$T" "$OUT/a-que-te-dedicas.mp4"
+  rm -rf $P
+  ffmpeg -y -hide_banner -loglevel error -i "$V" -i out/dedicas-collage-voz.m4a -map 0:v:0 -map 1:a:0 -c:v libx264 -preset faster -crf 18 -pix_fmt yuv420p -c:a copy -movflags +faststart -t "$T" out/a-que-te-dedicas_collage_alta-calidad.mp4
+  echo "collage: $OUT/a-que-te-dedicas.mp4 (video ${VB} kbps) y out/a-que-te-dedicas_collage_alta-calidad.mp4"
+  exit 0
+fi
+
 if [[ $QUE == alta ]]; then
   V=out/dedicas-mudo.mp4; T=$(dur "$V")
   [ -s out/dedicas-voz.m4a ] || voz $AUD/largo_narracion_completa.wav "$T" out/dedicas-voz.m4a

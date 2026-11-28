@@ -95,6 +95,7 @@ def generar(ent, rows_file, transcript, titulo, nota_recursos='', reutilizables=
         a['start'] = 0.0 if a is scenes[0] else max(0.0, tw[a['idx']] - 0.12)
         a['end'] = (tw[b['idx']] - 0.12) if b else END
         a['end_idx'] = b['idx'] if b else len(words)
+        a['wt'] = [(words[k], tw[k]) for k in range(a['idx'], a['end_idx'])]
 
     def fmt(s): return f"{int(s // 60)}:{int(s % 60):02d}"
     def frag(a, b):
