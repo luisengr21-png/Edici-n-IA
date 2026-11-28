@@ -78,3 +78,4 @@ out/subempleo-*
 out/el-subempleo_*
 scripts/subempleo/__pycache__/
 out/subempleo-prueba*
+scripts/estilo/__pycache__/
