@@ -1,5 +1,22 @@
 # Pendientes · ¿A qué te dedicas? (Fase 2)
 
+## Versión nueva en estilo collage (28 nov)
+
+`a-que-te-dedicas.mp4` ya es la **versión en estilo collage** (la anterior queda en el historial de GitHub y en tu Drive).
+
+- **Duración:** 6:43 (6:31 de voz más 12 s de pantalla final, con el lado derecho libre para YouTube).
+- **Voz:** las cuatro frases que pediste más tranquilas («Triunfa en quince minutos…», «Mira cómo ha cambiado el lenguaje», «perdedores» y «Aquí van tres ideas…»). Volumen: −14.2 LUFS, picos de −2.6 dB.
+- **51 escenas:**
+  - recortes tipo estampa, tarjetas, sellos, notas a mano, flechas y dibujitos, todos sincronizados con la voz;
+  - nunca el mismo fondo ni la misma transición en dos escenas seguidas.
+- **Recursos nuevos tuyos:** 8 recortes (les quité el fondo yo), 2 ilustraciones y 2 pinturas.
+  - La del noble a caballo (Rubens) la recorté por arriba para dejar fuera las figuras de abajo.
+  - Los demás son los videos y fotos que ya me habías mandado.
+- **Capítulos:** solo cambió el último, que ahora empieza en el 5:59 (ya está corregido en `05_titulos_y_descripcion.md`).
+- **Shorts:** siguen en el estilo anterior. Si quieres, también los paso al collage.
+
+---
+
 ## Entregado
 
 | Archivo | Formato | Duración |

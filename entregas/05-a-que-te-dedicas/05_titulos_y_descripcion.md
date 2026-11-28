@@ -45,7 +45,7 @@ Al final te dejo tres ideas para que esa pregunta ya no te encoja el estómago �
 2:26 El peso de «puedes ser lo que quieras»
 3:24 La trampa de la meritocracia
 4:53 Tres salidas
-5:56 La pregunta, otra vez
+5:59 La pregunta, otra vez
 
 > Narración generada con IA (ElevenLabs). Imágenes y clips: material con licencia del creador.
 

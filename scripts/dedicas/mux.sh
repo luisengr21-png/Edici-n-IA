@@ -22,7 +22,7 @@ voz() { # voz <entrada> <duración> <salida.m4a>
   mlra=$(echo "$J" | python3 -c "import sys,json;print(json.load(sys.stdin)['input_lra'])")
   mth=$(echo "$J" | python3 -c "import sys,json;print(json.load(sys.stdin)['input_thresh'])")
   off=$(echo "$J" | python3 -c "import sys,json;print(json.load(sys.stdin)['target_offset'])")
-  ffmpeg -y -hide_banner -loglevel error -i "$1" -af "apad,atrim=0:$2,aresample=48000,aformat=channel_layouts=stereo,loudnorm=I=-14:TP=-1.5:LRA=11:measured_I=$mi:measured_TP=$mtp:measured_LRA=$mlra:measured_thresh=$mth:offset=$off:linear=true,aresample=192000,alimiter=limit=0.72:level=false:attack=1:release=60,aresample=48000" -c:a aac -b:a 160k -ar 48000 "$3"
+  ffmpeg -y -hide_banner -loglevel error -i "$1" -af "apad,atrim=0:$2,aresample=48000,aformat=channel_layouts=stereo,loudnorm=I=-14:TP=-1.5:LRA=11:measured_I=$mi:measured_TP=$mtp:measured_LRA=$mlra:measured_thresh=$mth:offset=$off:linear=true,aresample=192000,alimiter=limit=0.55:level=false:attack=1:release=60,aresample=48000" -c:a aac -b:a 160k -ar 48000 "$3"
 }
 
 if [[ $QUE == audio ]]; then
